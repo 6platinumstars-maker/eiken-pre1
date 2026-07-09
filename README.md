@@ -1,52 +1,56 @@
 # 英検準1級 Mobile
 
-`duo-mobile` を土台にした、英検準1級単語学習用のモバイル Web アプリの作業領域です。
+英検準1級の語彙学習向けに作っている、モバイル中心の静的 Web アプリです。
 
-## 目的
+GitHub repository:
+`https://github.com/6platinumstars-maker/eiken-pre1`
 
-- 単語数: 1900
-- Section 数: 19
-- 学習 UI: `duo-mobile` とほぼ同じ構成
-- データ投入元: スキャン取り込み内容
+GitHub Pages:
+`https://6platinumstars-maker.github.io/eiken-pre1/`
 
-## 現在の仕様
+## できること
 
-- 画面モードは `例文` と `単語` の 2 つ
+- Section を切り替えて学習できる
+- `例文` モードで英語例文を確認できる
+- 例文に関連する単語カードを見られる
+- `単語` モードで意味から英単語を答える練習ができる
+- 4択モードで復習できる
+- チェック状態や学習状態を `localStorage` に保存できる
+
+## 画面構成
+
 - `例文`
-  - 最初は英語例文のみ表示
-  - タップで日本語訳と単語カードを表示
+  - 例文を順送りで確認
+  - 対応する単語カードを表示
 - `単語`
-  - チェック済み単語のみ表示
-  - 最初は英単語のみ表示
-  - タップで訳・補足情報・例文・和訳を表示
-  - さらにタップでチェック解除して次の単語へ進む
-- 音声ボタンは UI から削除済み
-- チェック状態は `localStorage` で保持
+  - 意味を見て英単語を答える
+  - 答え表示、前後移動、全チェック操作が可能
+  - 4択モードの切り替えに対応
 
-## ディレクトリ構成
+## ファイル構成
 
 - `index.html`
   - アプリ本体
 - `css/style.css`
   - スタイル
 - `js/app.js`
-  - 画面制御と localStorage 管理
+  - 画面制御、学習状態保存、4択処理
 - `data/section01.js` 〜 `data/section19.js`
-  - Section ごとの例文・単語データ雛形
+  - Section ごとの例文・単語データ
 - `mp3/en`
-  - 英語音声置き場（現在の UI では未使用）
+  - 英語音声置き場
 - `mp3/jp`
-  - 日本語音声置き場（現在の UI では未使用）
+  - 日本語音声置き場
 - `mp3/5en`
-  - 5連結英語音声置き場（現在の UI では未使用）
+  - 連結音声置き場
 - `source/scans`
-  - 元スキャン画像・PDF置き場
+  - 元スキャン画像・PDF
 - `source/ocr`
-  - OCR テキスト置き場
+  - OCR テキスト
 - `scripts`
-  - 加工用スクリプト置き場
+  - データ加工用スクリプト
 
-## section データ雛形
+## データ形式
 
 各 `data/sectionXX.js` は次の形です。
 
@@ -61,22 +65,65 @@ window.SECTIONS["sec01"] = {
 };
 ```
 
-`sentences` と `vocab` に、スキャン取り込み後の整形データを入れていく想定です。
+### `sentences`
 
-## データ入力ルール
+- `sid`
+- `english`
+- `japanese`
+- `vocabRefs`
 
-- `sentences`
-  - 例文 1 件ごとに `sid`, `english`, `japanese`, `vocabRefs` を持たせる
-- `vocab`
-  - 単語 1 件ごとに `vid`, `word`, `ipa`, `meaning`, `extraInfo`, `usedIn`, `tags` を持たせる
-- `source/ocr`
-  - スキャンから転記した作業メモを範囲ごとに保存する
-  - ファイル名は `sectionNN_XXXX_YYYY.txt` を基本形とする
+### `vocab`
 
-## 補足記法
+- `vid`
+- `word`
+- `ipa`
+- `meaning`
+- `extraInfo`
+- `usedIn`
+- `tags`
 
-- `extraInfo` 内の `[= ...]`
-  - 同義語・近い意味
-- `extraInfo` 内の `[⇔ ...]`
-  - 反対語
-- OCR 由来のゆれや誤字が入りやすいため、意味上おかしい `=` / `⇔` は随時見直す
+## ローカルで開く方法
+
+このアプリは静的サイトなので、まずは `index.html` をブラウザで開けば動作確認できます。
+
+```bash
+cd /home/ps/eiken-jun1-mobile
+xdg-open index.html
+```
+
+## GitHub へ更新を反映する
+
+```bash
+cd /home/ps/eiken-jun1-mobile
+git add .
+git commit -m "更新内容"
+git push
+```
+
+## GitHub Pages の公開設定
+
+GitHub の公式ドキュメントでは、静的サイトでビルド工程が不要な場合は `Deploy from a branch` を使い、公開元にブランチとフォルダを指定する方法が案内されています。
+
+このリポジトリでは次の設定で公開できます。
+
+1. GitHub の `eiken-pre1` リポジトリを開く
+2. `Settings`
+3. 左メニューの `Pages`
+4. `Build and deployment` の `Source` を `Deploy from a branch` にする
+5. `Branch` を `main`
+6. フォルダを `/(root)`
+7. `Save`
+
+公開後の URL:
+`https://6platinumstars-maker.github.io/eiken-pre1/`
+
+反映には数分かかることがあります。
+
+参考:
+- https://docs.github.com/en/pages/quickstart
+- https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+## 補足
+
+- `source/ocr` や `source/scans` もリポジトリに含まれています
+- GitHub Pages は公開サイトなので、外に出したくないファイルは今後コミットしない運用がおすすめです
