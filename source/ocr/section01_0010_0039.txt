@@ -1,0 +1,208 @@
+Section 1
+見出し語番号 0010-0039
+
+0010 present [prizént]
+を提示する、を進呈する [= give, submit]
+出席している [≠ absent]、現在の
+Example:
+The team used a number of slides to present the data to the audience.
+そのチームはいくつかのスライドを使って聴衆にデータを提示した。
+
+0011 fire [fáiər]
+を解雇する (for ～で)、を首にする [= dismiss, discharge]
+Example:
+The sales clerk was fired for stealing money from the cash register.
+その販売員はレジから金を盗んだことで解雇された。
+
+0012 regard [rigɑ́ːrd]
+を見なす (as ～と)
+配慮、思いやり
+Example:
+She is regarded as one of the leading economists in the country.
+彼女はその国の一流のエコノミストの1人だと考えられている。
+
+0013 fine [fáin]
+に罰金を科す (for ～のかどで)
+Example:
+The government plans to fine companies that break the new environmental regulations.
+政府は新しい環境規制に従わない企業に罰金を科すことを計画している。
+
+0014 transfer [trænsfə́ːr]
+を移す、移る [= move]
+移転、移動
+Example:
+Once we receive the items, we will transfer payment into your account.
+商品を受け取りしだい、あなたの口座に支払いを送金します。
+
+0015 decline [dikláin]
+減少する、衰える
+丁重に断る [= turn down]
+Example:
+The number of tourists visiting the area has declined in recent years.
+その地域を訪れる旅行者の数は、近年減少した。
+
+0016 eliminate [ilímənèit]
+を取り除く、を外す
+elimination
+Example:
+The new office security system has eliminated the need for ID cards.
+職場の新しいセキュリティーシステムのおかげで、IDカードは必要なくなった。
+
+0017 indicate [índikèit]
+を指し示す [= point to]
+indicator, indication, indicative
+Example:
+He picked up a train map and indicated the best route.
+彼は鉄道路線図を取り上げて、一番よい行き方を指し示した。
+
+0018 ensure [inʃúər]
+(ensure that ... で) ...ということを確実にする
+を保証する [= make sure, guarantee, assure]
+cf. insure 保険をかける
+Example:
+Please ensure that you lock the door when you leave the house.
+家を出るときは必ずドアに鍵をかけるようにしてください。
+
+0019 expand [ikspǽnd]
+を拡大する、広げる [= enlarge, extend, amplify]
+expansion, expandable
+Example:
+The company plans to expand its market to include the Far East.
+その会社は販売地域を広げて、極東も取り込むことを計画している。
+
+0020 address [ədrés]
+（問題などを）扱う [= deal with]、に話しかける [= speak to]
+住所、演説
+Example:
+The first problem to be addressed is that of inner-city pollution.
+第一に取り組むべき問題は、都心部の汚染問題である。
+
+0021 identify [aidéntəfài]
+を（同一であると）確認する [= recognize]
+identification, identity
+Example:
+The police are still trying to identify the body found on the mountain.
+警察は今なお、山で見つかった死体の身元確認を進めている。
+
+0022 construct [kənstrʌ́kt]
+（建物などを）建設する、（機械などを）組み立てる [= build]
+construction
+Example:
+No one really knows how Stonehenge was constructed.
+ストーンヘンジがどのように建設されたのかは誰にも分からない。
+
+0023 invest [invést]
+（金などを）投資する (in ～に)
+investment, investor
+Example:
+The couple invested their life savings in their son's company.
+その夫婦は、息子の会社にそれまで貯めてきたお金を投資した。
+
+0024 obtain [əbtéin]
+を手に入れる、を獲得する [= get, gain]
+Example:
+When preparing to study abroad, it can take some time to obtain a visa.
+海外留学の準備をする際、ビザを取得するのに少し時間がかかる可能性がある。
+
+0025 struggle [strʌ́gl]
+懸命に努力する、奮闘する [= try]
+Example:
+The restaurant struggled to make money during the recession.
+そのレストランは不況の中、収入を得ようと懸命に努力した。
+
+0026 counter [káuntər]
+(counter that ... で) ...と反論する、に反対する [= oppose]
+Example:
+I tried to explain the drawbacks, but he countered that it was a good plan.
+私は欠点を説明しようとしたが、彼はそれはよい計画だと言って反論した。
+
+0027 associate [əsóuʃièit]
+を結びつけて考える (with ～と) [= link, connect]
+交際する [= socialize]
+Example:
+I always associate the smell of mosquito coils with summer.
+私はいつも蚊取り線香のにおいから夏を連想する。
+
+0028 register [rédʒistər]
+を登録する [= record]、を示す [= indicate]
+名前を登録する [= enroll]
+Example:
+He went to the ward office to register the birth of his baby son.
+彼は息子の出生届けを出すために区役所に行った。
+
+0029 reveal [rivíːl]
+(reveal that ... で) ...を明らかにする
+（秘密などを）暴露する [= disclose]
+Example:
+The survey revealed that most people were dissatisfied with the childcare options in their town.
+調査により、ほとんどの人々が町の保育の選択肢に不満であることが明らかになった。
+
+0030 species [spíːʃiːz]
+種、種類 [= kind]
+Example:
+The scientist discovered a new species of beetle in the jungle.
+その科学者はジャングルでカブトムシの新種を発見した。
+
+0031 diet [dáiət]
+（日常の）食べ物、食事、療養食
+go on a diet ダイエットをする
+Example:
+The doctors advised him to add more fruit and vegetables to his diet.
+医師たちは彼の食事にもっと果物と野菜を加えるように勧めた。
+
+0032 site [sáit]
+用地、場所、遺跡
+construction site 建設現場
+historic site 史跡
+Example:
+We are looking for an appropriate site for our new factory.
+我々は新しい工場に適した用地を探している。
+
+0033 cell [sél]
+細胞、独房、電池
+cellular
+cf. cellphone 携帯電話
+Example:
+The medical students looked at blood cells with a microscope.
+医学生たちは、顕微鏡を使って血液細胞を見た。
+
+0034 facility [fəsíləti]
+施設、設備、才能
+facilitate を促進する
+Example:
+The new sports facility will be open to the public by the middle of next week.
+新しいスポーツ施設は来週の半ばまでに一般に公開される。
+
+0035 practice [prǽktis]
+（社会の）慣習、しきたり、練習、実践
+Example:
+The job candidate said he was familiar with local business practices.
+その仕事への応募者は地元のビジネス慣行に精通していると言った。
+
+0036 resident [rézidənt]
+居住者 [= inhabitant, dweller]
+reside, residence, residential
+Example:
+Only residents of the ward can use its public facilities for free.
+その区の住民だけが、無料で区の公共施設を使用することができる。
+
+0037 option [άpʃən]
+選択肢、選択（の自由）
+optional, opt
+Example:
+We have two options: we can wait here or we can go.
+私たちには二つの選択肢がある。ここで待ってもいいし、行ってしまってもいい。
+
+0038 organ [ɔ́ːrgən]
+（動植物の）臓器、器官
+organ donor, organ transplant
+Example:
+The medical students studied the effect of smoking on organs such as the heart and lungs.
+医学生は喫煙の心臓や肺などの臓器への影響について研究した。
+
+0039 critic [krítik]
+批評する人、批評家
+criticize, critical, criticism
+Example:
+Critics of the new tax law say it is unfair to those with lower incomes.
+新しい税法を批判する人たちは、それは低所得者には不公平だと言う。

@@ -1,0 +1,29 @@
+0868 verbal / 口頭での、言葉の / We made a verbal agreement to deliver the product by April 1. / 我々は4月1日までに製品を届けるという口頭による合意をした。
+0869 weary / 疲れ果てた、うんざりした / The firefighters were weary at the end of the long night. / 消防士たちは長い夜の終わりには疲れ果てていた。
+0870 equivalent / 相当する、同等の / One mile is equivalent to about 1.6 kilometers. / 1マイルは約1.6キロメートルに相当する。
+0871 intense / 極度の、激しい / The intense cold last night caused the pond to freeze over. / 昨夜の強烈な寒さのせいで池一面に氷が張った。
+0872 consecutive / 連続した / She has been world champion eight consecutive times. / 彼女は今までに8回連続で世界チャンピオンになっている。
+0873 noticeable / 著しい、目立つ / There has been a noticeable improvement in the patient's health recently. / その患者の健康状態は最近、著しい改善を見せている。
+0874 crucial / 重大な、決定的な / This is a crucial decision which will affect millions of people. / これは何百万人もの人々に影響を与える重大な決定だ。
+0875 electrical / 電気の、電気を扱う / Several electrical engineers worked all night to repair the power cables. / 数名の電気技師が電力ケーブルを修理するため夜通し働いた。
+0876 steep / 急な / We climbed the steep slope up to the hotel. / 我々はホテルまで急な坂を上った。
+0877 civil / 民間の、一般市民の / The police arrested several civil rights activists during the demonstration. / 警察はデモの最中に数名の公民権運動家を逮捕した。
+0878 supreme / 最高の、至高の / The Supreme Court of the United States is the highest court in the country. / 合衆国最高裁判所は、国の最高裁である。
+0879 elite / えり抜きの、エリートの / Unlike many of his friends, the company CEO did not go to an elite university. / 多くの友人とは異なり、その企業の最高経営責任者は一流大学に行かなかった。
+0880 broad / 幅の広い、広範囲な / This university offers a broad range of courses including medicine and law. / この大学は医学と法学を含む幅広い講座を提供している。
+0881 industrial / 産業の、工業の / The industrial revolution took place from the 18th century up until the 19th century. / 産業革命は、18世紀から19世紀にかけて起きた。
+0882 allied / 連合の、同盟を結んだ / Allied troops bombed the historical city during the war. / 連合軍は戦時中その歴史ある都市を爆撃した。
+0883 external / 外部の、外（側）の / The government denied they had changed the immigration policy due to external pressure. / 政府は、外部からの圧力によって移民政策を変更したことを否定した。
+0884 mere / ほんの、単なる / A mere three people out of thousands were found to be infected with the virus. / 数千人の中のほんの3人だけがそのウイルスに感染していることが判明した。
+0885 latter / 後半の、後の方の / The weather should get better in the latter part of the week. / 週の後半には天気はよくなるはずだ。
+0886 presidential / 大統領の / The next presidential election will take place at the end of next year. / 次期大統領選挙は来年末に行われる。
+0887 ethical / 倫理（上）の、道徳の / Some consumers are against testing cosmetics on animals for ethical reasons. / 一部の消費者は倫理上の理由から、動物への化粧品の試験に反対している。
+0888 realistic / 現実的な、実際的な / It is not realistic to expect our employees to work every weekend. / 従業員が毎週末働くのを期待するのは現実的ではない。
+0889 harmless / 害のない / Although this spider looks scary, it is actually harmless. / このクモは見た目は恐ろしいが、実際には無害である。
+0890 underlying / 潜在的な、根本的な / The professor explained the underlying reasons for the growth in crime. / その教授は犯罪増加の光に深く関する理由を説明した。
+0891 urgent / 緊急の、切迫した / I received an urgent phone call from the hospital saying my wife had been in an accident. / 私は妻が事故に巻き込まれたという緊急の電話を病院から受けた。
+0892 complimentary / 無料の、賞賛する / The hotel staff informed me that breakfast, Wi-Fi, and parking are complimentary during my stay. / 滞在中は朝食、Wi-Fi、駐車場が無料だとホテルの従業員が教えてくれた。
+0893 eager / 熱望して、熱心な / The medical students were very eager to start treating patients. / その医学生たちは患者の治療を始めたいことでとても熱望していた。
+0894 loudly / 大声で、騒々しく / I could hear some people singing loudly on the street outside my house. / 私には自宅の外の通りで数人が大声で歌っているのが聞こえた。
+0895 accordingly / それ相応に、従って / He is the most popular comedian in the UK and is paid accordingly. / 彼はイギリスで最も人気のあるコメディアンなので、それ相応の報酬が支払われている。
+0896 occasionally / ときどき / I occasionally go out for dinner with my friends from college. / 私はときどき大学時代からの友人と一緒に夕食に出かける。

@@ -1,0 +1,337 @@
+Section 1
+見出し語番号 0040-0088
+
+0040 region [ríːdʒən]
+地域、地方 [= area]
+regional
+Example:
+California is located in the western region of the United States.
+カリフォルニアは合衆国の西部地域に位置している。
+
+0041 tax [tæks]
+税金、税
+sales tax 売上税
+inheritance tax 相続税
+Example:
+The government announced that small businesses will be required to pay more taxes from next year.
+政府は、小企業は来年からより多くの税金を払う必要があると発表した。
+
+0042 access [ǽkses]
+接近（の手段）（to ～への）、利用の機会
+にアクセスする、に接近する
+accessible 近づきやすい、利用しやすい
+Example:
+Access to the main temple building was blocked.
+寺院の本堂へ向かう道は閉鎖されていた。
+
+0043 virus [váiərəs]
+ウイルス、ウイルス（性）疾患
+viral
+Example:
+This flu virus is not very strong and you should feel better soon.
+このインフルエンザウイルスはあまり強力ではないので、あなたの体調はすぐによくなるはずだ。
+
+0044 bill [bíl]
+請求書、法案、紙幣
+Example:
+For some reason, my gas bill is much higher than usual this month.
+何らかの理由で、今月はガスの請求額が通常よりもかなり高い。
+
+0045 evidence [évədəns]
+証拠、根拠、証言
+evident 明白な、はっきりした
+Example:
+There is little evidence to suggest that this treatment is effective against the virus.
+この治療法がそのウイルスに対して有効であることを示唆する証拠はほとんど存在しない。
+
+0046 attempt [ətémpt]
+試み、企て、努力
+を試みる、企てる
+Example:
+The firefighters made several attempts to rescue the residents from the burning building.
+消防士たちは燃えている建物から住民を救助しようと何度も試みた。
+
+0047 account [əkáunt]
+口座、勘定、説明
+accountant 会計士
+accounting 会計学
+Example:
+Only residents of the country are able to open a bank account.
+国内の居住者のみが銀行口座を開設することができる。
+
+0048 theory [θíəri]
+理論、原理、学説
+theoretical
+Example:
+When it comes to dancing, practice is more important than theory.
+ダンスに関して言えば、理論よりも実践が重要だ。
+
+0049 factor [fǽktər]
+要因、要素
+Example:
+The police said the accident was caused by a number of factors.
+警察はその事故はいくつかの要因によって引き起こされたと言った。
+
+0050 stock [stɑ́ːk]
+在庫品、蓄え、株式
+be in [out of] stock 在庫がある [ない]
+Example:
+These headphones are presently out of stock, but we are expecting a delivery early next week.
+このヘッドホンは現在在庫切れだが、来週初めには入荷予定だ。
+
+0051 chemical [kémikəl]
+化学薬品、薬物
+chemist, chemistry
+Example:
+This company produces chemicals for use in the plastic industry.
+この会社はプラスチック工業で使われる化学薬品を製造している。
+
+0052 media [míːdiə]
+マスメディア、マスコミ
+Example:
+There were many complaints about how the media reported on the incident.
+その事件に関するメディアの報道の仕方には多くの苦情があった。
+
+0053 income [ínkʌm]
+所得、収入
+income tax 所得税
+Example:
+The income of many people in this area is well below the national average.
+この地域の多くの人々の所得は国の平均をはるかに下回っている。
+
+0054 supply [səplái]
+生活必需品、供給、支給
+supplier
+Example:
+The aid workers delivered essential supplies to people affected by the storm.
+救助隊員は嵐の被害に遭った人々に不可欠な生活必需品を届けた。
+
+0055 shortage [ʃɔ́ːrtɪdʒ]
+不足、欠如
+short 足りない
+Example:
+Due to the aging population, there is likely to be a shortage of workers in the future.
+人口の高齢化が原因で、将来は労働者の不足が予想される。
+
+0056 poverty [pάvərti]
+貧困、欠乏
+poor
+Example:
+It is unacceptable that children should live in poverty in this country.
+この国で子供たちが貧困の中で暮らすのは受け入れ難い。
+
+0057 criminal [krímənl]
+犯人、犯罪者
+crime 犯罪
+Example:
+Criminals broke into the warehouse during the night and stole several items.
+犯人は夜間、その倉庫に侵入し、いくつかの商品を盗んだ。
+
+0058 budget [bʌ́dʒət]
+予算、経費
+budgetary
+Example:
+We have a budget of one million dollars for this movie.
+私たちには、この映画のための100万ドルの予算がある。
+
+0059 authority [əθɔ́ːrəti]
+当局、権威、権限者
+authorize
+Example:
+The authorities warned our city's mayor about the high levels of water pollution.
+当局者たちが水質汚染の高い水準に関して市長に警告した。
+
+0060 genome [dʒíːnoum]
+ゲノム
+genomic, genomics
+Example:
+After many years of work, scientists successfully decoded the human genome.
+長年の研究の結果、科学者たちはヒトゲノムの解読に成功した。
+
+0061 atmosphere [ǽtməsfìər]
+雰囲気、大気（圏）
+atmospheric
+Example:
+Toward the end of the game, the atmosphere in the stadium was very tense.
+試合が終盤にさしかかり、スタジアムの雰囲気は非常に緊張していた。
+
+0062 aid [éid]
+援助、助けとなる人
+を助ける、を手伝う
+Example:
+A number of NPOs provided aid to the refugees fleeing the war zone.
+いくつかの非営利組織が、交戦地帯から逃れる難民たちに援助を行った。
+
+0063 measure [méʒər]
+措置、程度、基準
+measurement
+Example:
+The government is planning to introduce measures to combat unemployment.
+政府は、失業をなくそうとするための措置を導入するつもりだ。
+
+0064 subject [sʌ́bdʒikt]
+被験者、主題、学科
+Example:
+The soldiers were the subjects of an experiment on stress.
+その兵士たちはストレスに関する実験の被験者だった。
+
+0065 decade [dékeid]
+10年間
+Example:
+Three decades ago, there were far fewer foreign tourists in Japan.
+30年前、日本には外国からの観光客がはるかに少なかった。
+
+0066 weapon [wépn]
+兵器、武器
+nuclear weapon 核兵器
+Example:
+It was discovered that the site had been used to store nuclear weapons.
+その敷地は核兵器を保管するために使用されていたことが分かった。
+
+0067 nutrient [njúːtriənt]
+栄養分、栄養になるもの
+nutrition, nutritious
+Example:
+There are a variety of nutrients that are essential for health.
+健康のために不可欠なさまざまな栄養分が存在する。
+
+0068 expense [ikspéns]
+費用、（必要）経費
+expend, expensive
+Example:
+University education is a major expense for most families.
+大学教育は、ほとんどの家庭で大きな出費になっている。
+
+0069 structure [strʌ́ktʃər]
+建造物、構造
+structural
+Example:
+The structure was very weak and had to be rebuilt.
+その建造物はとても脆弱だったので、建て直さねば必要だった。
+
+0070 adolescent [æ̀dəlésənt]
+青年期の人
+adolescence
+Example:
+The counselor's job is mainly to help adolescents with their problems.
+カウンセラーの仕事は、主に問題を抱える青年期の人々に手を差しのべることだ。
+
+0071 procedure [prəsíːdʒər]
+手順、手続き
+proceed, procedural
+Example:
+The procedure for applying for a passport is very simple.
+パスポートの申請手順はとても単純である。
+
+0072 minimum [mínəməm]
+最低限
+Example:
+I need a minimum of two weeks to finish this report.
+私はこの報告書を完成させるのに少なくとも2週間必要だ。
+
+0073 fuel [fjúːəl]
+燃料
+fossil fuel 化石燃料
+Example:
+When purchasing a car, it is better to choose a smaller model, which uses less fuel.
+車を購入するときは、使う燃料量がより少ない、より小さなモデルを選ぶ方がよい。
+
+0074 resource [ríːsɔːrs]
+資源、資金、財産
+natural resources, human resources
+Example:
+It is important to use our precious natural resources in a sustainable manner.
+貴重な天然資源を持続可能な方法で使うことは重要である。
+
+0075 regulation [règjəléiʃən]
+規則、規制
+regulate, regulatory
+Example:
+The new regulations restrict how often customers can withdraw money per day.
+新しい規則により、顧客が1日に何回お金を引き出せるかは制限されている。
+
+0076 contract [kάntrækt]
+契約（書）、請負
+contractor, contractual
+Example:
+The CEOs of the two companies signed the contract this morning.
+両社の最高経営責任者は今朝、契約に署名した。
+
+0077 insurance [inʃúərəns]
+保険
+insure, insurer
+Example:
+Hopefully, the cost of car insurance will go down again next year.
+うまくいけば、自動車保険の費用は来年また下がるだろう。
+
+0078 employment [implɔ́imənt]
+雇用、職
+employ, employer, employee
+Example:
+Employment rates in the developing nations of Southeast Asia are increasing steadily.
+東南アジアの発展途上国における就業率は、着実に増加している。
+
+0079 ban [bæn]
+禁止
+Example:
+There is to be a total ban on cigarette advertisements in the near future.
+近い将来、タバコの広告の全面的な禁止があるだろう。
+
+0080 vehicle [víːikəl]
+車、乗り物、輸送機関
+Example:
+The driver crashed into a wall after losing control of his vehicle.
+そのドライバーは車を制御できなくなり、壁に激突した。
+
+0081 soil [sɔ́il]
+土、国、国土
+one's native soil 故国、故郷
+Example:
+The soil around here is rich and it is easy to grow a variety of vegetables.
+この辺りの土は肥沃なので、さまざまな野菜が容易に育てられる。
+
+0082 cargo [kάrɡou]
+積荷、貨物
+cargo ship, cargo plane
+Example:
+The ship docked overnight while the crew unloaded the cargo.
+乗組員が荷物を降ろしている間、その船は一晩埠頭に留まっていた。
+
+0083 aircraft [έərkæft]
+航空機、飛行機
+Example:
+This airline plans to purchase several new aircraft in the coming months.
+この航空会社は、今後数カ月の間に新たに航空機を数機購入する予定である。
+
+0084 current [kə́ːrənt]
+現在の、現代の
+Example:
+In the current situation, many people are having trouble finding new jobs.
+現在の状況において、多くの人が新たな仕事を見つけるのに苦労している。
+
+0085 political [pəlítikəl]
+政治の、政治に関する
+politics, politician
+Example:
+Representatives from various political parties met this week to discuss climate change.
+さまざまな政党の代表が気候変動について話し合うために今週集まった。
+
+0086 significant [signífikənt]
+重要な、意味のある
+significance, significantly
+Example:
+Over the last few months, significant progress has been made in developing a vaccine.
+この数カ月で、ワクチンの開発において重要な進展があった。
+
+0087 effective [iféktiv]
+効果的な、有効な
+effect, effectively
+Example:
+One of the most effective ways to improve your concentration is to get more sleep.
+集中力を高める最も効果的な方法の1つは睡眠時間を増やすことだ。
+
+0088 military [míləterì]
+軍隊の、軍人の
+Example:
+There is a military base located on the north side of the island.
+その島の北側には軍事基地がある。

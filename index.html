@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>英検準1級 Mobile</title>
+  <link rel="stylesheet" href="css/style.css?v=20260701-1" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="title">英検準1級 Mobile</div>
+     </div>
+        <select id="sectionSelect" class="select" aria-label="Section"></select>
+
+      <div class="seg">
+        <button id="tabSentences" class="seg-btn is-active" type="button">例文</button>
+        <button id="tabVocab" class="seg-btn" type="button">単語</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="viewSentences" class="view">
+      <div id="sentenceCard" class="card">
+        <div class="meta">
+          <span id="sid" class="pill">s000</span>
+          <span id="progress" class="meta-text">0 / 0</span>
+        </div>
+
+        <div id="english" class="english"></div>
+        <div id="japanese" class="japanese"></div>
+
+        <div class="actions">
+          <button id="prevBtn" class="btn" type="button">← 前</button>
+          <button id="nextBtn" class="btn primary" type="button">次 →</button>
+        </div>
+      </div>
+
+      <div id="sentenceVocabCard" class="card is-hidden">
+        <div class="card-title">この例文の単語</div>
+        <div id="vocabChips" class="chips"></div>
+      </div>
+    </section>
+
+   <section id="viewVocab" class="view is-hidden">
+  <div class="card">
+    <div class="meta">
+      <span id="vocabId" class="pill">v0000</span>
+      <span id="vocabProgress" class="meta-text">0 / 0</span>
+    </div>
+
+    <div id="vocabPromptTitle" class="card-title">意味 → 英語</div>
+    <div id="vocabMeaning" class="japanese"></div>
+
+    <div class="actions vocab-bulk-actions">
+      <button id="vocabCheckAllBtn" class="btn" type="button">すべてチェックを入れる</button>
+      <button id="vocabUncheckAllBtn" class="btn" type="button">すべてのチェックを外す</button>
+    </div>
+
+    <div class="actions">
+      <button id="vocabPrevBtn" class="btn" type="button">← 前</button>
+      <button id="vocabRevealBtn" class="btn" type="button">答え</button>
+      <button id="vocabNextBtn" class="btn primary" type="button">次 →</button>
+    </div>
+
+    <div style="margin-top: 12px;">
+      <input id="vocabInput" class="select" type="text" placeholder="英単語を入力" autocomplete="off" autocapitalize="off" spellcheck="false" />
+      <div id="vocabFeedback" class="meta-text" style="margin-top: 8px;"></div>
+    </div>
+
+        <!-- 4択モード -->
+    <div id="mcqBox" style="margin-top: 12px;">
+      <div class="actions">
+        <button id="mcqToggleBtn" class="btn" type="button">4択: ON</button>
+        <button id="mcqSkipBtn" class="btn" type="button">スキップ</button>
+      </div>
+
+      <div id="mcqChoices" class="mcqChoices"></div>
+      <div id="mcqHint" class="meta-text" style="margin-top: 8px;"></div>
+    </div>
+
+
+    <div id="vocabAnswerBox" class="card" style="margin-top: 12px;">
+      <div id="vocabAnswerTitle" class="card-title">答え</div>
+      <div id="vocabAnswer" class="english"></div>
+      <div id="vocabIpa" class="ipa-text"></div>
+      <div class="meta-text" id="vocabExtra"></div>
+    </div>
+  </div>
+</section>
+
+  </main>
+
+  <script src="data/section01.js?v=20260705-1"></script>
+  <script src="data/section02.js?v=20260705-1"></script>
+  <script src="data/section03.js?v=20260705-1"></script>
+  <script src="data/section04.js?v=20260705-1"></script>
+  <script src="data/section05.js?v=20260705-1"></script>
+  <script src="data/section06.js?v=20260705-1"></script>
+  <script src="data/section07.js?v=20260705-1"></script>
+  <script src="data/section08.js?v=20260705-1"></script>
+  <script src="data/section09.js?v=20260705-1"></script>
+  <script src="data/section10.js?v=20260705-1"></script>
+  <script src="data/section11.js?v=20260705-1"></script>
+  <script src="data/section12.js?v=20260705-1"></script>
+  <script src="data/section13.js?v=20260705-1"></script>
+  <script src="data/section14.js?v=20260705-1"></script>
+  <script src="data/section15.js?v=20260705-1"></script>
+  <script src="data/section16.js?v=20260705-1"></script>
+  <script src="data/section17.js?v=20260705-1"></script>
+  <script src="data/section18.js?v=20260705-1"></script>
+  <script src="data/section19.js?v=20260705-1"></script>
+
+  <script src="js/app.js?v=20260628-1"></script>
+</body>
+</html>

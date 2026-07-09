@@ -1,0 +1,323 @@
+Section 1
+見出し語番号 0220-0267
+
+0220 evaluate [ivǽljuèit]
+を評価する
+evaluation
+Example:
+The government tried to evaluate the effectiveness of the new policy.
+政府は新しい政策の効果を評価しようとした。
+
+0221 commit [kəmít]
+（罪・過失など）を犯す、を委託する
+committed, commitment
+Example:
+The police have no idea who committed this murder.
+警察は誰がこの殺人を犯したのか全く分かっていない。
+
+0222 argument [άːrgjumənt]
+議論、口論
+argue, arguably
+Example:
+They were involved in a very heated argument.
+彼らは非常に白熱した議論に参加していた。
+
+0223 archaeologist [ὰːrkiάlədʒist]
+考古学者
+archaeology, archaeological
+Example:
+Archaeologists believe the site to be more than 4,000 years old.
+考古学者たちは、その遺跡が4,000年以上前のものであると信じている。
+
+0224 reputation [rèpjətéiʃən]
+評判、名声
+reputable
+Example:
+The company's reputation was damaged after its president was arrested.
+社長が逮捕された後、その会社の評判は損なわれた。
+
+0225 fossil [fάsəl]
+化石、時代遅れの人
+fossilize
+Example:
+Many fossils of large animals can be found in areas with cold, dry climates.
+寒くて乾燥した気候の地域では、大型動物の化石が数多く発見される。
+
+0226 status [stéitəs]
+地位、身分
+Example:
+He has achieved a high status in his company and receives an excellent salary.
+彼は会社で高い地位を得て、素晴らしい給料をもらっている。
+
+0227 contrast [kάntræst]
+対照、対比、差異
+Example:
+In contrast with his predecessor, the new president seems determined to improve the healthcare system.
+前任者とは対照的に、新大統領は医療制度を改善しようと決めているようだ。
+
+0228 workplace [wə́ːrkplèis]
+職場
+Example:
+He took me to his workplace and introduced me to his coworkers.
+彼は私を彼の職場に連れていき、同僚に紹介した。
+
+0229 equality [ikwάləti]
+平等
+equal, equalize
+Example:
+Of course, I believe in equality between men and women.
+もちろん、私は男女の平等はよいことだと思っている。
+
+0230 colleague [kάliːg]
+同僚
+Example:
+I have lunch with my colleagues three or four times a week.
+私は週に3〜4回、同僚と昼食を食べる。
+
+0231 assistance [əsístəns]
+援助、支援
+assist, assistant
+Example:
+The information desk attendants can give customers assistance in finding what they need.
+案内デスクのスタッフは、顧客が必要としているものを見つける手助けをすることができる。
+
+0232 luxury [lʌ́gʒəri]
+ぜいたく、ぜいたく品
+luxurious
+Example:
+She dreams of being rich and living a life of luxury.
+彼女は金持ちになって、ぜいたくで豊かな生活を送ることを夢見ている。
+
+0233 outbreak [áutbrèik]
+突発、勃発、発生
+Example:
+There have been several outbreaks of swine flu in this area.
+この地域では数件の豚インフルエンザが突発的に発生している。
+
+0234 council [káunsəl]
+議会、評議会、会議
+councilor
+Example:
+The city council meets every Tuesday at 6 p.m. in the town hall.
+市議会は毎週火曜日午後6時に市庁舎で開かれる。
+
+0235 pottery [pάtəri]
+陶器
+potter
+Example:
+The museum has a large collection of ancient Japanese pottery.
+その美術館は、古い日本の陶器を数多くそろえている。
+
+0236 assignment [əsáinmənt]
+任務、宿題、割り当て
+assign
+Example:
+He was given the difficult assignment of updating the company's computer system.
+彼は、会社のコンピューターシステムを最新の状態に変えるという難しい仕事を与えられた。
+
+0237 particle [pάrtəkl]
+微粒子、小片
+Example:
+What is the smallest known particle of matter?
+物質の中で最も知られている最も小さな粒子は何ですか。
+
+0238 radiation [rèidiéiʃən]
+放射線、放射
+radiate, radiant
+Example:
+The officials measured the levels of radiation on the ground.
+職員は地表の放射線レベルを測定した。
+
+0239 priority [praiɔ́ːrəti]
+優先（権）
+prior, prioritize
+Example:
+The first priority of this government is to improve the education system.
+この政府が最優先すべきことは、教育制度の改善だ。
+
+0240 content [kάntent]
+コンテンツ、中身、内容
+contain
+Example:
+We need to update the content on our website as soon as possible.
+我々はできるだけ早くウェブサイトのコンテンツを更新する必要がある。
+
+0241 destination [dèstənéiʃən]
+目的地、行き先
+Example:
+We arrived at our destination about three hours behind schedule.
+我々は予定より約3時間遅れて目的地に到着した。
+
+0242 mine [máin]
+鉱山、地雷
+miner
+Example:
+There used to be several coal mines in this area in the past.
+この地域には、かつていくつかの炭鉱があった。
+
+0243 injury [índʒəri]
+傷害、けが
+injure, injured
+Example:
+Several people received minor injuries in the car accident.
+その自動車事故で数名が軽傷を負った。
+
+0244 lottery [lάtəri]
+宝くじ、抽選
+Example:
+The first thing he did after winning the lottery was to call his mother.
+宝くじを当てた後、彼が最初にしたのは母親に電話をすることだった。
+
+0245 feature [fíːtʃər]
+特徴、特集記事
+Example:
+This apartment has several interesting features including a roof garden.
+このアパートには屋上庭園を含む、いくつかの面白い特徴がある。
+
+0246 labor [léibər]
+労働、労働力
+laborer
+Example:
+The company decided to move production overseas to save money on labor costs.
+その会社は労働コストを節約するため、生産を海外に移すことを決めた。
+
+0247 diabetes [dàiəbíːtəs]
+糖尿病
+diabetic
+Example:
+In many cases, you can cure diabetes by changing your diet.
+多くの場合、食事を変えることで糖尿病を治すことができる。
+
+0248 bulb [bʌ́lb]
+電球、球根
+Example:
+These LED light bulbs are more energy-efficient than the ones we used to have.
+これらのLED電球は我々が以前持っていたものよりもエネルギー効率がよい。
+
+0249 resume [rézəmèi]
+履歴書、要約
+Example:
+Job applicants were asked to send a recent photograph along with their resume.
+求職者は履歴書と併せて最近の写真を送付するよう求められた。
+
+0250 mud [mʌ́d]
+ぬかるみ、泥
+muddy
+Example:
+After the storm, the land was really soft and the car got stuck in the mud.
+嵐の後、地面がとても柔らかく、その車はぬかるみにはまってしまった。
+
+0251 psychology [saikάlədʒi]
+心理学
+psychological, psychologist
+Example:
+The scientist has written many books about child psychology.
+その科学者は、児童心理学に関する多くの著作がある。
+
+0252 corporation [kɔ̀ːrpəréiʃən]
+大企業、株式会社
+corporate
+Example:
+She works for a global corporation with offices in many countries.
+彼女は多くの国々に営業所がある世界的大企業で働いている。
+
+0253 ecosystem [íːkousìstəm]
+生態系
+ecology, ecological
+Example:
+Many ecosystems around the world are being affected by global warming.
+世界中の多くの生態系が、地球温暖化の影響を受けている。
+
+0254 promotion [prəmóuʃən]
+昇進、促進、販売促進
+promote, promoter, promotional
+Example:
+His promotion to head of department surprised everyone in the office.
+彼の事業部長への昇進に、オフィスの誰もが驚いた。
+
+0255 administration [ədmìnəstréiʃən]
+管理、政府
+administer, administrative
+Example:
+The day-to-day administration of most companies is handled by middle managers, not presidents.
+ほとんどの会社の日常の管理業務は社長ではなく、中間管理職が扱っている。
+
+0256 complaint [kəmpléint]
+苦情、不平
+complain
+Example:
+The landlord ignored the tenants' complaints about the leaky roof.
+家主は、屋根が雨漏りするという借家人の苦情を無視した。
+
+0257 debt [dét]
+借金、負債
+debtor
+Example:
+I plan to pay off all my debts by next September.
+私は次の9月までに全ての借金を返済し終えるつもりだ。
+
+0258 requirement [rikwáiərmənt]
+必要条件、必需品
+require, requisite
+Example:
+The entrance requirement for this course is a high school diploma.
+この講座の受講要件は、高校を卒業していることだ。
+
+0259 workforce [wə́ːrkfɔ̀ːrs]
+総従業員、労働人口
+Example:
+Eighty percent of the workforce in this factory are men.
+この工場の総従業員の80パーセントが男性だ。
+
+0260 preference [préfərəns]
+好み
+prefer, preferable
+Example:
+Many consumers expressed a preference for this brand of washing detergent.
+多くの消費者がこのブランドの洗剤を好んでいることを明らかにした。
+
+0261 refugee [rèfjudʒíː]
+難民、亡命者
+refuge
+Example:
+The refugees from the war zone need our help urgently.
+その交戦地域からの難民には我々の支援を緊急に必要としている。
+
+0262 inhabitant [inhǽbəntənt]
+居住者、住民
+inhabit
+Example:
+The inhabitants of the city are very proud of how clean it is.
+その都市の住人は、都市の清潔さをとても誇りに思っている。
+
+0263 subscription [səbskrípʃən]
+予約購読、寄付
+subscribe
+Example:
+I took out a subscription to the new fashion magazine.
+私は新しいファッション誌の予約購読を申し込んだ。
+
+0264 recipient [risípiənt]
+受取人、受賞者
+receive
+Example:
+He has been the recipient of several important awards.
+彼はいくつかの重要な賞を受賞した人物である。
+
+0265 shift [ʃíft]
+変化、転換
+Example:
+There has been a shift in attitudes toward working women in the last twenty years.
+過去20年で働く女性に対する考え方の変化があった。
+
+0266 vessel [vésəl]
+船、容器
+Example:
+This large vessel can carry over 500 passengers and crew.
+この大型船は500人を超える乗客と乗組員を運ぶことができる。
+
+0267 ingredient [ingríːdiənt]
+材料、成分、要素
+Example:
+You will need several ingredients in order to make this cake.
+このケーキを作るにはいくつかの材料が必要だろう。

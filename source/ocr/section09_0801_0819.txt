@@ -1,0 +1,19 @@
+0801 outsource / を外注する / We have decided to outsource this job to China. / 私たちは中国にこの仕事を外注することに決めた。
+0802 applaud / に拍手する、を賞賛する / We applauded the judge's decision to free the prisoner. / 私たちは囚人を釈放するという裁判官の判決に拍手を送った。
+0803 bribe / を買収する / He bribed the CEO of the company to get the contract. / 彼は契約を取るためにその会社のCEOに賄賂を渡した。
+0804 replicate / を繰り返す、を複製する / The scientist was unable to replicate the results of his original experiment. / その科学者は、最初の実験結果を再現することができなかった。
+0805 stroll / ぶらぶら歩く、散歩する / We had a lovely time strolling in the park. / 私たちは公園をぶらぶら散歩して楽しい時間を過ごした。
+0806 swell / 増大する、腫れる / The crowd of protesters in the square swelled to well over 10,000. / 広場の抗議者たちの群れは優に1万人以上にふくれ上がった。
+0807 uphold / を支持する、を維持する / It is the role of a judge to uphold the law. / 法をいかすのが裁判官の役割だ。
+0808 vomit / 吐く、もどす / The sight of all the blood made him want to vomit. / 一面の血の海を見て彼は吐きたくなった。
+0809 expire / 期限が切れる、終了する / There are only about ten days left before my passport expires. / 私のパスポートの期限が切れるまでに、約10日しか残っていない。
+0810 recruit / を募集する / Our company plans to recruit several university graduates this year. / 当社は今年、数人の大学卒業生を募集する予定だ。
+0811 enhance / を増す、を高める / This new marketing method should enhance our sales productivity. / この新しいマーケティングの手法は、当社の販売生産性を向上させるはずだ。
+0812 accumulate / を蓄積する、を集める / He accumulated a lot of debt while he was a student. / 彼は学生時代に多額の借金をため込んだ。
+0813 designate / を指定する、を任命する / This park has been designated as a smoke-free area. / この公園は禁煙地区に指定されている。
+0814 conceal / を隠す / The passenger concealed an extra bottle of liquor in his hand luggage. / その乗客は手荷物に1びん余分な酒を隠した。
+0815 disregard / を無視する、を軽視する / The accident happened because they completely disregarded the safety rules. / 彼らが安全に関するルールを完全に無視したことが原因で、その事故は起こった。
+0816 accelerate / を加速する / Sports cars usually accelerate much faster than passenger cars. / スポーツカーはふつう、乗用車よりはるかに速く加速する。
+0817 revive / を生き返らせる、を復活させる / They did all they could, but were unable to revive the elderly woman. / 彼らはできることは全てやったが、その年配の女性を生き返らせることはできなかった。
+0818 enact / を制定する、を通過させる / The government will be pushing to enact the bill as soon as possible. / 政府は、できるだけ早くその法案を制定するために努力するだろう。
+0819 exert / を行使する、努力する / The group exerted pressure on the government in an attempt to bring about changes in the law. / そのグループは法律を変えようと試みて、政府に圧力をかけた。

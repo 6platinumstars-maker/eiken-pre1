@@ -1,0 +1,333 @@
+Section 1
+見出し語番号 0129-0178
+
+0129 institution [ìnstitjúːʃən]
+機関、施設、慣習
+Example:
+This bank is one of the oldest and most famous institutions in the city.
+この銀行は、街で最も古くて有名な機関の1つだ。
+
+0130 theft [θéft]
+盗み、窃盗
+thief
+Example:
+Crimes involving intellectual property theft have been increasing lately.
+知的財産の盗用にかかわる犯罪が、最近は増えている。
+
+0131 candidate [kǽndədət]
+候補者、志願者
+candidacy
+Example:
+The candidate I voted for lost by 50 votes.
+私が投票した候補者は50票差で落選した。
+
+0132 mammal [mǽməl]
+哺乳動物
+mammalian
+Example:
+The largest mammal in the world is the blue whale.
+世界最大の哺乳類は、シロナガスクジラだ。
+
+0133 economist [ikάnəmist]
+経済学者
+economy, economics, economic, economical
+Example:
+Several economists have warned that more people are likely to lose their jobs in the future.
+数名の経済学者が、今後より多くの人々が失業するだろうと警告した。
+
+0134 protein [próutiːn]
+タンパク質
+Example:
+The doctor recommended replacing meat with plant-based protein such as beans.
+その医師は、肉を豆のような植物由来のタンパク質に替えることを勧めた。
+
+0135 immigrant [íməgrənt]
+（外国からの）移住者、移民
+immigrate, immigration
+Example:
+A large number of immigrants came to Britain in the 1950s.
+多くの移住者が1950年代にイギリスに来た。
+
+0136 property [prάpərti]
+不動産、（集合的に）財産
+Example:
+Property prices in that area are continuing to rise.
+その地域の不動産価格は上昇し続けている。
+
+0137 fund [fʌnd]
+資金、現金
+funding
+Example:
+Where will they get the funds to pay for the new school?
+その新しい学校のための資金を彼らはどこから調達するのだろうか。
+
+0138 habitat [hǽbətæt]
+（動植物の）生息場所、（人の）居住地
+habitation
+Example:
+The bamboo forests of China are the giant panda's natural habitat.
+中国の竹林は、ジャイアントパンダの自然の生息場所だ。
+
+0139 symptom [símptəm]
+症状、兆候
+symptomatic
+Example:
+The doctor asked me to describe my symptoms in detail.
+医師は私に症状を詳細に述べるように求めた。
+
+0140 eruption [irʌ́pʃən]
+勃発、噴火
+erupt
+Example:
+There has been another sudden eruption of violence in the capital city.
+首都でまた突然の暴力事件が発生した。
+
+0141 quantity [kwάntəti]
+分量、量
+Example:
+Raising farm animals requires large quantities of grain and water.
+家畜を育てるのは大量の穀物と水を必要とする。
+
+0142 ad [ǽd]
+広告
+Example:
+Some people complained that the new TV ad was not suitable for children.
+その新しいテレビ広告は子供にはふさわしくないと不平を言う人もいた。
+
+0143 saving [séiviŋ]
+節約、貯金
+save
+Example:
+Turning the air conditioner up a few degrees can result in quite a bit of savings in energy costs.
+エアコンを数度上げることがかなりのエネルギー費用の節約につながる。
+
+0144 territory [térətɔ̀ːri]
+領土、領地
+territorial
+Example:
+Under the new agreement, no one is allowed to enter the territory without a valid visa.
+新しい協定のもとでは、有効なビザが無ければ誰もその領土に入ることを許されない。
+
+0145 threat [θrét]
+脅威、脅し
+threaten, threatening
+Example:
+Cigarette packs carry a warning about the threat smoking poses to health.
+タバコの箱には、喫煙が健康に与える脅威に関する警告が記載されている。
+
+0146 sufferer [sʌ́fərər]
+苦しむ人、病人
+suffer, suffering
+Example:
+It was very helpful for her to talk with other allergy sufferers.
+彼女にとってアレルギーに苦しむ他の人々と話すことはとても役に立った。
+
+0147 emission [imíʃən]
+排気、放出
+emit
+Example:
+Car exhaust emissions pollute the environment in several different ways.
+自動車の排気ガスの排出は、いくつかの異なる形で環境を汚染する。
+
+0148 executive [igzékjutiv]
+重役、幹部、経営者
+execute, execution
+Example:
+Most large corporations have several executives who manage the different departments.
+ほとんどの大企業では、異なった部門を統括する複数の重役がいる。
+
+0149 strategy [strǽtədʒi]
+戦略、策略
+strategic, strategically
+Example:
+We are developing a new sales strategy at the moment.
+我々は現在、新たな販売戦略を開発中だ。
+
+0150 riot [ráiət]
+暴動
+riotous
+Example:
+The protest against human rights violations turned into a riot.
+人権侵害に対する抗議運動が暴動になった。
+
+0151 district [dístrikt]
+地域、地方
+school district, business district
+Example:
+The hotel is located in a lively entertainment district in the center of town.
+そのホテルは、市の中心部の活気ある歓楽街にある。
+
+0152 election [ilékʃən]
+選挙
+elect, electoral
+Example:
+The number of people who voted in the last election was very low.
+前回の選挙で投票した人の数は非常に少なかった。
+
+0153 medication [mèdikéiʃən]
+薬、医薬品
+medicinal
+Example:
+She takes a number of medications every day to control her pain.
+彼女は痛みを抑えるために毎日いくつかの薬を飲んでいる。
+
+0154 breed [bríːd]
+品種、種類
+breeding, breeder
+Example:
+There are hundreds of different breeds of dogs all over the world.
+全世界には、何百というさまざまな犬種がある。
+
+0155 conflict [kάnflìkt]
+衝突、争い
+Example:
+There was a serious conflict between members of the political parties.
+それらの政党の党員たちの間には深刻な衝突があった。
+
+0156 productivity [prὰdʌktívəti]
+生産性
+productive, production, product, produce
+Example:
+We are trying to think of ways to increase productivity.
+私たちは、生産性を向上させる方法を考え出そうと努力している。
+
+0157 organism [ɔ́ːrgənìzm]
+有機体、生物
+organic
+Example:
+The first organisms appeared on our planet more than 3.8 billion years ago.
+最初の有機体が地球に現れたのは、38億年以上前のことだ。
+
+0158 representative [rèprizéntətiv]
+代表者、代理人
+represent
+Example:
+Representatives of the Football Association met to discuss the player's suspension.
+フットボール協会の代表者は、その選手の出場停止について話し合うために会合を開いた。
+
+0159 warehouse [wéərhàus]
+倉庫
+Example:
+We keep our stock in a warehouse near our shop.
+当店は店舗近くの倉庫に在庫を保管している。
+
+0160 refund [ríːfʌnd]
+返金、払い戻し
+Example:
+I asked for a refund because the blender broke after only one day.
+ミキサーがたった1日で壊れてしまったので、私は返金を求めた。
+
+0161 tuition [tjuíʃən]
+授業料
+tutor
+Example:
+Tuition increased by an average of three percent at universities last year.
+昨年、大学の授業料は平均3パーセント増えた。
+
+0162 range [réindʒ]
+範囲、領域
+Example:
+The students learned about a wide range of topics during the course.
+学生たちはその講座で広範囲にわたるトピックを学んだ。
+
+0163 victim [víktim]
+被害者、犠牲者
+Example:
+Victims of crimes don't always report them to the police.
+犯罪の被害者は必ずしも警察に届けるとは限らない。
+
+0164 dose [dóus]
+1回の服用量
+Example:
+This medicine can be dangerous if taken in high doses.
+この薬は多量に摂取されると危険を伴う可能性がある。
+
+0165 mainland [méinlænd]
+本土
+Example:
+Many of the people living on the island commute to work on the mainland.
+その島に住む人の多くは、本土へ通勤している。
+
+0166 waterfall [wɔ́ːtərfɔ̀ːl]
+滝
+Example:
+Many tourists come to this area especially to see the beautiful waterfall.
+多くの観光客は特に、その美しい滝を見るためにこの地域にやってくる。
+
+0167 satellite [sǽtəlàit]
+人工衛星、衛星
+Example:
+The first satellite was launched by the Soviet Union in 1957.
+最初の人工衛星はソビエト連邦によって1957年に打ち上げられた。
+
+0168 evolution [èvəlúːʃən]
+進化、発展、展開
+evolve, evolutionary
+Example:
+We studied Darwin's theory of evolution at school.
+私たちは学校でダーウィンの進化論を学んだ。
+
+0169 prey [préi]
+獲物、えじき
+Example:
+The lioness stalked her prey for several hours before attacking.
+雌ライオンは攻撃に出る前に、獲物を数時間つけ回した。
+
+0170 bystander [báistændər]
+傍観者
+Example:
+During the chase, the police shot an innocent bystander by mistake.
+追跡中に、警察は誤って罪のない通りすがりの人を撃ってしまった。
+
+0171 creature [kríːtʃər]
+生き物、動物
+create, creation, creative
+Example:
+These beautiful creatures can only be found in this area of the island.
+これらの美しい生き物は島のこの地域でのみ見られる。
+
+0172 civilization [sìvələzéiʃən]
+文明
+civilize, civilized
+Example:
+From a young age, the professor was very interested in the early civilizations of Greece and Rome.
+その教授は幼少期から、ギリシャとローマの古代文明にとても興味があった。
+
+0173 tribe [tráib]
+部族、種族
+tribal
+Example:
+There are several tribes living in this part of the Amazon.
+アマゾンのこの地域ではいくつかの部族が暮らしている。
+
+0174 permission [pərmíʃən]
+許可、承認
+permit
+Example:
+The students needed written permission from their parents in order to go on the school trip.
+生徒たちは、修学旅行に行くために両親から事前に許可をもらう必要があった。
+
+0175 barrier [bǽriər]
+障害、障壁
+Example:
+A lack of self-confidence is one of the greatest barriers to success in business.
+自信の欠如はビジネスで成功する上で最大の妨げの1つである。
+
+0176 wage [wéidʒ]
+賃金、給料
+Example:
+People's wages were badly affected by the economic situation in the country.
+人々の賃金は国の経済状況にひどく影響を受けた。
+
+0177 drone [dróun]
+ドローン
+Example:
+The army used drones to locate the enemy base.
+軍隊は敵の基地を見つけるのにドローンを使用した。
+
+0178 appearance [əpíərəns]
+外観、出現
+appear
+Example:
+He doesn't care much about his appearance and wears the same old jeans every day.
+彼は外見をあまり気にせず、毎日同じ古いジーンズをはいている。

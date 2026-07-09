@@ -1,0 +1,49 @@
+0729 developer / 宅地造成業者、開発者 / The developer has decided to build a large office building in this area. / その宅地造成業者は、この地域に大きなオフィスビルを建設することを決めた。
+0730 circulation / 発行部数、循環、流布 / This newspaper has the highest circulation of all the English newspapers in Japan. / この新聞は、日本の全ての英字新聞の中で最も発行部数が多い。
+0731 appliance / 器具 / Most people these days own a lot of electrical appliances. / 最近ではほとんどの人がたくさんの電気製品を所有している。
+0732 bond / きずな、債券、契約 / The bond between a parent and a child is very deep. / 親と子のきずなは非常に深い。
+0733 circuit / 周回すること、回路、巡回 / One circuit around the park takes approximately an hour. / 公園を1周するには約1時間かかる。
+0734 innovation / 革新、新機軸 / There have been several important innovations in the computer industry recently. / 最近、コンピューター業界でいくつかの重要な技術革新があった。
+0735 infant / 幼児、乳児 / This range of toys is designed for infants. / この一連のおもちゃは乳児向けに作られたものだ。
+0736 transaction / 取引、処理 / The two sides finalized the transaction over lunch. / 双方は昼食を食べながら取引をまとめた。
+0737 celebrity / 有名人、著名人 / A number of celebrities are expected to attend the restaurant's opening tonight. / 今夜、そのレストランの開店に数人の有名人が出席する見込みだ。
+0738 checkup / 健康診断、検査 / I went to the doctor for my annual checkup last week. / 私は先週、年次健康診断を受けに医者に行った。
+0739 makeup / 構成、構造、化粧 / The coach decided to change the makeup of the team. / 監督はチームの構成を変えることに決めた。
+0740 respondent / 回答者 / Almost all the respondents to the survey said they liked the new drink. / 調査の回答者のほぼ全員が、その新しい飲み物が好きだと言った。
+0741 well-being / 健康、幸福 / The counselor's job is to take care of the emotional well-being of the children. / そのカウンセラーの仕事は、子供たちの感情面の健康に気をつけることだ。
+0742 flaw / 欠点、傷、ひび / One of his main flaws is that he is extremely short-tempered. / 彼の主要な欠点の1つはひどく短気なことだ。
+0743 strain / 重圧、緊張 / The strain of her demanding job began to show. / 彼女のきつい仕事による重圧が表れ始めていた。
+0744 rivalry / ライバル意識、競争 / We were all aware of the rivalry between the two salespeople. / 私たち全員がその2人の販売員の間にあるライバル意識に気がついていた。
+0745 publicity / 一般に知れ渡ること、評判、宣伝 / The soccer player received a lot of publicity after he moved to another team. / そのサッカー選手は、別のチームに移籍した後、非常に注目された。
+0746 consent / 同意 / Her parents refused to give their consent to her marriage. / 彼女の両親は、彼女の結婚に同意することを拒んだ。
+0747 addiction / 依存 / The doctors discussed the best ways to treat drug addiction. / 医師たちは薬物依存の最善の治療法について話し合った。
+0748 profession / 職業 / Law and medicine are professions which require many years of study. / 法律と医学は、何年もの勉強を必要とする専門職だ。
+0749 sacrifice / 犠牲 / She has had to make major sacrifices for her children. / 彼女は子供たちのために、大きな犠牲を払ってこなければならなかった。
+0750 nerve / 度胸、神経 / I still can't believe she had the nerve to come uninvited. / 彼女が招待されていないのにやってくる度胸を持ち合わせていたとはまだ信じられない。
+0751 assumption / 仮定、想定、思い込み / We are working on the assumption that sales will increase. / 私たちは、売り上げが増えるという仮定の上に仕事をしている。
+0752 context / 文脈、背景、状況 / It is difficult to guess the meaning of a new word without knowing the context. / 文脈が分からないと、知らない語の意味を推測するのは難しい。
+0753 era / 時代 / The formation of the new government marks the beginning of a new era for this country. / 新政府を組織することは、この国にとって新時代の始まりを示すものだ。
+0754 trait / 特徴、特色 / All of her children had very different personality traits. / 彼女の子供たちは皆、非常に異なる性格の特徴（一面性）を持っていた。
+0755 voucher / クーポン券、商品券 / She gave me some discount vouchers to use in the cafeteria. / 彼女は私にそのカフェテリアで使うことができる割引クーポン券をくれた。
+0756 draft / 下書き、草稿 / I handed the final draft of my book to my publisher yesterday. / 私は昨日、本の最終原稿を出版社に渡した。
+0757 blaze / 炎、強い輝き / Sixty firefighters fought the factory blaze for over two days. / 60人の消防士たちが2日以上にわたって工場の火災と闘った。
+0758 currency / 通貨、普及 / Where can I change some money into the local currency? / どこでお金を現地通貨に両替できますか。
+0759 stance / 立場、対処の姿勢 / The newspaper took a stance against racism. / その新聞は反人種差別の立場を取った。
+0760 fluid / 液体、流動体 / The doctor told me to stay in bed and drink plenty of fluids. / 医師は私に安静にして水分を十分摂取するように言った。
+0761 dispute / 論争 / The dispute has been going on for three years now. / その争いは3年経った今も続いている。
+0762 counterpart / 対応［相当］する人［もの］ / The French Foreign Minister discussed trade issues with his German counterpart last night. / フランスの外務大臣は昨夜、ドイツの対応する人（＝外務大臣）と貿易問題について議論した。
+0763 perception / 認識、知覚 / Your perception of war is distinctly different from mine. / あなたの戦争についての認識は、私のものとは明らかに異なっている。
+0764 custody / 親権、保護、管理 / The court awarded custody of the children to their father. / 裁判所は父親にその子供たちの親権を与えた。
+0765 venue / 会場 / We are looking for a suitable venue for our annual conference. / 我々は年次会合にぴったりの会場を探している。
+0766 dread / 不安、恐れ / The student waited in dread for the result of his math test. / その生徒は数学のテストの結果を不安に思いながら待った。
+0767 incentive / 動機、誘因 / The workers in this company have little incentive to work any harder. / この会社の従業員には、これ以上一生懸命に働こうという動機になるものがほとんどない。
+0768 disgust / 嫌悪、反感 / Many people expressed disgust at the way the animals on the farms are treated. / その農場における動物の扱われ方に対し、多くの人々が嫌悪感を表した。
+0769 province / 州、県、省 / Canada is divided into several provinces with their own local governments. / カナダは、独自の地方政府を持ついくつかの州に分かれている。
+0770 proponent / 支持者 / He is well known as a proponent of clean energy. / 彼はクリーンエネルギーの支持者としてよく知られている。
+0771 commercial / 商業（上）の、営利的な / There are many commercial zones in this city. / この都市には、多くの商業地域がある。
+0772 excessive / 過度の、法外な / We complained about the excessive noise coming from the construction site. / 私たちは建設現場からの過度の騒音に関して文句を言った。
+0773 vulnerable / 弱い、傷つきやすい / Small children and the elderly are more vulnerable to flu viruses. / 小さな子供とお年寄りはインフルエンザウイルスにより弱い。
+0774 protective / 保護する、守ろうとする / Sunscreen provides a protective layer against UV rays. / 日焼け止めは紫外線に対する保護層を作る。
+0775 secure / 安全な、確かな / Try to use secure websites when shopping on the Internet. / インターネットで買い物をするときは安全なウェブサイトを使うようにしなさい。
+0776 obvious / 明らかな / The solution to the problem was obvious to everyone. / その問題の解決法は誰の目にも明らかだった。
+0777 reluctant / 気が進まない / She was reluctant to lend him any more money. / 彼女は彼にそれ以上お金を貸すことに気が進まなかった。

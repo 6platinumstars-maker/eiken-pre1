@@ -1,0 +1,49 @@
+0639 committee / 委員会 / A special committee was formed to investigate the causes of the accident. / その事故の原因を調査するため、特別委員会が設置された。
+0640 junk / がらくた、つまらないもの / The family got rid of a lot of junk when they moved to a new house. / その家族は新しい家へ引っ越す際、多くのがらくたを処分した。
+0641 departure / 出発 / I had to delay my departure due to the bad weather. / 私は悪天候のため出発を遅らせなければならなかった。
+0642 description / 描写、説明 / He was unable to give the police an accurate description of his attacker. / 彼は警察に対して、彼を襲撃した者の正確な描写ができなかった。
+0643 supervisor / 監督者、管理者 / My supervisor told me I could have the day off next Tuesday. / 私の上司は、来週の火曜日に休んでよいと私に言った。
+0644 guidance / 指導、案内 / The careers office provides students with guidance on which course to choose. / 就職課は、どのコースを選択すべきかについて学生に指導する。
+0645 landscape / 風景、景色 / Farming has had a big impact on the country's natural landscape and environment. / 農業はその国の自然な景観や環境に多大な影響を及ぼしてきた。
+0646 crew / 乗組員、乗務員 / The crew of the cruise ship rescued the refugees after their boat sank. / そのクルーズ船の乗組員は、ボートが沈んでしまった難民たちを救助した。
+0647 drain / 排水管、排水口 / The drains in the building are very old and sometimes become blocked. / その建物の排水管はとても古く、ときどき詰まってしまう。
+0648 stereotype / 固定観念、ステレオタイプ / They received some complaints about the outdated gender stereotypes in their ad. / 彼らは、広告の中のジェンダーに関する時代遅れの固定観念について苦情を受けた。
+0649 edition / 版 / The new edition of the textbook should be in stores by the end of next week. / その教科書の新訂版は来週末までには書店に並ぶはずだ。
+0650 graphic / 図、挿絵 / The presentation was easy to understand as it included a lot of graphics. / そのプレゼンは、多くの図が使われていたので容易に理解できた。
+0651 pathway / 小道、細道 / The men cleared a pathway through the snow from the car to the front door. / その男性たちは、車から家の玄関まで、雪をかき分けて小道を作った。
+0652 reunion / 再会の集い、再会 / The woman was excited to receive a letter inviting her to a school reunion. / その女性は、学校の同窓会の招待状を受け取って興奮した。
+0653 cliff / 崖、絶壁 / The man slipped and almost fell off the edge of the cliff. / その男性は滑って、もう少しで崖の端から落ちるところだった。
+0654 coordinator / コーディネーター、取りまとめ役 / The coordinator will organize all the details of the event. / コーディネーターがイベントの全ての詳細を手配するだろう。
+0655 depth / 深さ、深み / The nuclear submarine dived to a depth of 250 meters. / その原子力潜水艦は、水深250メートルまで潜った。
+0656 liver / 肝臓 / The doctor specializes in treating patients with liver disease. / その医師は肝臓を持つ患者の治療を専門としている。
+0657 monopoly / 独占、独占権 / The company holds a monopoly over the sale of weapons in the region. / その企業は、地域での武器販売を独占している。
+0658 usage / 使用、使い方 / The survey showed that there were negative effects of smartphone usage on young people. / その調査は、スマートフォンの使用は若者に悪影響を及ぼすと示した。
+0659 chart / グラフ、図、図表 / This chart shows the sales figures for the first three months of the year. / このグラフは、年の最初の3カ月の売上高を示している。
+0660 expectancy / 期待、見込み / People in Japan have a higher life expectancy than in many other countries in the world. / 日本の人は世界のほかの多くの国よりも平均余命が長い。
+0661 nowhere / どの場所も〜ない / If you had no money and nowhere to live, how would you survive? / もしも、文無しで住む場所もなければ、どうやって生き延びるのですか。
+0662 courthouse / 裁判所 / The lawyer had lunch in a small cafe just across the street from the courthouse. / その弁護士は、裁判所から通りを隔てた真向かいの小さなカフェで昼食を取った。
+0663 cove / 入江、小湾 / There are several white sand coves on the west side of the island. / その島の西側には白砂の入江がいくつかある。
+0664 dock / 埠頭、波止場 / The ship was unable to get close to the dock because the weather was so bad. / 天候が非常に悪かったため、その船は埠頭に近づくことができなかった。
+0665 ministry / 省 / The Ministry of Tourism made a very helpful guidebook for tourists. / 観光省は旅行者に大変役立つガイドブックを作成した。
+0666 inflammation / 炎症 / The doctor gave the man some medicine to reduce the inflammation in his throat. / 医師はその男性に喉の炎症を抑えるための薬を処方した。
+0667 cholesterol / コレステロール / High cholesterol can lead to the hardening of the arteries. / コレステロールが多いと、動脈硬化が起こり得る。
+0668 gender / 性別、ジェンダー / Regardless of gender, all employees have the right to apply for the top managerial position. / 性別にかかわらず、全社員が経営幹部に志願する権利がある。
+0669 depression / うつ病、意気消沈 / She suffered from depression for several months after she lost her job. / 彼女は失業してからの数カ月間、うつ病を患った。
+0670 stem / 茎 / The roses she gave me had beautiful, long, leafy stems. / 彼女が私にくれたバラには、美しくて長い、葉がよく茂った茎があった。
+0671 personnel / 職員、人員 / Our highly competent personnel are our company's main asset. / 我々の非常に優秀な職員は、わが社の貴重な財産である。
+0672 controversy / 論争、議論 / A controversy has arisen over the site of the new airport. / 新空港の建設用地に関して論争が持ち上がった。
+0673 recognition / 認識、認知 / He walked straight past us with no sign of recognition whatsoever. / 私たちに気覚えがある様子は全くなく、彼は私たちの前を通り過ぎたまま歩いて行った。
+0674 applicant / 応募者、志願者 / There were more than 20 applicants for the driver's position. / ドライバーの職には、20人を超える応募者がいた。
+0675 anthropologist / 人類学者 / I became an anthropologist because I'm interested in human customs and beliefs. / 私が人類学者になったのは、人間の習慣や信仰に興味があるからだ。
+0676 sewage / 汚水、下水 / The engineers are working on a new system to deal with sewage. / エンジニアたちは、汚水を処理するための新システムに取り組んでいる。
+0677 acceptable / 受け入れられる、容認できる / I'm not sure if this proposal will be acceptable to my boss. / この提案が上司にとって受け入れられるものかどうか分からない。
+0678 nuclear / 原子力利用の、核エネルギーの / The French government decided to shut down several nuclear plants. / フランス政府は数基の原子力発電所の運転を停止する決定を下した。
+0679 moral / 道徳上の、倫理的な / Do you think we have a moral obligation to help the poor? / 我々は貧困層を助けるという道徳的義務を負うと思いますか。
+0680 marine / 海洋の、海の / The team studied dolphins and other marine animals living in the area. / そのチームはその地域に生息するイルカやほかの海洋動物の研究をした。
+0681 conventional / 伝統的な、型にはまった / Doctors say that this new therapy works much better than any of the conventional treatments. / この新しい療法はどんな伝統的な治療法よりずっと効果的であると医師たちは言っている。
+0682 awful / ひどい、不愉快な / The weather in this region has been awful recently. / 最近、この地域の天気はひどく悪い。
+0683 consistent / 着実な、一貫した / There has been a consistent rise in unemployment over the past few years. / この2、3年、失業率数には着実な増加が見られる。
+0684 primitive / 原始的な、未開の / Early mobile phones seem very primitive when we compare them with the devices we use these days. / 最近使っている機器と比較すると、初期の携帯電話はかなり原始的に見える。
+0685 mature / 十分発達した、成熟した / She is only 15, but she is very mature for her age. / 彼女はまだ15歳だが、年齢のわりにとても大人っぽい。
+0686 unfamiliar / 不慣れな、精通していない / This leaflet is aimed at tourists who may be unfamiliar with local manners and customs. / このリーフレットは地元の風俗習慣に不慣れかもしれない旅行者向けである。
+0687 impractical / 実用的でない、非現実的な / The waiters complained that their new white uniforms were very impractical. / ウェーターたちは、新しい白い制服が非常に実用的でないと不満を漏らした。

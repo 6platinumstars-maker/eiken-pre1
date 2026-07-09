@@ -1,0 +1,76 @@
+Section 1
+見出し語番号 0001-0100
+動詞
+
+0001 last [lǽst]
+続く、継続する [= continue]
+（天候・体力・食品などが）持ちこたえる、長持ちする
+cf. last 最後の
+Example:
+The meeting between management and workers only lasted a few minutes.
+経営者と労働者間の話し合いは数分だけ続いた。
+
+0002 affect [əfékt]
+に影響を及ぼす [= influence]
+affection 愛情
+affectionate 情愛の深い
+★ effect と混同しないように注意
+Example:
+Scientists are studying how air pollution affects children's health.
+科学者は大気汚染が子供たちの健康にいかに影響を及ぼすのかを研究している。
+
+0003 claim [kléim]
+(claim that ... で) ...と主張する【言い張る】
+[= allege]
+を要求する
+主張、要求、権利
+Example:
+The manufacturer claimed that their product was better than others on the market.
+そのメーカーは自社の製品が市場で売られているほかの製品より優れていると主張した。
+
+0004 ship [ʃíp]
+を出荷する、を輸送する
+shipment 出荷、発送、積み荷
+shipping 運送、海送
+Example:
+All the goods are supposed to be shipped by the end of the week.
+全ての商品は週末までに出荷される予定である。
+
+0005 issue [íʃuː]
+（声明など）を出す [= release]
+（手形・切手など）を発行する
+問題、論点、号、発行
+Example:
+The police issued a statement on the bank robbery.
+警察はその銀行強盗事件に関する声明を出した。
+
+0006 purchase [pə́ːrtʃəs]
+を買う [= buy]
+購入、購入品
+Example:
+It is advisable to purchase a plane ticket before making a hotel reservation.
+ホテルを予約する前に飛行機のチケットを買っておくのが賢明だ。
+
+0007 occur [əkə́ːr]
+（予期しない出来事が）起こる [= happen]
+occurrence
+★ 予定されていることが起こる場合は take place
+Example:
+It is highly likely that another earthquake will occur in this area in the future.
+将来、この地域でまた地震が起こる可能性は高い。
+
+0008 deal [díːl]
+対処する (with ～に)、扱う、商う (in ～を)
+dealer 商人、商人
+Example:
+The government had trouble dealing with the situation effectively.
+政府はその状況に効果的に対処することに苦労した。
+
+0009 consume [kənsjúːm]
+を消費する、を使い果たす
+consumption
+consumer 消費者
+cf. time-consuming 時間のかかる
+Example:
+This type of big car consumes a lot of gasoline.
+このタイプの大型車は大量のガソリンを消費する。

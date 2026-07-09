@@ -1,0 +1,48 @@
+0820 leak / を漏らす、漏れる / The contents of the report were leaked to the press. / その報告書の内容が報道機関に漏れた。
+0821 jail / を投獄する / The man was jailed for five years for speaking out against the government. / その男は政府に対して反対意見を述べたことで5年間投獄された。
+0822 reform / を改革する、を改善する / The government plans to reform the education system to make it fairer for all. / 政府は全ての人により公平になるように、教育制度を改革することを計画している。
+0823 declare / を宣言する、を断言する / The mayor declared a state of emergency after the city was flooded. / 市長は、市が洪水に見舞われた後、非常事態を宣言した。
+0824 outline / の要点を述べる、の輪郭を描く / The architect briefly outlined her plans for the new museum. / その建築家は、新しい博物館の計画の概略を簡潔に述べた。
+0825 annoy / をいらいらさせる、を悩ます / It really annoys me when I see people dropping litter on the street. / 私は人が道路にごみを捨てているのを見ると、非常にいらいらする。
+0826 interfere / 妨げる、干渉する / The bright street lamp outside her bedroom interfered with her sleep. / 寝室の外の明るい街灯が彼女の睡眠を妨げた。
+0827 nest / 巣 / A pair of sparrows built a nest above the station entrance. / 2羽のスズメが、その駅の入口の上に巣を作った。
+0828 founder / 創設者 / The founder of the university was born in this town. / その大学の創設者はこの町で生まれた。
+0829 biologist / 生物学者 / He is probably the most famous biologist of all time. / 彼は、おそらく史上最も有名な生物学者であろう。
+0830 arrangement / 準備、配置、取り決め / My secretary will make the arrangements for the trip to Shanghai. / 私の秘書が、上海出張の準備をしてくれるだろう。
+0831 landfill / ごみ埋め立て地 / The local residents opposed the building of a new landfill site near the village. / 地元住民は、村の近隣に新たなごみ埋め立て地を建設することに反対した。
+0832 trunk / 幹、トランク / The squirrel ran quickly up the trunk of the tree. / そのリスは木の幹を素早く駆け上がって行った。
+0833 principle / 主義、信条、原則 / The woman refused a disposable straw, saying it was against her principles. / その女性は、彼女の主義に反すると言って、使い捨てのストローを拒否した。
+0834 series / 連続、一続き / I would like to run a series of tests on the computer system to find out what the problem is. / 私は問題を見つけるためにそのコンピューターシステムに一連のテストを行いたいと思います。
+0835 independence / 独立、自立 / India achieved independence from British rule in 1947. / インドは1947年に英国の支配から独立を果たした。
+0836 exploration / 探検、調査 / Space exploration can be extremely expensive as well as dangerous. / 宇宙探査は危険であると同時に極めて高額になり得る。
+0837 justice / 正義、公正、司法 / The people demanded justice for the man who had been killed by the police. / 人々は警察によって殺された男性のために正義を求めた。
+0838 humanity / 人類 / Climate change is probably the biggest threat facing humanity at present. / 気候変動はおそらく現在人類が直面している最大の脅威である。
+0839 involvement / 関与、巻き込まれること / The police are investigating the millionaire's involvement in the crime. / 警察はその大富豪の犯罪への関与を調査している。
+0840 accounting / 経理、会計 / The man worked in the accounting department of the company for over 30 years. / 男性はその会社の経理部で30年以上働いた。
+0841 discrimination / 差別 / The report made several suggestions as to how to end race discrimination in the workplace. / その報告書は、職場での人種差別をなくす方法について、いくつか提案をした。
+0842 inequality / 不平等 / Inequality in education is an important issue which needs to be addressed. / 教育における不平等は、取り組む必要のある重要な問題である。
+0843 master / 修士 / Applicants for this job need at least a master's degree in economics. / この仕事への応募者は少なくとも経済学修士の学位が必要である。
+0844 millennium / 1,000年（間）、千年祭 / This stadium was built to celebrate the beginning of the third millennium in the year 2000. / このスタジアムは第3千年紀の始まりを記念して2000年に建設された。
+0845 refusal / 拒否 / Everyone was surprised by his refusal to accept a promotion. / 彼が昇進の受け入れを拒否したことには皆が驚いた。
+0846 wound / 傷、負傷 / The soldier's wound became infected and he had to be rushed to the hospital. / その兵士の傷は感染し、彼は病院に緊急搬送されなければならなかった。
+0847 absence / 不在、欠席 / There is an absence of information about the long-term effects of this drug. / この薬の長期的影響に関する情報はない。
+0848 distribution / 分配、配給 / Who is in charge of the distribution of emergency supplies in this area? / この地域の防災用品の分配の責任者は誰ですか？
+0849 wilderness / 荒れ地、荒野 / The couple spent several years living in the New Zealand wilderness. / その夫婦はニュージーランドの手付かずの自然の中で数年間暮らした。
+0850 concentration / 濃度、集中、専念 / High concentrations of radiation were found in the area around the power plant. / その発電所の周辺地域で高濃度の放射線が見つかった。
+0851 craft / 工芸品、作業 / This area is famous for crafts such as pottery and weaving. / この地域は陶器や織物などの工芸品で有名である。
+0852 crust / 地殻、甲殻 / The earth's crust is composed of several different layers of rock. / 地球の地殻はいくつかの異なる岩の層からできている。
+0853 basement / 地階、地下室 / There are several shops and restaurants on the basement level of the building. / その建物の地階にはいくつかの店舗とレストランがある。
+0854 janitor / 用務員、管理人 / The school janitor is responsible for the maintenance and safety of our school buildings. / その学校の用務員は校舎の保守と安全に責任がある。
+0855 prejudice / 偏見 / The students said that they had experienced racial prejudice at school. / 生徒たちは学校で人種的偏見を経験したと言った。
+0856 prosperity / 繁栄、繁盛 / After the war ended, the country experienced a period of great prosperity. / 戦争が終わった後、その国は素晴らしい繁栄の時期を経験した。
+0857 robbery / 強盗（事件） / The painting was stolen from the museum during a robbery last week. / その絵画は、先週の強盗事件の際、美術館から盗まれた。
+0858 warranty / 保証（書） / All our washing machines come with a three-year warranty. / 当店の洗濯機は全て3年間の保証がついております。
+0859 appetite / 食欲、欲求 / I lost my appetite for a few days when I had the flu. / 私はインフルエンザにかかったとき、2、3日間、食欲がなかった。
+0860 bullet / 銃弾、弾丸 / The bullet missed the man's head by a fraction of an inch. / 銃弾はあとわずかで男の頭に当たるところだった。
+0861 preparation / 準備、支度 / I was not able to do as much preparation for the exam as I had hoped. / 私は思っていたほど試験の準備ができなかった。
+0862 citizenship / 市民権、公民権、市民であること / What documents do I need to apply for American citizenship? / アメリカの市民権を申請するには何の書類が必要ですか？
+0863 stale / 鮮度の落ちた、陳腐な / The food was great, but the bread was a bit stale. / 料理は素晴らしかったが、パンは少し堅かった。
+0864 disadvantaged / 恵まれない / They took a group of disadvantaged children on a trip to the seaside. / 彼らは恵まれない子供たちの集団を連れて海辺へ旅行に行った。
+0865 ongoing / 継続している、進行中の / We are monitoring the ongoing hostage situation. / 我々は現在発生している人質事件を注視している。
+0866 sturdy / 頑丈な、たくましい / I took cover under the sturdy desk during the earthquake. / 私は地震の間、頑丈な机の下に避難した。
+0867 unauthorized / 権限のない、認可されていない / No unauthorized persons are allowed in this area. / 権限のない人間は誰もこの地域に立ち入ることができない。

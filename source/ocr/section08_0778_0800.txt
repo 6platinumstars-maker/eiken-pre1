@@ -1,0 +1,23 @@
+0778 confident / 確信して / He said he was confident that the economy would recover soon. / 経済がまもなく回復することを確信していると彼は語った。
+0779 intelligent / 知能の高い、利口な / Everyone knows that whales and dolphins are highly intelligent animals. / クジラとイルカはとても知能が高い動物だということを誰もが知っている。
+0780 barren / 不毛の、作物ができない / The dry, barren land in that area is quite difficult to farm. / 乾燥して不毛なその地域の土地は耕すのがとても困難だ。
+0781 epidemic / 流行（伝染）性の、流行の / The influenza outbreak has already reached epidemic proportions in this country. / この国では、インフルエンザの発生がすでに大流行の域に達している。
+0782 reliable / 信頼できる / I'm afraid the bus service in this area is not very reliable. / 残念なことに、この地域のバスの運行はあまり信頼できない。
+0783 curious / 好奇心の強い、注意深すぎる / Small children are naturally very curious about the world around them. / 小さな子供たちは生来、自分たちの周りの世界に対する好奇心がとても強い。
+0784 hasty / 急ぎの、早まった / I don't think you two should be so hasty to get married. / あなたたち2人は結婚をそんなに急ぐべきではないと思う。
+0785 behavioral / 行動の / Her job is to help children with behavioral problems. / 彼女の仕事は、行動上の問題がある子供たちを助けることだ。
+0786 bulky / かさばった、扱いにくいほど大きい / He squeezed the bulky suitcase into the trunk of the car. / 彼はかさばるスーツケースを車のトランクに押し込んだ。
+0787 faulty / 欠陥のある / I had to return the bicycle because the brakes were faulty. / ブレーキに欠陥があったので、私はその自転車を返品しなければならなかった。
+0788 hectic / やたらと忙しい / The magazine editor leads a very hectic life. / その雑誌編集者はやたらと忙しい日々を送っている。
+0789 knowledgeable / よく知っている、物知りの / He is very knowledgeable about Japanese arts and crafts. / 彼は日本の美術や工芸をとてもよく知っている。
+0790 tense / 緊迫した、緊張した / The atmosphere in the hospital waiting room was very tense. / 病院の待合室の空気は非常に張り詰めていた。
+0791 intact / 損なわれていない、手をつけられていない / Not a single structure remained intact after the bombing. / 爆撃の後に無傷で残っている建造物は1つもなかった。
+0792 comprehensive / 包括的な、広範囲にわたる / This comprehensive report on air pollution contains a lot of new facts. / 大気汚染に関するこの包括的な報告書にはたくさんの新事実が含まれている。
+0793 hesitant / ためらいがちな / The little girl was very hesitant to pet the large dog. / 少女はその大型犬をなでることを大いにためらっていた。
+0794 scarce / 十分でない、乏しい / Supplies of daily necessities like drinkable water are scarce in the war zone. / その交戦地域では、飲料水といった日々の生活必需品の供給が十分ではない。
+0795 defensive / 防衛的な / I think the team needs a more defensive strategy. / 私はそのチームにはもっと守備的な戦略が必要だと思う。
+0796 permanently / 永遠に、いつも / They decided to settle permanently in the south of Spain. / 彼らはスペイン南部にずっと定住することに決めた。
+0797 nonetheless / それにもかかわらず / Everything seems to be OK now, but nonetheless we should prepare for the worst. / 今は全てうまくいっているように思えるが、それでも最悪の事態に備えるべきだ。
+0798 primarily / 主として、初めに / This English conversation course was designed primarily for beginners. / この英会話講座は主に初め者のために作られた。
+0799 intentionally / 故意に、意図的に / I would never intentionally try to hurt your feelings. / 私はあなたの感情を故意に傷つけようとは決してしない。
+0800 abruptly / 突然に / She stopped the car abruptly in the middle of the road. / 彼女は道路の真ん中で突然車を止めた。

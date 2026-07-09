@@ -1,0 +1,28 @@
+0701 capture / を捕らえる、を捕虜にする / The soldiers are thought to have been captured. / その兵士たちは捕らえられたと考えられている。
+0702 arise / 起こる、出現する / Please don't hesitate to contact me at once if any problems arise. / 何か問題が起こったらすぐに私に気兼ねなく連絡してください。
+0703 implement / を実行する / These plans are scheduled to be implemented next year. / これらの計画は来年実施される予定である。
+0704 reproduce / を複製する、を再現する / We plan to reproduce several hundred copies of the painting. / 私たちはその絵画を数百枚複製することを計画している。
+0705 seize / を差し押さえる、をつかむ / The authorities seized all of the corrupt politician's assets. / 当局は、その汚職政治家の資産全てを押収した。
+0706 dominate / を支配する、優勢である / This company has dominated the electronics market in the country for over 40 years. / この企業は40年以上にわたりこの国の電子産業市場を支配してきた。
+0707 complicate / を複雑にする / He complicated matters by not telling the police the truth immediately. / 彼は事実をすぐに警察に告げなかったことで、事態を複雑にした。
+0708 scan / をざっと見る / He scanned the classified ads looking for a new job. / 彼は新しい仕事を探すために、求人広告に目を通した。
+0709 negotiate / 交渉する、を交渉して取り決める / The nurses' union is negotiating for better working conditions. / 看護師の組合はよりよい労働条件を求めて交渉している。
+0710 illustrate / を説明する、を例示する / He illustrated his point by telling us a story about his childhood. / 彼は、子供時代の話を私たちにすることによって、自分の言わんとするところを説明した。
+0711 encounter / に遭遇する / If you encounter any difficulties, please contact me. / 何でも困ったことに遭遇したら、私に連絡してください。
+0712 confine / を限定する、を閉じ込める / The fighting was confined to one area of the city. / 戦闘は市内のある地域に限定されていた。
+0713 transmit / を送る、を伝える / The spaceship transmitted its signal back to the earth. / 宇宙船は地球にその信号を送り返した。
+0714 administer / を管理する、を治める / The charity's funds are administered by a commercial bank. / その慈善団体の資金は、商業銀行によって管理されている。
+0715 ease / を和らげる、を緩和する / After his operation, the doctor prescribed several medications to ease his pain. / 手術後に、医師は痛みを和らげるため、彼にいくつかの薬を処方した。
+0716 resume / を再開する / They are scheduled to resume work on the bridge after the winter break. / 彼らは冬期休暇の後にその橋の作業を再開する予定だ。
+0717 pursue / を追跡する、を追求する / The police pursued the stolen car for almost three kilometers. / 警察は3キロ近くその盗難車を追いかけた。
+0718 decay / 虫歯になる、腐る / The dentist warned the children that eating sweets would make their teeth decay. / 歯科医は、甘いものを食べていると虫歯になると子供たちに警告した。
+0719 shrink / 縮む、減る / My favorite shirt has shrunk after being washed many times. / 何度も洗濯されて、私のお気に入りのシャツは縮んでしまった。
+0720 cherish / を大事にする、いつくしむ / I will cherish the memories of my wedding day forever. / 私はいつまでも、結婚した日の思い出を大事にするつもりだ。
+0721 launch / を売り出す、を開始する / The cosmetics company will launch a new range of products this fall. / その化粧品会社は今秋、新しい製品シリーズを売り出すだろう。
+0722 accommodate / を収容できる、を宿泊させる / The hotel ballroom can accommodate up to 500 guests. / そのホテルのダンスホールは、500人まで客を収容することができる。
+0723 withstand / に耐える、に逆らう / The prisoner was too weak to withstand any further punishment. / その囚人はとてもひ弱で、それ以上の罰に耐えることはできなかった。
+0724 halt / を中止する、を停止させる / The government decided to halt the sale of weapons overseas. / 政府は外国への武器販売を中止する決定をした。
+0725 transform / を大きく変える / In only one year, the new CEO completely transformed the company. / たった1年で、その新CEOは完全に会社を変えた。
+0726 transplant / を移植する / The surgeons transplanted a patch of skin onto the patient's back. / 外科医たちは患者の背中に皮膚の一部を移植した。
+0727 retail / を小売りする / This sportswear company retails its products all over Europe. / このスポーツウェア会社はヨーロッパ中で製品を小売りしている。
+0728 abandon / を捨てる、を放棄する / After two years in prison, he abandoned all hope of ever being released. / 彼は刑務所で2年間過ごすと、いつかは釈放されるという一切の望みを捨てた。
