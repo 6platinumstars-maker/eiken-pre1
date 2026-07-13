@@ -1,0 +1,9 @@
+1001 disguise / を変装させる / The spy disguised himself as an elderly man. / そのスパイは初老の男性に変装した。
+1002 curb / を抑制する、を制御する / The government ministers discussed ways to curb inflation. / 政府の閣僚はインフレを抑制する方法について話し合った。
+1003 restrain / を制止する、を抑制する / The teachers restrained the two students fighting in the hall. / 先生たちは、廊下で喧嘩をする2人の生徒を制止した。
+1004 stumble / つまずく / I stumbled over a stone on the path. / 私は小道の石につまずいた。
+1005 diminish / 減少する、を減じる / His political power has begun to diminish lately. / 最近、彼の政治力が衰え始めた。
+1006 rotate / 回転する、を回転させる / All eight planets in our solar system rotate around the sun. / 太陽系の8つの惑星は全て太陽の周りを回っている。
+1007 compress / を要約する、を短縮する / The professor compressed all of his research data into one short report. / 教授は全ての研究データを1つの短い報告書にまとめた。
+1008 decode / を解読する / During the war, the women's job was to decode enemy messages. / 戦時中、その女性たちの仕事は敵のメッセージを解読することだった。
+1009 offset / を相殺する、を埋め合わせる / Gasoline prices have been raised in order to offset the higher cost of oil. / 上がる原油価格を相殺するために、ガソリン価格が引き上げられた。

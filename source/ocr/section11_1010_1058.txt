@@ -1,0 +1,49 @@
+1010 bid / 入札する / The city's major contractors all bid for the contract. / 市の主な請負業者が全社その契約に入札した。
+1011 burst / 破裂する、爆発する / The water balloon suddenly burst as the children were tossing it back and forth. / 水風船は、子供たちが投げ合っていると、突然割れた。
+1012 overtake / を追い越す、に追いつく / I waited for a chance to overtake the car in front of me. / 私は前の車を追い抜く機会を待った。
+1013 retain / を保持する / This swimsuit retains its shape even after several washes. / この水着は数回洗った後ですらその形を保持する。
+1014 litter / を散らかす / After the party, the room was littered with paper cups. / パーティーの後、部屋は紙コップで散らかっていた。
+1015 prohibit / を禁止する / Smoking is prohibited everywhere on the university campus. / 喫煙は大学のキャンパスの全ての場所で禁止されている。
+1016 discipline / を罰する、を訓練する / He has been disciplined three times for arriving late at work. / 彼はこれまで職場への遅刻で3回懲戒を受けた。
+1017 yield / を産出する、譲る / These plum trees yielded a lot of fruit last year. / これらのプラムの木は昨年、たくさんの実をつけた。
+1018 sweep / 広がる、掃く / These days, a wave of pessimism seems to be sweeping the country. / 最近、悲観主義の波が国中に広がっているようだ。
+1019 dictate / を命令する、を決定づける / You are in no position to dictate how I live my life. / あなたは私にどう生きるべきかを指図する立場にはない。
+1020 inject / を注射する / The doctor taught the medical students how to inject the vaccine into the patient's arm muscle. / 医師は医学生たちに、ワクチンを患者の腕の筋肉に注射する方法を教えた。
+1021 urge / に熱心に勧める / I urged Tom to reconsider his decision to quit his job. / 私はトムに仕事を辞めるという彼の決断を再考するように熱心に促した。
+1022 mimic / をまねる / He made the students laugh by mimicking the teacher's voice. / 彼はその教師の声をまねることで生徒たちを笑わせた。
+1023 roam / 歩き回る、放浪する / The goats were allowed to roam freely on the mountainside. / ヤギは山腹を自由に歩き回ることができた。
+1024 assess / を査定する、を評価する / It will take time to assess the amount of damage caused by the typhoon. / その台風の被害総額を査定するのには時間がかかるだろう。
+1025 boast / 自慢する / He boasted about his luxury holiday house and speedboat. / 彼は豪華な休暇用の別荘とスピードボートを自慢した。
+1026 drag / を引きずる / I dragged a spare mattress into the guest room. / 私は予備のマットレスを引きずって客間に入れた。
+1027 repay / を返済する / He found it difficult to repay the loan on time. / 彼は期日どおりにローンを返済するのは難しいことに気がついた。
+1028 overthrow / を打倒する / The government was overthrown in a military coup. / 軍のクーデターにより、政府は転覆した。
+1029 fulfill / を果たす / He has yet to fulfill his promise to buy me a ring. / 彼はまだ私に指輪を買ってくれるという約束を果たしていない。
+1030 doom / 運命づけられている / Most people agree that this project was doomed to fail from the start. / このプロジェクトは最初から失敗する運命だったとほとんどの人が同意している。
+1031 affiliate / を提携させる、を合併する / The dental hospital is affiliated with UCLA. / その歯科医院はカリフォルニア大学ロサンゼルス校と提携している。
+1032 assault / を攻撃する、を非難する / Several tourists have been assaulted in this area recently. / この地域では最近、数人の旅行者が襲われている。
+1033 testimony / 証言、証拠 / The witness's testimony helped to convict the man. / 証人の証言は、その男を有罪にするのに役立った。
+1034 errand / 使い、用足し / My mother asked me to run a couple of errands for her. / 母は私に、2、3件お使いに行ってくれないかと頼んだ。
+1035 friction / 不和、摩擦 / There was always a lot of friction between the two board members. / その2人の役員の間には常に多くのあつれきがあった。
+1036 coalition / 連立、合同 / The two parties that got the most votes in the election formed a coalition government. / 選挙で最も多くの票を得た2つの政党が連立内閣をつくった。
+1037 influx / 殺到、流入 / After the country opened its borders, they received a large influx of tourists. / その国は国境を開放した後、押し寄せる大量の観光客を受け入れた。
+1038 curse / 呪い、呪文 / The princess collapsed after a witch put a curse on her. / 魔女が呪いをかけると、プリンセスは倒れた。
+1039 app / アプリ / I downloaded several photo editing apps onto my phone. / 私は写真編集アプリをいくつか携帯電話にダウンロードした。
+1040 visibility / 視界、視野 / It was a very foggy day, and visibility on the road was bad. / とても霧の深い日だったので、道路の視界は悪かった。
+1041 fabric / 布、織物 / The firefighter's uniforms were made out of a special fireproof fabric. / 消防士の制服は特殊な不燃性の布で作られていた。
+1042 collision / 衝突 / There was a collision between a truck and a minibus on the highway. / その幹線道路でトラックと小型バスの衝突があった。
+1043 dioxide / 二酸化物 / Carbon dioxide is produced when animals breathe out. / 動物が息を吐き出すときに二酸化炭素が作られる。
+1044 orbit / 軌道 / It takes the earth 365 days to complete one orbit around the sun. / 地球が太陽の周りの軌道1周を完了するのに365日かかる。
+1045 trial / 裁判、試み / His trial is due to start at the end of next week. / 彼の裁判は来週末に始まることになっている。
+1046 literacy / 知識、読み書きの能力 / These days, it is important that children be taught media literacy. / 最近では、子供たちがメディアリテラシーを教わることが重要だ。
+1047 scheme / 計画、陰謀 / We are planning a new scheme to help the victims of crimes. / 我々は犯罪被害者を支援するための新しい計画を立てている。
+1048 completion / 完了、完成 / We went out to a restaurant to celebrate the completion of the project. / 私たちはプロジェクトの完了を祝うためにレストランへ出かけた。
+1049 expertise / 専門的知識 / People with expertise in graphic design are invited to apply for this job. / グラフィックデザインの専門知識のある方々は、この仕事にぜひ応募してください。
+1050 diploma / 卒業証書 / He hung his high school diploma on the wall. / 彼は高校の卒業証書を壁に掛けた。
+1051 livelihood / 生計、生活手段 / Farming is the main source of livelihood for people in that country. / 農業は、その国の人々にとって生計の一番の源となっている。
+1052 motive / 動機 / There seems to be no clear motive for this crime. / この犯罪にはっきりとした動機はないようだ。
+1053 recession / 景気後退、不況 / It is likely that the recession will continue for a long time. / 景気後退は長期間続きそうだ。
+1054 surrounding / 周囲の状況、環境 / They checked their surroundings with a flashlight. / 彼らは懐中電灯で、周りの状況を確認した。
+1055 fortune / 財産、幸運 / The company made a small fortune by producing car parts. / その会社は、自動車の部品を作ってちょっとした財産を築いた。
+1056 token / しるし、記念品 / Please accept this gift as a token of my gratitude. / 私の感謝のしるしとしてこの贈り物を受け取ってください。
+1057 trace / 跡、形跡 / There was no trace of a scar after the doctor took off the bandages. / 医師が包帯を取った後、傷跡は全くなかった。
+1058 venture / 冒険的事業、ベンチャー事業 / This project is a joint venture between two large banks. / このプロジェクトは、2つの大手銀行による合弁事業だ。

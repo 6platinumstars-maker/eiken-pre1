@@ -1,0 +1,49 @@
+1249 uproar / 大騒ぎ、騒動 / The court was in an uproar when the judge read out the guilty verdict. / 裁判官が有罪の判決文を読み上げたとき、裁判所は大騒ぎだった。
+1250 coincidence / 偶然の一致 / It was quite a coincidence that we booked a room at the same hotel. / 私たちが同じホテルで部屋を予約したことは、全くの偶然の一致だった。
+1251 correspondence / 通信、一致 / The newspaper reporter was found guilty of reading the star's private correspondence. / スターの個人的な通信を読んだとして、新聞記者は有罪になった。
+1252 ballot / 投票用紙、投票総数 / I placed my ballot paper in the box. / 私は投票用紙を箱に入れた。
+1253 competence / 能力、適格 / After a string of mistakes, the doctor's competence was called into question. / 一連のミスの後、その医師の能力が疑問視された。
+1254 enterprise / 事業、企業 / The designer's latest business is a joint enterprise between two fashion labels. / そのデザイナーの最新の仕事は、2つのファッションレーベルの合弁事業だ。
+1255 hazard / 危険 / Scientists warned that the high levels of toxins in the lake were a health hazard. / 科学者たちは、湖の中の高濃度の毒素が健康にとって危険であると警告した。
+1256 explosion / 爆発、急激な増加 / The small explosion led to the fire that destroyed the whole building. / その小さな爆発が、ビル全体を破壊する火事の引き金になった。
+1257 famine / 飢饉 / Aid workers are warning of a potential famine in the area. / 援助要員の人々は、その地域の飢餓の可能性について警告している。
+1258 acceptance / 受諾、受け取り / He was overjoyed at her acceptance of his marriage proposal. / 彼は彼女が結婚のプロポーズを受け入れてくれたことに大喜びした。
+1259 leftover / 残りもの / Let's have the leftovers for breakfast tomorrow. / 残りものは明日の朝食に食べましょう。
+1260 apprehension / 不安、懸念 / He felt apprehension at the thought of having to look for a new job. / 新しい仕事を探さなくてはならないという考えに彼は不安を感じた。
+1261 wreck / 残骸、難破（船） / Divers searched the wreck of the ship for treasure. / ダイバーたちは宝物を求めて船の残骸を探索した。
+1262 landmark / 歴史的建造物、画期的な出来事 / This is one of the most famous landmarks in the Japanese capital. / これは日本の首都で最も有名な歴史的建造物の1つだ。
+1263 dweller / 居住者 / The people in these wall paintings were probably cave dwellers. / これらの壁画に描かれている人々はおそらく、洞窟に住んでいた人々だろう。
+1264 geometry / 幾何学 / All students in this school must study advanced geometry. / この学校では全生徒が上級幾何学を学ばなければならない。
+1265 standby / 頼りになるもの、代用品 / This electric power generator can be used as a standby in emergencies. / この発電機は非常時に頼りになるものとして利用できる。
+1266 diversity / 多様性 / The new school librarian noticed there was a lack of diversity in children's literature. / 新しい学校司書は、児童文学における多様性の欠如に気づいた。
+1267 accuracy / 正確さ、的確さ / Some people are questioning the accuracy of the witness's statement. / その証人の陳述の正確さに疑いを抱く人もいる。
+1268 tap / 蛇口 / I filled my bottle with water from the tap. / 私は水筒を水道の水で満たした。
+1269 brick / れんが / In the UK, there are many historic buildings made of brick. / イギリスにはれんが造りの歴史的建造物が多く存在する。
+1270 bay / 入江、湾 / The couple moved into a large apartment overlooking the bay. / そのカップルは入江を見渡す大きなアパートに入居した。
+1271 lenient / 寛大な / Relatives of the victims felt the killer's sentence was too lenient. / 被害者の親族は、殺人犯に下された判決は寛大過ぎると感じた。
+1272 stubborn / 頑固な / He is so stubborn that he will continue arguing until everyone gives in. / 彼はとても頑固なので、みんなが降参するまで議論を続けるだろう。
+1273 clumsy / 不器用な / She is very clumsy and is always knocking things over. / 彼女はとても不器用で、いつもものをひっくり返している。
+1274 perilous / とても危険な / The young journalist found herself in a perilous situation. / その若いジャーナリストは、自分がとても危険な状況にいることに気づいた。
+1275 adverse / 不利な、反対の / The boat race was canceled due to adverse weather conditions. / 悪天候のため、ボートレースは中止になった。
+1276 persistent / 執拗な、持続する / I was followed around the store by a very persistent salesperson. / 私はとてもしつこい販売員に店中をついて回られた。
+1277 outrageous / 法外な、途方もない / The prices this lawyer charges are outrageous. / この弁護士が請求する料金は法外だ。
+1278 skeptical / 懐疑的な / Many people are very skeptical about the possibility of peace in the region. / 多くの人々が、その地域の和平の可能性に関してとても懐疑的だ。
+1279 legitimate / 合法的な、もっともな / I'm not sure if their business activities are completely legitimate. / 私には、彼らの事業活動が完全に合法的であるかどうか分からない。
+1280 corrupt / 不正な、堕落した / The corrupt officials were arrested for accepting bribes. / 収賄の罪で汚職役人たちが逮捕された。
+1281 experimental / 実験の、実験[試験]的な / This treatment is still experimental and we cannot be sure that it is safe. / この治療法は今も実験段階にあり、安全だということは確信が持てない。
+1282 improper / 不適切な、無作法な / The investigation showed that the restaurant had prepared the food in an improper way. / そのレストランが不適切な方法で食べ物を調理していたことが、調査で分かった。
+1283 spontaneous / 自然発生的な、自発的な / We made a spontaneous decision to buy a car on the spot. / 私たちは車を買おうとその場で自然に決めた。
+1284 unconditional / 無条件の、絶対的な / They are demanding the unconditional surrender of the army. / 彼らは軍隊の無条件降伏を要求している。
+1285 counterfeit / 偽造の、偽の / It is a crime to knowingly sell counterfeit goods. / 故意に偽造品を売るのは犯罪だ。
+1286 dizzy / めまいがする、くらくらする / I felt really dizzy after riding on the roller coaster. / 私はジェットコースターに乗ってひどくめまいがした。
+1287 sustainable / 持続できる、維持できる / The present rate of economic growth is simply not sustainable. / 現代の経済成長は全く持続可能ではない。
+1288 democratic / 民主主義の、民主的な / In this country, we have a democratic government elected by the people. / この国には、人民によって選出された民主政府がある。
+1289 conservative / 保守的な / Many of the professors in this university are rather conservative in their thinking. / この大学の教授の多くはかなり保守的な意見を持っている。
+1290 fundamental / 基本的な、必須の / Freedom of speech is one of the fundamental human rights. / 言論の自由は基本的人権の1つである。
+1291 ambitious / 野心的な、大志を抱いた / The new mayor announced some very ambitious plans to redevelop the city. / 新市長は、市の再開発に向けた野心的な計画を発表した。
+1292 concrete / 具体的な、明確な / Can you provide me with concrete evidence to prove your theory is true? / あなたの理論が真実であることを証明する具体的な証拠を示してもらえますか。
+1293 cruel / 残酷な / The leader of the country is known to be a cruel tyrant. / その国の指導者は残酷な暴君として知られている。
+1294 inferior / 劣悪な、劣った / The company saved money by using inferior building materials. / その会社は粗悪な建築材料を使うことでお金を節約した。
+1295 ample / 十分な、豊富な / If we leave at 8 a.m., we will have ample time to get to the airport. / 午前8時に出発すれば、空港に到着するのに十分な時間がある。
+1296 inaccurate / 不正確な、誤りのある / The sales figures written in the report are inaccurate. / その報告書に書かれた売上高は不正確である。
+1297 inadequate / 不十分な、不適当な / The amount of food we have to feed the refugees is inadequate. / 難民に食べさせるために私たちが持っている食糧の量は不十分だ。

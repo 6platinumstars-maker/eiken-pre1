@@ -1,0 +1,41 @@
+0960 invoice / 明細請求書、納品書 / Can you send me the invoice for this job by the end of the month? / この仕事の請求書を月末までに送っていただけますか？
+0961 leisure / 自由な時間、余暇 / He has been working in the leisure industry for several years. / 彼はこの数年間、レジャー産業に従事してきた。
+0962 meditation / 瞑想、黙想 / They teach a variety of meditation techniques to help the children manage their stress better. / 子供たちがより上手にストレスと付き合えるように、彼らはさまざまな瞑想を教えている。
+0963 procession / 行列、行進 / Thousands of people gathered to watch the royal procession last Sunday. / 先週の日曜日、何千人もの人が王室の行列を見るために集まった。
+0964 unrest / （社会的な）混乱、不安 / The government had trouble dealing with the unrest in the city. / 政府はその市の混乱に対処するのに苦労した。
+0965 equator / 赤道 / The island is located around 100 kilometers south of the equator. / その島は、赤道の南、約100キロに位置している。
+0966 exhausted / 疲れ果てた / I'm too exhausted to cook tonight. Shall we order some takeout? / 私は今夜はくたくたで料理ができない。テイクアウトを注文しようか？
+0967 problematic / 問題のある、疑わしい / The political situation in this region is more problematic than we first thought. / この地域の政治情勢は、我々が当初想っていたよりも問題がある。
+0968 desirable / 望ましい / The house is expensive because it is located in a very desirable area. / その家は非常に魅力ある地域にあるため、価格が高い。
+0969 geological / 地質（学）上の / The team carried out a geological survey of the entire region. / そのチームは、地域全体の地質調査を実施した。
+0970 rash / 早まった、軽率な / I advise you to think carefully before making any rash decisions. / 早まった決断をする前に、慎重に考えることを勧めます。
+0971 solitary / ひとりの、孤独の / The dangerous prisoner was placed in a solitary cell. / その危険な囚人は独房に入れられた。
+0972 uneven / でこぼこな、平らでない / Take care not to trip. The ground around the door is very uneven. / つまずかないように気をつけて。ドアの辺りの地面はかなりでこぼこになっているので。
+0973 antique / 骨董の、時代遅れの / The store was filled with beautiful antique furniture. / その店は美しい骨董家具で埋め尽くされていた。
+0974 dense / 濃い、密集した / The hikers had trouble finding their camp in the dense fog. / ハイカーたちは濃い霧の中、キャンプ場を見つけるのに苦労した。
+0975 economical / 経済的な、安上がりな / This car uses a lot of gas and is not at all economical to drive. / この車は多くのガソリンを使い、運転が全く経済的ではない。
+0976 fictional / 架空の、フィクションの / This story is set in a fictional town in the north of Spain. / この物語の舞台は、スペイン北部の架空の町に設定されている。
+0977 gradual / 徐々の、なだらかな / Over the last few years, there has been a gradual change in the weather. / この数年にわたって、気候が徐々に変化してきた。
+0978 intimate / くつろげる、親密な / This restaurant has an intimate atmosphere and is ideal for a date. / このレストランにはくつろげる雰囲気があり、デートにうってつけだ。
+0979 lengthy / 長い、長時間の / The lengthy report explains the problems with the current school system. / その長々と書かれた報告書では、現在の学校制度に関する問題点が説明されている。
+0980 ultimate / 最終の、究極の / Our ultimate goal is to create an effective treatment for the disease. / 我々の最終的な目標は、その病気の効果的な治療法を作り出すことだ。
+0981 victorious / 勝利を得た、勝ち誇った / France was victorious over Croatia in the World Cup final. / フランスはワールドカップの決勝戦でクロアチアに勝利した。
+0982 witty / 機知に富んだ / The actor made a number of witty remarks during his radio interview. / その俳優はラジオのインタビューで、いくつかの機知に富む発言をした。
+0983 blurry / ぼやけた、不鮮明な / The old photograph was very blurry, and it was hard to make out the people's faces. / その古い写真はかなりぼやけていて、顔を見分けるのが難しかった。
+0984 exceptional / 例外的に優れた、まれな / She showed exceptional talent as a painter from a very young age. / 彼女は幼いころから画家としての並外れた才能を見せた。
+0985 finite / 有限の、限られた / It is important to remember that a lot of the natural resources we rely on are finite. / 我々が依存する多くの天然資源は有限であることを忘れないことは重要である。
+0986 on-the-job / 実地の、職場での / This position offers on-the-job training as well as full health insurance. / この職では、完全な健康保険のほか、実地訓練が提供される。
+0987 vacant / 空いている、使用されていない / The apartment on the first floor of this building has been vacant for over a year. / この建物の1階のアパートは1年以上空室になっている。
+0988 cheery / 陽気な、元気な / My neighbor waved and gave me a cheery smile as she passed my gate. / 隣人は私の家の門を通り過ぎるとき、手を振って陽気な笑顔を見せてくれた。
+0989 cowardly / 卑怯な、臆病な / The judge condemned the cowardly attack on the homeless man. / 裁判官はホームレスの男性に対するその卑怯な攻撃を非難した。
+0990 immeasurable / 計り知れない、果てしない、広大な / The oil spill caused immeasurable harm to the wildlife living along the coast. / その原油流出は海岸沿いに生息する野生生物に計り知れない害をもたらした。
+0991 impaired / 障害のある、弱った、損なわれた / It is essential that those who are visually impaired get the support they need. / 視覚障害のある人々が必要な支援を得ることは極めて重要である。
+0992 impassable / 通行できない、克服できない / This mountain road is virtually impassable during the winter months. / この山道は冬の間は事実上通行できない。
+0993 inactive / 不活発な、停止中の / The scientist explained that the volcano had been inactive for over 100 years. / その火山は100年以上活動を休止していると、科学者は説明した。
+0994 inconvenient / 不便な、不都合な / My new office is situated in a very inconvenient location. / 私の新しいオフィスはとても不便な場所にある。
+0995 superstitious / 迷信深い、迷信の / My grandmother is more superstitious than anyone else in my family. / 私の洋祖母は家族の誰よりも迷信深い。
+0996 unpleasant / 不愉快な、いやな / There was a very unpleasant smell coming from the drain in the hotel bathroom. / ホテルの浴室の排水口からとても不快な臭いがした。
+0997 wicked / 悪意のある、意地の悪い / In the story, a wicked wizard casts a spell on a princess. / その物語では、邪悪な魔法使いがプリンセスに魔法をかける。
+0998 ecological / 環境の、生態（学）の / Climate change is probably the most important ecological issue we face these days. / 気候変動はおそらく、近頃我々が直面している最も重要な環境問題である。
+0999 imaginary / 想像上の、架空の / The author wrote about an imaginary world where there is no war. / その作家は、戦争のない想像上の世界について書いた。
+1000 ripe / 熟した、実った / These kiwis are not ripe enough to eat yet. / これらのキウイは、食べるにはまだ十分に熟れていない。

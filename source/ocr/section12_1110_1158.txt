@@ -1,0 +1,49 @@
+1110 sprain / をくじく、を捻挫する / She fell and sprained her wrist in gym class yesterday. / 彼女は昨日、体育の授業で転倒し、手首をくじいた。
+1111 resent / に憤慨する / She resented her parents for treating her like a child. / 彼女は自分を子供のように扱う両親に憤慨した。
+1112 thrive / 成功する、繁栄する / The computer software company is thriving in a very competitive market. / そのコンピューターソフトウェア会社は、とても競争の激しい市場の中で成功している。
+1113 embrace / を抱擁する、を受け入れる / He embraced his wife one last time before he left for the airport. / 彼は空港へ向かう前に、最後にもう一度だけ妻を抱きしめた。
+1114 excel / 優れている、に勝る / He is very strong and excels at sports. / 彼はとても強く、スポーツに秀でている。
+1115 enroll / 入学する、登録する / Forty percent fewer students enrolled this year, compared to last year. / 今年は昨年と比べて、40パーセント少ない学生が入学手続きをした。
+1116 retrieve / を取り戻す、を回復する / The police were unable to retrieve all the stolen jewelry. / 警察は盗まれた宝石の全てを取り戻すことはできなかった。
+1117 degrade / の面目を失わせる、の質を低下させる / I think this advertisement degrades women. / この広告は女性をおとしめるものだと思う。
+1118 reconcile / を一致させる、を和解させる / It was not easy for her to reconcile her career with her family life. / 彼女にとって仕事を家庭生活と調和させることは容易ではなかった。
+1119 contaminate / を汚染させる、を汚す / The drinking water was found to be contaminated. / 飲料水は汚染されていることが分かった。
+1120 disrupt / を混乱させる、を中断させる / Train services were disrupted this morning due to a power failure. / 停電のために、今朝は列車の運行が混乱した。
+1121 divert / をそらす、を迂回させる / The politician tried to divert people's attention away from his scandal. / その政治家は自分のスキャンダルから国民の関心をそらそうとした。
+1122 grumble / 不平を述べる / The hospital staff are always grumbling about their long work hours. / その病院の職員は長時間労働についていつも不平を言っている。
+1123 provoke / を怒らせる、を引き起こす / He tried to provoke me, but I just ignored him. / 彼は私を怒らせようとしたが、私はただ彼を無視した。
+1124 outweigh / より価値がある、より重い / The advantages of taking the new job far outweigh the disadvantages. / その新しい仕事に就く利点の方が不利な点をはるかに上回っている。
+1125 crave / を切望する / His life was very boring and he craved excitement. / 彼の生活はとても退屈で、彼はわくわくするようなことを切望した。
+1126 sustain / を持続させる、を支える / It was difficult to sustain the students' interest until the end of the lecture. / 講義の最後まで学生たちの興味を持続させるのは難しかった。
+1127 disclose / を明らかにする、を暴露する / Three people were reported missing, but their names were not disclosed. / 3人が行方不明であると報告されたが、その名前は明らかにされなかった。
+1128 tempt / を誘惑する、を引きつける / He tried to tempt me with some chocolate, but I stuck to my diet. / 彼はチョコレートを使って私を誘惑しようとしたが、私はダイエットを貫いた。
+1129 resign / 辞職する、辞任する / I have decided to resign from my job. / 私は仕事を辞めることに決めた。
+1130 dismiss / を解雇する、を退ける / The security guard was dismissed for sleeping on the job. / 仕事中の居眠りを理由にその警備員は解雇された。
+1131 surpass / を超える、に勝る / She surpassed her own best 100-meter time in the Olympic final. / 彼女はオリンピックの決勝で自身の100メートルのベスト記録を上回った。
+1132 bounce / 跳ね返る、弾む / The ball bounced off the post into the goal. / ボールはポストに跳ね返ってゴールに入った。
+1133 bureau / 官庁の局、事務所 / He works as an agent for the Federal Bureau of Investigation. / 彼は連邦捜査局（FBI）のエージェントとして働いている。
+1134 dependency / 依存、依頼 / I'm very concerned about his dependency on alcohol. / 私は彼のアルコールへの依存をとても心配している。
+1135 discomfort / 不快、不便 / The patient felt some discomfort during his dental treatment. / 患者は歯の治療中、多少の不快さを感じた。
+1136 drawback / 欠点、不利な点 / We discussed both the benefits and the drawbacks of the plan. / 私たちはその計画の利点についても欠点についても議論した。
+1137 feast / 祝宴、ごちそう / Over two hundred guests were invited to the wedding feast. / 結婚披露宴には200人を超える客が招待されていた。
+1138 hydrogen / 水素 / Hydrogen is a gas that has no taste, color or odor. / 水素は味も色もにおいもない気体だ。
+1139 modernization / 近代化、現代化、最新式化 / They are working on a plan for the modernization of the railway system. / 彼らは鉄道の近代化計画に取り組んでいる。
+1140 objective / 目的、目標 / The main objective of this meeting is to decide next year's budget. / この会合の主な目的は、来年の予算を決定することだ。
+1141 poll / 世論調査、投票数 / A recent government poll has shown that most people don't want higher taxes. / 最近の政府の対面調査によると、大半の国民が増税を望んでいないことが分かった。
+1142 ration / 食料の割当量 / She gave her ration of bread to the hungry child. / 彼女は、おなかをすかせた子供に自分の割当分のパンをあげた。
+1143 revenue / 歳入、収益 / The report said that last year there was a decrease in tax revenues. / その報告書によると、去年は税収が減った。
+1144 scholarship / 奨学金、学識 / He studied hard and won a scholarship to a very good school. / 彼は一生懸命に勉強し、とても優秀な学校の奨学金を得た。
+1145 upbringing / 養育、しつけ / The children had a very secure and stable upbringing. / その子供たちは、とても安全で安定した育ちを受けた。
+1146 compliment / 賞賛 / I received a lot of nice compliments about my new coat. / 私は自分の新しいコートについてたくさんのうれしいお褒めの言葉をもらった。
+1147 excerpt / 抜粋、引用 / I watched an excerpt from the Premier's speech on the evening news. / 私は夜のニュースで首相の演説からの抜粋を見た。
+1148 faith / 信仰、信用 / Faith is the most important thing in his life. / 彼の人生では信仰こそが最も重要なものだ。
+1149 segment / 部分、区分 / She fed the child a segment of orange. / 彼女は子供にオレンジを1切れ食べさせた。
+1150 downturn / 下降、落ち込み / We are very worried about the recent downturn in sales. / 私たちは最近の売り上げの落ち込みをとても心配している。
+1151 temper / 機嫌、怒り、気質 / He is usually really nice, but watch out for his bad temper. / 彼は普段はとてもいい人だが、短気が悪いときは要注意だ。
+1152 fragment / 破片、かけら / She cut her finger on a small fragment of glass. / 彼女はガラスの小さな破片で指を切った。
+1153 intersection / 交差点 / The hotel is located at the intersection of Main Street and Front Street. / そのホテルは、メイン通りとフロント通りの交差点にある。
+1154 anarchy / 無秩序、無政府状態 / The election results were so unpopular that they led to anarchy in the capital. / 選挙結果は人々の不平を買い、首都に無秩序を引き起こした。
+1155 breakup / 解消、別れ / The famous couple's breakup was announced by their manager. / 有名人カップルの破局が、彼らのマネージャーによって発表された。
+1156 privilege / 特権、権利 / Access to healthcare should be a right, not a privilege. / 保健医療の利用は特権ではなく、権利であるべきだ。
+1157 exemption / 免除 / Only non-residents will be given an exemption from this tax. / 非居住者だけがこの税の免除を受ける。
+1158 monarch / 君主 / Few monarchs still actively rule their countries nowadays. / 今においてなお国を積極的に統治している君主はほとんどいない。

@@ -1,0 +1,40 @@
+0920 sympathize / 同情する / Having experienced something similar myself, I really sympathize with her situation. / 私自身、似たような経験をしてきたので、彼女の状況には本当に同情する。
+0921 glide / 滑らかに動く、音もなく移動する / The actress glided gracefully into the ballroom. / その女優は滑るように優雅に舞踏場へ入って行った。
+0922 kidnap / を誘拐する / The billionaire's son was kidnapped on his way to school this morning. / その億万長者の息子が、今朝学校へ行く途中で誘拐された。
+0923 pretend / 〜のつもりになる、〜するふりをする / The children pretended to be characters from their favorite TV show. / 子供たちは大好きなテレビ番組の登場人物のつもりになっていた。
+0924 simmer / ことこと煮える / I left the soup to simmer on the stove while I laid the table. / 私は食事の準備をする間、スープをコンロでことこと煮ていた。
+0925 thaw / 解凍される、溶ける / The frozen strawberries took several hours to thaw completely. / 冷凍のイチゴが完全に解凍されるまで数時間かかった。
+0926 unfold / 明らかになる、を明らかにする / Slowly the details of the crime began to unfold. / 少しずつ、その犯罪の詳細が明らかになり始めた。
+0927 detain / を勾留する、を引き留める / The police have detained two suspects in connection with the robbery last week. / 警察は先週の強盗事件に関連して2人の容疑者を勾留した。
+0928 puncture / （タイヤを）パンクさせる、に穴をあける / Somebody punctured the tires on my bicycle when I left it outside the park yesterday. / 昨日公園の外に自転車を置いていたら、誰かがタイヤをパンクさせた。
+0929 strangle / を抑圧する、を窒息させる / Some people complained that the new government restrictions were strangling the economy. / 政府による新たな規制は経済を抑制していると不満を訴す人もいた。
+0930 hygiene / 衛生（状態）、清潔 / In the interests of hygiene, please wash your hands for at least 20 seconds with soap and hot water. / 衛生上の理由から、せっけんとお湯で少なくとも20秒は手を洗ってください。
+0931 oppression / 抑圧、虐待 / We must do our best to support the victims of political oppression. / 我々は政治的抑圧の被害者を支援することに最善を尽くさなければならない。
+0932 collaboration / 合作、共同、協力 / This new art show is a collaboration between artists from various countries in Europe. / この新しい美術展はヨーロッパのさまざまな国の芸術家たちの合作です。
+0933 harbor / 港、避難所 / From our hotel room, we had a great view of the boats in the harbor. / ホテルの部屋からは港に停泊している船の素晴らしい景色が楽しめた。
+0934 lawn / 芝生 / Due to water shortages, residents were asked not to water their lawns. / 水不足のため、住民は芝生に水をやらないように依頼された。
+0935 pedestrian / 歩行者 / There is no safe place for pedestrians to cross the road around here. / この辺りには、歩行者が道路を横断できる安全な場所がない。
+0936 racism / 人種差別 / Thousands of people all over the country recently took part in protests against racism. / つい最近、国中で何千人もの人々が人種差別に対する抗議に参加した。
+0937 summit / 首脳会議、頂上 / Leaders from all over the world attended the summit last week. / 世界中の首脳が先週首脳会議に出席した。
+0938 bug / 虫、昆虫 / The small boy loved to look at the bugs in his grandmother's garden. / その小さな男の子は、祖母の家の庭で虫を見るのが大好きだった。
+0939 dirt / 汚れ、泥 / I can't seem to get all the dirt off the windows of my car. / 車の窓の汚れを全て拭き取ることができそうにない。
+0940 maternity / 母であること、母性 / She took a year's maternity leave after the birth of her son. / 彼女は息子を出産した後、1年間の産休を取得した。
+0941 stroke / 脳卒中、発作 / The man was unable to walk after suffering a stroke. / その男性は脳卒中を起こした後、歩くことができなかった。
+0942 tale / 話、物語 / One of the local people told me an interesting tale about a giant who lived in the mountains. / 地元の人の1人が私に山に住む巨人の面白い話をしてくれた。
+0943 certainty / 確実性、確信 / I cannot say with certainty if we will be able to take a vacation next year. / 来年私たちが休暇を取れるかどうかを確実に言うことはできない。
+0944 imbalance / 不均衡、アンバランス / The minister reported that there was an imbalance between the country's import and export figures. / その大臣は、国の輸入額と輸出額の間には不均衡があると報告した。
+0945 incidence / 発生（率） / There are several reasons why the incidence of crime is so low in this state. / この州で犯罪の発生率がそれほど低いのにはいくつか理由がある。
+0946 pit / 穴、くぼみ / The ancient people buried their treasures in a deep pit in the middle of the desert. / 古代の人々は、砂漠の真ん中の深い穴に彼らの宝物を埋めた。
+0947 texture / 手触り、質感 / I don't like the color or texture of this carpet. / 私はこのカーペットの色も手触りも好きでない。
+0948 thumb / 親指 / I hit my thumb with a hammer when I was hanging up a picture. / 私は絵を掛けているときに、金づちで親指を打ってしまった。
+0949 undergraduate / 大学生 / Several undergraduates live together in this apartment. / 数人の大学生がこのアパートで一緒に暮らしている。
+0950 wisdom / 知恵、賢明さ / There is a lot of wisdom contained in these children's stories. / これらの子供向けの物語には多くの知恵が含まれている。
+0951 bride / 花嫁、新婦 / The bride wore a long white dress with a veil. / その花嫁はベールの付いた長い白いドレスを身に着けていた。
+0952 dictator / 独裁者、専制君主 / After 10 years, the dictator was finally removed from power. / 10年経ってやっと、その独裁者は権力の座から追放された。
+0953 signature / 署名、サイン / We require your signature on each of these insurance documents. / これらの保険書類の全てに署名が必要です。
+0954 testament / あかし、証拠 / The fact that this temple survived the earthquake is a testament to the skill of its builders. / この寺院が地震に耐えたという事実は、建築者の技術のあかしである。
+0955 attachment / 添付ファイル、添付書類 / I'm sending you the contract and other related information as an attachment. / 契約書とはかの関連情報を、添付ファイルでお送りします。
+0956 bachelor / 独身の男性、学士 / He said he enjoys life as a bachelor and has no plans to get married. / 彼は独身者としての生活が楽しく、結婚する予定はないと言った。
+0957 blister / 水ぶくれ / My new shoes are very uncomfortable and I have several blisters on my feet. / 私の新しい靴はとても履き心地が悪く、足にいくつか水ぶくれができている。
+0958 blockade / 封鎖 / The blockade of the country's ports and airports is causing a great deal of hardship for residents. / その国の港と空港の封鎖は、住民に多大な困難を引き起こしている。
+0959 condo / 分譲マンション / The couple bought a luxury condo in this area. / そのカップルはこの地域の高級マンションを購入した。

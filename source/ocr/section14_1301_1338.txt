@@ -1,0 +1,38 @@
+1301 retreat / 引っ込む、退く / My father always retreats to his study when he wants to be alone. / 私の父は1人になりたくなるといつも自分の書斎に引っ込む。
+1302 revolt / 暴動を起こす、むかむかさせる / Many people revolted in the capital because of poor living conditions. / 生活環境が悪かったので、首都では多くの人が暴動を起こした。
+1303 deflect / をそらす、の方向を変えさせる / He blamed me in an attempt to deflect criticism away from himself. / 彼は自分から非難をそらそうとして私のせいにした。
+1304 demote / を降格する / She was demoted because she was late for work so often. / 彼女は仕事に頻繁に遅刻したため、降格された。
+1305 despise / を軽蔑する、をひどく嫌う / She despised them for saying such unkind things to their classmate. / クラスメートにそのような思いやりのないことを言うので、彼女は彼らのことを軽蔑した。
+1306 grasp / を理解する、をしっかりと握る / It took us a while to grasp how serious the situation was. / 私たちが状況の深刻さを理解するのにしばらくかかった。
+1307 summon / を呼び出す、を召喚する / The queen summoned the palace guards. / 女王は宮殿の護衛を呼び出した。
+1308 expel / を追放する / The boy was expelled from his school for bad behavior. / 少年は不品行のため、学校を退学させられた。
+1309 redeem / を埋め合わせる、を償う / After he had kept everyone waiting, he attempted to redeem the situation by buying everyone drinks. / みんなを待たせた埋め合わせに、彼はみんなに飲み物を買うことで状況を挽回しようとした。
+1310 comprise / で構成される、を含む / The museum's collection comprises over 4,000 paintings and sculptures. / その美術館のコレクションは4,000点を超える絵画と彫刻で構成されている。
+1311 prevail / 流布している、打ち勝つ / Some unusual funeral customs still prevail in this part of the world. / 世界のこの地域では、珍しい葬儀の習慣が今なお広く行われている。
+1312 eject / を取り出す、を追い出す / Please eject the CD from the player before turning it off. / 電源を切る前に、CDをプレーヤーから取り出してください。
+1313 falsify / を偽造する / She falsified some important documents in order to get a bank loan. / 銀行から融資を受けるために、彼女は一部の重要書類を偽造した。
+1314 obstruct / を妨害する、をふさぐ / An overturned truck on Route 66 is obstructing traffic. / 66号線の横転したトラックが交通の妨げになっている。
+1315 depict / を描く、を描写する / Pictures and photos depicting heroes will be on display in this gallery next month. / このギャラリーでは来月、英雄を描いた絵と写真を展示する予定である。
+1316 tremble / 震える / The boy's legs trembled with fear as he stood on the high diving board. / 高い飛び込み台に立ったとき、その少年の脚は恐怖で震えた。
+1317 confess / を白状する、を自供する / The man confessed to breaking into the house and stealing several items. / 男はその家に押し入り、数点の物を盗んだことを自供した。
+1318 stare / じっと見つめる / The small boy stared at the toys in the window of the shop. / その小さな少年は店のウィンドーにあるおもちゃをじっと見つめた。
+1319 ache / 痛む、うずく / My legs began to ache as I climbed up the mountain. / 山を登っていると、私の脚が痛み始めた。
+1320 reflect / を反映する、を反射する / In some cases, test scores do not reflect the student's performance. / テストの点数が生徒の成績を反映しないケースもある。
+1321 assert / と主張する、を断言する / The young woman asserted that she was innocent of the crime. / その若い女性は、その犯罪に関して無実であると主張した。
+1322 impose / を課す、を押しつける / The government is planning to impose a new tax on all alcoholic beverages. / 政府は全てのアルコール飲料に新しい税を課す予定だ。
+1323 interpret / を解釈する、を通訳する / The survey data can be interpreted in a number of different ways. / その調査データはいくつかの異なる形で解釈することができる。
+1324 devote / を捧げる / The scientist devoted several years of his life to the research project. / その科学者は人生の数年間をその研究プロジェクトに捧げた。
+1325 deteriorate / 悪化する / Security in the area is deteriorating fast and there are shootings every day. / その地域の治安は急速に悪化しており、毎日発砲事件が起きている。
+1326 contemplate / しようと考える、を熟考する / I have been contemplating moving abroad for a while. / 私はしばらく海外へ移住しようと考えている。
+1327 delegate / を委譲する、派遣する / I was very busy, so I delegated several tasks to my assistant. / 私はとても忙しかったので、いくつかの仕事をアシスタントに委ねた。
+1328 propel / を進ませる、（人）を駆り立てる / The company spokesperson explained the new car is propelled by solar energy. / その企業の広報担当者は、新型車は太陽エネルギーで進むと説明した。
+1329 recede / 後退する、退く / The floods receded after a few days and the local people were able to return to their houses. / 大水は数日で引き、地元の人々は自宅へ戻ることができた。
+1330 scrape / をこすり取る、の表面をこする / It took me a long time to scrape the mud off my boots. / 私の長靴から泥をこすり落とすのに長時間かかった。
+1331 smash / を粉々に壊す / The woman dropped the mirror and it smashed into pieces on the floor. / その女性が鏡を落とすと、それは床で粉々に割れた。
+1332 scold / をしかる / The mother scolded her teenage son for coming home late. / 母親は夜遅く帰宅したことでティーンエイジャーの息子をしかった。
+1333 amuse / を楽しませる / The boy likes to amuse his classmates by telling funny jokes. / その少年は面白い冗談を言ってクラスメートを楽しませるのが好きだ。
+1334 overhaul / を徹底的に見直す、を分解修理する / The government plans to overhaul the public healthcare system next year. / 政府は来年、公的保健医療制度を徹底的に見直す予定だ。
+1335 herd / 群れ / A herd of sheep crossed the road in front of us. / 私たちの目の前で羊の群れが道を横切った。
+1336 bait / 誘惑物、釣り針の餌 / He used the diamond ring as bait to get her to marry him. / 彼は、彼女が彼と結婚する気になるように、ダイヤモンドの指輪を餌に使った。
+1337 petition / 請願、嘆願（書） / About 2,000 people have already signed the petition. / 約2,000の人々が、すでに請願に署名した。
+1338 ransom / 身代金 / The kidnappers demanded a ransom of 2 million dollars for the return of the child. / 誘拐犯は子供を返す見返りとして200万ドルの身代金を要求した。
