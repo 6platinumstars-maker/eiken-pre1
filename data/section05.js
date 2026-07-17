@@ -7,7 +7,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s401",
       english: "The continuous rain spoiled our holiday on the tropical island.",
-      japanese: "降り続く雨が常緑の島での我々の休暇を台無しにした。",
+      japanese: "降り続く雨がその南国の島での私たちの休暇を台無しにした。",
       vocabRefs: ["v0401"]
     },
     {
@@ -19,7 +19,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s403",
       english: "The noise distracted them from doing their homework.",
-      japanese: "その騒音のせいで、宿題から彼らは注意がそれた。",
+      japanese: "その騒音のせいで、彼らは宿題に集中できなかった。",
       vocabRefs: ["v0403"]
     },
     {
@@ -79,7 +79,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s413",
       english: "My wife accompanied me on my business trip to Seoul.",
-      japanese: "私の妻はソウルに行く私と一緒に行った。",
+      japanese: "妻は私のソウル出張に同行した。",
       vocabRefs: ["v0413"]
     },
     {
@@ -163,7 +163,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s427",
       english: "At this language school, we tailor our lessons to meet the needs of each student.",
-      japanese: "当語学学校では、各学習者のニーズに添うようレッスンを行っています。",
+      japanese: "この語学学校では、各生徒のニーズに合わせて授業を行っています。",
       vocabRefs: ["v0427"]
     },
     {
@@ -205,13 +205,13 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s434",
       english: "The students learned about deforestation and why it is bad for our planet.",
-      japanese: "生徒たちは森林破壊とそれが地球にとって影響を与える理由について学んだ。",
+      japanese: "生徒たちは森林破壊と、それが地球によくない理由について学んだ。",
       vocabRefs: ["v0434"]
     },
     {
       sid: "s435",
       english: "After the war, one of the basic needs of the country was to rebuild its infrastructure.",
-      japanese: "戦後その国の基本的ニーズの1つは、インフラを再建することであった。",
+      japanese: "戦後、その国の基本的な必要の一つはインフラを再建することだった。",
       vocabRefs: ["v0435"]
     },
     {
@@ -343,7 +343,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s457",
       english: "One of the key elements of effective leadership is trust.",
-      japanese: "効果的な指導力の重要なもの1つは信頼である。",
+      japanese: "効果的なリーダーシップの重要な要素の一つは信頼である。",
       vocabRefs: ["v0457"]
     },
     {
@@ -481,7 +481,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s480",
       english: "She writes a weekly column for a mainstream newspaper.",
-      japanese: "彼女はまず新聞に毎週のコラムを書いている。",
+      japanese: "彼女は主流紙に毎週コラムを書いている。",
       vocabRefs: ["v0480"]
     },
     {
@@ -571,7 +571,7 @@ window.SECTIONS["sec05"] = {
     {
       sid: "s495",
       english: "The scientists found that the land in the valley was surprisingly fertile.",
-      japanese: "科学者たちは、その低地の土地が驚くほど肥えてあることを発見した。",
+      japanese: "科学者たちは、その谷の土地が驚くほど肥沃であることを発見した。",
       vocabRefs: ["v0495"]
     },
     {

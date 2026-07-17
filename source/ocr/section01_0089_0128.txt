@@ -11,14 +11,14 @@ Payment of the gas bill is due at the end of the month.
 必要不可欠な、非常に重要な
 Example:
 Access to a clean water supply is essential for good health.
-浄水を利用できることは、健康に不可欠である。
+清潔な水の供給を利用できることは、健康に不可欠である。
 
 0091 illegal [ilíːgəl]
 違法の、非合法の
 illegally
 Example:
 It is illegal to drink and drive in many countries, including Japan.
-飲酒運転は、日本を含む多くの国々で公に禁じられる。
+飲酒運転は、日本を含む多くの国々で違法である。
 
 0092 immune [imjúːn]
 免疫の、免疫を持つ、免除された、影響されない
@@ -32,7 +32,7 @@ He has a very strong immune system and almost never catches a cold.
 innumerable
 Example:
 There are numerous ways to learn how to speak English.
-英語の話し方を学ぶ方法はとてもたくさんある。
+英語を話せるようになる方法はたくさんある。
 
 0094 extreme [ikstríːm]
 極端な、過激な、急進的な
@@ -59,7 +59,7 @@ There is a lot of good agricultural land in that area.
 全体[全般]的な、総合的な
 Example:
 Our overall profits last year were higher than the year before.
-当社の昨年の全体の利益は、前年を上回った。
+当社の昨年の総利益は、前年を上回った。
 
 0098 additional [ədíʃənəl]
 追加の、付加的な

@@ -31,7 +31,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s104",
       english: "Examining the site will help investigators determine the cause of the accident.",
-      japanese: "現場を調査することは、捜査官が事故原因を決定するのに役立つだろう。",
+      japanese: "現場を調査することは、捜査官が事故の原因を特定するのに役立つだろう。",
       vocabRefs: [
         "v0104"
       ]
@@ -79,7 +79,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s110",
       english: "A team of trainers taught the employees how to operate the new machinery.",
-      japanese: "教育係のチームが従業員に新しい機械を操作する方法を教えた。",
+      japanese: "研修担当のチームが従業員に新しい機械の操作方法を教えた。",
       vocabRefs: [
         "v0110"
       ]
@@ -95,7 +95,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s112",
       english: "We hope to boost sales of our shampoo with the new TV commercial.",
-      japanese: "私たちは、新しいテレビコマーシャルでシャンプーの売り上げを増加させることを願っている。",
+      japanese: "私たちは、新しいテレビコマーシャルでシャンプーの売り上げを伸ばしたいと考えている。",
       vocabRefs: [
         "v0112"
       ]
@@ -167,7 +167,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s121",
       english: "Could you give me a little time to analyze the data?",
-      japanese: "そのデータを分析する時間を少しくださいませんか。",
+      japanese: "そのデータを分析する時間を少しいただけませんか。",
       vocabRefs: [
         "v0121"
       ]
@@ -264,7 +264,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s133",
       english: "Several economists have warned that more people are likely to lose their jobs in the future.",
-      japanese: "数名の経済学者が、今後より多くの人々が失業するだろうと警告した。",
+      japanese: "数名の経済学者が、今後さらに多くの人々が職を失う可能性が高いと警告した。",
       vocabRefs: [
         "v0133"
       ]
@@ -280,7 +280,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s135",
       english: "A large number of immigrants came to Britain in the 1950s.",
-      japanese: "多くの移住者が1950年代にイギリスに来た。",
+      japanese: "1950年代には、多くの移民がイギリスにやって来た。",
       vocabRefs: [
         "v0135"
       ]
@@ -320,7 +320,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s140",
       english: "There has been another sudden eruption of violence in the capital city.",
-      japanese: "首都でまた突然の暴力事件が発生した。",
+      japanese: "首都でまた突然、暴力事件が勃発した。",
       vocabRefs: [
         "v0140"
       ]
@@ -328,7 +328,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s141",
       english: "Raising farm animals requires large quantities of grain and water.",
-      japanese: "家畜を育てるのは大量の穀物と水を必要とする。",
+      japanese: "家畜を育てるには大量の穀物と水が必要だ。",
       vocabRefs: [
         "v0141"
       ]
@@ -344,7 +344,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s143",
       english: "Turning the air conditioner up a few degrees can result in quite a bit of savings in energy costs.",
-      japanese: "エアコンを数度上げることがかなりのエネルギー費用の節約につながる。",
+      japanese: "エアコンの設定温度を数度上げると、エネルギー費用をかなり節約できる。",
       vocabRefs: [
         "v0143"
       ]
@@ -376,7 +376,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s147",
       english: "Car exhaust emissions pollute the environment in several different ways.",
-      japanese: "自動車の排気ガスの排出は、いくつかの異なる形で環境を汚染する。",
+      japanese: "自動車の排気ガスは、いくつもの形で環境を汚染する。",
       vocabRefs: [
         "v0147"
       ]
@@ -448,7 +448,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s156",
       english: "We are trying to think of ways to increase productivity.",
-      japanese: "私たちは、生産性を向上させる方法を考え出そうと努力している。",
+      japanese: "私たちは、生産性を高める方法を考えようとしている。",
       vocabRefs: [
         "v0156"
       ]
@@ -496,7 +496,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s162",
       english: "The students learned about a wide range of topics during the course.",
-      japanese: "学生たちはその講座で広範囲にわたるトピックを学んだ。",
+      japanese: "学生たちはその講座で幅広い話題を学んだ。",
       vocabRefs: [
         "v0162"
       ]
@@ -512,7 +512,7 @@ window.SECTIONS["sec02"] = {
     {
       sid: "s164",
       english: "This medicine can be dangerous if taken in high doses.",
-      japanese: "この薬は多量に摂取されると危険を伴う可能性がある。",
+      japanese: "この薬は大量に服用すると危険な場合がある。",
       vocabRefs: [
         "v0164"
       ]

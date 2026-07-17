@@ -61,7 +61,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1010",
       english: "The city's major contractors all bid for the contract.",
-      japanese: "市の主な請負業者が全社その契約に入札した。",
+      japanese: "市の主な請負業者はどこもその契約に入札した。",
       vocabRefs: ["v1010"]
     },
     {
@@ -79,7 +79,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1013",
       english: "This swimsuit retains its shape even after several washes.",
-      japanese: "この水着は数回洗った後ですらその形を保持する。",
+      japanese: "この水着は何度か洗っても形を保つ。",
       vocabRefs: ["v1013"]
     },
     {
@@ -91,7 +91,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1015",
       english: "Smoking is prohibited everywhere on the university campus.",
-      japanese: "喫煙は大学のキャンパスの全ての場所で禁止されている。",
+      japanese: "大学のキャンパス内ではどこでも喫煙が禁止されている。",
       vocabRefs: ["v1015"]
     },
     {
@@ -127,7 +127,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1021",
       english: "I urged Tom to reconsider his decision to quit his job.",
-      japanese: "私はトムに仕事を辞めるという彼の決断を再考するように熱心に促した。",
+      japanese: "私はトムに、仕事を辞めるという決断を考え直すよう強く勧めた。",
       vocabRefs: ["v1021"]
     },
     {
@@ -163,7 +163,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1027",
       english: "He found it difficult to repay the loan on time.",
-      japanese: "彼は期日どおりにローンを返済するのは難しいことに気がついた。",
+      japanese: "彼はローンを期限どおりに返済するのに苦労した。",
       vocabRefs: ["v1027"]
     },
     {
@@ -307,7 +307,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1051",
       english: "Farming is the main source of livelihood for people in that country.",
-      japanese: "農業は、その国の人々にとって生計の一番の源となっている。",
+      japanese: "農業は、その国の人々にとって主な生計手段となっている。",
       vocabRefs: ["v1051"]
     },
     {
@@ -379,7 +379,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1072",
       english: "She was a remarkable woman who did a lot to help the poor.",
-      japanese: "彼女は、貧しい人々を助けるために多くのことをした、注目に値する女性だった。",
+      japanese: "彼女は貧しい人々を助けるために多くを尽くした、立派な女性だった。",
       vocabRefs: ["v1072"]
     },
     {
@@ -469,7 +469,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1087",
       english: "The professor gave her a stern look when she interrupted his lecture.",
-      japanese: "彼女が講義の邪魔をしたとき、教授は厳しい顔つきで彼女を見た。",
+      japanese: "彼女が講義をさえぎったとき、教授は厳しい目を彼女に向けた。",
       vocabRefs: ["v1087"]
     },
     {
@@ -481,13 +481,13 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1089",
       english: "This charitable organization helps homeless families find a place to live.",
-      japanese: "この慈善組織は、行き家のない家族に住む所を見つける手助けをしている。",
+      japanese: "この慈善組織は、住む場所のない家族が住まいを見つけるのを手助けしている。",
       vocabRefs: ["v1089"]
     },
     {
       sid: "s1090",
       english: "There has been a massive increase in credit card debt recently.",
-      japanese: "最近はクレジットカードによる借金がとてもものすごく増えている。",
+      japanese: "最近、クレジットカードの借金が大幅に増えている。",
       vocabRefs: ["v1090"]
     },
     {
@@ -499,7 +499,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1092",
       english: "She has an irrational fear of spiders dating from her childhood.",
-      japanese: "彼女は子供のころからクモに対して今もなお恐れを抱いている。",
+      japanese: "彼女は子供のころからクモに対して根強い恐怖を抱いている。",
       vocabRefs: ["v1092"]
     },
     {
@@ -529,7 +529,7 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1097",
       english: "It is still technically possible for the Japan team to win the World Cup.",
-      japanese: "日本がワールドカップで優勝することは厳密にはまだ可能だ。",
+      japanese: "日本代表がワールドカップで優勝する可能性は、理論上まだ残っている。",
       vocabRefs: ["v1097"]
     },
     {
@@ -541,13 +541,13 @@ window.SECTIONS["sec11"] = {
     {
       sid: "s1099",
       english: "The plane is scheduled to arrive at approximately 9:15 p.m. tonight.",
-      japanese: "その飛行機は、今晩の午後9時15分前後に到着する予定になっている。",
+      japanese: "その飛行機は今夜午後9時15分ごろ到着する予定だ。",
       vocabRefs: ["v1099"]
     },
     {
       sid: "s1100",
       english: "Her own experiences make her uniquely qualified to teach problem students.",
-      japanese: "彼女自身の経験のおかげで、彼女は問題のある生徒を教える比類なき資格を持っている。",
+      japanese: "彼女自身の経験のおかげで、問題を抱える生徒を教えるのにとりわけ適している。",
       vocabRefs: ["v1100"]
     }
   ],

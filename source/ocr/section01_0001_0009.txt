@@ -61,7 +61,7 @@ It is highly likely that another earthquake will occur in this area in the futur
 
 0008 deal [díːl]
 対処する (with ～に)、扱う、商う (in ～を)
-dealer 商人、商人
+dealer 商人、販売業者
 Example:
 The government had trouble dealing with the situation effectively.
 政府はその状況に効果的に対処することに苦労した。

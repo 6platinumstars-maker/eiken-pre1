@@ -87,7 +87,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s211",
       english: "The new scheme should generate more than 6,000 new jobs a year.",
-      japanese: "その新しい計画は、年で6,000を超える新しい雇用を生み出すはずである。",
+      japanese: "その新しい計画は、年間6,000人を超える新たな雇用を生み出すはずである。",
       vocabRefs: [
         "v0211"
       ]
@@ -111,7 +111,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s214",
       english: "It is about time that we updated our safety regulations.",
-      japanese: "そろそろ我々の安全規定を最新のものに更新してもよいころだ。",
+      japanese: "そろそろ私たちの安全規定を見直すべき時だ。",
       vocabRefs: [
         "v0214"
       ]
@@ -175,7 +175,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s222",
       english: "They were involved in a very heated argument.",
-      japanese: "彼らは非常に白熱した議論に参加していた。",
+      japanese: "彼らは非常に激しい口論をしていた。",
       vocabRefs: [
         "v0222"
       ]
@@ -215,7 +215,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s227",
       english: "In contrast with his predecessor, the new president seems determined to improve the healthcare system.",
-      japanese: "前任者とは対照的に、新大統領は医療制度を改善しようと決めているようだ。",
+      japanese: "前任者とは対照的に、新大統領は医療制度の改善に強い意欲を示しているようだ。",
       vocabRefs: [
         "v0227"
       ]
@@ -231,7 +231,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s229",
       english: "Of course, I believe in equality between men and women.",
-      japanese: "もちろん、私は男女の平等はよいことだと思っている。",
+      japanese: "もちろん、私は男女平等を信じている。",
       vocabRefs: [
         "v0229"
       ]
@@ -263,7 +263,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s233",
       english: "There have been several outbreaks of swine flu in this area.",
-      japanese: "この地域では数件の豚インフルエンザが突発的に発生している。",
+      japanese: "この地域では豚インフルエンザの集団発生が数件起きている。",
       vocabRefs: [
         "v0233"
       ]
@@ -287,7 +287,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s236",
       english: "He was given the difficult assignment of updating the company's computer system.",
-      japanese: "彼は、会社のコンピューターシステムを最新の状態に変えるという難しい仕事を与えられた。",
+      japanese: "彼は会社のコンピューターシステムを更新するという難しい任務を任された。",
       vocabRefs: [
         "v0236"
       ]
@@ -295,7 +295,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s237",
       english: "What is the smallest known particle of matter?",
-      japanese: "物質の中で最も知られている最も小さな粒子は何ですか。",
+      japanese: "物質を構成する最も小さい既知の粒子は何ですか。",
       vocabRefs: [
         "v0237"
       ]
@@ -408,7 +408,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s251",
       english: "The scientist has written many books about child psychology.",
-      japanese: "その科学者は、児童心理学に関する多くの著作がある。",
+      japanese: "その科学者は児童心理学について多くの本を書いている。",
       vocabRefs: [
         "v0251"
       ]
@@ -440,7 +440,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s255",
       english: "The day-to-day administration of most companies is handled by middle managers, not presidents.",
-      japanese: "ほとんどの会社の日常の管理業務は社長ではなく、中間管理職が扱っている。",
+      japanese: "ほとんどの会社の日常的な管理業務は、社長ではなく中間管理職が担っている。",
       vocabRefs: [
         "v0255"
       ]
@@ -480,7 +480,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s260",
       english: "Many consumers expressed a preference for this brand of washing detergent.",
-      japanese: "多くの消費者がこのブランドの洗剤を好んでいることを明らかにした。",
+      japanese: "多くの消費者がこのブランドの洗剤を好むと答えた。",
       vocabRefs: [
         "v0260"
       ]
@@ -488,7 +488,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s261",
       english: "The refugees from the war zone need our help urgently.",
-      japanese: "その交戦地域からの難民には我々の支援を緊急に必要としている。",
+      japanese: "その交戦地帯からの難民は、緊急に私たちの支援を必要としている。",
       vocabRefs: [
         "v0261"
       ]
@@ -504,7 +504,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s263",
       english: "I took out a subscription to the new fashion magazine.",
-      japanese: "私は新しいファッション誌の予約購読を申し込んだ。",
+      japanese: "私はその新しいファッション誌の定期購読を申し込んだ。",
       vocabRefs: [
         "v0263"
       ]
@@ -560,7 +560,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s270",
       english: "Some types of alternative medicine have become very popular in recent years.",
-      japanese: "代替医療には近年とても人気になったものもある。",
+      japanese: "近年、非常に人気が高まっている代替医療もある。",
       vocabRefs: [
         "v0270"
       ]
@@ -632,7 +632,7 @@ window.SECTIONS["sec03"] = {
     {
       sid: "s279",
       english: "She is a very capable lawyer and we are sad that she is planning to retire.",
-      japanese: "彼女はとても有能な弁護士なので、引退を予定していて我々は悲しい。",
+      japanese: "彼女はとても有能な弁護士なので、引退する予定だと聞いて私たちは残念に思っている。",
       vocabRefs: [
         "v0279"
       ]
@@ -795,6 +795,14 @@ window.SECTIONS["sec03"] = {
       japanese: "その探検家たちは地表の下深くに一連のトンネルを発見した。",
       vocabRefs: [
         "v0299"
+      ]
+    },
+    {
+      sid: "s300",
+      english: "Whereas the previous accounting system was very complicated, the new one is simple.",
+      japanese: "以前の会計制度はとても複雑だったが、新しい制度はシンプルである。",
+      vocabRefs: [
+        "v0300"
       ]
     }
   ],
@@ -2084,6 +2092,19 @@ window.SECTIONS["sec03"] = {
       ],
       tags: [
         "prep"
+      ]
+    },
+    {
+      vid: "v0300",
+      word: "whereas",
+      ipa: "[hwèərǽz]",
+      meaning: "〜であるのに、〜に反して",
+      extraInfo: "【接続】\n～であるのに、～に反して [= while]",
+      usedIn: [
+        "s300"
+      ],
+      tags: [
+        "conj"
       ]
     }
   ]

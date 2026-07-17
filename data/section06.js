@@ -19,7 +19,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s503",
       english: "I don't think this project poses any special problems.",
-      japanese: "私はこのプロジェクトは何も特別な問題を起こさないと思う。",
+      japanese: "このプロジェクトが特別な問題を引き起こすとは思わない。",
       vocabRefs: ["v0503"]
     },
     {
@@ -49,7 +49,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s508",
       english: "The company has decided to relocate its head office to another city.",
-      japanese: "その会社はほかの都市に本社を移転させることに決めた。",
+      japanese: "その会社は本社を別の都市へ移転することに決めた。",
       vocabRefs: ["v0508"]
     },
     {
@@ -73,7 +73,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s512",
       english: "The judge ordered the man to stop harassing the actress.",
-      japanese: "裁判官は、その女性に嫌がらせをすることをやめるよう男に命じた。",
+      japanese: "裁判官は、その女優への嫌がらせをやめるよう男に命じた。",
       vocabRefs: ["v0512"]
     },
     {
@@ -85,7 +85,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s514",
       english: "The children sneaked into the back of the movie theater.",
-      japanese: "子供たちは映画館の裏口にこっそり中に入った。",
+      japanese: "子供たちは映画館の裏口からこっそり入り込んだ。",
       vocabRefs: ["v0514"]
     },
     {
@@ -115,7 +115,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s519",
       english: "The police were unable to verify the woman's alibi.",
-      japanese: "警察はその女性のアリバイの正しさを確かめできなかった。",
+      japanese: "警察はその女性のアリバイを確認できなかった。",
       vocabRefs: ["v0519"]
     },
     {
@@ -169,7 +169,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s528",
       english: "A healthy person has a countless number of bacteria in their gut.",
-      japanese: "健康な人は腸に数えきれないほど多くのバクテリアを育てている。",
+      japanese: "健康な人の腸内には無数の細菌が存在している。",
       vocabRefs: ["v0528"]
     },
     {
@@ -193,7 +193,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s532",
       english: "It is important that those suffering from eating disorders receive effective treatment.",
-      japanese: "摂食障害を罹う人たちが効果的な治療を受けるのは重要なことである。",
+      japanese: "摂食障害に苦しむ人たちが効果的な治療を受けることが重要である。",
       vocabRefs: ["v0532"]
     },
     {
@@ -259,7 +259,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s543",
       english: "Please read the instructions carefully before operating the machine.",
-      japanese: "機械を操作する前に、使用書を注意深く読んでください。",
+      japanese: "機械を操作する前に、説明書を注意深く読んでください。",
       vocabRefs: ["v0543"]
     },
     {
@@ -301,7 +301,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s550",
       english: "We do our best to handle all inquiries quickly and efficiently.",
-      japanese: "私たちは迅速かつ効率的に全ての問い合わせに対応するため、限度を尽くしている。",
+      japanese: "私たちは、すべての問い合わせに迅速かつ効率的に対応するよう努めている。",
       vocabRefs: ["v0550"]
     },
     {
@@ -319,7 +319,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s553",
       english: "The first-class compartments have very wide and comfortable seats.",
-      japanese: "1等客室のコンパートメントには非常に広くて、ゆり心地のよい座席がある。",
+      japanese: "一等車のコンパートメントには非常に広く、座り心地のよい席がある。",
       vocabRefs: ["v0553"]
     },
     {
@@ -403,7 +403,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s567",
       english: "Scientists hope to develop a vaccine against AIDS one day.",
-      japanese: "科学者たちはいつかエイズ用のワクチンを開発したいと思っている。",
+      japanese: "科学者たちはいつかエイズのワクチンを開発したいと思っている。",
       vocabRefs: ["v0567"]
     },
     {
@@ -463,7 +463,7 @@ window.SECTIONS["sec06"] = {
     {
       sid: "s577",
       english: "The soccer team has an impressive record in international competitions.",
-      japanese: "そのサッカーチームは、国際的な大会で印象的な記録を持っている。",
+      japanese: "そのサッカーチームは、国際大会で見事な実績を残している。",
       vocabRefs: ["v0577"]
     },
     {

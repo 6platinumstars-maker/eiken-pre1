@@ -19,7 +19,7 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s903",
       english: "The government created a series of advertisements to heighten awareness of climate change.",
-      japanese: "政府は気候変動への懸念を高めるために一連の広告を作成した。",
+      japanese: "政府は気候変動への意識を高めるために一連の広告を作成した。",
       vocabRefs: ["v0903"]
     },
     {
@@ -121,7 +121,7 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s920",
       english: "Having experienced something similar myself, I really sympathize with her situation.",
-      japanese: "私自身、似たような経験をしてきたので、彼女の状況には本当に同情する。",
+      japanese: "私自身も似たような経験があるので、彼女の状況には本当に共感する。",
       vocabRefs: ["v0920"]
     },
     {
@@ -175,7 +175,7 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s929",
       english: "Some people complained that the new government restrictions were strangling the economy.",
-      japanese: "政府による新たな規制は経済を抑制していると不満を訴す人もいた。",
+      japanese: "政府の新たな規制が経済の足を引っ張っていると不満を訴える人もいた。",
       vocabRefs: ["v0929"]
     },
     {
@@ -193,19 +193,19 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s932",
       english: "This new art show is a collaboration between artists from various countries in Europe.",
-      japanese: "この新しい美術展はヨーロッパのさまざまな国の芸術家たちの合作です。",
+      japanese: "この新しい美術展は、ヨーロッパのさまざまな国の芸術家たちによる共同企画です。",
       vocabRefs: ["v0932"]
     },
     {
       sid: "s933",
       english: "From our hotel room, we had a great view of the boats in the harbor.",
-      japanese: "ホテルの部屋からは港に停泊している船の素晴らしい景色が楽しめた。",
+      japanese: "ホテルの部屋からは、港に浮かぶ船々をよく見渡すことができた。",
       vocabRefs: ["v0933"]
     },
     {
       sid: "s934",
       english: "Due to water shortages, residents were asked not to water their lawns.",
-      japanese: "水不足のため、住民は芝生に水をやらないように依頼された。",
+      japanese: "水不足のため、住民は芝生に水をまかないよう求められた。",
       vocabRefs: ["v0934"]
     },
     {
@@ -331,7 +331,7 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s955",
       english: "I'm sending you the contract and other related information as an attachment.",
-      japanese: "契約書とはかの関連情報を、添付ファイルでお送りします。",
+      japanese: "契約書とそのほかの関連情報を添付ファイルでお送りします。",
       vocabRefs: ["v0955"]
     },
     {
@@ -373,7 +373,7 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s962",
       english: "They teach a variety of meditation techniques to help the children manage their stress better.",
-      japanese: "子供たちがより上手にストレスと付き合えるように、彼らはさまざまな瞑想を教えている。",
+      japanese: "子供たちがより上手にストレスを管理できるように、彼らはさまざまな瞑想法を教えている。",
       vocabRefs: ["v0962"]
     },
     {
@@ -391,7 +391,7 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s965",
       english: "The island is located around 100 kilometers south of the equator.",
-      japanese: "その島は、赤道の南、約100キロに位置している。",
+      japanese: "その島は赤道の南およそ100キロの場所にある。",
       vocabRefs: ["v0965"]
     },
     {
@@ -403,13 +403,13 @@ window.SECTIONS["sec10"] = {
     {
       sid: "s967",
       english: "The political situation in this region is more problematic than we first thought.",
-      japanese: "この地域の政治情勢は、我々が当初想っていたよりも問題がある。",
+      japanese: "この地域の政治情勢は、私たちが当初考えていたよりも厄介だ。",
       vocabRefs: ["v0967"]
     },
     {
       sid: "s968",
       english: "The house is expensive because it is located in a very desirable area.",
-      japanese: "その家は非常に魅力ある地域にあるため、価格が高い。",
+      japanese: "その家は非常に人気の高い地域にあるため、値段が高い。",
       vocabRefs: ["v0968"]
     },
     {

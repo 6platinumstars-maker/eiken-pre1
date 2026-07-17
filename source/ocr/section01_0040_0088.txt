@@ -22,7 +22,7 @@ The government announced that small businesses will be required to pay more taxe
 accessible 近づきやすい、利用しやすい
 Example:
 Access to the main temple building was blocked.
-寺院の本堂へ向かう道は閉鎖されていた。
+寺院の本堂への立ち入りは封鎖されていた。
 
 0043 virus [váiərəs]
 ウイルス、ウイルス（性）疾患
@@ -70,7 +70,7 @@ When it comes to dancing, practice is more important than theory.
 要因、要素
 Example:
 The police said the accident was caused by a number of factors.
-警察はその事故はいくつかの要因によって引き起こされたと言った。
+警察は、その事故はいくつかの要因によって引き起こされたと述べた。
 
 0050 stock [stɑ́ːk]
 在庫品、蓄え、株式
@@ -139,7 +139,7 @@ We have a budget of one million dollars for this movie.
 authorize
 Example:
 The authorities warned our city's mayor about the high levels of water pollution.
-当局者たちが水質汚染の高い水準に関して市長に警告した。
+当局は、水質汚染が深刻なレベルにあるとして市長に警告した。
 
 0060 genome [dʒíːnoum]
 ゲノム
@@ -167,7 +167,7 @@ A number of NPOs provided aid to the refugees fleeing the war zone.
 measurement
 Example:
 The government is planning to introduce measures to combat unemployment.
-政府は、失業をなくそうとするための措置を導入するつもりだ。
+政府は、失業対策を導入するつもりだ。
 
 0064 subject [sʌ́bdʒikt]
 被験者、主題、学科
@@ -193,7 +193,7 @@ It was discovered that the site had been used to store nuclear weapons.
 nutrition, nutritious
 Example:
 There are a variety of nutrients that are essential for health.
-健康のために不可欠なさまざまな栄養分が存在する。
+健康のために不可欠なさまざまな栄養分がある。
 
 0068 expense [ikspéns]
 費用、（必要）経費
@@ -207,7 +207,7 @@ University education is a major expense for most families.
 structural
 Example:
 The structure was very weak and had to be rebuilt.
-その建造物はとても脆弱だったので、建て直さねば必要だった。
+その建造物は非常にもろく、建て直さなければならなかった。
 
 0070 adolescent [æ̀dəlésənt]
 青年期の人
@@ -275,7 +275,7 @@ Employment rates in the developing nations of Southeast Asia are increasing stea
 禁止
 Example:
 There is to be a total ban on cigarette advertisements in the near future.
-近い将来、タバコの広告の全面的な禁止があるだろう。
+近い将来、たばこの広告は全面的に禁止されることになっている。
 
 0080 vehicle [víːikəl]
 車、乗り物、輸送機関

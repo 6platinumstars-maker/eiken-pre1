@@ -31,7 +31,7 @@ window.SECTIONS["sec14"] = {
     {
       sid: "s1305",
       english: "She despised them for saying such unkind things to their classmate.",
-      japanese: "クラスメートにそのような思いやりのないことを言うので、彼女は彼らのことを軽蔑した。",
+      japanese: "クラスメートにそんな思いやりのないことを言う彼らを、彼女は軽蔑した。",
       vocabRefs: ["v1305"]
     },
     {
@@ -139,7 +139,7 @@ window.SECTIONS["sec14"] = {
     {
       sid: "s1323",
       english: "The survey data can be interpreted in a number of different ways.",
-      japanese: "その調査データはいくつかの異なる形で解釈することができる。",
+      japanese: "その調査データはいくつもの異なる方法で解釈できる。",
       vocabRefs: ["v1323"]
     },
     {
@@ -259,7 +259,7 @@ window.SECTIONS["sec14"] = {
     {
       sid: "s1343",
       english: "The customs officer said I had to pay a tariff on the goods.",
-      japanese: "税関の職員は、私はその持込物の関税を払う必要があると言った。",
+      japanese: "税関職員は、私がその品物に関税を払う必要があると言った。",
       vocabRefs: ["v1343"]
     },
     {
@@ -271,13 +271,13 @@ window.SECTIONS["sec14"] = {
     {
       sid: "s1345",
       english: "His work as a volunteer overseas covers many spheres of activity.",
-      japanese: "彼の海外でのボランティア活動は、多くの活動範囲を含んでいる。",
+      japanese: "彼の海外でのボランティア活動は、多くの分野にわたっている。",
       vocabRefs: ["v1345"]
     },
     {
       sid: "s1346",
       english: "He often felt like an outcast as he was growing up.",
-      japanese: "彼は成長の過程で、つけ者のように感じることがよくあった。",
+      japanese: "彼は成長する過程で、自分がのけ者のように感じることがよくあった。",
       vocabRefs: ["v1346"]
     },
     {

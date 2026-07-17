@@ -19,7 +19,7 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1103",
       english: "He discarded all his old clothing.",
-      japanese: "彼は古い服を今全部捨てた。",
+      japanese: "彼は古い服を全部捨てた。",
       vocabRefs: ["v1103"]
     },
     {
@@ -217,7 +217,7 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1136",
       english: "We discussed both the benefits and the drawbacks of the plan.",
-      japanese: "私たちはその計画の利点についても欠点についても議論した。",
+      japanese: "私たちはその計画の利点と欠点の両方について話し合った。",
       vocabRefs: ["v1136"]
     },
     {
@@ -247,7 +247,7 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1141",
       english: "A recent government poll has shown that most people don't want higher taxes.",
-      japanese: "最近の政府の対面調査によると、大半の国民が増税を望んでいないことが分かった。",
+      japanese: "最近の政府の世論調査によると、大半の国民は増税を望んでいないことが分かった。",
       vocabRefs: ["v1141"]
     },
     {
@@ -265,13 +265,13 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1144",
       english: "He studied hard and won a scholarship to a very good school.",
-      japanese: "彼は一生懸命に勉強し、とても優秀な学校の奨学金を得た。",
+      japanese: "彼は一生懸命勉強し、とても良い学校への奨学金を得た。",
       vocabRefs: ["v1144"]
     },
     {
       sid: "s1145",
       english: "The children had a very secure and stable upbringing.",
-      japanese: "その子供たちは、とても安全で安定した育ちを受けた。",
+      japanese: "その子供たちは、とても安全で安定した環境で育った。",
       vocabRefs: ["v1145"]
     },
     {
@@ -307,7 +307,7 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1151",
       english: "He is usually really nice, but watch out for his bad temper.",
-      japanese: "彼は普段はとてもいい人だが、短気が悪いときは要注意だ。",
+      japanese: "彼は普段はとてもいい人だが、かんしゃくを起こすときは気をつけたほうがいい。",
       vocabRefs: ["v1151"]
     },
     {
@@ -385,7 +385,7 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1164",
       english: "The findings in this report on global warming are highly questionable.",
-      japanese: "地球温暖化に関するこの報告書の結論は非常に疑わしい。",
+      japanese: "地球温暖化に関するこの報告書の調査結果は非常に疑わしい。",
       vocabRefs: ["v1164"]
     },
     {
@@ -439,13 +439,13 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1173",
       english: "She was amazed to see all the exotic plants and flowers in the jungle.",
-      japanese: "彼女はジャングルで見たあらゆる異国風の植物や花に驚嘆した。",
+      japanese: "彼女はジャングルで見た珍しい植物や花の数々に驚いた。",
       vocabRefs: ["v1173"]
     },
     {
       sid: "s1174",
       english: "Many experts say that intensive reading helps improve reading ability.",
-      japanese: "多くの専門家が、集中的な読書［精読］は読解力の向上に役立つとみなしている。",
+      japanese: "多くの専門家は、精読が読解力の向上に役立つと言っている。",
       vocabRefs: ["v1174"]
     },
     {
@@ -505,7 +505,7 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1184",
       english: "This biographical film tells the story of the actor's early life.",
-      japanese: "この伝記的映画は、その俳優の若い頃の生活を物語っている。",
+      japanese: "この伝記映画は、その俳優の若いころの人生を描いている。",
       vocabRefs: ["v1184"]
     },
     {
@@ -559,13 +559,13 @@ window.SECTIONS["sec12"] = {
     {
       sid: "s1193",
       english: "The engine problems were caused by an inherent weakness in the design of the car.",
-      japanese: "その車の車の設計にある固有の欠陥が、エンジントラブルの原因となった。",
+      japanese: "その車の設計にある固有の欠陥が、エンジントラブルの原因となった。",
       vocabRefs: ["v1193"]
     },
     {
       sid: "s1194",
       english: "The artist said that creating art was not merely his job, but his whole life.",
-      japanese: "その芸術家は、芸術を生み出すことは単なる仕事ではなく、彼の人生の全てであると言った。",
+      japanese: "その芸術家は、芸術を生み出すことは単なる仕事ではなく、自分の人生そのものだと語った。",
       vocabRefs: ["v1194"]
     },
     {

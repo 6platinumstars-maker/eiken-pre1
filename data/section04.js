@@ -13,19 +13,19 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s302",
       english: "The President rejected the idea that his economic policies were causing problems.",
-      japanese: "大統領は自分の経済政策が問題を引き起こしているという考えを拒絶した。",
+      japanese: "大統領は、自分の経済政策が問題を引き起こしているという見方を退けた。",
       vocabRefs: ["v0302"]
     },
     {
       sid: "s303",
       english: "It is advisable to consult a lawyer before signing any agreement.",
-      japanese: "どんな契約書であっても署名する前には弁護士に相談することが望ましい。",
+      japanese: "どんな契約に署名する前でも、弁護士に相談するのが望ましい。",
       vocabRefs: ["v0303"]
     },
     {
       sid: "s304",
       english: "The soldiers were expected to obey their superiors.",
-      japanese: "兵士たちは上官に従うのが当然だと思われていた。",
+      japanese: "兵士たちは上官に従うものとされていた。",
       vocabRefs: ["v0304"]
     },
     {
@@ -43,7 +43,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s307",
       english: "The British were the first people to colonize this area.",
-      japanese: "イギリス人は、最初にこの地域を植民地化した人々だった。",
+      japanese: "イギリス人は、この地域に最初に植民した人々だった。",
       vocabRefs: ["v0307"]
     },
     {
@@ -121,7 +121,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s320",
       english: "The local people complained that the factory was polluting the air and causing them to become sick.",
-      japanese: "地元の人々はその工場が大気を汚染し、彼らの健康を害していると苦情を訴えた。",
+      japanese: "地元の人々は、その工場が大気を汚染し、自分たちの健康を害していると訴えた。",
       vocabRefs: ["v0320"]
     },
     {
@@ -139,7 +139,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s323",
       english: "Many couples these days share housework as well as other duties like childcare.",
-      japanese: "最近、多くの夫婦は育児のようなほかにも同家に家事も分担する。",
+      japanese: "最近では、多くの夫婦が育児のような役割に加えて、家事も分担している。",
       vocabRefs: ["v0323"]
     },
     {
@@ -163,13 +163,13 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s327",
       english: "We must tackle the issue of climate change if we are to ensure the survival of the human race.",
-      japanese: "人類の生き残りを確実にしようとするなら、我々は気候変動の問題に取り組まなければならない。",
+      japanese: "人類の生存を確かなものにするには、気候変動の問題に取り組まなければならない。",
       vocabRefs: ["v0327"]
     },
     {
       sid: "s328",
       english: "Regular maintenance is necessary to keep the machinery running smoothly.",
-      japanese: "その機械がスムーズに作動し続けるようにするためには定期的な保守が必要である。",
+      japanese: "その機械を円滑に動かし続けるには、定期的な保守が必要だ。",
       vocabRefs: ["v0328"]
     },
     {
@@ -181,7 +181,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s330",
       english: "Many educators are concerned about the funding cuts to public schools.",
-      japanese: "多くの教育者は公立学校に対する財源の削減について心配している。",
+      japanese: "多くの教育者は、公立学校への予算削減を懸念している。",
       vocabRefs: ["v0330"]
     },
     {
@@ -217,7 +217,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s336",
       english: "Statistics show that consuming plant-based foods is good for the environment.",
-      japanese: "統計が示すところによると、植物由来の食品を消費することは環境によい。",
+      japanese: "統計によると、植物由来の食品を食べることは環境によい。",
       vocabRefs: ["v0336"]
     },
     {
@@ -259,7 +259,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s343",
       english: "There are many settlements in the northern part of the country.",
-      japanese: "その山の北部地域には、多くの居住地がある。",
+      japanese: "その国の北部には、多くの居住地がある。",
       vocabRefs: ["v0343"]
     },
     {
@@ -271,7 +271,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s345",
       english: "There is a strong likelihood that the next president will be a woman.",
-      japanese: "次の社長が女性になる可能性は高い。",
+      japanese: "次の大統領が女性になる可能性は高い。",
       vocabRefs: ["v0345"]
     },
     {
@@ -301,7 +301,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s350",
       english: "The new government announced several changes to the social welfare system.",
-      japanese: "新政府は社会福祉制度に対するいくつかの変更を発表した。",
+      japanese: "新政府は社会福祉制度のいくつかの変更を発表した。",
       vocabRefs: ["v0350"]
     },
     {
@@ -313,7 +313,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s352",
       english: "Obesity can raise the risk of a number of diseases.",
-      japanese: "肥満はいくつかの病気のリスクを高め得る。",
+      japanese: "肥満はいくつかの病気のリスクを高める可能性がある。",
       vocabRefs: ["v0352"]
     },
     {
@@ -379,7 +379,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s363",
       english: "The continuing presence of the army in the area is upsetting local residents.",
-      japanese: "その地域に継続して軍がいることが地元の住民を困らせている。",
+      japanese: "その地域に軍が駐留し続けていることが、地元住民を不安にさせている。",
       vocabRefs: ["v0363"]
     },
     {
@@ -403,13 +403,13 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s367",
       english: "The frequency of storms and extreme weather events has been increasing recently.",
-      japanese: "嵐と異常気象事象の頻度は最近高くなっている。",
+      japanese: "嵐や異常気象の発生頻度は最近高くなっている。",
       vocabRefs: ["v0367"]
     },
     {
       sid: "s368",
       english: "The large cruise ship sailed slowly into the port.",
-      japanese: "大きなクルーズ船はその湾にゆっくりと入った。",
+      japanese: "大きなクルーズ船は港へゆっくりと入っていった。",
       vocabRefs: ["v0368"]
     },
     {
@@ -433,7 +433,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s372",
       english: "In many countries, men's athletics receives more funding than women's athletics.",
-      japanese: "多くの国では、男子スポーツが女子スポーツよりも多くの資金援助を受ける。",
+      japanese: "多くの国では、男子スポーツは女子スポーツより多くの資金援助を受けている。",
       vocabRefs: ["v0372"]
     },
     {
@@ -445,7 +445,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s374",
       english: "Several famous ecologists gave speeches at the conference on climate change.",
-      japanese: "数名の著名な生態学者が、気候変動についてその会議で演説した。",
+      japanese: "数名の著名な生態学者が、気候変動に関する会議で講演した。",
       vocabRefs: ["v0374"]
     },
     {
@@ -463,13 +463,13 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s377",
       english: "This report found that the media has become more biased in recent years.",
-      japanese: "この報告によると、近年メディアはより偏っている。",
+      japanese: "この報告によると、近年メディアの偏向は強まっている。",
       vocabRefs: ["v0377"]
     },
     {
       sid: "s378",
       english: "These days, the number of people who work multiple jobs is increasing.",
-      japanese: "近ごろ、多数の仕事を持つ人の数が増えている。",
+      japanese: "近ごろ、複数の仕事を掛け持ちする人の数が増えている。",
       vocabRefs: ["v0378"]
     },
     {
@@ -547,7 +547,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s391",
       english: "For many years, humans have underestimated the intellectual capacity of other animals such as pigs.",
-      japanese: "長年、人間は豚のようなほかの動物たちの知能かを過小評価してきた。",
+      japanese: "長年、人間は豚のようなほかの動物たちの知能を過小評価してきた。",
       vocabRefs: ["v0391"]
     },
     {
@@ -559,7 +559,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s393",
       english: "There has been a steady increase in tourism in the last few years.",
-      japanese: "この2、3年、観光業には着実な増加がある。",
+      japanese: "ここ数年、観光は着実に増加している。",
       vocabRefs: ["v0393"]
     },
     {
@@ -601,7 +601,7 @@ window.SECTIONS["sec04"] = {
     {
       sid: "s400",
       english: "A fancy shopping mall recently opened in the center of the town.",
-      japanese: "最近、町の中心部に意匠なショッピングモールがオープンした。",
+      japanese: "最近、町の中心部にしゃれたショッピングモールがオープンした。",
       vocabRefs: ["v0400"]
     }
   ],

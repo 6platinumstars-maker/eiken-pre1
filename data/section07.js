@@ -31,7 +31,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s605",
       english: "The two environmental groups decided to cooperate with each other on the recycling project.",
-      japanese: "2つの環境団体は、リサイクルプロジェクトにおいて、互いに能力することに決めた。",
+      japanese: "2つの環境団体は、リサイクルプロジェクトで協力することに決めた。",
       vocabRefs: ["v0605"]
     },
     {
@@ -49,7 +49,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s608",
       english: "The protesting students occupied the government building.",
-      japanese: "抗議をする学生たちが、政府の建物をぶしょした。",
+      japanese: "抗議する学生たちが、政府の建物を占拠した。",
       vocabRefs: ["v0608"]
     },
     {
@@ -127,7 +127,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s621",
       english: "We still have not decided which house to buy, but we are leaning toward the one by the beach.",
-      japanese: "我々はまだどの家を買うか決めていないが、海辺の近くの物件に傾いている。",
+      japanese: "私たちはまだどの家を買うか決めていないが、海辺の家のほうに気持ちが傾いている。",
       vocabRefs: ["v0621"]
     },
     {
@@ -139,7 +139,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s623",
       english: "An eagle hovered briefly over our heads before flying away.",
-      japanese: "1羽のワシが少しの間、我々の頭上で止まった後、飛び去った。",
+      japanese: "1羽のワシがしばらく私たちの頭上を舞ったあと、飛び去った。",
       vocabRefs: ["v0623"]
     },
     {
@@ -175,7 +175,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s629",
       english: "Your student loan will be processed once we have received the necessary paperwork.",
-      japanese: "必要な書類を受け取りしだい、あなたの学生ローンは処理されます。",
+      japanese: "必要な書類を受け取り次第、あなたの学生ローンは処理されます。",
       vocabRefs: ["v0629"]
     },
     {
@@ -253,7 +253,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s642",
       english: "He was unable to give the police an accurate description of his attacker.",
-      japanese: "彼は警察に対して、彼を襲撃した者の正確な描写ができなかった。",
+      japanese: "彼は警察に対して、自分を襲った男の特徴を正確に伝えることができなかった。",
       vocabRefs: ["v0642"]
     },
     {
@@ -265,13 +265,13 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s644",
       english: "The careers office provides students with guidance on which course to choose.",
-      japanese: "就職課は、どのコースを選択すべきかについて学生に指導する。",
+      japanese: "就職課は、どのコースを選ぶべきかについて学生に助言している。",
       vocabRefs: ["v0644"]
     },
     {
       sid: "s645",
       english: "Farming has had a big impact on the country's natural landscape and environment.",
-      japanese: "農業はその国の自然な景観や環境に多大な影響を及ぼしてきた。",
+      japanese: "農業はその国の自然景観や環境に大きな影響を与えてきた。",
       vocabRefs: ["v0645"]
     },
     {
@@ -337,7 +337,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s656",
       english: "The doctor specializes in treating patients with liver disease.",
-      japanese: "その医師は肝臓を持つ患者の治療を専門としている。",
+      japanese: "その医師は肝臓の病気を持つ患者の治療を専門としている。",
       vocabRefs: ["v0656"]
     },
     {
@@ -349,7 +349,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s658",
       english: "The survey showed that there were negative effects of smartphone usage on young people.",
-      japanese: "その調査は、スマートフォンの使用は若者に悪影響を及ぼすと示した。",
+      japanese: "その調査は、スマートフォンの使用が若者に悪影響を及ぼしていることを示した。",
       vocabRefs: ["v0658"]
     },
     {
@@ -367,7 +367,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s661",
       english: "If you had no money and nowhere to live, how would you survive?",
-      japanese: "もしも、文無しで住む場所もなければ、どうやって生き延びるのですか。",
+      japanese: "もしお金もなく住む場所もなければ、どうやって生き延びますか。",
       vocabRefs: ["v0661"]
     },
     {
@@ -439,7 +439,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s673",
       english: "He walked straight past us with no sign of recognition whatsoever.",
-      japanese: "私たちに気覚えがある様子は全くなく、彼は私たちの前を通り過ぎたまま歩いて行った。",
+      japanese: "彼は私たちに気づいた様子もまったくなく、そのまま通り過ぎていった。",
       vocabRefs: ["v0673"]
     },
     {
@@ -487,7 +487,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s681",
       english: "Doctors say that this new therapy works much better than any of the conventional treatments.",
-      japanese: "この新しい療法はどんな伝統的な治療法よりずっと効果的であると医師たちは言っている。",
+      japanese: "医師たちは、この新しい療法は従来のどの治療法よりもずっと効果的だと言っている。",
       vocabRefs: ["v0681"]
     },
     {
@@ -499,7 +499,7 @@ window.SECTIONS["sec07"] = {
     {
       sid: "s683",
       english: "There has been a consistent rise in unemployment over the past few years.",
-      japanese: "この2、3年、失業率数には着実な増加が見られる。",
+      japanese: "この2、3年、失業率は着実に増加している。",
       vocabRefs: ["v0683"]
     },
     {

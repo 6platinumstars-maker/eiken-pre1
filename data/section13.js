@@ -19,7 +19,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1203",
       english: "The newspaper quoted the police officer as saying the investigation was now over.",
-      japanese: "新聞は、その警察官が捜査はもう終了したと述べたと伝えた。",
+      japanese: "新聞は、その警察官が捜査はすでに終了したと述べたと伝えた。",
       vocabRefs: ["v1203"]
     },
     {
@@ -55,7 +55,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1209",
       english: "Rebels once again violated the terms of the cease-fire agreement.",
-      japanese: "反乱軍がまた停戦合意の協約を破った。",
+      japanese: "反乱軍は再び停戦協定の条項を破った。",
       vocabRefs: ["v1209"]
     },
     {
@@ -67,13 +67,13 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1211",
       english: "These two schools will be integrated into a single institution next year.",
-      japanese: "これらの2つの学校に来年、1校に統合される。",
+      japanese: "これら2つの学校は来年、1つの学校に統合される。",
       vocabRefs: ["v1211"]
     },
     {
       sid: "s1212",
       english: "You shouldn't underestimate his sales ability.",
-      japanese: "彼の営業能力を見かけで侮ってきてはならない。",
+      japanese: "彼の営業能力を甘く見てはいけない。",
       vocabRefs: ["v1212"]
     },
     {
@@ -115,7 +115,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1219",
       english: "Most of our students attained high grades in their English tests last year.",
-      japanese: "我々の学生のほとんどは昨年、英語のテストでよい成績を獲得した。",
+      japanese: "うちの学生のほとんどは昨年、英語のテストで好成績を収めた。",
       vocabRefs: ["v1219"]
     },
     {
@@ -145,19 +145,19 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1224",
       english: "I alternate between feeling excited and scared about studying abroad.",
-      japanese: "私は時に関して、興奮と恐怖の気持の間を行ったり来たりしている。",
+      japanese: "留学について考えると、わくわくしたり怖くなったりする。",
       vocabRefs: ["v1224"]
     },
     {
       sid: "s1225",
       english: "This charity is dedicated to helping young people overcome mental health issues.",
-      japanese: "この慈善事業は、若者がメンタルヘルスの問題を克服するのを助けることに捧げられている。",
+      japanese: "この慈善団体は、若者が心の健康の問題を乗り越えられるよう支援することに力を注いでいる。",
       vocabRefs: ["v1225"]
     },
     {
       sid: "s1226",
       english: "She is endeavoring to become the youngest person to sail around the world alone.",
-      japanese: "彼女は数年少で単独世界一周航海をする人間になることを懸命に努力している。",
+      japanese: "彼女は、単独で世界一周航海をした最年少の人物になることを目指して懸命に努力している。",
       vocabRefs: ["v1226"]
     },
     {
@@ -169,7 +169,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1228",
       english: "Sales of the shoes soared after the star player was photographed wearing them.",
-      japanese: "スター選手が履いているのを写真に撮られると、その靴の売り上げは急上昇した。",
+      japanese: "そのスター選手がその靴を履いている写真が出ると、売り上げは急上昇した。",
       vocabRefs: ["v1228"]
     },
     {
@@ -295,7 +295,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1249",
       english: "The court was in an uproar when the judge read out the guilty verdict.",
-      japanese: "裁判官が有罪の判決文を読み上げたとき、裁判所は大騒ぎだった。",
+      japanese: "裁判官が有罪判決を読み上げたとき、法廷は騒然となった。",
       vocabRefs: ["v1249"]
     },
     {
@@ -343,7 +343,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1257",
       english: "Aid workers are warning of a potential famine in the area.",
-      japanese: "援助要員の人々は、その地域の飢餓の可能性について警告している。",
+      japanese: "援助活動にあたる人々は、その地域で飢餓が起こるおそれがあると警告している。",
       vocabRefs: ["v1257"]
     },
     {
@@ -373,7 +373,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1262",
       english: "This is one of the most famous landmarks in the Japanese capital.",
-      japanese: "これは日本の首都で最も有名な歴史的建造物の1つだ。",
+      japanese: "これは日本の首都で最も有名な名所の1つだ。",
       vocabRefs: ["v1262"]
     },
     {
@@ -391,7 +391,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1265",
       english: "This electric power generator can be used as a standby in emergencies.",
-      japanese: "この発電機は非常時に頼りになるものとして利用できる。",
+      japanese: "この発電機は非常時の予備電源として使える。",
       vocabRefs: ["v1265"]
     },
     {
@@ -499,7 +499,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1283",
       english: "We made a spontaneous decision to buy a car on the spot.",
-      japanese: "私たちは車を買おうとその場で自然に決めた。",
+      japanese: "私たちはその場の勢いで車を買うことに決めた。",
       vocabRefs: ["v1283"]
     },
     {
@@ -523,7 +523,7 @@ window.SECTIONS["sec13"] = {
     {
       sid: "s1287",
       english: "The present rate of economic growth is simply not sustainable.",
-      japanese: "現代の経済成長は全く持続可能ではない。",
+      japanese: "現在の経済成長率は、到底持続可能とは言えない。",
       vocabRefs: ["v1287"]
     },
     {

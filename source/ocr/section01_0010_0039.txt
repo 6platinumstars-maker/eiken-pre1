@@ -32,7 +32,7 @@ The government plans to fine companies that break the new environmental regulati
 移転、移動
 Example:
 Once we receive the items, we will transfer payment into your account.
-商品を受け取りしだい、あなたの口座に支払いを送金します。
+商品を受け取り次第、あなたの口座に代金を送金します。
 
 0015 decline [dikláin]
 減少する、衰える
@@ -108,7 +108,7 @@ When preparing to study abroad, it can take some time to obtain a visa.
 懸命に努力する、奮闘する [= try]
 Example:
 The restaurant struggled to make money during the recession.
-そのレストランは不況の中、収入を得ようと懸命に努力した。
+そのレストランは不況の中、利益を上げようと懸命に努力した。
 
 0026 counter [káuntər]
 (counter that ... で) ...と反論する、に反対する [= oppose]
@@ -128,7 +128,7 @@ I always associate the smell of mosquito coils with summer.
 名前を登録する [= enroll]
 Example:
 He went to the ward office to register the birth of his baby son.
-彼は息子の出生届けを出すために区役所に行った。
+彼は息子の出生届を出すために区役所に行った。
 
 0029 reveal [rivíːl]
 (reveal that ... で) ...を明らかにする
@@ -198,7 +198,7 @@ We have two options: we can wait here or we can go.
 organ donor, organ transplant
 Example:
 The medical students studied the effect of smoking on organs such as the heart and lungs.
-医学生は喫煙の心臓や肺などの臓器への影響について研究した。
+医学生たちは、喫煙が心臓や肺などの臓器に及ぼす影響を研究した。
 
 0039 critic [krítik]
 批評する人、批評家

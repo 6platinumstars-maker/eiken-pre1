@@ -43,7 +43,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s807",
       english: "It is the role of a judge to uphold the law.",
-      japanese: "法をいかすのが裁判官の役割だ。",
+      japanese: "法を守らせるのが裁判官の役割だ。",
       vocabRefs: ["v0807"]
     },
     {
@@ -67,7 +67,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s811",
       english: "This new marketing method should enhance our sales productivity.",
-      japanese: "この新しいマーケティングの手法は、当社の販売生産性を向上させるはずだ。",
+      japanese: "この新しいマーケティング手法は、当社の販売効率を高めるはずだ。",
       vocabRefs: ["v0811"]
     },
     {
@@ -103,7 +103,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s817",
       english: "They did all they could, but were unable to revive the elderly woman.",
-      japanese: "彼らはできることは全てやったが、その年配の女性を生き返らせることはできなかった。",
+      japanese: "彼らはできる限りのことをしたが、その高齢の女性を蘇生させることはできなかった。",
       vocabRefs: ["v0817"]
     },
     {
@@ -133,7 +133,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s822",
       english: "The government plans to reform the education system to make it fairer for all.",
-      japanese: "政府は全ての人により公平になるように、教育制度を改革することを計画している。",
+      japanese: "政府は、すべての人にとってより公平なものにするため、教育制度を改革する計画だ。",
       vocabRefs: ["v0822"]
     },
     {
@@ -223,7 +223,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s837",
       english: "The people demanded justice for the man who had been killed by the police.",
-      japanese: "人々は警察によって殺された男性のために正義を求めた。",
+      japanese: "人々は警察に殺された男性のために、正義が果たされるよう求めた。",
       vocabRefs: ["v0837"]
     },
     {
@@ -247,7 +247,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s841",
       english: "The report made several suggestions as to how to end race discrimination in the workplace.",
-      japanese: "その報告書は、職場での人種差別をなくす方法について、いくつか提案をした。",
+      japanese: "その報告書は、職場での人種差別をなくす方法について、いくつか提言を行った。",
       vocabRefs: ["v0841"]
     },
     {
@@ -289,7 +289,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s848",
       english: "Who is in charge of the distribution of emergency supplies in this area?",
-      japanese: "この地域の防災用品の分配の責任者は誰ですか？",
+      japanese: "この地域で緊急支援物資の配給を担当しているのは誰ですか？",
       vocabRefs: ["v0848"]
     },
     {
@@ -301,7 +301,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s850",
       english: "High concentrations of radiation were found in the area around the power plant.",
-      japanese: "その発電所の周辺地域で高濃度の放射線が見つかった。",
+      japanese: "その発電所の周辺地域で高濃度の放射線が検出された。",
       vocabRefs: ["v0850"]
     },
     {
@@ -331,7 +331,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s855",
       english: "The students said that they had experienced racial prejudice at school.",
-      japanese: "生徒たちは学校で人種的偏見を経験したと言った。",
+      japanese: "生徒たちは学校で人種的偏見を受けたと話した。",
       vocabRefs: ["v0855"]
     },
     {
@@ -379,13 +379,13 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s863",
       english: "The food was great, but the bread was a bit stale.",
-      japanese: "料理は素晴らしかったが、パンは少し堅かった。",
+      japanese: "料理は素晴らしかったが、パンは少し古くなっていた。",
       vocabRefs: ["v0863"]
     },
     {
       sid: "s864",
       english: "They took a group of disadvantaged children on a trip to the seaside.",
-      japanese: "彼らは恵まれない子供たちの集団を連れて海辺へ旅行に行った。",
+      japanese: "彼らは恵まれない子供たちを連れて海辺へ旅行に行った。",
       vocabRefs: ["v0864"]
     },
     {
@@ -403,7 +403,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s867",
       english: "No unauthorized persons are allowed in this area.",
-      japanese: "権限のない人間は誰もこの地域に立ち入ることができない。",
+      japanese: "許可のない者はこの区域に立ち入ることができない。",
       vocabRefs: ["v0867"]
     },
     {
@@ -559,7 +559,7 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s893",
       english: "The medical students were very eager to start treating patients.",
-      japanese: "その医学生たちは患者の治療を始めたいことでとても熱望していた。",
+      japanese: "その医学生たちは患者の治療を始めることをとても楽しみにしていた。",
       vocabRefs: ["v0893"]
     },
     {
@@ -595,13 +595,13 @@ window.SECTIONS["sec09"] = {
     {
       sid: "s899",
       english: "Some motorists, notably truck drivers, were not happy about the new speed restrictions.",
-      japanese: "運転手の中には、特にトラックのドライバーだが、新しい制限速度に不満を感じる人もいた。",
+      japanese: "運転者の中には、とくにトラック運転手を中心に、新しい速度制限に不満を持つ人もいた。",
       vocabRefs: ["v0899"]
     },
     {
       sid: "s900",
       english: "In the last few years, the runner's performance has been continuously improving.",
-      japanese: "この2、3年、そのランナーの成績は継続してよくなっている。",
+      japanese: "この数年、そのランナーの成績は着実に向上している。",
       vocabRefs: ["v0900"]
     }
   ],

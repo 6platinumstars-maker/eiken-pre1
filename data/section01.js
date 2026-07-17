@@ -111,7 +111,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s014",
       english: "Once we receive the items, we will transfer payment into your account.",
-      japanese: "商品を受け取りしだい、あなたの口座に支払いを送金します。",
+      japanese: "商品を受け取り次第、あなたの口座に代金を送金します。",
       vocabRefs: [
         "v0014"
       ]
@@ -199,7 +199,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s025",
       english: "The restaurant struggled to make money during the recession.",
-      japanese: "そのレストランは不況の中、収入を得ようと懸命に努力した。",
+      japanese: "そのレストランは不況の中、利益を上げようと懸命に努力した。",
       vocabRefs: [
         "v0025"
       ]
@@ -223,7 +223,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s028",
       english: "He went to the ward office to register the birth of his baby son.",
-      japanese: "彼は息子の出生届けを出すために区役所に行った。",
+      japanese: "彼は息子の出生届を出すために区役所に行った。",
       vocabRefs: [
         "v0028"
       ]
@@ -303,7 +303,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s038",
       english: "The medical students studied the effect of smoking on organs such as the heart and lungs.",
-      japanese: "医学生は喫煙の心臓や肺などの臓器への影響について研究した。",
+      japanese: "医学生たちは、喫煙が心臓や肺などの臓器に及ぼす影響を研究した。",
       vocabRefs: [
         "v0038"
       ]
@@ -335,7 +335,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s042",
       english: "Access to the main temple building was blocked.",
-      japanese: "寺院の本堂へ向かう道は閉鎖されていた。",
+      japanese: "寺院の本堂への立ち入りは封鎖されていた。",
       vocabRefs: [
         "v0042"
       ]
@@ -393,7 +393,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s049",
       english: "The police said the accident was caused by a number of factors.",
-      japanese: "警察はその事故はいくつかの要因によって引き起こされたと言った。",
+      japanese: "警察は、その事故はいくつかの要因によって引き起こされたと述べた。",
       vocabRefs: [
         "v0049"
       ]
@@ -474,7 +474,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s059",
       english: "The authorities warned our city's mayor about the high levels of water pollution.",
-      japanese: "当局者たちが水質汚染の高い水準に関して市長に警告した。",
+      japanese: "当局は、水質汚染が深刻なレベルにあるとして市長に警告した。",
       vocabRefs: [
         "v0059"
       ]
@@ -506,7 +506,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s063",
       english: "The government is planning to introduce measures to combat unemployment.",
-      japanese: "政府は、失業をなくそうとするための措置を導入するつもりだ。",
+      japanese: "政府は、失業対策を導入するつもりだ。",
       vocabRefs: [
         "v0063"
       ]
@@ -538,7 +538,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s067",
       english: "There are a variety of nutrients that are essential for health.",
-      japanese: "健康のために不可欠なさまざまな栄養分が存在する。",
+      japanese: "健康のために不可欠なさまざまな栄養分がある。",
       vocabRefs: [
         "v0067"
       ]
@@ -554,7 +554,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s069",
       english: "The structure was very weak and had to be rebuilt.",
-      japanese: "その建造物はとても脆弱だったので、建て直さねば必要だった。",
+      japanese: "その建造物は非常にもろく、建て直さなければならなかった。",
       vocabRefs: [
         "v0069"
       ]
@@ -634,7 +634,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s079",
       english: "There is to be a total ban on cigarette advertisements in the near future.",
-      japanese: "近い将来、タバコの広告の全面的な禁止があるだろう。",
+      japanese: "近い将来、たばこの広告は全面的に禁止されることになっている。",
       vocabRefs: [
         "v0079"
       ]
@@ -722,7 +722,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s090",
       english: "Access to a clean water supply is essential for good health.",
-      japanese: "浄水を利用できることは、健康に不可欠である。",
+      japanese: "清潔な水の供給を利用できることは、健康に不可欠である。",
       vocabRefs: [
         "v0090"
       ]
@@ -730,7 +730,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s091",
       english: "It is illegal to drink and drive in many countries, including Japan.",
-      japanese: "飲酒運転は、日本を含む多くの国々で公に禁じられる。",
+      japanese: "飲酒運転は、日本を含む多くの国々で違法である。",
       vocabRefs: [
         "v0091"
       ]
@@ -746,7 +746,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s093",
       english: "There are numerous ways to learn how to speak English.",
-      japanese: "英語の話し方を学ぶ方法はとてもたくさんある。",
+      japanese: "英語を話せるようになる方法はたくさんある。",
       vocabRefs: [
         "v0093"
       ]
@@ -778,7 +778,7 @@ window.SECTIONS["sec01"] = {
     {
       sid: "s097",
       english: "Our overall profits last year were higher than the year before.",
-      japanese: "当社の昨年の全体の利益は、前年を上回った。",
+      japanese: "当社の昨年の総利益は、前年を上回った。",
       vocabRefs: [
         "v0097"
       ]
@@ -905,7 +905,7 @@ window.SECTIONS["sec01"] = {
       word: "deal",
       ipa: "[díːl]",
       meaning: "対処する（with ～に）、扱う、商う（in ～を）",
-      extraInfo: "【動】\n対処する (with ～に)\n扱う\n商う (in ～を)\n【名】\ndealer 【名】 商人、商人",
+      extraInfo: "【動】\n対処する (with ～に)\n扱う\n商う (in ～を)\n【名】\ndealer 【名】 商人、販売業者",
       usedIn: [
         "s008"
       ],
@@ -1738,7 +1738,7 @@ window.SECTIONS["sec01"] = {
       word: "minimum",
       ipa: "[mínəməm]",
       meaning: "最低限",
-      extraInfo: "【名】\n最低限 [⇔ maximum]\n【形】最低の、（大小・陰影）の",
+      extraInfo: "【名】\n最低限 [⇔ maximum]\n【形】最低の、最小の",
       usedIn: [
         "s072"
       ],
@@ -1817,7 +1817,7 @@ window.SECTIONS["sec01"] = {
       word: "employment",
       ipa: "[implɔ́imənt]",
       meaning: "雇用、職",
-      extraInfo: "【名】\n雇用、職 [⇔ job] [⇔ unemployment 失業]\nemploy 【動】\nemployer 【名】雇用主\nemployee 【名】従業員",
+      extraInfo: "【名】\n雇用、職 [≒ job] [⇔ unemployment 失業]\nemploy 【動】\nemployer 【名】雇用主\nemployee 【名】従業員",
       usedIn: [
         "s078"
       ],
@@ -1830,7 +1830,7 @@ window.SECTIONS["sec01"] = {
       word: "ban",
       ipa: "[bæn]",
       meaning: "禁止",
-      extraInfo: "【名】\n禁止 (会) (on ～の) [⇔ prohibition] [⇔ permission 許可]\n【動】\nを（公式に）禁止する",
+      extraInfo: "【名】\n禁止（on ～の）[≒ prohibition] [⇔ permission 許可]\n【動】\nを（公式に）禁止する",
       usedIn: [
         "s079"
       ],
@@ -1895,7 +1895,7 @@ window.SECTIONS["sec01"] = {
       word: "current",
       ipa: "[kə́ːrənt]",
       meaning: "現在の、現代の",
-      extraInfo: "【形】\n現在の、現代の [modern, contemporary]\n【副】in, 電流\n語源メモ: currente（流る）から",
+      extraInfo: "【形】\n現在の、現代の [= modern, contemporary]\n【名】\n流れ、電流\n語源メモ: currente（流れる）から",
       usedIn: [
         "s084"
       ],
@@ -1921,7 +1921,7 @@ window.SECTIONS["sec01"] = {
       word: "significant",
       ipa: "[signífikənt]",
       meaning: "重要な、意味のある",
-      extraInfo: "【形】\n重要な [⇔ insignificant]、意味のある\nsignify 【動】を意味する\nsignificance 【名】重要性、旨意\nsignificantly 【副】",
+      extraInfo: "【形】\n重要な [⇔ insignificant]、意味のある\nsignify 【動】を意味する\nsignificance 【名】重要性、意義\nsignificantly 【副】",
       usedIn: [
         "s086"
       ],
@@ -1961,7 +1961,7 @@ window.SECTIONS["sec01"] = {
       word: "due",
       ipa: "[djúː]",
       meaning: "支払期日になって、支払われるべき",
-      extraInfo: "【形】\n支払期日になって、（当然）支払われる（べき）\none's ～ 当次の材料、（～）余分",
+      extraInfo: "【形】\n支払期日になって、（当然）支払われる（べき）\none's due 当然受けるべきもの",
       usedIn: [
         "s089"
       ],
@@ -1974,7 +1974,7 @@ window.SECTIONS["sec01"] = {
       word: "essential",
       ipa: "[isénʃəl]",
       meaning: "必要不可欠な、非常に重要な",
-      extraInfo: "【形】\n必要不可欠な (to, for ～にとって)、非常に重要な\n【名】（通例 ～s）本質[骨要素、不可欠なもの",
+      extraInfo: "【形】\n必要不可欠な (to, for ～にとって)、非常に重要な\n【名】\n（通例 essentials）本質的要素、不可欠なもの",
       usedIn: [
         "s090"
       ],
@@ -2065,7 +2065,7 @@ window.SECTIONS["sec01"] = {
       word: "overall",
       ipa: "[òuvərɔ́ːl]",
       meaning: "全体[全般]的な、総合的な",
-      extraInfo: "【形】\n全体[全般]的な、総合的な [= total, gross, entire]\n【副】 すべてを言えば",
+      extraInfo: "【形】\n全体[全般]的な、総合的な [= total, gross, entire]\n【副】\n全体として、概して",
       usedIn: [
         "s097"
       ],

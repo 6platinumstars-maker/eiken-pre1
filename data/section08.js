@@ -37,7 +37,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s706",
       english: "This company has dominated the electronics market in the country for over 40 years.",
-      japanese: "この企業は40年以上にわたりこの国の電子産業市場を支配してきた。",
+      japanese: "この企業は40年以上にわたり、この国の電子機器市場を支配してきた。",
       vocabRefs: ["v0706"]
     },
     {
@@ -67,7 +67,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s711",
       english: "If you encounter any difficulties, please contact me.",
-      japanese: "何でも困ったことに遭遇したら、私に連絡してください。",
+      japanese: "何か困ったことがあれば、私に連絡してください。",
       vocabRefs: ["v0711"]
     },
     {
@@ -91,7 +91,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s715",
       english: "After his operation, the doctor prescribed several medications to ease his pain.",
-      japanese: "手術後に、医師は痛みを和らげるため、彼にいくつかの薬を処方した。",
+      japanese: "手術後、医師は彼の痛みを和らげるためにいくつかの薬を処方した。",
       vocabRefs: ["v0715"]
     },
     {
@@ -109,7 +109,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s718",
       english: "The dentist warned the children that eating sweets would make their teeth decay.",
-      japanese: "歯科医は、甘いものを食べていると虫歯になると子供たちに警告した。",
+      japanese: "歯科医は、甘いものを食べると虫歯になると子供たちに警告した。",
       vocabRefs: ["v0718"]
     },
     {
@@ -133,13 +133,13 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s722",
       english: "The hotel ballroom can accommodate up to 500 guests.",
-      japanese: "そのホテルのダンスホールは、500人まで客を収容することができる。",
+      japanese: "そのホテルの宴会場は、500人まで収容できる。",
       vocabRefs: ["v0722"]
     },
     {
       sid: "s723",
       english: "The prisoner was too weak to withstand any further punishment.",
-      japanese: "その囚人はとてもひ弱で、それ以上の罰に耐えることはできなかった。",
+      japanese: "その囚人はあまりにも衰弱していて、それ以上の罰に耐えることはできなかった。",
       vocabRefs: ["v0723"]
     },
     {
@@ -247,7 +247,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s741",
       english: "The counselor's job is to take care of the emotional well-being of the children.",
-      japanese: "そのカウンセラーの仕事は、子供たちの感情面の健康に気をつけることだ。",
+      japanese: "そのカウンセラーの仕事は、子供たちの心の健康に気を配ることだ。",
       vocabRefs: ["v0741"]
     },
     {
@@ -301,7 +301,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s750",
       english: "I still can't believe she had the nerve to come uninvited.",
-      japanese: "彼女が招待されていないのにやってくる度胸を持ち合わせていたとはまだ信じられない。",
+      japanese: "招待もされていないのに彼女が来たなんて、今でも信じられない。",
       vocabRefs: ["v0750"]
     },
     {
@@ -319,13 +319,13 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s753",
       english: "The formation of the new government marks the beginning of a new era for this country.",
-      japanese: "新政府を組織することは、この国にとって新時代の始まりを示すものだ。",
+      japanese: "新政府の成立は、この国にとって新時代の始まりを意味する。",
       vocabRefs: ["v0753"]
     },
     {
       sid: "s754",
       english: "All of her children had very different personality traits.",
-      japanese: "彼女の子供たちは皆、非常に異なる性格の特徴（一面性）を持っていた。",
+      japanese: "彼女の子供たちは皆、それぞれまったく異なる性格の特徴を持っていた。",
       vocabRefs: ["v0754"]
     },
     {
@@ -355,7 +355,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s759",
       english: "The newspaper took a stance against racism.",
-      japanese: "その新聞は反人種差別の立場を取った。",
+      japanese: "その新聞は人種差別に反対する立場を取った。",
       vocabRefs: ["v0759"]
     },
     {
@@ -373,7 +373,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s762",
       english: "The French Foreign Minister discussed trade issues with his German counterpart last night.",
-      japanese: "フランスの外務大臣は昨夜、ドイツの対応する人（＝外務大臣）と貿易問題について議論した。",
+      japanese: "フランスの外務大臣は昨夜、ドイツの外相と貿易問題について協議した。",
       vocabRefs: ["v0762"]
     },
     {
@@ -439,7 +439,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s773",
       english: "Small children and the elderly are more vulnerable to flu viruses.",
-      japanese: "小さな子供とお年寄りはインフルエンザウイルスにより弱い。",
+      japanese: "小さな子供と高齢者はインフルエンザウイルスの影響を受けやすい。",
       vocabRefs: ["v0773"]
     },
     {
@@ -589,7 +589,7 @@ window.SECTIONS["sec08"] = {
     {
       sid: "s798",
       english: "This English conversation course was designed primarily for beginners.",
-      japanese: "この英会話講座は主に初め者のために作られた。",
+      japanese: "この英会話講座は主に初心者向けに作られた。",
       vocabRefs: ["v0798"]
     },
     {
