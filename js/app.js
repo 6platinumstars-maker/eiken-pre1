@@ -9,8 +9,10 @@
   const sectionSelect = $("sectionSelect");
   const tabSentences = $("tabSentences");
   const tabVocab = $("tabVocab");
+  const tabEnAudio = $("tabEnAudio");
   const viewSentences = $("viewSentences");
   const viewVocab = $("viewVocab");
+  const viewAudio = $("viewAudio");
 
   // ---- sentences UI ----
   const sidEl = $("sid");
@@ -497,7 +499,9 @@
 
     showJP = typeof state.showJP === "boolean" ? state.showJP : showJP;
     mcqMode = typeof state.mcqMode === "boolean" ? state.mcqMode : mcqMode;
-    currentView = state.currentView === "vocab" ? "vocab" : "sentences";
+    currentView = ["sentences", "vocab", "enAudio"].includes(state.currentView)
+      ? state.currentView
+      : "sentences";
     sentenceIndex = isFiniteNumber(state.sentenceIndex) ? Math.trunc(state.sentenceIndex) : sentenceIndex;
     sentenceRevealStage = clampInt(state.sentenceRevealStage, 0, 1, sentenceRevealStage);
     audioSentenceIndex = isFiniteNumber(state.audioSentenceIndex)
@@ -1623,18 +1627,24 @@
 
   // ---- View switching ----
   function setView(mode) {
-    currentView = mode === "vocab" ? "vocab" : "sentences";
-    const isSent = mode === "sentences";
-    const isVocab = mode === "vocab";
+    currentView = mode === "vocab" || mode === "enAudio" ? mode : "sentences";
+    const isSent = currentView === "sentences";
+    const isVocab = currentView === "vocab";
+    const isEnAudio = currentView === "enAudio";
 
     tabSentences.classList.toggle("is-active", isSent);
     tabVocab.classList.toggle("is-active", isVocab);
+    tabEnAudio?.classList.toggle("is-active", isEnAudio);
 
     viewSentences.classList.toggle("is-hidden", !isSent);
     viewVocab.classList.toggle("is-hidden", !isVocab);
+    viewAudio?.classList.toggle("is-hidden", !isEnAudio);
 
     if (isVocab) {
       renderCheckedVocabReview();
+    }
+    if (isEnAudio) {
+      renderAudioView();
     }
     scheduleSave();
   }
@@ -1662,6 +1672,7 @@
 
     renderSentence();
     renderCheckedVocabReview();
+    renderAudioView();
 
     scheduleSave();
   });
@@ -1720,6 +1731,39 @@
   // tabs
   tabSentences.addEventListener("click", () => setView("sentences"));
   tabVocab.addEventListener("click", () => setView("vocab"));
+  tabEnAudio?.addEventListener("click", () => setView("enAudio"));
+
+  audioRevealAreaEl?.addEventListener("click", () => {
+    audioRevealStage = (audioRevealStage + 1) % (currentView === "enAudio" ? 4 : 3);
+    renderAudioView();
+    scheduleSave();
+  });
+
+  audioPrevBtn?.addEventListener("click", () => {
+    moveAudioSentence(-1);
+  });
+
+  audioReplayBtn?.addEventListener("click", () => {
+    toggleAudioPlayback();
+  });
+
+  audioNextBtn?.addEventListener("click", () => {
+    moveAudioSentence(1);
+  });
+
+  audioBatchToggleBtn?.addEventListener("click", () => {
+    isAudioBatchMenuOpen = !isAudioBatchMenuOpen;
+    renderAudioBatchControls();
+  });
+
+  audioBatchOptionEls.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const batchIndex = Number(btn.dataset.batchIndex);
+      if (!Number.isFinite(batchIndex)) return;
+      audioRevealStage = getDefaultAudioRevealStage("enAudio");
+      autoplayAudioBatch(batchIndex);
+    });
+  });
 
   vocabCheckAllBtn?.addEventListener("click", () => {
     setAllChipChecked(true);
@@ -1848,6 +1892,7 @@
   renderSectionOptions();
   renderSentence();
   renderCheckedVocabReview();
+  renderAudioView();
   setView(currentView);
 
   // 3) 初回も保存（互換/壊れ対策）

@@ -16,6 +16,7 @@
       <div class="seg">
         <button id="tabSentences" class="seg-btn is-active" type="button">例文</button>
         <button id="tabVocab" class="seg-btn" type="button">単語</button>
+        <button id="tabEnAudio" class="seg-btn" type="button">英語音声</button>
       </div>
     </div>
   </header>
@@ -40,6 +41,37 @@
       <div id="sentenceVocabCard" class="card is-hidden">
         <div class="card-title">この例文の単語</div>
         <div id="vocabChips" class="chips"></div>
+      </div>
+    </section>
+
+    <section id="viewAudio" class="view is-hidden">
+      <div class="card">
+        <div class="meta">
+          <span id="audioSid" class="pill">s000</span>
+          <span id="audioProgress" class="meta-text">0 / 0</span>
+        </div>
+
+        <div id="audioModeTitle" class="card-title">英語音声</div>
+        <div id="audioHint" class="meta-text"></div>
+        <div id="audioRevealArea" class="audio-reveal-area is-empty">音声準備中です。</div>
+
+        <div class="actions">
+          <button id="audioPrevBtn" class="btn" type="button">← 前</button>
+          <button id="audioReplayBtn" class="btn" type="button">再生 / 一時停止</button>
+          <button id="audioNextBtn" class="btn primary" type="button">次 →</button>
+        </div>
+
+        <div class="audio-batch-controls">
+          <button id="audioBatchToggleBtn" class="btn" type="button">5連続</button>
+          <div id="audioBatchPicker" class="audio-batch-picker is-hidden">
+            <button class="btn" type="button" data-batch-index="1">1</button>
+            <button class="btn" type="button" data-batch-index="2">2</button>
+            <button class="btn" type="button" data-batch-index="3">3</button>
+            <button class="btn" type="button" data-batch-index="4">4</button>
+          </div>
+        </div>
+
+        <div id="audioStatus" class="meta-text"></div>
       </div>
     </section>
 

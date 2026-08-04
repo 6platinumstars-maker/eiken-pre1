@@ -22,6 +22,12 @@ GitHub Pages:
   - タップで訳・追加情報・例文と訳を表示
   - もう一度タップするとチェックを外して次の単語へ進行
   - `すべてチェックを入れる` / `すべてのチェックを外す` に対応
+- `英語音声` モード
+  - Duo3.0 アプリの `英語音声` ボタンに合わせた画面構成
+  - 例文ごとの英語音声再生領域
+  - `← 前` / `再生・一時停止` / `次 →`
+  - 5セクション単位の連続再生 UI
+  - 例文欄タップで表示内容を切り替え
 - 英単語入力による確認
 - `4択` モード
 - 学習状態・チェック状態・正誤履歴の `localStorage` 保存
@@ -50,6 +56,9 @@ GitHub Pages:
 - Section 18: `1701–1800` 完了
 - Section 19: `1801–1900` 完了
 
+総例文数は `1891` 件です。  
+Section 11 は元データが `91` 文のため、全体は `1900` ではなく `1891` 文になっています。
+
 ## ファイル構成
 
 - `index.html`
@@ -61,17 +70,18 @@ GitHub Pages:
 - `data/section01.js` 〜 `data/section19.js`
   - Section ごとの例文・単語データ
 - `mp3/en`
-  - 英語音声
+  - 英語音声（Section 単位）
 - `mp3/jp`
   - 日本語音声
 - `mp3/5en`
-  - 英語5連続再生用音声
+  - 英語連続再生用音声
 - `source/scans`
   - 元スキャン画像・PDF
 - `source/ocr`
   - OCR テキスト
 - `scripts`
   - データ加工用スクリプト
+  - 音声生成スクリプト
 
 ## データ形式
 
@@ -112,6 +122,42 @@ window.SECTIONS["sec01"] = {
 - 命名例: `section14_1301_1338.txt`
 - 1ファイルに連番のまとまりを保存
 - 後で `data/sectionXX.js` に反映
+
+## 音声ファイルの前提
+
+英語音声モードでは、Duo3.0 側と同じ考え方で `mp3` 配下の音声ファイルを参照します。
+
+- 例文ごとの英語音声:
+  - `mp3/en/section01/0001_female_slow.mp3`
+- 例文ごとの日本語音声:
+  - `mp3/jp/section01/0001_female.mp3`
+- 英語連続再生用:
+  - `mp3/5en/section01/0001_female_5x.mp3`
+
+### 生成済み状況
+
+- `section01` 〜 `section19` の音声生成済み
+- 合計:
+  - `mp3/en`: `3782` 件
+  - `mp3/jp`: `1891` 件
+  - `mp3/5en`: `1891` 件
+
+内訳:
+
+- 英語音声は 1 例文につき `female_slow` と `male_slow` の 2 本
+- 日本語音声は 1 例文につき 1 本
+- `5en` は `female slow ×2 → male slow ×2 → female slow ×1` を連結した英語連続再生用ファイル
+
+### 生成スクリプト
+
+音声生成には `scripts/generate_section_audio.py` を使います。
+
+```bash
+cd /home/ps/eiken-jun1-mobile
+/home/ps/.venv/bin/python scripts/generate_section_audio.py data/section01.js --base-dir /home/ps/eiken-jun1-mobile --overwrite
+```
+
+複数 Section をまとめて生成することもできます。
 
 ## ローカルで開く方法
 
