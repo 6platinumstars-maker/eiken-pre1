@@ -557,6 +557,7 @@
   let shouldAutoStartAudio = false;
   let isAudioBatchMenuOpen = false;
   let isAudioBatchPlaying = false;
+  let isAudioSectionAutoplaying = false;
   let activeAudioBatchIndex = null;
   let audioBatchSectionIds = [];
   let audioBatchSectionPos = 0;
@@ -681,6 +682,7 @@
 
   function stopAudioPlayback() {
     audioPlaybackToken += 1;
+    isAudioSectionAutoplaying = false;
     if (audioAdvanceTimer) {
       clearTimeout(audioAdvanceTimer);
       audioAdvanceTimer = null;
@@ -1064,6 +1066,8 @@
     if (currentView === "enAudio" && isAudioBatchPlaying) {
       const rangeLabel = getAudioBatchRangeLabel(audioBatchSectionIds);
       audioStatusEl.textContent = `5連続 ${activeAudioBatchIndex} (${rangeLabel}) を再生中: ${audioBatchSectionPos + 1} / ${audioBatchSectionIds.length} セクション`;
+    } else if (isAudioSectionAutoplaying) {
+      audioStatusEl.textContent = `セクション連続再生中: ${audioSentenceIndex + 1} / ${sec.sentences.length}`;
     } else {
       audioStatusEl.textContent = currentView === "enAudio"
         ? "連続音声: Female Slow → Female Slow → Male Slow → Male Slow → Female Slow"
@@ -1083,24 +1087,38 @@
     const sec = getCurrentSection();
     if (!sec?.sentences?.length) return;
 
-    audioSentenceIndex = ((startIndex % sec.sentences.length) + sec.sentences.length) % sec.sentences.length;
     const sectionId = currentSectionId;
     const playbackToken = ++audioPlaybackToken;
-    const sentence = sec.sentences[audioSentenceIndex];
+    audioSentenceIndex = Math.max(0, Math.min(Math.trunc(startIndex), sec.sentences.length - 1));
+    isAudioSectionAutoplaying = true;
+
+    for (let index = audioSentenceIndex; index < sec.sentences.length; index += 1) {
+      if (playbackToken !== audioPlaybackToken) return;
+
+      audioSentenceIndex = index;
+      const sentence = sec.sentences[audioSentenceIndex];
+      renderAudioView();
+      scheduleSave();
+
+      try {
+        if (currentView === "enAudio") {
+          await playAudioFile(getAudioPath(sentence, "en-5x", sectionId));
+        } else {
+          await playAudioFile(getAudioPath(sentence, "jp", sectionId));
+        }
+        if (playbackToken !== audioPlaybackToken) return;
+      } catch (error) {
+        console.error(error);
+        isAudioSectionAutoplaying = false;
+        renderAudioView();
+        return;
+      }
+    }
+
+    if (playbackToken !== audioPlaybackToken) return;
+    isAudioSectionAutoplaying = false;
     renderAudioView();
     scheduleSave();
-
-    try {
-      if (currentView === "enAudio") {
-        await playAudioFile(getAudioPath(sentence, "en-5x", sectionId));
-      } else {
-        await playAudioFile(getAudioPath(sentence, "jp", sectionId));
-      }
-      if (playbackToken !== audioPlaybackToken) return;
-    } catch (error) {
-      console.error(error);
-      return;
-    }
   }
 
   function toggleAudioPlayback() {
@@ -1128,7 +1146,7 @@
   function moveAudioSentence(delta) {
     const sec = getCurrentSection();
     if (!sec?.sentences?.length) return;
-    audioSentenceIndex = (audioSentenceIndex + delta + sec.sentences.length) % sec.sentences.length;
+    audioSentenceIndex = Math.max(0, Math.min(audioSentenceIndex + delta, sec.sentences.length - 1));
     audioRevealStage = getDefaultAudioRevealStage();
     stopAudioPlayback();
     isAudioBatchMenuOpen = false;
