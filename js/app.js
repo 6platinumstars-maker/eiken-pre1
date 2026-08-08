@@ -1146,7 +1146,11 @@
   function moveAudioSentence(delta) {
     const sec = getCurrentSection();
     if (!sec?.sentences?.length) return;
-    audioSentenceIndex = Math.max(0, Math.min(audioSentenceIndex + delta, sec.sentences.length - 1));
+    if (delta > 0 && audioSentenceIndex >= sec.sentences.length - 1) {
+      audioSentenceIndex = 0;
+    } else {
+      audioSentenceIndex = Math.max(0, Math.min(audioSentenceIndex + delta, sec.sentences.length - 1));
+    }
     audioRevealStage = getDefaultAudioRevealStage();
     stopAudioPlayback();
     isAudioBatchMenuOpen = false;
@@ -1684,6 +1688,8 @@
     roundNo = 1;
     checkedVocabReviewIndex = 0;
     checkedVocabRevealStage = 0;
+    audioSentenceIndex = 0;
+    audioRevealStage = getDefaultAudioRevealStage("enAudio");
 
     unlockVocabInput();
     clearAutoTimer();
