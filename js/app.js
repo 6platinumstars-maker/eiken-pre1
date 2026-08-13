@@ -35,6 +35,7 @@
   const audioReplayBtn = $("audioReplayBtn");
   const audioNextBtn = $("audioNextBtn");
   const audioStatusEl = $("audioStatus");
+  const audioNormalModeBtn = $("audioNormalModeBtn");
   const audioBatchToggleBtn = $("audioBatchToggleBtn");
   const audioBatchPickerEl = $("audioBatchPicker");
   const audioBatchOptionEls = Array.from(document.querySelectorAll("[data-batch-index]"));
@@ -558,6 +559,7 @@
   let isAudioBatchMenuOpen = false;
   let isAudioBatchPlaying = false;
   let isAudioSectionAutoplaying = false;
+  let audioPlaybackMode = "normal";
   let activeAudioBatchIndex = null;
   let audioBatchSectionIds = [];
   let audioBatchSectionPos = 0;
@@ -664,6 +666,11 @@
     activeAudioBatchIndex = null;
     audioBatchSectionIds = [];
     audioBatchSectionPos = 0;
+    audioPlaybackMode = "normal";
+  }
+
+  function setAudioPlaybackMode(mode) {
+    audioPlaybackMode = mode === "batch" ? "batch" : "normal";
   }
 
   function isAudioPaused() {
@@ -770,14 +777,16 @@
   }
 
   function renderAudioBatchControls() {
-    if (!audioBatchToggleBtn || !audioBatchPickerEl) return;
+    if (!audioBatchToggleBtn || !audioBatchPickerEl || !audioNormalModeBtn) return;
     audioBatchToggleBtn.parentElement.style.display = currentView === "enAudio" ? "grid" : "none";
 
     const rangeLabel = activeAudioBatchIndex
       ? getAudioBatchRangeLabel(getAudioBatchSections(activeAudioBatchIndex))
       : "";
 
-    audioBatchToggleBtn.classList.toggle("primary", isAudioBatchPlaying);
+    audioNormalModeBtn.classList.toggle("primary", audioPlaybackMode === "normal");
+    audioBatchToggleBtn.classList.toggle("primary", audioPlaybackMode === "batch");
+    audioNormalModeBtn.textContent = "通常";
     audioBatchToggleBtn.textContent = isAudioBatchPlaying
       ? `5連続: ${activeAudioBatchIndex}${rangeLabel ? ` (${rangeLabel})` : ""}`
       : "5連続";
@@ -1070,7 +1079,9 @@
       audioStatusEl.textContent = `セクション連続再生中: ${audioSentenceIndex + 1} / ${sec.sentences.length}`;
     } else {
       audioStatusEl.textContent = currentView === "enAudio"
-        ? "連続音声: Female Slow → Female Slow → Male Slow → Male Slow → Female Slow"
+        ? (audioPlaybackMode === "batch"
+            ? "再生モード: 5連続 / Female Slow で 5セクション連続再生"
+            : "再生モード: 通常 / 5en で1セクション連続再生")
         : "次の文へは「次 →」を押して進みます。";
     }
     if (isAudioPaused()) {
@@ -1140,6 +1151,10 @@
     isAudioBatchMenuOpen = false;
     shouldAutoStartAudio = false;
     renderAudioBatchControls();
+    if (currentView === "enAudio" && audioPlaybackMode === "batch" && activeAudioBatchIndex) {
+      autoplayAudioBatch(activeAudioBatchIndex);
+      return;
+    }
     autoplayAudioSentence(audioSentenceIndex);
   }
 
@@ -1153,6 +1168,7 @@
     }
     audioRevealStage = getDefaultAudioRevealStage();
     stopAudioPlayback();
+    setAudioPlaybackMode("normal");
     isAudioBatchMenuOpen = false;
     shouldAutoStartAudio = false;
     renderAudioView();
@@ -1164,6 +1180,7 @@
     if (!sectionIds.length || !playlist.length) return;
 
     const playbackToken = ++audioPlaybackToken;
+    setAudioPlaybackMode("batch");
     isAudioBatchPlaying = true;
     activeAudioBatchIndex = batchIndex;
     audioBatchSectionIds = sectionIds.slice();
@@ -1188,7 +1205,7 @@
       scheduleSave();
 
       try {
-        await playAudioFile(getAudioPath(sentence, "en-5x", sectionId));
+        await playAudioFile(getAudioPath(sentence, "en-female-slow", sectionId));
       } catch (error) {
         console.error(error);
         resetAudioBatchState();
@@ -1201,6 +1218,15 @@
     resetAudioBatchState();
     renderAudioView();
     scheduleSave();
+  }
+
+  function switchToNormalAudioMode({ autoplay = false } = {}) {
+    stopAudioPlayback();
+    setAudioPlaybackMode("normal");
+    isAudioBatchMenuOpen = false;
+    shouldAutoStartAudio = false;
+    renderAudioView();
+    if (autoplay) autoplayAudioSentence(audioSentenceIndex);
   }
 
   // ---- Vocab UI helpers ----
@@ -1775,7 +1801,12 @@
     moveAudioSentence(1);
   });
 
+  audioNormalModeBtn?.addEventListener("click", () => {
+    switchToNormalAudioMode();
+  });
+
   audioBatchToggleBtn?.addEventListener("click", () => {
+    setAudioPlaybackMode("batch");
     isAudioBatchMenuOpen = !isAudioBatchMenuOpen;
     renderAudioBatchControls();
   });
