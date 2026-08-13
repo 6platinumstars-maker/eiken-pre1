@@ -169,6 +169,119 @@
     return v?.extraInfo || "追加情報は未登録です。";
   }
 
+  const POS_LABELS = {
+    verb: "動詞",
+    noun: "名詞",
+    adj: "形容詞",
+    adv: "副詞",
+    prep: "前置詞",
+    conj: "接続詞",
+    pron: "代名詞",
+    interj: "間投詞",
+    aux: "助動詞",
+    phrase: "熟語",
+  };
+
+  const EXTRA_INFO_POS_LABELS = {
+    動: "動詞",
+    名: "名詞",
+    形: "形容詞",
+    副: "副詞",
+    前: "前置詞",
+    接: "接続詞",
+    代: "代名詞",
+    助: "助動詞",
+    間: "間投詞",
+    接続詞: "接続詞",
+    前置詞: "前置詞",
+    代名詞: "代名詞",
+    助動詞: "助動詞",
+    間投詞: "間投詞",
+  };
+
+  function getPrimaryPosTag(v) {
+    if (!Array.isArray(v?.tags)) return null;
+    return v.tags.find((tag) => POS_LABELS[tag]) || null;
+  }
+
+  function getPrimaryPosFromExtraInfo(v) {
+    const matches = String(v?.extraInfo || "").match(/【([^】]+)】/g) || [];
+    for (const raw of matches) {
+      const key = raw.replace(/[【】]/g, "").trim();
+      if (EXTRA_INFO_POS_LABELS[key]) return EXTRA_INFO_POS_LABELS[key];
+    }
+    return null;
+  }
+
+  function getPrimaryPosLabel(v) {
+    const posTag = getPrimaryPosTag(v);
+    if (posTag) return POS_LABELS[posTag];
+    return getPrimaryPosFromExtraInfo(v);
+  }
+
+  function getVerbDefinitionLines(v) {
+    const text = String(v?.extraInfo || "").trim();
+    if (!text) return [];
+
+    const lines = text
+      .split("\n")
+      .map((line) => line.trim())
+      .filter(Boolean);
+
+    const verbHeadingIndex = lines.findIndex((line) => line === "【動】");
+    if (verbHeadingIndex === -1) return lines.filter((line) => !/^【.+】$/.test(line));
+
+    const collected = [];
+    for (let i = verbHeadingIndex + 1; i < lines.length; i += 1) {
+      const line = lines[i];
+      if (/^【.+】$/.test(line)) break;
+      collected.push(line);
+    }
+    return collected;
+  }
+
+  function getVerbTransitivityLabel(v) {
+    if (getPrimaryPosLabel(v) !== "動詞") return null;
+
+    const text = [v?.meaning || "", ...getVerbDefinitionLines(v)].join("\n");
+    if (!text.trim()) return "未確認";
+
+    const segments = text
+      .split(/[\n、]/)
+      .map((segment) => segment.trim())
+      .filter(Boolean);
+
+    const hasTransitive = segments.some((segment) => {
+      if (/cf\.|★/.test(segment)) return false;
+      return /[A-Za-zぁ-んァ-ヶ一-龠々〜～]\s*を/.test(segment) || /[^）]\s*を[^）]/.test(segment);
+    });
+
+    const hasLikelyIntransitive = segments.some((segment) => {
+      if (/cf\.|★/.test(segment)) return false;
+      if (/[A-Za-zぁ-んァ-ヶ一-龠々〜～]\s*を/.test(segment)) return false;
+      return /（[^）]*[がは][^）]*）/.test(segment) || /(?:^|[\s])\([a-z]+/.test(segment);
+    });
+
+    if (hasTransitive && hasLikelyIntransitive) return "自他両用";
+    if (hasTransitive) return "他動詞";
+    if (hasLikelyIntransitive) return "自動詞";
+    return "未確認";
+  }
+
+  function renderChipMeta(v) {
+    const posLabel = getPrimaryPosLabel(v);
+    if (!posLabel) return "";
+
+    const parts = [`<span class="chip-meta-part"><span class="chip-meta-label">品詞:</span> ${escapeHtml(posLabel)}</span>`];
+    const transitivity = getVerbTransitivityLabel(v);
+
+    if (transitivity) {
+      parts.push(`<span class="chip-meta-part"><span class="chip-meta-label">動詞区分:</span> ${escapeHtml(transitivity)}</span>`);
+    }
+
+    return `<div class="chip-meta">${parts.join("")}</div>`;
+  }
+
   function getVocabIdNumber(vid) {
     const match = /^v(\d+)$/.exec(vid || "");
     return match ? Number(match[1]) : Number.POSITIVE_INFINITY;
@@ -209,6 +322,7 @@
     const checkedClass = state.checked ? " is-checked" : "";
     const ipa = v.ipa ? `<div class="chip-ipa">${escapeHtml(v.ipa)}</div>` : "";
     const meaning = v.meaning ? `<div class="chip-meaning">${escapeHtml(v.meaning)}</div>` : "";
+    const meta = renderChipMeta(v);
 
     if (!isExpanded) {
       return `<button type="button" class="chip sentence-chip${checkedClass}" data-vid="${escapeHtml(v.vid)}"><div class="chip-word">${escapeHtml(v.word)}</div>${ipa}${meaning}</button>`;
@@ -220,6 +334,7 @@
           <div class="chip-word">${escapeHtml(v.word)}</div>
           ${ipa}
           ${meaning}
+          ${meta}
         </div>
         <div class="chip-extra">${renderChipExtraInfo(getChipExtraInfo(v))}</div>
         <div class="chip-check-cell">
@@ -988,7 +1103,9 @@
       const chips = document.createElement("div");
       chips.className = "chips";
       chips.innerHTML = vocabItems.length
-        ? vocabItems.map((v) => renderVocabChip(v)).join("")
+        ? vocabItems
+            .map((v) => (currentView === "enAudio" ? renderSentenceVocabChip(v, true) : renderVocabChip(v)))
+            .join("")
         : `<div class="chip"><div class="chip-word">(未登録)</div><div class="chip-meaning">この文の重要語リストは未登録です。</div></div>`;
       audioRevealAreaEl.appendChild(chips);
     };
@@ -1245,6 +1362,7 @@
     const state = getChipState(vocab.vid);
     const ipa = vocab.ipa ? `<div class="chip-ipa">${escapeHtml(vocab.ipa)}</div>` : "";
     const meaning = vocab.meaning ? `<div class="chip-meaning">${escapeHtml(vocab.meaning)}</div>` : "";
+    const meta = renderChipMeta(vocab);
 
     if (!isExpanded) {
       return `
@@ -1262,6 +1380,7 @@
           <div class="chip-word">${escapeHtml(vocab.word)}</div>
           ${ipa}
           ${meaning}
+          ${meta}
         </div>
         <div class="chip-extra">${renderChipExtraInfo(getChipExtraInfo(vocab))}</div>
         <div class="chip-check-cell">

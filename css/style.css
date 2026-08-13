@@ -244,6 +244,26 @@ body {
   line-height: 1.4;
 }
 
+.chip-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.chip-meta-part {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+}
+
+.chip-meta-label {
+  color: var(--text);
+  font-weight: 700;
+}
+
 .chip-extra {
   color: var(--muted);
   line-height: 1.5;
