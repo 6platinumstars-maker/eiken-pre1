@@ -313,11 +313,12 @@
       .join("");
   }
 
-  function renderSentenceVocabChip(v, isExpanded = false) {
+  function renderSentenceVocabChip(v, isExpanded = false, options = {}) {
     if (!v) {
       return `<div class="chip"><div class="chip-word">(not found)</div></div>`;
     }
 
+    const { showCheckbox = true } = options;
     const state = getChipState(v.vid);
     const checkedClass = state.checked ? " is-checked" : "";
     const ipa = v.ipa ? `<div class="chip-ipa">${escapeHtml(v.ipa)}</div>` : "";
@@ -328,6 +329,17 @@
       return `<button type="button" class="chip sentence-chip${checkedClass}" data-vid="${escapeHtml(v.vid)}"><div class="chip-word">${escapeHtml(v.word)}</div>${ipa}${meaning}</button>`;
     }
 
+    const checkCell = showCheckbox
+      ? `
+        <div class="chip-check-cell">
+          <label class="chip-check-row">
+            <input type="checkbox" class="chip-check" data-vid="${escapeHtml(v.vid)}" ${state.checked ? "checked" : ""} />
+            <span>チェック</span>
+          </label>
+        </div>
+      `
+      : "";
+
     return `
       <button type="button" class="chip sentence-chip sentence-chip-expanded${checkedClass}" data-vid="${escapeHtml(v.vid)}">
         <div class="chip-main">
@@ -337,12 +349,7 @@
           ${meta}
         </div>
         <div class="chip-extra">${renderChipExtraInfo(getChipExtraInfo(v))}</div>
-        <div class="chip-check-cell">
-          <label class="chip-check-row">
-            <input type="checkbox" class="chip-check" data-vid="${escapeHtml(v.vid)}" ${state.checked ? "checked" : ""} />
-            <span>チェック</span>
-          </label>
-        </div>
+        ${checkCell}
       </button>
     `;
   }
@@ -1104,31 +1111,15 @@
       chips.className = "chips";
       chips.innerHTML = vocabItems.length
         ? vocabItems
-            .map((v) => (currentView === "enAudio" ? renderSentenceVocabChip(v, true) : renderVocabChip(v)))
+            .map((v) => (currentView === "enAudio"
+              ? renderSentenceVocabChip(v, true, { showCheckbox: false })
+              : renderVocabChip(v)))
             .join("")
         : `<div class="chip"><div class="chip-word">(未登録)</div><div class="chip-meaning">この文の重要語リストは未登録です。</div></div>`;
       audioRevealAreaEl.appendChild(chips);
     };
 
     if (currentView === "enAudio") {
-      if (audioRevealStage === 0) {
-        audioRevealAreaEl.classList.add("is-empty");
-        audioRevealAreaEl.textContent = "タップで 単語のみ → 英文 + 単語 → 英文 + 日本語訳 + 単語 を切り替えます。";
-        return;
-      }
-      if (audioRevealStage === 1) {
-        appendVocabChips();
-        return;
-      }
-      if (audioRevealStage === 2) {
-        const en = document.createElement("div");
-        en.className = "english";
-        en.textContent = sentence.english;
-        audioRevealAreaEl.appendChild(en);
-        appendVocabChips();
-        return;
-      }
-
       const en = document.createElement("div");
       en.className = "english";
       en.textContent = sentence.english;
@@ -1903,8 +1894,26 @@
   tabEnAudio?.addEventListener("click", () => setView("enAudio"));
 
   audioRevealAreaEl?.addEventListener("click", () => {
+    if (currentView === "enAudio") return;
     audioRevealStage = (audioRevealStage + 1) % (currentView === "enAudio" ? 4 : 3);
     renderAudioView();
+    scheduleSave();
+  });
+
+  audioRevealAreaEl?.addEventListener("click", (event) => {
+    if (currentView !== "enAudio") return;
+
+    const chip = event.target.closest(".sentence-chip");
+    if (!chip) return;
+
+    const vid = chip.dataset.vid;
+    if (!vid) return;
+
+    const nextChecked = !getChipState(vid).checked;
+    setChipChecked(vid, nextChecked);
+    renderAudioView();
+    renderSentence();
+    renderCheckedVocabReview();
     scheduleSave();
   });
 
