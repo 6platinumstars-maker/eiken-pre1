@@ -10,6 +10,10 @@
   const tabSentences = $("tabSentences");
   const tabVocab = $("tabVocab");
   const tabEnAudio = $("tabEnAudio");
+  const fontScaleDownBtn = $("fontScaleDownBtn");
+  const fontScaleResetBtn = $("fontScaleResetBtn");
+  const fontScaleUpBtn = $("fontScaleUpBtn");
+  const fontScaleValueEl = $("fontScaleValue");
   const viewSentences = $("viewSentences");
   const viewVocab = $("viewVocab");
   const viewAudio = $("viewAudio");
@@ -72,6 +76,9 @@
   const STATS_KEY = "eikenJun1Mobile.v1.stats";
   const CHIP_STATE_KEY = "eikenJun1Mobile.v1.chips";
   const AUDIO_ASSET_VERSION = "20260620-1";
+  const FONT_SCALE_MIN = 0.85;
+  const FONT_SCALE_MAX = 1.45;
+  const FONT_SCALE_STEP = 0.1;
 
   // --- stats state (永続) ---
   // stats["sec01:v0001"] = { seen, correct, wrong, lastAt }
@@ -129,6 +136,12 @@
     if (!isFiniteNumber(n)) return fallback;
     n = Math.trunc(n);
     return Math.max(min, Math.min(max, n));
+  }
+
+  function clampFontScale(value, fallback = 1) {
+    if (!isFiniteNumber(value)) return fallback;
+    const rounded = Math.round(value * 100) / 100;
+    return Math.max(FONT_SCALE_MIN, Math.min(FONT_SCALE_MAX, rounded));
   }
 
   function normalizeAnswer(s) {
@@ -559,6 +572,7 @@
       v: 1,
       lastSection: currentSectionId,
       currentView,
+      fontScale,
       sentenceIndex,
       sentenceRevealStage,
       audioSentenceIndex,
@@ -625,6 +639,7 @@
     currentView = ["sentences", "vocab", "enAudio"].includes(state.currentView)
       ? state.currentView
       : "sentences";
+    fontScale = clampFontScale(state.fontScale, 1);
     sentenceIndex = isFiniteNumber(state.sentenceIndex) ? Math.trunc(state.sentenceIndex) : sentenceIndex;
     sentenceRevealStage = clampInt(state.sentenceRevealStage, 0, 1, sentenceRevealStage);
     audioSentenceIndex = isFiniteNumber(state.audioSentenceIndex)
@@ -668,6 +683,7 @@
   // =========================
   let currentSectionId = "sec01";
   let currentView = "sentences";
+  let fontScale = 1;
   let sentenceIndex = 0;
   let sentenceRevealStage = 0;
   let expandedSentenceChipIds = new Set();
@@ -706,6 +722,31 @@
   // MCQ mode
   let mcqMode = true;
   let mcqAnswered = false;
+
+  function applyFontScale() {
+    document.documentElement.style.setProperty("--font-scale", String(fontScale));
+  }
+
+  function renderFontScaleControls() {
+    if (fontScaleValueEl) {
+      fontScaleValueEl.textContent = `${Math.round(fontScale * 100)}%`;
+    }
+    if (fontScaleDownBtn) fontScaleDownBtn.disabled = fontScale <= FONT_SCALE_MIN;
+    if (fontScaleUpBtn) fontScaleUpBtn.disabled = fontScale >= FONT_SCALE_MAX;
+    if (fontScaleResetBtn) fontScaleResetBtn.disabled = Math.abs(fontScale - 1) < 0.001;
+  }
+
+  function setFontScale(nextScale) {
+    const safeScale = clampFontScale(nextScale, fontScale);
+    if (Math.abs(safeScale - fontScale) < 0.001) {
+      renderFontScaleControls();
+      return;
+    }
+    fontScale = safeScale;
+    applyFontScale();
+    renderFontScaleControls();
+    scheduleSave();
+  }
 
   // ---- tag constants (Level0-1) ----
   const POS_TAGS = ["noun", "verb", "adj", "adv", "prep", "conj", "pron", "interj", "aux"];
@@ -1893,6 +1934,18 @@
   tabVocab.addEventListener("click", () => setView("vocab"));
   tabEnAudio?.addEventListener("click", () => setView("enAudio"));
 
+  fontScaleDownBtn?.addEventListener("click", () => {
+    setFontScale(fontScale - FONT_SCALE_STEP);
+  });
+
+  fontScaleResetBtn?.addEventListener("click", () => {
+    setFontScale(1);
+  });
+
+  fontScaleUpBtn?.addEventListener("click", () => {
+    setFontScale(fontScale + FONT_SCALE_STEP);
+  });
+
   audioRevealAreaEl?.addEventListener("click", () => {
     if (currentView === "enAudio") return;
     audioRevealStage = (audioRevealStage + 1) % (currentView === "enAudio" ? 4 : 3);
@@ -2070,6 +2123,8 @@
 
   // 1) state を読む
   loadState();
+  applyFontScale();
+  renderFontScaleControls();
 
   // 2) UI描画
   renderSectionOptions();

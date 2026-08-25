@@ -4,13 +4,22 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>英検準1級 Mobile</title>
-  <link rel="stylesheet" href="css/style.css?v=20260701-1" />
+  <link rel="stylesheet" href="css/style.css?v=20260825-1" />
 </head>
 <body>
   <header class="topbar">
-    <div class="brand">
-      <div class="title">英検準1級 Mobile</div>
-     </div>
+    <div class="topbar-main">
+      <div class="brand">
+        <div class="title">英検準1級 Mobile</div>
+      </div>
+        <div class="font-controls" aria-label="文字サイズ調整">
+          <button id="fontScaleDownBtn" class="seg-btn font-scale-btn" type="button" aria-label="文字を小さくする">A-</button>
+          <button id="fontScaleResetBtn" class="seg-btn font-scale-btn" type="button" aria-label="文字サイズを標準に戻す">標準</button>
+          <button id="fontScaleUpBtn" class="seg-btn font-scale-btn" type="button" aria-label="文字を大きくする">A+</button>
+          <span id="fontScaleValue" class="meta-text font-scale-value">100%</span>
+        </div>
+    </div>
+    <div class="controls">
         <select id="sectionSelect" class="select" aria-label="Section"></select>
 
       <div class="seg">
@@ -145,6 +154,6 @@
   <script src="data/section18.js?v=20260705-1"></script>
   <script src="data/section19.js?v=20260705-1"></script>
 
-  <script src="js/app.js?v=20260628-1"></script>
+  <script src="js/app.js?v=20260825-1"></script>
 </body>
 </html>
