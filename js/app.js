@@ -77,7 +77,7 @@
   const CHIP_STATE_KEY = "eikenJun1Mobile.v1.chips";
   const AUDIO_ASSET_VERSION = "20260620-1";
   const FONT_SCALE_MIN = 0.85;
-  const FONT_SCALE_MAX = 1.45;
+  const FONT_SCALE_MAX = 1.6;
   const FONT_SCALE_STEP = 0.1;
 
   // --- stats state (永続) ---
