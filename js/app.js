@@ -10,6 +10,7 @@
   const tabSentences = $("tabSentences");
   const tabVocab = $("tabVocab");
   const tabEnAudio = $("tabEnAudio");
+  const tabWordAudio = $("tabWordAudio");
   const fontScaleDownBtn = $("fontScaleDownBtn");
   const fontScaleResetBtn = $("fontScaleResetBtn");
   const fontScaleUpBtn = $("fontScaleUpBtn");
@@ -636,7 +637,7 @@
 
     showJP = typeof state.showJP === "boolean" ? state.showJP : showJP;
     mcqMode = typeof state.mcqMode === "boolean" ? state.mcqMode : mcqMode;
-    currentView = ["sentences", "vocab", "enAudio"].includes(state.currentView)
+    currentView = ["sentences", "vocab", "enAudio", "wordAudio"].includes(state.currentView)
       ? state.currentView
       : "sentences";
     fontScale = clampFontScale(state.fontScale, 1);
@@ -768,6 +769,24 @@
     return window.SECTIONS?.[currentSectionId];
   }
 
+  function isAudioView(view = currentView) {
+    return view === "enAudio" || view === "wordAudio";
+  }
+
+  function getAudioItems(sec, view = currentView) {
+    if (!sec) return [];
+    return view === "wordAudio" ? (sec.vocab || []) : (sec.sentences || []);
+  }
+
+  function getAudioItemId(item, view = currentView) {
+    const rawId = view === "wordAudio" ? item?.vid : item?.sid;
+    return (rawId || "").replace(/^[sv]/, "");
+  }
+
+  function getAudioItemLabel(view = currentView) {
+    return view === "wordAudio" ? "単語" : "例文";
+  }
+
   function getAudioBatchGroups() {
     const ids = getSectionIds().filter((id) => /^sec\d+$/.test(id));
     const maxGroupIndex = ids.reduce((max, id) => {
@@ -790,19 +809,20 @@
     return getAudioBatchGroups()[batchIndex - 1] || [];
   }
 
-  function buildAudioBatchPlaylist(batchIndex) {
+  function buildAudioBatchPlaylist(batchIndex, view = currentView) {
     const sectionIds = getAudioBatchSections(batchIndex);
     const playlist = [];
 
     sectionIds.forEach((sectionId, sectionPos) => {
       const sec = window.SECTIONS?.[sectionId];
-      if (!sec?.sentences?.length) return;
-      sec.sentences.forEach((sentence, sentencePos) => {
+      const items = getAudioItems(sec, view);
+      if (!items.length) return;
+      items.forEach((item, itemPos) => {
         playlist.push({
           sectionId,
           sectionPos,
-          sentence,
-          sentencePos,
+          item,
+          itemPos,
         });
       });
     });
@@ -846,7 +866,7 @@
 
   function renderAudioPauseButton() {
     if (!audioReplayBtn) return;
-    audioReplayBtn.disabled = currentView !== "enAudio" && currentView !== "jpAudio";
+    audioReplayBtn.disabled = !isAudioView();
     audioReplayBtn.classList.toggle("primary", isAudioPaused());
   }
 
@@ -900,22 +920,22 @@
     return sectionId.replace(/^sec/, "section");
   }
 
-  function getAudioSentenceId(sentence) {
-    return sentence.sid.replace(/^s/, "");
-  }
-
-  function getAudioPath(sentence, kind, sectionId = currentSectionId) {
+  function getAudioPath(item, kind, sectionId = currentSectionId, view = currentView) {
     const sectionFolder = getAudioSectionFolder(sectionId);
-    const sentenceId = getAudioSentenceId(sentence);
-    if (kind === "en-5x") return `mp3/5en/${sectionFolder}/${sentenceId}_female_5x.mp3?v=${AUDIO_ASSET_VERSION}`;
-    if (kind === "en-female-slow") {
-      return `mp3/en/${sectionFolder}/${sentenceId}_female_slow.mp3?v=${AUDIO_ASSET_VERSION}`;
+    const itemId = getAudioItemId(item, view);
+    if (view === "wordAudio") {
+      if (kind === "word-5x") return `mp3/5word/${sectionFolder}/${itemId}_female_5x.mp3?v=${AUDIO_ASSET_VERSION}`;
+      return `mp3/word/${sectionFolder}/${itemId}_female_slow.mp3?v=${AUDIO_ASSET_VERSION}`;
     }
-    return `mp3/jp/${sectionFolder}/${sentenceId}_female.mp3?v=${AUDIO_ASSET_VERSION}`;
+    if (kind === "en-5x") return `mp3/5en/${sectionFolder}/${itemId}_female_5x.mp3?v=${AUDIO_ASSET_VERSION}`;
+    if (kind === "en-female-slow") {
+      return `mp3/en/${sectionFolder}/${itemId}_female_slow.mp3?v=${AUDIO_ASSET_VERSION}`;
+    }
+    return `mp3/jp/${sectionFolder}/${itemId}_female.mp3?v=${AUDIO_ASSET_VERSION}`;
   }
 
   function getDefaultAudioRevealStage(view = currentView) {
-    return view === "enAudio" ? 3 : 2;
+    return isAudioView(view) ? 3 : 2;
   }
 
   function applyCurrentSection(sectionId, { resetSentenceIndices = false } = {}) {
@@ -941,7 +961,7 @@
 
   function renderAudioBatchControls() {
     if (!audioBatchToggleBtn || !audioBatchPickerEl || !audioNormalModeBtn) return;
-    audioBatchToggleBtn.parentElement.style.display = currentView === "enAudio" ? "grid" : "none";
+    audioBatchToggleBtn.parentElement.style.display = isAudioView() ? "grid" : "none";
 
     const rangeLabel = activeAudioBatchIndex
       ? getAudioBatchRangeLabel(getAudioBatchSections(activeAudioBatchIndex))
@@ -992,7 +1012,7 @@
       };
 
       const onPauseOrPlay = () => {
-        if (currentView === "enAudio" || currentView === "jpAudio") {
+        if (isAudioView()) {
           renderAudioView();
           return;
         }
@@ -1146,6 +1166,11 @@
     audioRevealAreaEl.innerHTML = "";
     audioRevealAreaEl.classList.remove("is-empty");
 
+    if (currentView === "wordAudio") {
+      audioRevealAreaEl.innerHTML = renderSentenceVocabChip(sentence, true, { showCheckbox: false });
+      return;
+    }
+
     const vocabItems = getSentenceVocab(sentence, sec);
     const appendVocabChips = () => {
       const chips = document.createElement("div");
@@ -1201,33 +1226,39 @@
 
   function renderAudioView() {
     const sec = getCurrentSection();
-    if (!sec?.sentences?.length) {
+    const audioItems = getAudioItems(sec);
+    const audioLabel = getAudioItemLabel();
+    if (!audioItems.length) {
       audioSidEl.textContent = "—";
       audioProgressEl.textContent = "0 / 0";
-      audioModeTitleEl.textContent = currentView === "enAudio" ? "英語音声" : "日本語音声";
+      audioModeTitleEl.textContent = currentView === "wordAudio" ? "単語音声" : "例文音声";
       audioHintEl.textContent = "";
-      audioRevealAreaEl.textContent = "No audio sentences.";
+      audioRevealAreaEl.textContent = `No audio ${audioLabel}.`;
       audioStatusEl.textContent = "";
       renderAudioPauseButton();
       return;
     }
 
-    audioSentenceIndex = ((audioSentenceIndex % sec.sentences.length) + sec.sentences.length) % sec.sentences.length;
-    const sentence = sec.sentences[audioSentenceIndex];
+    audioSentenceIndex = ((audioSentenceIndex % audioItems.length) + audioItems.length) % audioItems.length;
+    const sentence = audioItems[audioSentenceIndex];
 
-    audioSidEl.textContent = sentence.sid;
-    audioProgressEl.textContent = `${audioSentenceIndex + 1} / ${sec.sentences.length}`;
-    audioModeTitleEl.textContent = currentView === "enAudio" ? "英語音声" : "日本語音声";
-    audioHintEl.textContent = currentView === "enAudio"
-      ? "最初から 例文 + 日本語訳 + 単語 を表示します。例文欄タップで表示内容を切り替えられます。5連続で Section をまとめて再生できます。"
-      : "最初から 例文 + 日本語 + 単語 を表示します。例文欄タップで表示内容を切り替えられます。";
-    if (currentView === "enAudio" && isAudioBatchPlaying) {
+    audioSidEl.textContent = currentView === "wordAudio" ? sentence.vid : sentence.sid;
+    audioProgressEl.textContent = `${audioSentenceIndex + 1} / ${audioItems.length}`;
+    audioModeTitleEl.textContent = currentView === "wordAudio" ? "単語音声" : "例文音声";
+    audioHintEl.textContent = currentView === "wordAudio"
+      ? "単語カードを最初から表示します。カードをタップするとチェックを切り替えます。5連続で Section をまとめて再生できます。"
+      : "最初から 例文 + 日本語訳 + 単語 を表示します。カードをタップするとチェックを切り替えます。5連続で Section をまとめて再生できます。";
+    if (isAudioView() && isAudioBatchPlaying) {
       const rangeLabel = getAudioBatchRangeLabel(audioBatchSectionIds);
       audioStatusEl.textContent = `5連続 ${activeAudioBatchIndex} (${rangeLabel}) を再生中: ${audioBatchSectionPos + 1} / ${audioBatchSectionIds.length} セクション`;
     } else if (isAudioSectionAutoplaying) {
-      audioStatusEl.textContent = `セクション連続再生中: ${audioSentenceIndex + 1} / ${sec.sentences.length}`;
+      audioStatusEl.textContent = `セクション連続再生中: ${audioSentenceIndex + 1} / ${audioItems.length} ${audioLabel}`;
     } else {
-      audioStatusEl.textContent = currentView === "enAudio"
+      audioStatusEl.textContent = currentView === "wordAudio"
+        ? (audioPlaybackMode === "batch"
+            ? "再生モード: 5連続 / 女性音声で5セクション連続再生"
+            : "再生モード: 通常 / 女性2回・男性2回・女性1回")
+        : currentView === "enAudio"
         ? (audioPlaybackMode === "batch"
             ? "再生モード: 5連続 / Female Slow で 5セクション連続再生"
             : "再生モード: 通常 / 5en で1セクション連続再生")
@@ -1245,27 +1276,25 @@
   async function autoplayAudioSentence(startIndex = audioSentenceIndex) {
     if (isAudioBatchPlaying) return;
     const sec = getCurrentSection();
-    if (!sec?.sentences?.length) return;
+    const audioItems = getAudioItems(sec);
+    if (!audioItems.length) return;
 
     const sectionId = currentSectionId;
     const playbackToken = ++audioPlaybackToken;
-    audioSentenceIndex = Math.max(0, Math.min(Math.trunc(startIndex), sec.sentences.length - 1));
+    audioSentenceIndex = Math.max(0, Math.min(Math.trunc(startIndex), audioItems.length - 1));
     isAudioSectionAutoplaying = true;
 
-    for (let index = audioSentenceIndex; index < sec.sentences.length; index += 1) {
+    for (let index = audioSentenceIndex; index < audioItems.length; index += 1) {
       if (playbackToken !== audioPlaybackToken) return;
 
       audioSentenceIndex = index;
-      const sentence = sec.sentences[audioSentenceIndex];
+      const item = audioItems[audioSentenceIndex];
       renderAudioView();
       scheduleSave();
 
       try {
-        if (currentView === "enAudio") {
-          await playAudioFile(getAudioPath(sentence, "en-5x", sectionId));
-        } else {
-          await playAudioFile(getAudioPath(sentence, "jp", sectionId));
-        }
+        const audioKind = currentView === "wordAudio" ? "word-5x" : "en-5x";
+        await playAudioFile(getAudioPath(item, audioKind, sectionId));
         if (playbackToken !== audioPlaybackToken) return;
       } catch (error) {
         console.error(error);
@@ -1300,7 +1329,7 @@
     isAudioBatchMenuOpen = false;
     shouldAutoStartAudio = false;
     renderAudioBatchControls();
-    if (currentView === "enAudio" && audioPlaybackMode === "batch" && activeAudioBatchIndex) {
+    if (isAudioView() && audioPlaybackMode === "batch" && activeAudioBatchIndex) {
       autoplayAudioBatch(activeAudioBatchIndex);
       return;
     }
@@ -1309,11 +1338,12 @@
 
   function moveAudioSentence(delta) {
     const sec = getCurrentSection();
-    if (!sec?.sentences?.length) return;
-    if (delta > 0 && audioSentenceIndex >= sec.sentences.length - 1) {
+    const audioItems = getAudioItems(sec);
+    if (!audioItems.length) return;
+    if (delta > 0 && audioSentenceIndex >= audioItems.length - 1) {
       audioSentenceIndex = 0;
     } else {
-      audioSentenceIndex = Math.max(0, Math.min(audioSentenceIndex + delta, sec.sentences.length - 1));
+      audioSentenceIndex = Math.max(0, Math.min(audioSentenceIndex + delta, audioItems.length - 1));
     }
     audioRevealStage = getDefaultAudioRevealStage();
     stopAudioPlayback();
@@ -1340,21 +1370,22 @@
       if (playbackToken !== audioPlaybackToken) return;
 
       const item = playlist[i];
-      const { sectionId, sectionPos, sentence, sentencePos } = item;
+      const { sectionId, sectionPos, item: audioItem, itemPos } = item;
 
       if (currentSectionId !== sectionId || audioBatchSectionPos !== sectionPos) {
         audioBatchSectionPos = sectionPos;
         applyAudioBatchSection(sectionId, 0);
       }
 
-      sentenceIndex = sentencePos;
-      audioSentenceIndex = sentencePos;
+      sentenceIndex = itemPos;
+      audioSentenceIndex = itemPos;
       audioRevealStage = getDefaultAudioRevealStage();
       renderAudioView();
       scheduleSave();
 
       try {
-        await playAudioFile(getAudioPath(sentence, "en-female-slow", sectionId));
+        const audioKind = currentView === "wordAudio" ? "word-female-slow" : "en-female-slow";
+        await playAudioFile(getAudioPath(audioItem, audioKind, sectionId));
       } catch (error) {
         console.error(error);
         resetAudioBatchState();
@@ -1826,23 +1857,28 @@
 
   // ---- View switching ----
   function setView(mode) {
-    currentView = mode === "vocab" || mode === "enAudio" ? mode : "sentences";
+    const previousView = currentView;
+    if (previousView !== mode && isAudioView(previousView)) stopAudioPlayback();
+    currentView = mode === "vocab" || mode === "enAudio" || mode === "wordAudio" ? mode : "sentences";
     const isSent = currentView === "sentences";
     const isVocab = currentView === "vocab";
     const isEnAudio = currentView === "enAudio";
+    const isWordAudio = currentView === "wordAudio";
+    const isAudio = isEnAudio || isWordAudio;
 
     tabSentences.classList.toggle("is-active", isSent);
     tabVocab.classList.toggle("is-active", isVocab);
     tabEnAudio?.classList.toggle("is-active", isEnAudio);
+    tabWordAudio?.classList.toggle("is-active", isWordAudio);
 
     viewSentences.classList.toggle("is-hidden", !isSent);
     viewVocab.classList.toggle("is-hidden", !isVocab);
-    viewAudio?.classList.toggle("is-hidden", !isEnAudio);
+    viewAudio?.classList.toggle("is-hidden", !isAudio);
 
     if (isVocab) {
       renderCheckedVocabReview();
     }
-    if (isEnAudio) {
+    if (isAudio) {
       renderAudioView();
     }
     scheduleSave();
@@ -1933,6 +1969,7 @@
   tabSentences.addEventListener("click", () => setView("sentences"));
   tabVocab.addEventListener("click", () => setView("vocab"));
   tabEnAudio?.addEventListener("click", () => setView("enAudio"));
+  tabWordAudio?.addEventListener("click", () => setView("wordAudio"));
 
   fontScaleDownBtn?.addEventListener("click", () => {
     setFontScale(fontScale - FONT_SCALE_STEP);
@@ -1947,14 +1984,14 @@
   });
 
   audioRevealAreaEl?.addEventListener("click", () => {
-    if (currentView === "enAudio") return;
+    if (isAudioView()) return;
     audioRevealStage = (audioRevealStage + 1) % (currentView === "enAudio" ? 4 : 3);
     renderAudioView();
     scheduleSave();
   });
 
   audioRevealAreaEl?.addEventListener("click", (event) => {
-    if (currentView !== "enAudio") return;
+    if (!isAudioView()) return;
 
     const chip = event.target.closest(".sentence-chip");
     if (!chip) return;
@@ -1996,7 +2033,7 @@
     btn.addEventListener("click", () => {
       const batchIndex = Number(btn.dataset.batchIndex);
       if (!Number.isFinite(batchIndex)) return;
-      audioRevealStage = getDefaultAudioRevealStage("enAudio");
+      audioRevealStage = getDefaultAudioRevealStage();
       autoplayAudioBatch(batchIndex);
     });
   });

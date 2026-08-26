@@ -353,6 +353,60 @@ window.SECTIONS["sec11"] = {
       vocabRefs: ["v1058"]
     },
     {
+      sid: "s1059",
+      english: "Dr. Brown is a very good physician and is loved by all his patients.",
+      japanese: "ブラウン医師はとても優秀な内科医で、全ての患者に愛されている。",
+      vocabRefs: ["v1059"]
+    },
+    {
+      sid: "s1060",
+      english: "Maybe we should try looking at this problem from a different perspective.",
+      japanese: "私たちはこの問題を違う観点から見てみるべきなのかもしれない。",
+      vocabRefs: ["v1060"]
+    },
+    {
+      sid: "s1061",
+      english: "He is the most famous figure in the field of physics.",
+      japanese: "彼は物理学の分野で最も有名な人物だ。",
+      vocabRefs: ["v1061"]
+    },
+    {
+      sid: "s1062",
+      english: "New legislation on the sale of tobacco was introduced last fall.",
+      japanese: "昨秋、タバコ販売に関する新しい法律が施行された。",
+      vocabRefs: ["v1062"]
+    },
+    {
+      sid: "s1063",
+      english: "The farmer kept the animals in the barn during the winter.",
+      japanese: "その農場経営者は冬の間、動物たちを小屋に入れていた。",
+      vocabRefs: ["v1063"]
+    },
+    {
+      sid: "s1064",
+      english: "The captured soldiers made a daring escape from the prison camp.",
+      japanese: "捕虜となった兵士たちは、捕虜収容所から大胆な脱走を試みた。",
+      vocabRefs: ["v1064"]
+    },
+    {
+      sid: "s1065",
+      english: "Her jacket was made of a fine, almost transparent silk.",
+      japanese: "彼女のジャケットは、ほとんど透明な細かい絹でできていた。",
+      vocabRefs: ["v1065"]
+    },
+    {
+      sid: "s1066",
+      english: "The actress was killed in a tragic skiing accident yesterday.",
+      japanese: "その女優は昨日、悲惨なスキー事故で亡くなった。",
+      vocabRefs: ["v1066"]
+    },
+    {
+      sid: "s1067",
+      english: "There was something cold and sinister about the way she spoke to me.",
+      japanese: "彼女の私に対する話し方はどこか冷たく、不穏な感じのものだった。",
+      vocabRefs: ["v1067"]
+    },
+    {
       sid: "s1068",
       english: "The crime bore a striking resemblance to several others.",
       japanese: "その犯罪は、ほかのいくつかの事件と著しい類似点があった。",
@@ -1073,6 +1127,87 @@ window.SECTIONS["sec11"] = {
       extraInfo: "【名】\n冒険的事業、ベンチャー事業 [= enterprise]\n【動】(venture to do で)思い切って～する",
       usedIn: ["s1058"],
       tags: ["noun"]
+    },
+    {
+      vid: "v1059",
+      word: "physician",
+      ipa: "[fizíʃən]",
+      meaning: "内科医、医師",
+      extraInfo: "【名】\n内科医、医師 [= doctor]\ncf. surgeon 【名】外科医",
+      usedIn: ["s1059"],
+      tags: ["noun"]
+    },
+    {
+      vid: "v1060",
+      word: "perspective",
+      ipa: "[pərspéktiv]",
+      meaning: "観点、見通し、遠近画法",
+      extraInfo: "【名】\n観点（on ～についての） [= viewpoint, standpoint, outlook]、見通し、遠近画法",
+      usedIn: ["s1060"],
+      tags: ["noun"]
+    },
+    {
+      vid: "v1061",
+      word: "physics",
+      ipa: "[fízik(s)]",
+      meaning: "物理学",
+      extraInfo: "【名】\n物理学\nphysicist 【名】物理学者\nphysical 【形】身体の、物質的な、物理学の",
+      usedIn: ["s1061"],
+      tags: ["noun"]
+    },
+    {
+      vid: "v1062",
+      word: "legislation",
+      ipa: "[lèdʒisléiʃən]",
+      meaning: "法律、立法",
+      extraInfo: "【名】\n（集合的に）法律（on ～についての） [= law]、立法 [= lawmaking]\nlegislate 【動】立法する\nlegislature 【名】立法府、議会",
+      usedIn: ["s1062"],
+      tags: ["noun"]
+    },
+    {
+      vid: "v1063",
+      word: "barn",
+      ipa: "[bɑːrn]",
+      meaning: "家畜小屋、（農家の）納屋",
+      extraInfo: "【名】\n家畜小屋、（農家の）納屋",
+      usedIn: ["s1063"],
+      tags: ["noun"]
+    },
+    {
+      vid: "v1064",
+      word: "daring",
+      ipa: "[dériŋ]",
+      meaning: "大胆な、勇敢な",
+      extraInfo: "【形】\n大胆な、勇敢な [= bold, fearless, courageous, brave]\n【名】勇気、大胆さ\ndare 【動】思い切って～する",
+      usedIn: ["s1064"],
+      tags: ["adj"]
+    },
+    {
+      vid: "v1065",
+      word: "transparent",
+      ipa: "[trænspǽrənt]",
+      meaning: "透明な、見えすいた",
+      extraInfo: "【形】\n透明な [= clear] [⇔ opaque]、見えすいた [= obvious]\ntransparency 【名】",
+      usedIn: ["s1065"],
+      tags: ["adj"]
+    },
+    {
+      vid: "v1066",
+      word: "tragic",
+      ipa: "[trǽdʒik]",
+      meaning: "悲惨な、悲劇的な",
+      extraInfo: "【形】\n悲惨な、悲劇的な [= disastrous] [⇔ comic]\ntragedy 【名】 [⇔ comedy]",
+      usedIn: ["s1066"],
+      tags: ["adj"]
+    },
+    {
+      vid: "v1067",
+      word: "sinister",
+      ipa: "[sínistər]",
+      meaning: "邪悪な、不吉な",
+      extraInfo: "【形】\n邪悪な [= evil, wicked, wrongful]、不吉な [= ominous]",
+      usedIn: ["s1067"],
+      tags: ["adj"]
     },
     {
       vid: "v1068",

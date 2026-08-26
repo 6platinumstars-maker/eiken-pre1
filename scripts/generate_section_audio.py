@@ -42,6 +42,15 @@ SENTENCE_BLOCK_RE = re.compile(
     re.DOTALL,
 )
 
+VOCAB_BLOCK_RE = re.compile(r"vocab:\s*\[(?P<vocab>.*)\]\s*\};?\s*$", re.DOTALL)
+VOCAB_ENTRY_RE = re.compile(
+    r'vid:\s*"(?P<vid>v\d+)"\s*,\s*'
+    r'word:\s*(?P<word_quote>["\'])'
+    r'(?P<word>(?:\\.|(?!(?P=word_quote)).)*)'
+    r'(?P=word_quote)',
+    re.DOTALL,
+)
+
 
 def unescape_js_string(value: str) -> str:
     def replace_unicode(match: re.Match[str]) -> str:
@@ -65,6 +74,11 @@ def sanitize_tts_text(value: str) -> str:
     return value.replace('"', "").replace("“", "").replace("”", "")
 
 
+def sanitize_tts_word(value: str) -> str:
+    # The tilde in phrasal-verb entries is a dictionary placeholder, not speech.
+    return re.sub(r"\s+", " ", sanitize_tts_text(value).replace("~", " ")).strip()
+
+
 def load_section_payload(section_file: Path) -> dict:
     if section_file.suffix == ".json":
         return json.loads(section_file.read_text(encoding="utf-8"))
@@ -84,10 +98,21 @@ def load_section_payload(section_file: Path) -> dict:
             }
         )
 
-    if not sentences:
-        raise RuntimeError(f"No sentences found in {section_file}")
+    vocab_match = VOCAB_BLOCK_RE.search(source)
+    vocab = []
+    if vocab_match:
+        for match in VOCAB_ENTRY_RE.finditer(vocab_match.group("vocab")):
+            vocab.append(
+                {
+                    "id": match.group("vid")[1:],
+                    "word": unescape_js_string(match.group("word")),
+                }
+            )
 
-    return {"section": section_name, "sentences": sentences}
+    if not sentences or not vocab:
+        raise RuntimeError(f"Missing sentence or vocab data in {section_file}")
+
+    return {"section": section_name, "sentences": sentences, "vocab": vocab}
 
 
 async def synthesize(
@@ -178,6 +203,8 @@ async def generate_section(
     en_dir = base_dir / "mp3" / "en" / section_name
     jp_dir = base_dir / "mp3" / "jp" / section_name
     five_en_dir = base_dir / "mp3" / "5en" / section_name
+    word_dir = base_dir / "mp3" / "word" / section_name
+    five_word_dir = base_dir / "mp3" / "5word" / section_name
     semaphore = asyncio.Semaphore(2)
 
     tasks = []
@@ -225,6 +252,42 @@ async def generate_section(
 
         if overwrite or not five_en_path.exists() or five_en_path.stat().st_size == 0:
             build_5x_audio(female_slow_path, male_slow_path, five_en_path)
+
+    word_tasks = []
+    for vocab in payload["vocab"]:
+        vid = vocab["id"]
+        word = sanitize_tts_word(vocab["word"])
+        word_tasks.extend(
+            [
+                synthesize(
+                    word,
+                    VOICES["en_female"],
+                    RATES["en_slow"],
+                    word_dir / f"{vid}_female_slow.mp3",
+                    semaphore,
+                    overwrite,
+                ),
+                synthesize(
+                    word,
+                    VOICES["en_male"],
+                    RATES["en_slow"],
+                    word_dir / f"{vid}_male_slow.mp3",
+                    semaphore,
+                    overwrite,
+                ),
+            ]
+        )
+
+    await asyncio.gather(*word_tasks)
+
+    for vocab in payload["vocab"]:
+        vid = vocab["id"]
+        female_slow_path = word_dir / f"{vid}_female_slow.mp3"
+        male_slow_path = word_dir / f"{vid}_male_slow.mp3"
+        five_word_path = five_word_dir / f"{vid}_female_5x.mp3"
+
+        if overwrite or not five_word_path.exists() or five_word_path.stat().st_size == 0:
+            build_5x_audio(female_slow_path, male_slow_path, five_word_path)
 
 
 def main() -> None:
