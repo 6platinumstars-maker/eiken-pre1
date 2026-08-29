@@ -77,7 +77,7 @@
   const STORAGE_KEY = "eikenJun1Mobile.v1";
   const STATS_KEY = "eikenJun1Mobile.v1.stats";
   const CHIP_STATE_KEY = "eikenJun1Mobile.v1.chips";
-  const AUDIO_ASSET_VERSION = "20260620-1";
+  const AUDIO_ASSET_VERSION = "20260829-1";
   const FONT_SCALE_MIN = 0.85;
   const FONT_SCALE_MAX = 1.6;
   const FONT_SCALE_STEP = 0.1;
@@ -643,7 +643,7 @@
       : "sentences";
     fontScale = clampFontScale(state.fontScale, 1);
     sentenceIndex = isFiniteNumber(state.sentenceIndex) ? Math.trunc(state.sentenceIndex) : sentenceIndex;
-    sentenceRevealStage = clampInt(state.sentenceRevealStage, 0, 1, sentenceRevealStage);
+    sentenceRevealStage = clampInt(state.sentenceRevealStage, 0, 2, sentenceRevealStage);
     audioSentenceIndex = isFiniteNumber(state.audioSentenceIndex)
       ? Math.trunc(state.audioSentenceIndex)
       : audioSentenceIndex;
@@ -1122,7 +1122,13 @@
     }
     const v = getCurrentSection()?.vocab?.[sentenceIndex];
     if (!v) return;
-    setChipChecked(v.vid, true);
+    if (sentenceRevealStage === 1) {
+      setChipChecked(v.vid, true);
+      sentenceRevealStage = 2;
+    } else {
+      setChipChecked(v.vid, false);
+      sentenceRevealStage = 1;
+    }
     renderSentence();
     renderCheckedVocabReview();
     scheduleSave();
@@ -1948,11 +1954,15 @@
     moveSentence(1);
   });
 
-  [sentenceCard, sentenceVocabCard].forEach((el) => {
-    el?.addEventListener("click", (event) => {
-      if (event.target.closest("button")) return;
-      advanceSentenceReveal();
-    });
+  sentenceCard?.addEventListener("click", (event) => {
+    if (event.target.closest("button")) return;
+    advanceSentenceReveal();
+  });
+
+  sentenceVocabCard?.addEventListener("click", (event) => {
+    if (event.target.closest("button")) return;
+    event.stopPropagation();
+    advanceSentenceReveal();
   });
 
   vocabChipsEl.addEventListener("click", (event) => {

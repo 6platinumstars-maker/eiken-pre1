@@ -175,6 +175,23 @@ def encode_pcm_to_mp3(samples: array, out_path: Path, sample_rate: int = 44100) 
         raise RuntimeError(f"Generated empty file: {out_path}")
 
 
+def emphasize_initial_sibilant(path: Path) -> None:
+    """Make a quiet initial sibilant clearer in a word-only female recording."""
+    audio = decode_mp3_to_pcm(path)
+    start = int(audio.sample_rate * 0.06)
+    end = int(audio.sample_rate * 0.15)
+    peak = 32767
+
+    samples = array("h", audio.samples)
+    for index in range(start, min(end, len(samples))):
+        # Fade in the gain so the following vowel keeps its natural volume.
+        progress = (index - start) / max(1, end - start)
+        gain = 2.6 - (1.6 * progress)
+        samples[index] = max(-peak, min(peak, round(samples[index] * gain)))
+
+    encode_pcm_to_mp3(samples, path, sample_rate=audio.sample_rate)
+
+
 def build_5x_audio(
     female_slow_path: Path,
     male_slow_path: Path,
@@ -197,6 +214,9 @@ async def generate_section(
     section_file: Path,
     base_dir: Path,
     overwrite: bool,
+    repair_initial_s: bool,
+    word_ids: set[str],
+    overwrite_word_ids: set[str],
 ) -> None:
     payload = load_section_payload(section_file)
     section_name = payload["section"]
@@ -257,6 +277,7 @@ async def generate_section(
     for vocab in payload["vocab"]:
         vid = vocab["id"]
         word = sanitize_tts_word(vocab["word"])
+        overwrite_word = overwrite or vid in overwrite_word_ids
         word_tasks.extend(
             [
                 synthesize(
@@ -265,7 +286,7 @@ async def generate_section(
                     RATES["en_slow"],
                     word_dir / f"{vid}_female_slow.mp3",
                     semaphore,
-                    overwrite,
+                    overwrite_word,
                 ),
                 synthesize(
                     word,
@@ -273,12 +294,21 @@ async def generate_section(
                     RATES["en_slow"],
                     word_dir / f"{vid}_male_slow.mp3",
                     semaphore,
-                    overwrite,
+                    overwrite_word,
                 ),
             ]
         )
 
     await asyncio.gather(*word_tasks)
+
+    repaired_word_ids: set[str] = set()
+    if repair_initial_s:
+        for vocab in payload["vocab"]:
+            vid = vocab["id"]
+            is_requested = not word_ids or vid in word_ids
+            if is_requested and vocab["word"].lstrip().lower().startswith("s"):
+                emphasize_initial_sibilant(word_dir / f"{vid}_female_slow.mp3")
+                repaired_word_ids.add(vid)
 
     for vocab in payload["vocab"]:
         vid = vocab["id"]
@@ -286,7 +316,13 @@ async def generate_section(
         male_slow_path = word_dir / f"{vid}_male_slow.mp3"
         five_word_path = five_word_dir / f"{vid}_female_5x.mp3"
 
-        if overwrite or not five_word_path.exists() or five_word_path.stat().st_size == 0:
+        if (
+            overwrite
+            or vid in repaired_word_ids
+            or vid in overwrite_word_ids
+            or not five_word_path.exists()
+            or five_word_path.stat().st_size == 0
+        ):
             build_5x_audio(female_slow_path, male_slow_path, five_word_path)
 
 
@@ -302,6 +338,23 @@ def main() -> None:
         "--overwrite",
         action="store_true",
     )
+    parser.add_argument(
+        "--repair-initial-s",
+        action="store_true",
+        help="Boost the quiet initial sibilant in selected female word audio files.",
+    )
+    parser.add_argument(
+        "--word-ids",
+        nargs="*",
+        default=[],
+        help="Optional four-digit word IDs to repair. Omitting this repairs all S-initial words.",
+    )
+    parser.add_argument(
+        "--overwrite-word-ids",
+        nargs="*",
+        default=[],
+        help="Optional four-digit word IDs whose female and male word audio should be regenerated.",
+    )
     args = parser.parse_args()
 
     async def run_all() -> None:
@@ -310,6 +363,9 @@ def main() -> None:
                 section_file=section_file,
                 base_dir=args.base_dir,
                 overwrite=args.overwrite,
+                repair_initial_s=args.repair_initial_s,
+                word_ids=set(args.word_ids),
+                overwrite_word_ids=set(args.overwrite_word_ids),
             )
 
     asyncio.run(run_all())
