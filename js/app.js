@@ -28,6 +28,7 @@
   const sentenceCard = $("sentenceCard");
   const sentenceVocabCard = $("sentenceVocabCard");
   const prevBtn = $("prevBtn");
+  const checkReplayBtn = $("checkReplayBtn");
   const nextBtn = $("nextBtn");
 
   // ---- audio UI ----
@@ -702,6 +703,7 @@
   let activeAudioBatchIndex = null;
   let audioBatchSectionIds = [];
   let audioBatchSectionPos = 0;
+  let isWordCheckAutoplaying = false;
 
   // vocab state
   let vocabIndex = 0;
@@ -870,9 +872,21 @@
     audioReplayBtn.classList.toggle("primary", isAudioPaused());
   }
 
+  function renderWordCheckPlaybackButton() {
+    if (!checkReplayBtn) return;
+    checkReplayBtn.disabled = currentView !== "sentences";
+    checkReplayBtn.classList.toggle("primary", isAudioPaused());
+    checkReplayBtn.textContent = isAudioPaused()
+      ? "再開"
+      : isAudioPlaying()
+      ? "一時停止"
+      : "再生";
+  }
+
   function stopAudioPlayback() {
     audioPlaybackToken += 1;
     isAudioSectionAutoplaying = false;
+    isWordCheckAutoplaying = false;
     if (audioAdvanceTimer) {
       clearTimeout(audioAdvanceTimer);
       audioAdvanceTimer = null;
@@ -884,6 +898,7 @@
     }
     resetAudioBatchState();
     renderAudioPauseButton();
+    renderWordCheckPlaybackButton();
   }
 
   function focusVocabInput() {
@@ -1017,6 +1032,7 @@
           return;
         }
         renderAudioPauseButton();
+        renderWordCheckPlaybackButton();
       };
 
       audio.addEventListener("ended", onEnded, { once: true });
@@ -1024,6 +1040,7 @@
       audio.addEventListener("pause", onPauseOrPlay);
       audio.addEventListener("play", onPauseOrPlay);
       renderAudioPauseButton();
+      renderWordCheckPlaybackButton();
       audio.play().catch((err) => {
         cleanup();
         reject(err);
@@ -1046,47 +1063,36 @@
       .join("");
   }
 
-  // ---- Sentences ----
+  // ---- Word check ----
   function renderSentence() {
     const sec = getCurrentSection();
-    if (!sec?.sentences?.length) {
+    if (!sec?.vocab?.length) {
       sidEl.textContent = "—";
       progressEl.textContent = "0 / 0";
-      englishEl.textContent = "No sentences.";
+      englishEl.textContent = "No words.";
       japaneseEl.textContent = "";
       sentenceVocabCard.classList.add("is-hidden");
       vocabChipsEl.innerHTML = "";
-      expandedSentenceChipIds = new Set();
+      renderWordCheckPlaybackButton();
       return;
     }
 
-    sentenceIndex = clampInt(sentenceIndex, 0, sec.sentences.length - 1, 0);
-    const s = sec.sentences[sentenceIndex];
+    sentenceIndex = clampInt(sentenceIndex, 0, sec.vocab.length - 1, 0);
+    const v = sec.vocab[sentenceIndex];
 
-    sidEl.textContent = s.sid;
-    progressEl.textContent = `${sentenceIndex + 1} / ${sec.sentences.length}`;
-    englishEl.textContent = s.english;
-    japaneseEl.textContent = s.japanese;
+    sidEl.textContent = v.vid;
+    progressEl.textContent = `${sentenceIndex + 1} / ${sec.vocab.length}`;
+    englishEl.textContent = v.word;
+    japaneseEl.textContent = v.meaning || "";
     japaneseEl.classList.toggle("is-hidden", sentenceRevealStage === 0);
     sentenceVocabCard.classList.toggle("is-hidden", sentenceRevealStage === 0);
+    vocabChipsEl.innerHTML = sentenceRevealStage === 0
+      ? ""
+      : renderSentenceVocabChip(v, true, { showCheckbox: false });
 
-    const vocabMap = new Map((sec.vocab || []).map((v) => [v.vid, v]));
-    const refs = s.vocabRefs || [];
-    const orderedRefs = refs.slice().sort((a, b) => {
-      const aExpanded = expandedSentenceChipIds.has(a) ? 1 : 0;
-      const bExpanded = expandedSentenceChipIds.has(b) ? 1 : 0;
-      return bExpanded - aExpanded;
-    });
-    vocabChipsEl.innerHTML = orderedRefs
-      .map((vid) => {
-        const v = vocabMap.get(vid);
-        if (!v) return `<div class="chip"><div class="chip-word">${escapeHtml(vid)}</div><div class="chip-meaning">(not found)</div></div>`;
-        return renderSentenceVocabChip(v, expandedSentenceChipIds.has(v.vid));
-      })
-      .join("");
-
-    prevBtn.disabled = false;
-    nextBtn.disabled = false;
+    prevBtn.disabled = sentenceIndex === 0;
+    nextBtn.disabled = sentenceIndex >= sec.vocab.length - 1;
+    renderWordCheckPlaybackButton();
   }
 
   function getNextSectionId(sectionId = currentSectionId) {
@@ -1098,39 +1104,11 @@
 
   function moveSentence(delta) {
     const sec = getCurrentSection();
-    if (!sec?.sentences?.length) return;
+    if (!sec?.vocab?.length) return;
 
-    if (delta > 0 && sentenceIndex >= sec.sentences.length - 1) {
-      const nextSectionId = getNextSectionId();
-      currentSectionId = nextSectionId;
-      sectionSelect.value = nextSectionId;
-      sentenceIndex = 0;
-      audioSentenceIndex = 0;
-      sentenceRevealStage = 0;
-      expandedSentenceChipIds = new Set();
-      renderSectionOptions();
-      renderSentence();
-      checkedVocabReviewIndex = 0;
-      checkedVocabRevealStage = 0;
-      renderCheckedVocabReview();
-      scheduleSave();
-      return;
-    }
-
-    if (delta < 0 && sentenceIndex <= 0) {
-      sentenceIndex = 0;
-      audioSentenceIndex = 0;
-      sentenceRevealStage = 0;
-      expandedSentenceChipIds = new Set();
-      renderSentence();
-      scheduleSave();
-      return;
-    }
-
-    sentenceIndex = Math.max(0, sentenceIndex + delta);
-    audioSentenceIndex = sentenceIndex;
+    stopAudioPlayback();
+    sentenceIndex = Math.max(0, Math.min(sentenceIndex + delta, sec.vocab.length - 1));
     sentenceRevealStage = 0;
-    expandedSentenceChipIds = new Set();
     renderSentence();
     scheduleSave();
   }
@@ -1142,17 +1120,63 @@
       scheduleSave();
       return;
     }
-    moveSentence(1);
+    const v = getCurrentSection()?.vocab?.[sentenceIndex];
+    if (!v) return;
+    setChipChecked(v.vid, true);
+    renderSentence();
+    renderCheckedVocabReview();
+    scheduleSave();
   }
 
-  function playSentenceEnglishSlow() {
+  async function autoplayWordCheck(startIndex = sentenceIndex) {
     const sec = getCurrentSection();
-    if (!sec?.sentences?.length) return;
-    const sentence = sec.sentences[sentenceIndex];
+    const words = sec?.vocab || [];
+    if (!words.length) return;
+
+    const sectionId = currentSectionId;
+    const playbackToken = ++audioPlaybackToken;
+    sentenceIndex = Math.max(0, Math.min(Math.trunc(startIndex), words.length - 1));
+    isWordCheckAutoplaying = true;
+
+    for (let index = sentenceIndex; index < words.length; index += 1) {
+      if (playbackToken !== audioPlaybackToken) return;
+
+      sentenceIndex = index;
+      sentenceRevealStage = 0;
+      renderSentence();
+      scheduleSave();
+
+      try {
+        await playAudioFile(getAudioPath(words[index], "word-5x", sectionId, "wordAudio"));
+      } catch (error) {
+        console.error(error);
+        isWordCheckAutoplaying = false;
+        renderSentence();
+        return;
+      }
+    }
+
+    if (playbackToken !== audioPlaybackToken) return;
+    isWordCheckAutoplaying = false;
+    renderSentence();
+    scheduleSave();
+  }
+
+  function toggleWordCheckPlayback() {
+    if (isAudioPlaying()) {
+      audioElement.pause();
+      renderWordCheckPlaybackButton();
+      return;
+    }
+
+    if (isAudioPaused()) {
+      audioElement.play().catch((error) => console.error(error));
+      renderWordCheckPlaybackButton();
+      return;
+    }
+
     stopAudioPlayback();
-    playAudioFile(getAudioPath(sentence, "en-female-slow")).catch((error) => {
-      console.error(error);
-    });
+    autoplayWordCheck(sentenceIndex);
   }
 
   function getSentenceVocab(sentence, sec) {
@@ -1858,7 +1882,7 @@
   // ---- View switching ----
   function setView(mode) {
     const previousView = currentView;
-    if (previousView !== mode && isAudioView(previousView)) stopAudioPlayback();
+    if (previousView !== mode && (isAudioView(previousView) || previousView === "sentences")) stopAudioPlayback();
     currentView = mode === "vocab" || mode === "enAudio" || mode === "wordAudio" ? mode : "sentences";
     const isSent = currentView === "sentences";
     const isVocab = currentView === "vocab";
@@ -1889,6 +1913,7 @@
     const id = e.target.value;
     if (!id) return;
 
+    stopAudioPlayback();
     currentSectionId = id;
 
     sentenceIndex = 0;
@@ -1931,6 +1956,12 @@
   });
 
   vocabChipsEl.addEventListener("click", (event) => {
+    if (currentView === "sentences") {
+      event.stopPropagation();
+      advanceSentenceReveal();
+      return;
+    }
+
     const checkbox = event.target.closest(".chip-check");
     if (checkbox) {
       event.stopPropagation();
@@ -1970,6 +2001,10 @@
   tabVocab.addEventListener("click", () => setView("vocab"));
   tabEnAudio?.addEventListener("click", () => setView("enAudio"));
   tabWordAudio?.addEventListener("click", () => setView("wordAudio"));
+
+  checkReplayBtn?.addEventListener("click", () => {
+    toggleWordCheckPlayback();
+  });
 
   fontScaleDownBtn?.addEventListener("click", () => {
     setFontScale(fontScale - FONT_SCALE_STEP);

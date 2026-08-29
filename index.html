@@ -23,8 +23,8 @@
         <select id="sectionSelect" class="select" aria-label="Section"></select>
 
       <div class="seg">
-        <button id="tabSentences" class="seg-btn is-active" type="button">例文</button>
-        <button id="tabVocab" class="seg-btn" type="button">単語</button>
+        <button id="tabSentences" class="seg-btn is-active" type="button">単語チェック</button>
+        <button id="tabVocab" class="seg-btn" type="button">単語復習</button>
         <button id="tabEnAudio" class="seg-btn" type="button">例文音声</button>
         <button id="tabWordAudio" class="seg-btn" type="button">単語音声</button>
       </div>
@@ -44,12 +44,13 @@
 
         <div class="actions">
           <button id="prevBtn" class="btn" type="button">← 前</button>
+          <button id="checkReplayBtn" class="btn" type="button">再生</button>
           <button id="nextBtn" class="btn primary" type="button">次 →</button>
         </div>
       </div>
 
       <div id="sentenceVocabCard" class="card is-hidden">
-        <div class="card-title">この例文の単語</div>
+        <div class="card-title">単語カード</div>
         <div id="vocabChips" class="chips"></div>
       </div>
     </section>
