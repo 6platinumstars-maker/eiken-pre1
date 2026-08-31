@@ -353,6 +353,21 @@ body {
   cursor: pointer;
 }
 
+.vocab-review-card + .vocab-review-card {
+  margin-top: 10px;
+}
+
+.vocab-review-example {
+  grid-column: 1 / -1;
+  border-top: 1px dashed var(--line);
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.vocab-review-example .english {
+  margin-top: 4px;
+}
+
 .vocab-bulk-actions {
   margin-top: 12px;
 }

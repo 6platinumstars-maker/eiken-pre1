@@ -92,6 +92,7 @@
   let chipStateSaveTimer = null;
   let checkedVocabReviewIndex = 0;
   let checkedVocabRevealStage = 0;
+  const expandedVocabReviewIds = new Set();
 
   // --- state save timer ---
   let saveTimer = null;
@@ -443,6 +444,7 @@
 
     checkedVocabReviewIndex = 0;
     checkedVocabRevealStage = 0;
+    if (!checked) expandedVocabReviewIds.clear();
     scheduleSaveChipState();
   }
 
@@ -1456,6 +1458,7 @@
     const ipa = vocab.ipa ? `<div class="chip-ipa">${escapeHtml(vocab.ipa)}</div>` : "";
     const meaning = vocab.meaning ? `<div class="chip-meaning">${escapeHtml(vocab.meaning)}</div>` : "";
     const meta = renderChipMeta(vocab);
+    const sentence = item.sentence;
 
     if (!isExpanded) {
       return `
@@ -1482,12 +1485,17 @@
             <span>チェック</span>
           </label>
         </div>
+        <div class="vocab-review-example">
+          <div class="chip-extra-heading">例文</div>
+          <div class="english">${escapeHtml(sentence?.english || "この単語の例文は未登録です。")}</div>
+          ${sentence?.japanese ? `<div class="vocab-translation">${escapeHtml(sentence.japanese)}</div>` : ""}
+        </div>
       </div>
     `;
   }
 
   function renderCheckedVocabReview() {
-    const { items, item } = getCurrentCheckedVocabItem();
+    const items = getCheckedVocabItems();
 
     if (vocabCheckAllBtn) vocabCheckAllBtn.disabled = false;
     if (vocabUncheckAllBtn) vocabUncheckAllBtn.disabled = items.length === 0;
@@ -1501,9 +1509,9 @@
     if (vocabInputEl?.parentElement) vocabInputEl.parentElement.style.display = "none";
     if (mcqBox) mcqBox.style.display = "none";
 
-    if (!item) {
+    if (!items.length) {
       vocabIdEl.textContent = "—";
-      vocabProgressEl.textContent = "0 / 0";
+      vocabProgressEl.textContent = "0 語";
       vocabMeaningEl.innerHTML = `<div class="vocab-empty">チェックされた単語はありません</div>`;
       vocabFeedbackEl.textContent = "";
       vocabAnswerEl.textContent = "";
@@ -1515,48 +1523,18 @@
       return;
     }
 
-    vocabIdEl.textContent = item.vocab.vid;
-    vocabProgressEl.textContent = `${checkedVocabReviewIndex + 1} / ${items.length}`;
-    vocabMeaningEl.innerHTML = renderCheckedVocabCard(item, checkedVocabRevealStage === 1);
-    vocabFeedbackEl.textContent = checkedVocabRevealStage === 0
-      ? "タップで訳・情報・例文と訳を表示します。"
-      : "もう一度タップするとチェックを外して次の単語を表示します。";
-
-    if (checkedVocabRevealStage === 0) {
-      vocabAnswerEl.textContent = "";
-      vocabIpaEl.textContent = "";
-      vocabExtraEl.textContent = "";
-      vocabIpaEl.classList.add("vocab-translation");
-      hideAnswerBox();
-      scheduleSave();
-      return;
-    }
-
-    const sentence = item.sentence;
-    showAnswerBox();
-    vocabAnswerEl.textContent = sentence?.english || "この単語の例文は未登録です。";
+    vocabIdEl.textContent = "チェック済み";
+    vocabProgressEl.textContent = `${items.length} 語`;
+    vocabMeaningEl.innerHTML = items
+      .map((item) => renderCheckedVocabCard(item, expandedVocabReviewIds.has(item.vocab.vid)))
+      .join("");
+    vocabFeedbackEl.textContent = "単語カードをタップすると、訳・情報・例文と訳を開閉できます。";
+    vocabAnswerEl.textContent = "";
     vocabIpaEl.classList.add("vocab-translation");
-    vocabIpaEl.textContent = sentence?.japanese || "";
-    vocabExtraEl.textContent = sentence ? `${item.sectionId} / ${sentence.sid}` : item.sectionId;
+    vocabIpaEl.textContent = "";
+    vocabExtraEl.textContent = "";
+    hideAnswerBox();
     scheduleSave();
-  }
-
-  function advanceCheckedVocabReview() {
-    const { item } = getCurrentCheckedVocabItem();
-    if (!item) {
-      renderCheckedVocabReview();
-      return;
-    }
-
-    if (checkedVocabRevealStage === 0) {
-      checkedVocabRevealStage = 1;
-      renderCheckedVocabReview();
-      return;
-    }
-
-    setChipChecked(item.vocab.vid, false);
-    checkedVocabRevealStage = 0;
-    renderCheckedVocabReview();
   }
 
   // ---- Vocab loop controls ----
@@ -2099,8 +2077,14 @@
     if (currentView !== "vocab") return;
     if (event.target.closest(".chip-check-row")) return;
     if (event.target.closest(".chip-check")) return;
-    if (!event.target.closest(".chip") && !event.target.closest("#vocabAnswerBox")) return;
-    advanceCheckedVocabReview();
+    const card = event.target.closest(".vocab-review-card");
+    if (!card) return;
+
+    const vid = card.dataset.vid;
+    if (!vid) return;
+    if (expandedVocabReviewIds.has(vid)) expandedVocabReviewIds.delete(vid);
+    else expandedVocabReviewIds.add(vid);
+    renderCheckedVocabReview();
   });
 
   viewVocab.addEventListener("change", (event) => {
@@ -2109,26 +2093,14 @@
 
     const vid = checkbox.dataset.vid;
     if (!vid) return;
-    const wasChecked = !!getChipState(vid).checked;
-    if (wasChecked && !checkbox.checked) {
-      checkbox.checked = true;
-      renderCheckedVocabReview();
-      return;
-    }
-
-    const currentVid = getCurrentCheckedVocabItem().item?.vocab?.vid || null;
     setChipChecked(vid, checkbox.checked);
-
-    if (currentVid === vid && !checkbox.checked) {
-      checkedVocabRevealStage = 0;
-    }
+    if (!checkbox.checked) expandedVocabReviewIds.delete(vid);
     renderCheckedVocabReview();
   });
 
   // vocab controls (queuePosで移動)
   vocabPrevBtn.addEventListener("click", () => {
     if (currentView === "vocab") {
-      advanceCheckedVocabReview();
       return;
     }
     queuePos -= 1;
@@ -2138,7 +2110,6 @@
 
   vocabNextBtn.addEventListener("click", () => {
     if (currentView === "vocab") {
-      advanceCheckedVocabReview();
       return;
     }
     queuePos += 1;
@@ -2148,7 +2119,6 @@
 
   vocabRevealBtn.addEventListener("click", () => {
     if (currentView === "vocab") {
-      advanceCheckedVocabReview();
       return;
     }
     revealVocabAnswer();
