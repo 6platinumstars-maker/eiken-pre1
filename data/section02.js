@@ -891,12 +891,14 @@ window.SECTIONS["sec02"] = {
       word: "direct",
       ipa: "[dərékt]",
       meaning: "を案内する、を指揮する",
-      extraInfo: "【動】\nを案内する [= guide]、を指揮する\n【名】directio 方向\n【形】 まっすぐ\n director 【名】指導者",
+      extraInfo: "【動】\nを案内する [= guide]、を指揮する\n【形】\n直接の、まっすぐな\n【副】\n直接に、直行で\ndirection 【名】方向\ndirector 【名】指導者",
       usedIn: [
         "s107"
       ],
       tags: [
-        "verb"
+        "verb",
+        "adjective",
+        "adverb"
       ]
     },
     {
@@ -1425,12 +1427,13 @@ window.SECTIONS["sec02"] = {
       word: "executive",
       ipa: "[igzékjutiv]",
       meaning: "重役、幹部、経営者",
-      extraInfo: "【名】\n重役、幹部 [⇔ director]、経営者\nexecute 【動】を実行する、（演俳役角形を）執行される\nexecution 【名】実行、死刑執行",
+      extraInfo: "【名】\n重役、幹部 [⇔ director]、経営者\n【形】\n経営上の、行政上の、執行権を持つ\nexecute 【動】を実行する、（演俳役角形を）執行される\nexecution 【名】実行、死刑執行",
       usedIn: [
         "s148"
       ],
       tags: [
-        "noun"
+        "noun",
+        "adjective"
       ]
     },
     {
@@ -1464,7 +1467,7 @@ window.SECTIONS["sec02"] = {
       word: "district",
       ipa: "[dístrikt]",
       meaning: "地域、地方",
-      extraInfo: "【名】\n（ある特色を持った）地域、地方 [= area]\nschool district 学区\nbusiness district 商業地区",
+      extraInfo: "【名】\n（ある特色を持った）地域、地方 [= area]\nschool district 学区\nbusiness district 商業地区\n【似た音の単語】\ndistinct 【形】はっきりした、明確に異なる\ndistract 【動】注意をそらす、気を散らす\nrestrict 【動】制限する、規制する",
       usedIn: [
         "s151"
       ],
@@ -1542,7 +1545,7 @@ window.SECTIONS["sec02"] = {
       word: "organism",
       ipa: "[ɔ́ːrgənìzm]",
       meaning: "有機体、生物",
-      extraInfo: "【名】\n有機体、生物 [= living thing, creature]\norganic 【形】有機の",
+      extraInfo: "【名】\n有機体、生物 [= living thing, creature]\norganic 【形】有機の\n【似た言葉】\norganization 【名】組織、団体、組織化\norgan 【名】臓器、器官",
       usedIn: [
         "s157"
       ],
@@ -1555,7 +1558,7 @@ window.SECTIONS["sec02"] = {
       word: "representative",
       ipa: "[rèprizéntətiv]",
       meaning: "代表者、代理人",
-      extraInfo: "【名】\n代表者、代理人 [= delegate]\n【形】代表する、典型的な\nrepresent 【動】を代表する、を象徴する、に相当する",
+      extraInfo: "【名】\n代表者、代理人 [= delegate]\n【形】代表する、典型的な\nrepresent 【動】を代表する、を象徴する、に相当する\n【似た言葉】\nrepresentation 【名】表現、描写、代表、代理\nreputation 【名】評判、名声",
       usedIn: [
         "s158"
       ],
@@ -1581,7 +1584,7 @@ window.SECTIONS["sec02"] = {
       word: "refund",
       ipa: "[ríːfʌnd]",
       meaning: "返金、払い戻し",
-      extraInfo: "【名】\n返金、払い戻し（金）[= repayment, reimbursement, rebate]\n【動】[ríːfʌnd] を払い戻す",
+      extraInfo: "【名】\n返金、払い戻し（金）[= repayment, reimbursement, rebate]\n【動】[ríːfʌnd] を払い戻す\n【似た言葉】\nrefound 【動】を再建する、再設立する\nrefine 【動】を洗練する、精製する、改善する",
       usedIn: [
         "s160"
       ],
@@ -1815,7 +1818,7 @@ window.SECTIONS["sec02"] = {
       word: "appearance",
       ipa: "[əpíərəns]",
       meaning: "外観、出現",
-      extraInfo: "【名】\n外観、出現 [⇔ disappearance]\nappear 【動】のように見える、現れる",
+      extraInfo: "【名】\n外観、出現 [⇔ disappearance]\nappear 【動】のように見える、現れる\n【似ている言葉】\nappliance 【名】電気器具、家庭用機器",
       usedIn: [
         "s178"
       ],

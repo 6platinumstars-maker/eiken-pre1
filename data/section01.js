@@ -970,12 +970,13 @@ window.SECTIONS["sec01"] = {
       word: "fine",
       ipa: "[fáin]",
       meaning: "に罰金を科す",
-      extraInfo: "【動】\nに罰金を科す (for ～のかどで)\n【名】\n罰金",
+      extraInfo: "【動】\nに罰金を科す (for ～のかどで)\n【名】\n罰金\n【形】\n良い、素晴らしい、細かい",
       usedIn: [
         "s013"
       ],
       tags: [
-        "verb"
+        "verb",
+        "adjective"
       ]
     },
     {
@@ -1152,12 +1153,13 @@ window.SECTIONS["sec01"] = {
       word: "associate",
       ipa: "[əsóuʃièit]",
       meaning: "を結びつけて考える、交際する",
-      extraInfo: "【動】\nを結びつけて考える (with ～と) [= link, connect]\n交際する [= socialize]\n【名】\n仲間、同僚\nassociation 協会、連想、交際",
+      extraInfo: "【動】\nを結びつけて考える (with ～と) [= link, connect]\n交際する [= socialize]\n【名】\n仲間、同僚\n【形】\n準～の、副～の、共同の\nassociation 協会、連想、交際",
       usedIn: [
         "s027"
       ],
       tags: [
-        "verb"
+        "verb",
+        "adjective"
       ]
     },
     {

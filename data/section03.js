@@ -1007,7 +1007,7 @@ window.SECTIONS["sec03"] = {
       word: "acknowledge",
       ipa: "[əknάlɪdʒ]",
       meaning: "と認める、受け入れる",
-      extraInfo: "【動】\n(acknowledge that ... で) ～と認める [⇔ admit, accept] [⇔ deny]\nacknowledgment 【名】承認、感謝",
+      extraInfo: "【動】\n(acknowledge that ... で) ～と認める [⇔ admit, accept] [⇔ deny]\nacknowledgment 【名】承認、感謝\n【似た言葉】\nknowledge 【名】知っていること、知識",
       usedIn: [
         "s216"
       ],
@@ -1059,7 +1059,7 @@ window.SECTIONS["sec03"] = {
       word: "evaluate",
       ipa: "[ivǽljuèit]",
       meaning: "を評価する",
-      extraInfo: "【動】\nを評価する [= assess, appraise, estimate]\nevaluation 【名】",
+      extraInfo: "【動】\nを評価する [= assess, appraise, estimate]\nevaluation 【名】評価、査定\n【似た単語】\nvalue 【動】高く評価する、重んじる",
       usedIn: [
         "s220"
       ],
@@ -1085,7 +1085,7 @@ window.SECTIONS["sec03"] = {
       word: "argument",
       ipa: "[άːrgjumənt]",
       meaning: "議論、口論",
-      extraInfo: "【名】\n議論 [= discussion, debate]、口論 [= dispute, quarrel]\nargue 【動】を議論する\narguably 【副】ほぼ間違いなく",
+      extraInfo: "【名】\n議論 [= discussion, debate]、口論 [= dispute, quarrel]、論拠\nargue 【動】を議論する\narguably 【副】ほぼ間違いなく\n【似ている言葉】\nagreement 【名】合意、協定、一致",
       usedIn: [
         "s222"
       ],
@@ -1408,9 +1408,9 @@ window.SECTIONS["sec03"] = {
     {
       vid: "v0247",
       word: "diabetes",
-      ipa: "[dàiəbíːtəs]",
+      ipa: "[dàiəbíːtiːz]",
       meaning: "糖尿病",
-      extraInfo: "【名】\n糖尿病\ndiabetic 【形】糖尿病（患者）の\n【名】糖尿病患者",
+      extraInfo: "【名】\n糖尿病\n【発音注意】\n「ダイアビーティーズ」に近い\ndiabetic 【形】糖尿病（患者）の\n【名】糖尿病患者",
       usedIn: [
         "s247"
       ],
@@ -1579,7 +1579,7 @@ window.SECTIONS["sec03"] = {
       word: "preference",
       ipa: "[préfərəns]",
       meaning: "好み、より好きなこと",
-      extraInfo: "【名】\nほかより好きなこと、好み [= liking]\nprefer 【動】の方を好む\npreferable 【形】好ましい",
+      extraInfo: "【名】\nほかより好きなこと、好み [= liking]\nprefer 【動】の方を好む\npreferable 【形】好ましい\n【似た言葉】\nreference 【名】参照、言及、参考資料",
       usedIn: [
         "s260"
       ],
@@ -1631,7 +1631,7 @@ window.SECTIONS["sec03"] = {
       word: "recipient",
       ipa: "[risípiənt]",
       meaning: "受取人、受賞者",
-      extraInfo: "【名】\n受取人 [= receiver, beneficiary]、（贈答品などを）提供者から）受ける人\nreceive 【動】を受け取る",
+      extraInfo: "【名】\n受取人 [= receiver, beneficiary]、（贈答品などを）提供者から受ける人\nreceive 【動】を受け取る\n【関連語】\nreception 【名】歓迎会、受付、受信\n【似ている言葉】\nrecipe 【名】レシピ",
       usedIn: [
         "s264"
       ],
@@ -1670,7 +1670,7 @@ window.SECTIONS["sec03"] = {
       word: "ingredient",
       ipa: "[ingríːdiənt]",
       meaning: "材料、成分、要素",
-      extraInfo: "【名】\n材料、成分、要素 [= component, element, constituent]",
+      extraInfo: "【名】\n材料、成分、要素 [= component, element, constituent]\n【似ている言葉】\ngradient 【名】勾配、傾斜、変化率\nnutrient 【名】栄養素、栄養物",
       usedIn: [
         "s267"
       ],
@@ -1683,7 +1683,7 @@ window.SECTIONS["sec03"] = {
       word: "qualified",
       ipa: "[kwάləfàid]",
       meaning: "有能な、適任の、資格のある",
-      extraInfo: "【形】\n有能な（for ～に関して、to do ～することに）、適任の、資格のある [⇔ unqualified]\nqualify 【動】\nqualification 【名】",
+      extraInfo: "【形】\n有能な（for ～に関して、to do ～することに）、適任の、資格のある [⇔ unqualified]\n【関連語】\nqualify 【動】資格を得る、条件を満たす、に資格を与える\nqualification 【名】資格、能力、資格条件\n【似ている言葉】\nquality 【名】質、品質、特質\nquantify 【動】数量化する、数値で表す",
       usedIn: [
         "s268"
       ],
@@ -1722,7 +1722,7 @@ window.SECTIONS["sec03"] = {
       word: "harsh",
       ipa: "[hɑ́ːrʃ]",
       meaning: "厳しい、粗い",
-      extraInfo: "【形】\n厳しい [= severe, bitter]、粗い [= rough]\nharshly 【副】\nharshness 【名】",
+      extraInfo: "【形】\n厳しい [= severe, bitter]、粗い [= rough]\nharshly 【副】\nharshness 【名】\n【似ている言葉】\nharsh /hɑːrʃ/ 【形容詞】厳しい、過酷な；手厳しい、不快な\nhash /hæʃ/ 【名詞・動詞】ハッシュ；細かく刻む／（情報を）ハッシュ化する\nhush /hʌʃ/ 【動詞・名詞】静かにさせる；静けさ\nrush /rʌʃ/ 【動詞・名詞】急ぐ；殺到すること\nhard /hɑːrd/ 【形容詞・副詞】難しい、硬い；一生懸命に",
       usedIn: [
         "s271"
       ],
@@ -1748,7 +1748,7 @@ window.SECTIONS["sec03"] = {
       word: "specific",
       ipa: "[spəsífik]",
       meaning: "明確な、特定の",
-      extraInfo: "【形】\n明確な [= explicit]、特定の\nspecifically 【副】特に\nspecify 【動】を明確に具体的に述べる\nspecificity 【名】明確に述べること",
+      extraInfo: "【形】\n明確な [= explicit]、特定の\nspecifically 【副】特に\nspecify 【動】を明確に具体的に述べる\nspecificity 【名】明確に述べること\n【関連語と似ている言葉】\nspecific /spəˈsɪfɪk/ 【形容詞】具体的な、特定の、明確な\nspecifically /spəˈsɪfɪkli/ 【副詞】具体的に、特に、明確に\nspecify /ˈspesɪfaɪ/ 【動詞】～を明確に述べる、指定する\nspecification /ˌspesɪfɪˈkeɪʃən/ 【名詞】仕様、明細；詳しい説明\nspecial /ˈspeʃəl/ 【形容詞】特別な、特殊な",
       usedIn: [
         "s273"
       ],
@@ -1982,7 +1982,7 @@ window.SECTIONS["sec03"] = {
       word: "previously",
       ipa: "[príːviəsli]",
       meaning: "以前に",
-      extraInfo: "【副】\n以前に [= formerly]\nprevious 【形】前の、以前の",
+      extraInfo: "【副】\n以前に [= formerly]\nprevious 【形】前の、以前の\n【関連語＆似た言葉】\npreviously /ˈpriːviəsli/ 【副詞】以前に、前に、かつて\nprevious /ˈpriːviəs/ 【形容詞】前の、以前の\nprecisely /prɪˈsaɪsli/ 【副詞】正確に、まさに\nprimarily /praɪˈmerəli/ 【副詞】主に、第一に\npresumably /prɪˈzuːməbli/ 【副詞】おそらく、たぶん",
       usedIn: [
         "s291"
       ],
@@ -1995,7 +1995,7 @@ window.SECTIONS["sec03"] = {
       word: "relatively",
       ipa: "[rélətivli]",
       meaning: "比較的（に）、相対的に",
-      extraInfo: "【副】\n比較的（に）、相対的に [= comparatively] [⇔ absolutely 絶対に]\nrelative 【形】相対的な\nrelativity 【名】関連性",
+      extraInfo: "【副】\n比較的（に）、相対的に [= comparatively] [⇔ absolutely 絶対に]\nrelative 【形】相対的な\nrelativity 【名】関連性\n【関連語＆似た言葉】\nrelatively /ˈrelətɪvli/ 【副詞】比較的、相対的に\nrelative /ˈrelətɪv/ 【形容詞】相対的な、比較上の\nrelative /ˈrelətɪv/ 【名詞】親戚、親族\nrelevant /ˈreləvənt/ 【形容詞】関連のある、適切な\nrespectively /rɪˈspektɪvli/ 【副詞】それぞれ、各々",
       usedIn: [
         "s292"
       ],
@@ -2099,7 +2099,7 @@ window.SECTIONS["sec03"] = {
       word: "whereas",
       ipa: "[hwèərǽz]",
       meaning: "〜であるのに、〜に反して",
-      extraInfo: "【接続】\n～であるのに、～に反して [= while]",
+      extraInfo: "【接続】\n～であるのに、～に反して [= while]\n【関連語＆似た言葉】\nwhereas /werˈæz/ 【接続詞】～であるのに対して、一方で\nwhereby /werˈbaɪ/ 【副詞・接続詞】～することによって、～する仕組みで\nwherever /werˈevər/ 【接続詞・副詞】～する所ならどこでも、どこで～しても",
       usedIn: [
         "s300"
       ],

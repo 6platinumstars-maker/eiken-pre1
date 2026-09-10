@@ -647,7 +647,7 @@ window.SECTIONS["sec04"] = {
       word: "engage",
       ipa: "[ingéidʒ]",
       meaning: "を従事させる、を引きつける、を雇う",
-      extraInfo: "【動】\nを従事させる（in ～に）[= occupy]、を引きつける [= attract]、を雇う [= hire]\nengagement 【名】\nengaged 【形】感動[夢中]の",
+      extraInfo: "【動】\nを従事させる（in ～に）[= occupy]、を引きつける [= attract]、を雇う [= hire]\nengagement 【名】\nengaged 【形】感動[夢中]の\n【関連語＆似た言葉】\nengage /ɪnˈɡeɪdʒ/ 【動詞】従事する、参加する；～を引きつける\nengagement /ɪnˈɡeɪdʒmənt/ 【名詞】関与、参加；婚約、約束\nengaged /ɪnˈɡeɪdʒd/ 【形容詞】従事している、忙しい；婚約している\nencourage /ɪnˈkɜːrɪdʒ/ 【動詞】～を励ます、促す\nenrage /ɪnˈreɪdʒ/ 【動詞】～を激怒させる",
       usedIn: ["s305"],
       tags: ["verb"]
     },
@@ -674,7 +674,7 @@ window.SECTIONS["sec04"] = {
       word: "interact",
       ipa: "[ìntərǽkt]",
       meaning: "交流する、互いに影響し合う",
-      extraInfo: "【動】\n交流する（with ～と）、互いに影響し合う\ninteraction 【名】相互作用、交流\ninteractive 【形】相互に作用[影響]し合う",
+      extraInfo: "【動】\n交流する（with ～と）、互いに影響し合う\ninteraction 【名】相互作用、交流\ninteractive 【形】相互に作用[影響]し合う\n【関連語＆似た言葉】\ninteract /ˌɪntərˈækt/ 【動詞】交流する、相互に作用する、関わり合う\ninteraction /ˌɪntərˈækʃən/ 【名詞】交流、相互作用\ninteractive /ˌɪntərˈæktɪv/ 【形容詞】相互作用する、双方向の\ninterrupt /ˌɪntəˈrʌpt/ 【動詞】～を中断する、話を遮る\ninterfere /ˌɪntərˈfɪr/ 【動詞】干渉する、邪魔をする",
       usedIn: ["s308"],
       tags: ["verb"]
     },
@@ -728,7 +728,7 @@ window.SECTIONS["sec04"] = {
       word: "convince",
       ipa: "[kənvíns]",
       meaning: "を説得して〜させる、を納得させる",
-      extraInfo: "【動】\n(convince O to do で) を説得して～させる、を納得させる [= persuade]\nconvincing 【形】\nconviction 【名】確信、信念 [= belief]",
+      extraInfo: "【動】\n(convince O to do で) を説得して～させる、を納得させる [= persuade]\nconvincing 【形】\nconviction 【名】確信、信念 [= belief]\n【関連語＆似た言葉】\nconvince /kənˈvɪns/ 【動詞】～を納得させる、確信させる\nconvinced /kənˈvɪnst/ 【形容詞】確信している、納得している\nconvincing /kənˈvɪnsɪŋ/ 【形容詞】説得力のある、納得のいく\npersuade /pərˈsweɪd/ 【動詞】～を説得して行動させる\nconfuse /kənˈfjuːz/ 【動詞】～を混乱させる、困惑させる",
       usedIn: ["s314"],
       tags: ["verb"]
     },
