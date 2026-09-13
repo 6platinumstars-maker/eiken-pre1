@@ -629,7 +629,7 @@ window.SECTIONS["sec06"] = {
       word: "pose",
       ipa: "[pouz]",
       meaning: "を引き起こす、を提起する",
-      extraInfo: "【動】\n（問題など）を引き起こす、を提起する [= present]\n【名】ポーズ、姿勢、見せかけ",
+      extraInfo: "【動】\n（問題など）を引き起こす、を提起する [= present]\n【名】ポーズ、姿勢、見せかけ\n【関連語＆似た言葉】\npose /poʊz/ 【動詞】～を引き起こす、（問題・脅威などを）もたらす；ポーズをとる\npose /poʊz/ 【名詞】姿勢、ポーズ\npause /pɔːz/ 【動詞・名詞】一時停止する；休止、中断\nimpose /ɪmˈpoʊz/ 【動詞】～を課す、押しつける\noppose /əˈpoʊz/ 【動詞】～に反対する\n【重要な意味・用例】\n準1級で特に重要なのは pose =「（問題・危険などを）もたらす」です。\npose a threat to ～ → ～に脅威をもたらす\npose a risk to ～ → ～に危険をもたらす\npose a serious problem → 深刻な問題を引き起こす\n【発音注意】\npose /poʊz/ と pause /pɔːz/ は、日本語だと両方「ポーズ」になりやすいので注意しましょう。",
       usedIn: ["s503"],
       tags: ["verb"]
     },
@@ -701,7 +701,7 @@ window.SECTIONS["sec06"] = {
       word: "foster",
       ipa: "[fά(ː)stər]",
       meaning: "を促進する、を育てる",
-      extraInfo: "【動】\nを促進する [= promote, encourage]、（里子として）を育てる [= raise, bring up]\n【形】foster care 養育\n【名】foster child 里子",
+      extraInfo: "【動】\nを促進する [= promote, encourage]、（里子として）を育てる [= raise, bring up]\n【形】foster care 養育\n【名】foster child 里子\n【関連語＆似た言葉】\nfoster /ˈfɔːstər/ 【動詞】～を促進する、育成する、助長する\nfoster /ˈfɔːstər/ 【形容詞】里親の、養育上の\nfoster /ˈfɔːstər/ 【動詞】（子どもを）里子として育てる\nfurther /ˈfɜːrðər/ 【動詞】～を促進する、発展させる\nnurture /ˈnɜːrtʃər/ 【動詞】～を育てる、育成する\n【重要な意味・用例】\n準1級では、特に「促進する・育成する」が重要です。\nfoster economic growth → 経済成長を促進する\nfoster cooperation → 協力を促進する\nfoster creativity → 創造性を育む\nfoster good relationships → 良好な関係を育む\n【意味のイメージ】\n「何かを直接作る」というより、成長・発展しやすい環境を作って育てるイメージです。",
       usedIn: ["s511"],
       tags: ["verb"]
     },
@@ -755,7 +755,7 @@ window.SECTIONS["sec06"] = {
       word: "advocate",
       ipa: "[ǽdvəkèit]",
       meaning: "を主張する、を弁護する",
-      extraInfo: "【動】\nを主張する、を弁護する [= support]\n【名】[ǽdvəkət] 主張者\nadvocacy 【名】擁護",
+      extraInfo: "【動】\nを主張する、を弁護する [= support]\n【名】[ǽdvəkət] 主張者\nadvocacy 【名】擁護\n【関連語＆似た言葉】\nadvocate /ˈædvəkeɪt/ 【動詞】～を主張する、支持する、提唱する\nadvocate /ˈædvəkət/ 【名詞】支持者、提唱者、擁護者\nadvocacy /ˈædvəkəsi/ 【名詞】支持、擁護、提唱\nadvantage /ədˈvæntɪdʒ/ 【名詞】利点、有利な点\nadverse /ˈædvɜːrs/ 【形容詞】不利な、有害な\n【重要な意味・用例】\n準1級では特に動詞「～を提唱する・支持する」が重要です。\nadvocate stricter laws → より厳しい法律を提唱する\nadvocate the use of renewable energy → 再生可能エネルギーの利用を提唱する\nan advocate of environmental protection → 環境保護の支持者\n【発音注意】\n動詞と名詞で語尾の発音が違います。\n動詞 /ˈædvəkeɪt/ → 「アドヴォケイト」\n名詞 /ˈædvəkət/ → 「アドヴォカット」に近い",
       usedIn: ["s517"],
       tags: ["verb"]
     },
@@ -764,7 +764,7 @@ window.SECTIONS["sec06"] = {
       word: "evacuate",
       ipa: "[ivǽkjùèit]",
       meaning: "を避難させる、から立ち退く",
-      extraInfo: "【動】\nを避難させる、から立ち退く [= leave]\nevacuation 【名】\n語源メモ: vac の意のラテン語から。vacuum と同系",
+      extraInfo: "【動】\nを避難させる、から立ち退く [= leave]\nevacuation 【名】\n語源メモ: vac の意のラテン語から。vacuum と同系\n【関連語＆似た言葉】\nevacuate /ɪˈvækjueɪt/ 【動詞】～を避難させる；避難する\nevacuation /ɪˌvækjuˈeɪʃən/ 【名詞】避難、退避\nevacuee /ɪˌvækjuˈiː/ 【名詞】避難者\nevaluate /ɪˈvæljueɪt/ 【動詞】～を評価する\nvacate /ˈveɪkeɪt/ 【動詞】～を立ち退く、明け渡す\n【紛らわしい言葉の区別】\nevacuate（避難させる・避難する）と evaluate（評価する）は非常に紛らわしいので注意しましょう。\n【用例】\nevacuate residents → 住民を避難させる\nevacuate the building → 建物から避難する\nan evacuation order → 避難命令",
       usedIn: ["s518"],
       tags: ["verb"]
     },
@@ -827,7 +827,7 @@ window.SECTIONS["sec06"] = {
       word: "conform",
       ipa: "[kənfɔ́ːrm]",
       meaning: "従う、一致する",
-      extraInfo: "【動】\n従う（to、with 習慣・規則などに） [= comply]、一致する [= correspond, agree]\nconformity 【名】",
+      extraInfo: "【動】\n従う（to、with 習慣・規則などに） [= comply]、一致する [= correspond, agree]\nconformity 【名】\n【関連語＆似た言葉】\nconform /kənˈfɔːrm/ 【動詞】従う、適合する、一致する\nconformity /kənˈfɔːrməti/ 【名詞】適合、一致；順応\nconfirm /kənˈfɜːrm/ 【動詞】～を確認する、裏付ける\ncomply /kəmˈplaɪ/ 【動詞】（規則・要求などに）従う\nreform /rɪˈfɔːrm/ 【動詞・名詞】改革する；改革\n【重要表現・用例】\nconform to ～ = ～に従う、～に適合する\nconform to the rules → 規則に従う\nconform to social norms → 社会規範に従う\nconform to standards → 基準に適合する\n【紛らわしい言葉の区別】\nconfirmとconformは紛らわしいので注意しましょう。\nconfirm = 確認する\nconform = 従う・適合する",
       usedIn: ["s525"],
       tags: ["verb"]
     },
@@ -890,7 +890,7 @@ window.SECTIONS["sec06"] = {
       word: "disorder",
       ipa: "[disɔ́ːrdər]",
       meaning: "障害、病気、混乱、無秩序",
-      extraInfo: "【名】\n障害、病気、混乱、無秩序\ndisorderly 【形】",
+      extraInfo: "【名】\n障害、病気、混乱、無秩序\ndisorderly 【形】\n【関連語＆似た言葉】\ndisorder /dɪsˈɔːrdər/ 【名詞】障害、疾患；混乱、無秩序\norder /ˈɔːrdər/ 【名詞・動詞】順序、秩序；命令／命じる\ndisordered /dɪsˈɔːrdərd/ 【形容詞】乱れた、混乱した\ndisturbance /dɪˈstɜːrbəns/ 【名詞】混乱、妨害、騒動\n【重要な意味・用例】\n準1級では「障害・疾患」の意味が重要です。\nsleep disorder → 睡眠障害\nmental disorder → 精神障害\neating disorder → 摂食障害\na genetic disorder → 遺伝性疾患\n【覚え方】\norder（秩序）→ dis + order（秩序が崩れた状態）→ disorder（混乱・障害）",
       usedIn: ["s532"],
       tags: ["noun"]
     },
@@ -980,7 +980,7 @@ window.SECTIONS["sec06"] = {
       word: "invasion",
       ipa: "[invéiʒən]",
       meaning: "侵害、侵入",
-      extraInfo: "【名】\n侵害 [= violation]、侵入（of ～への） [⇔ withdrawal]\ninvade 【動】\ninvasive 【形】",
+      extraInfo: "【名】\n侵害 [= violation]、侵入（of ～への） [⇔ withdrawal]\ninvade 【動】\ninvasive 【形】\n【関連語＆似た言葉】\ninvasion /ɪnˈveɪʒən/ 【名詞】侵略、侵攻；侵入\ninvade /ɪnˈveɪd/ 【動詞】～に侵入する、～を侵略する\ninvader /ɪnˈveɪdər/ 【名詞】侵略者、侵入者\ninvention /ɪnˈvenʃən/ 【名詞】発明、発明品\nintervention /ˌɪntərˈvenʃən/ 【名詞】介入、干渉\n【覚え方】\ninvade → invasion → invader\n「侵略する → 侵略・侵攻 → 侵略者」\n【用例】\nmilitary invasion → 軍事侵攻\nthe invasion of a country → ある国への侵攻\nan invasion of privacy → プライバシーの侵害\n【紛らわしい言葉の区別】\ninvasion（侵略・侵攻）と invention（発明）は音が似ているので、混同に注意しましょう。",
       usedIn: ["s542"],
       tags: ["noun"]
     },
@@ -1061,7 +1061,7 @@ window.SECTIONS["sec06"] = {
       word: "investigation",
       ipa: "[invèstəgéiʃən]",
       meaning: "調査、研究",
-      extraInfo: "【名】\n（詳しい）調査（into ～の）、研究 [= examination]\ninvestigate 【動】",
+      extraInfo: "【名】\n（詳しい）調査（into ～の）、研究 [= examination]\ninvestigate 【動】\n【関連語＆似た言葉】\ninvestigation /ɪnˌvestɪˈɡeɪʃən/ 【名詞】調査、捜査、取り調べ\ninvestigate /ɪnˈvestɪɡeɪt/ 【動詞】～を調査する、捜査する\ninvestigator /ɪnˈvestɪɡeɪtər/ 【名詞】調査員、捜査官\ninvestment /ɪnˈvestmənt/ 【名詞】投資\ninspection /ɪnˈspekʃən/ 【名詞】検査、点検\n【覚え方】\ninvestigate → investigation → investigator\n「調査する → 調査・捜査 → 調査員・捜査官」\n【用例】\nconduct an investigation → 調査を行う\na police investigation → 警察の捜査\nan investigation into the cause → 原因についての調査\n【紛らわしい言葉の区別】\ninvestigationとinvestmentは最初の音が似ているので、混同に注意しましょう。\ninvestigation = 調査\ninvestment = 投資",
       usedIn: ["s551"],
       tags: ["noun"]
     },
@@ -1232,7 +1232,7 @@ window.SECTIONS["sec06"] = {
       word: "ritual",
       ipa: "[rítʃuəl]",
       meaning: "儀式",
-      extraInfo: "【名】\n儀式 [= ceremony, rite]\n【形】儀礼の、儀式的な",
+      extraInfo: "【名】\n儀式 [= ceremony, rite]\n【形】儀礼の、儀式的な\n【関連語＆似た言葉】\nritual /ˈrɪtʃuəl/ 【名詞】儀式、儀礼；習慣的に行うこと\nritual /ˈrɪtʃuəl/ 【形容詞】儀式の、儀礼的な\nroutine /ruːˈtiːn/ 【名詞】日課、決まった手順\nceremony /ˈserəmoʊni/ 【名詞】儀式、式典\nhabit /ˈhæbɪt/ 【名詞】習慣、癖\n【用例】\nreligious rituals → 宗教的な儀式\na traditional ritual → 伝統的な儀式\na morning ritual → 毎朝決まって行う習慣\n【routineとの違い】\nroutineは普通の「日課・決まった手順」、ritualは「儀式」のほか、「毎回ほぼ決まった形で行う習慣」というニュアンスがあります。",
       usedIn: ["s570"],
       tags: ["noun"]
     },
@@ -1268,7 +1268,7 @@ window.SECTIONS["sec06"] = {
       word: "relevant",
       ipa: "[réləvənt]",
       meaning: "関連［関係］がある",
-      extraInfo: "【形】\n関連［関係］がある（to ～に） [⇔ irrelevant]\nrelevance 【名】",
+      extraInfo: "【形】\n関連［関係］がある（to ～に） [⇔ irrelevant]\nrelevance 【名】\n【関連語＆似た言葉】\nrelevant /ˈreləvənt/ 【形容詞】関連のある、関係のある；適切な\nrelevance /ˈreləvəns/ 【名詞】関連性、妥当性\nirrelevant /ɪˈreləvənt/ 【形容詞】関係のない、無関係な\nrelative /ˈrelətɪv/ 【形容詞・名詞】相対的な；親戚\nrelatively /ˈrelətɪvli/ 【副詞】比較的、相対的に\n【重要表現・用例】\nrelevant to ～ = ～に関連している\nrelevant information → 関連情報\nrelevant experience → 関連する経験\nThis information is relevant to the issue. → この情報はその問題に関連している。\n【紛らわしい言葉の区別】\n292番 relatively（比較的）との混同に注意しましょう。\nrelevant = 関連のある\nrelative = 相対的な\nrelatively = 比較的",
       usedIn: ["s574"],
       tags: ["adj"]
     },
@@ -1313,7 +1313,7 @@ window.SECTIONS["sec06"] = {
       word: "distinct",
       ipa: "[distíŋkt]",
       meaning: "はっきりと分かる、明らかに異なる",
-      extraInfo: "【形】\nはっきりと分かる [= clear]、明らかに異なる [= different]\ndistinction 【名】区別、\ndistinguish 【動】を区別する",
+      extraInfo: "【形】\nはっきりと分かる [= clear]、明らかに異なる [= different]\ndistinction 【名】区別、\ndistinguish 【動】を区別する\n【関連語＆似た言葉】\ndistinct /dɪˈstɪŋkt/ 【形容詞】明確に異なる、別個の；はっきりした\ndistinction /dɪˈstɪŋkʃən/ 【名詞】区別、相違\ndistinctive /dɪˈstɪŋktɪv/ 【形容詞】特徴的な、独特の\ndistrict /ˈdɪstrɪkt/ 【名詞】地区、地域\ndistract /dɪˈstrækt/ 【動詞】～の注意をそらす\n【用例】\ndistinct differences → 明確な違い\ntwo distinct groups → 明確に異なる2つのグループ\nbe distinct from ～ → ～とは明確に異なる\n【紛らわしい言葉の区別】\ndistinct = 明確に異なる\ndistrict = 地区\ndistract = 注意をそらす",
       usedIn: ["s579"],
       tags: ["adj"]
     },
@@ -1358,7 +1358,7 @@ window.SECTIONS["sec06"] = {
       word: "substantial",
       ipa: "[səbstǽnʃəl]",
       meaning: "かなりの、重要な、実質的な",
-      extraInfo: "【形】\n（数量などが）かなりの [= considerable]、重要な、実質的な\nsubstance 【名】\n【名】実質\nsubstantially 【副】かなり",
+      extraInfo: "【形】\n（数量などが）かなりの [= considerable]、重要な、実質的な\nsubstance 【名】\n【名】実質\nsubstantially 【副】かなり\n【関連語＆似た言葉】\nsubstantial /səbˈstænʃəl/ 【形容詞】かなりの、多大な；重要な、実質的な\nsubstantially /səbˈstænʃəli/ 【副詞】かなり、大幅に\nsubstance /ˈsʌbstəns/ 【名詞】物質；実質、内容\nsubstitution /ˌsʌbstɪˈtuːʃən/ 【名詞】代用、置き換え\nsubstitute /ˈsʌbstɪtuːt/ 【名詞・動詞】代用品、代理人；～を代用する\n【用例】\na substantial amount of money → かなりの金額\na substantial increase → 大幅な増加\nsubstantial evidence → 十分な・確かな証拠\n【重要な意味】\nsubstantial = かなりの・多大な は準1級で使い勝手のいい意味です。",
       usedIn: ["s584"],
       tags: ["adj"]
     },
@@ -1367,7 +1367,7 @@ window.SECTIONS["sec06"] = {
       word: "disabled",
       ipa: "[diséibld]",
       meaning: "身体[心身]障害の",
-      extraInfo: "【形】\n身体[心身]障害の [= handicapped]\ndisable 【動】\ndisability 【名】",
+      extraInfo: "【形】\n身体[心身]障害の [= handicapped]\ndisable 【動】\ndisability 【名】\n【関連語＆似た言葉】\ndisabled /dɪsˈeɪbəld/ 【形容詞】障害のある；機能しない、無効になった\ndisable /dɪsˈeɪbəl/ 【動詞】～を無力にする、機能しなくする、無効にする\ndisability /ˌdɪsəˈbɪləti/ 【名詞】障害、能力の欠如\nunable /ʌnˈeɪbəl/ 【形容詞】～することができない\ndisadvantaged /ˌdɪsədˈvæntɪdʒd/ 【形容詞】不利な立場にある\n【用例】\ndisabled people / people with disabilities → 障害のある人々\na disabled vehicle → 動かなくなった車両\nThe feature is disabled. → その機能は無効になっている\n【覚え方】\nable（できる）→ disable（できなくする）→ disabled（機能できない状態の）というつながりです。",
       usedIn: ["s585"],
       tags: ["adj"]
     },
@@ -1376,7 +1376,7 @@ window.SECTIONS["sec06"] = {
       word: "straightforward",
       ipa: "[strèitfɔ́ːrwərd]",
       meaning: "率直な、単純な",
-      extraInfo: "【形】\n率直な [= frank, candid, honest]、単純な [= simple] [⇔ complicated]\n【副】率直に、包み隠さず",
+      extraInfo: "【形】\n率直な [= frank, candid, honest]、単純な [= simple] [⇔ complicated]\n【副】率直に、包み隠さず\n【関連語＆似た言葉】\nstraightforward /ˌstreɪtˈfɔːrwərd/ 【形容詞】単純な、わかりやすい；率直な\nstraight /streɪt/ 【形容詞・副詞】まっすぐな；まっすぐに\nforward /ˈfɔːrwərd/ 【副詞・形容詞】前へ；前方の\ndirect /dəˈrekt/ 【形容詞】直接的な、率直な\nsimple /ˈsɪmpəl/ 【形容詞】単純な、簡単な\n【用例】\na straightforward solution → わかりやすい解決策\na straightforward process → 単純な手順\na straightforward answer → 率直な答え\n【覚え方】\nstraight（まっすぐ）＋ forward（前へ）→「回りくどくない」→「単純明快な・率直な」と覚えると分かりやすいです。",
       usedIn: ["s586"],
       tags: ["adj"]
     },
@@ -1394,7 +1394,7 @@ window.SECTIONS["sec06"] = {
       word: "mandatory",
       ipa: "[mǽndətɔ̀ːri]",
       meaning: "義務的な、命令の",
-      extraInfo: "【形】\n義務的な、強制的な、命令の [= compulsory, obligatory] [⇔ voluntary]",
+      extraInfo: "【形】\n義務的な、強制的な、命令の [= compulsory, obligatory] [⇔ voluntary]\n【関連語＆似た言葉】\nmandatory /ˈmændətɔːri/ 【形容詞】義務的な、強制的な、必須の\nmandate /ˈmændeɪt/ 【名詞・動詞】命令、権限；～を義務づける\ncompulsory /kəmˈpʌlsəri/ 【形容詞】強制的な、義務的な\noptional /ˈɑːpʃənəl/ 【形容詞】任意の、選択できる\n【重要な意味・用例】\nmandatory =「必ずしなければならない」が中心です。\nmandatory education → 義務教育\nmandatory training → 必須研修\nWearing a seat belt is mandatory. → シートベルトの着用は義務です。\n【覚え方】\nmandatory（必須）↔ optional（任意）\n対義語で覚えると定着しやすいです。",
       usedIn: ["s588"],
       tags: ["adj"]
     },
@@ -1403,7 +1403,7 @@ window.SECTIONS["sec06"] = {
       word: "edible",
       ipa: "[édəbl]",
       meaning: "食用の、食べられる",
-      extraInfo: "【形】\n食用の、（毒性がなくて）食べられる [⇔ inedible]\ncf. eatable（まおいしく）食べられる",
+      extraInfo: "【形】\n食用の、（毒性がなくて）食べられる [⇔ inedible]\ncf. eatable（まおいしく）食べられる\n【関連語＆似た言葉】\nedible /ˈedəbəl/ 【形容詞】食べられる、食用の\nedible /ˈedəbəl/ 【名詞】食べられるもの、食品\ninedible /ɪnˈedəbəl/ 【形容詞】食べられない、食用に適さない\neatable /ˈiːtəbəl/ 【形容詞】食べられる\neditable /ˈedɪtəbəl/ 【形容詞】編集可能な\n【重要な意味・用例】\nedible =「安全に食べられる・食用の」が中心です。\nedible plants → 食用植物\nedible mushrooms → 食用キノコ\nThe fruit is edible. → その果物は食べられる。\n【覚え方】\nedit → editable（編集可能な）とスペルを混同しないように、edible = eatできるもの と意味で結びつけると覚えやすいです。",
       usedIn: ["s589"],
       tags: ["adj"]
     },
@@ -1412,7 +1412,7 @@ window.SECTIONS["sec06"] = {
       word: "outstanding",
       ipa: "[àutstǽndiŋ]",
       meaning: "際立った、優れた",
-      extraInfo: "【形】\n際立った、優れた [= excellent, prominent, distinguished]、未払いの\ncf. stand out 目立つ",
+      extraInfo: "【形】\n際立った、優れた [= excellent, prominent, distinguished]、未払いの\ncf. stand out 目立つ\n【関連語＆似た言葉】\noutstanding /aʊtˈstændɪŋ/ 【形容詞】傑出した、非常に優れた；未解決の、未払いの\noutstandingly /aʊtˈstændɪŋli/ 【副詞】非常に優れて、際立って\nexcellent /ˈeksələnt/ 【形容詞】優秀な、素晴らしい\nremarkable /rɪˈmɑːrkəbəl/ 【形容詞】注目すべき、並外れた\n【重要な意味・用例】\n「傑出した・非常に優れた」と「未解決の・未払いの」の2つの意味を押さえましょう。\nan outstanding achievement → 傑出した業績\nan outstanding student → 非常に優秀な学生\noutstanding problems → 未解決の問題\noutstanding debt → 未払いの借金\n【注意点】\n「優れている」だけで覚えず、outstanding debt（未払い債務）の意味にも注意しましょう。",
       usedIn: ["s590"],
       tags: ["adj"]
     },
@@ -1439,7 +1439,7 @@ window.SECTIONS["sec06"] = {
       word: "definitely",
       ipa: "[défənətli]",
       meaning: "間違いなく、確かに",
-      extraInfo: "【副】\n間違いなく、確かに [= certainly, surely]\ndefinite 【形】\ndefine 【動】を定義する\ndefinition 【名】定義",
+      extraInfo: "【副】\n間違いなく、確かに [= certainly, surely]\ndefinite 【形】\ndefine 【動】を定義する\ndefinition 【名】定義\n【関連語＆似た言葉】\ndefinitely /ˈdefɪnətli/ 【副詞】間違いなく、確実に、絶対に\ndefinite /ˈdefɪnət/ 【形容詞】明確な、確かな\ndefinition /ˌdefɪˈnɪʃən/ 【名詞】定義、意味\ndefinitive /dɪˈfɪnətɪv/ 【形容詞】決定的な、最終的な、決定版の\ndefine /dɪˈfaɪn/ 【動詞】～を定義する、明確にする\n【用例】\ndefinitely true → 間違いなく正しい\nI will definitely go. → 私は絶対に行きます。\nThis is definitely worth considering. → これは間違いなく検討する価値がある。\n【スペル注意】\n正しいスペルは definitely です。definately と書かないように注意しましょう。\n【覚え方】\n407番 define と同じ語族です。\ndefine → definite → definitely\n「明確にする → 明確な・確かな → 間違いなく」",
       usedIn: ["s593"],
       tags: ["adv"]
     },
@@ -1466,7 +1466,7 @@ window.SECTIONS["sec06"] = {
       word: "apparently",
       ipa: "[əpǽrəntli]",
       meaning: "聞いたところでは、どうやら",
-      extraInfo: "【副】\n（真偽のほどはともかく）聞いたところでは、どうやら\napparent 【形】",
+      extraInfo: "【副】\n（真偽のほどはともかく）聞いたところでは、どうやら\napparent 【形】\n【関連語＆似た言葉】\napparently /əˈpærəntli/ 【副詞】どうやら～らしい、見たところでは；明らかに\napparent /əˈpærənt/ 【形容詞】明らかな；見かけ上の\nappear /əˈpɪr/ 【動詞】現れる；～のように見える\nappearance /əˈpɪrəns/ 【名詞】外見；出現、登場\nevidently /ˈevɪdəntli/ 【副詞】明らかに、どうやら\n【重要な意味・例文】\n準1級では「どうやら～らしい」の意味が特に重要です。\nApparently, he changed his mind. → どうやら彼は考えを変えたらしい。\nThe problem was apparently caused by human error. → その問題はどうやら人為的ミスが原因だったらしい。\n【発音注意・覚え方】\n178番 appearance と関連づける際は、appear・appearanceとapparent・apparentlyで発音が少し違うことに注意しましょう。\nappear → ～のように見える\napparent → 明らかな・見かけ上の\napparently → どうやら～らしい",
       usedIn: ["s596"],
       tags: ["adv"]
     },

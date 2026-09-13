@@ -620,7 +620,7 @@ window.SECTIONS["sec05"] = {
       word: "stimulate",
       ipa: "[stímjulèit]",
       meaning: "を刺激する、を激励する",
-      extraInfo: "【動】\nを刺激する、を激励する [= encourage, prompt]\nstimulation 【名】刺激\nstimulus 【名】刺激（になるもの）\nstimulant 【名】刺激剤、刺激",
+      extraInfo: "【動】\nを刺激する、を激励する [= encourage, prompt]\nstimulation 【名】刺激\nstimulus 【名】刺激（になるもの）\nstimulant 【名】刺激剤、刺激\n【関連語＆似た言葉】\nstimulate /ˈstɪmjəleɪt/ 【動詞】～を刺激する、活発にする、促進する\nstimulation /ˌstɪmjəˈleɪʃən/ 【名詞】刺激、活性化\nstimulus /ˈstɪmjələs/ 【名詞】刺激、刺激となるもの\nsimulate /ˈsɪmjəleɪt/ 【動詞】～を模擬する、シミュレーションする\nstimulating /ˈstɪmjəleɪtɪŋ/ 【形容詞】刺激的な、興味をかき立てる\n【用例】\nstimulate the economy → 経済を活性化する\nstimulate growth → 成長を促進する\nstimulate the brain → 脳を刺激する\n【重要な意味】\n準1級では、「刺激する」から転じて「何かを活発にする・促進する」という意味が重要です。",
       usedIn: ["s402"],
       tags: ["verb"]
     },
@@ -629,7 +629,7 @@ window.SECTIONS["sec05"] = {
       word: "distract",
       ipa: "[distrǽkt]",
       meaning: "に注意をそらす、散らす",
-      extraInfo: "【動】\n（注意・心など）をそらす（from ～から）、を散らす [= divert, deflect]\ndistracted 【形】\ndistraction 【名】気を散らすもの、気晴らし",
+      extraInfo: "【動】\n（注意・心など）をそらす（from ～から）、を散らす [= divert, deflect]\ndistracted 【形】\ndistraction 【名】気を散らすもの、気晴らし\n【関連語＆似た言葉】\ndistract /dɪˈstrækt/ 【動詞】～の注意をそらす、気を散らす\ndistraction /dɪˈstrækʃən/ 【名詞】気を散らすもの、注意散漫\ndistracted /dɪˈstræktɪd/ 【形容詞】気が散った、注意をそらされた\ndistrict /ˈdɪstrɪkt/ 【名詞】地区、地域\ndistinct /dɪˈstɪŋkt/ 【形容詞】明確に異なる、はっきりした\n【重要表現・例文】\ndistract A from B → Aの注意をBからそらす\nNoise distracted me from studying. → 騒音で勉強に集中できなかった。\n【紛らわしい言葉の区別】\ndistrict = 地区\ndistract = 注意をそらす\ndistinct = 明確に異なる",
       usedIn: ["s403"],
       tags: ["verb"]
     },
@@ -665,7 +665,7 @@ window.SECTIONS["sec05"] = {
       word: "define",
       ipa: "[difáin]",
       meaning: "を定義する、を明確に示す",
-      extraInfo: "【動】\nを定義する、を明確に示す\ndefinition 【名】定義\ndefinite 【形】明確な",
+      extraInfo: "【動】\nを定義する、を明確に示す\ndefinition 【名】定義\ndefinite 【形】明確な\n【関連語＆似た言葉】\ndefine /dɪˈfaɪn/ 【動詞】～を定義する、明確にする、特徴づける\ndefinition /ˌdefɪˈnɪʃən/ 【名詞】定義、意味\ndefinite /ˈdefɪnət/ 【形容詞】明確な、確かな\ndefinitely /ˈdefɪnətli/ 【副詞】間違いなく、確実に\nrefine /rɪˈfaɪn/ 【動詞】～を洗練する、改善する；精製する\n【覚え方】\ndefine → definition\n「定義する」→「定義」\n【重要な意味・用例】\n準1級では「単語を定義する」だけでなく、「特徴づける・明確にする」も重要です。\ndefine a term → 用語を定義する\nclearly define the problem → 問題を明確にする\na feature that defines ～ → ～を特徴づける特徴\n【紛らわしい言葉の区別】\ndefine = 定義する（動詞）\ndefinite = 明確な・確かな（形容詞）",
       usedIn: ["s407"],
       tags: ["verb"]
     },
@@ -683,7 +683,7 @@ window.SECTIONS["sec05"] = {
       word: "deserve",
       ipa: "[dizə́ːrv]",
       meaning: "に値する",
-      extraInfo: "【動】\nに値する [= merit, earn]\ndeserving 【形】",
+      extraInfo: "【動】\nに値する [= merit, earn]\ndeserving 【形】\n【関連語＆似た言葉】\ndeserve /dɪˈzɜːrv/ 【動詞】～に値する、～を受けるにふさわしい\ndeserved /dɪˈzɜːrvd/ 【形容詞】当然の、受けるに値する\nreserve /rɪˈzɜːrv/ 【動詞・名詞】～を予約する、取っておく；蓄え\npreserve /prɪˈzɜːrv/ 【動詞】～を保存する、保護する\nobserve /əbˈzɜːrv/ 【動詞】～を観察する；（規則など）を守る\n【重要表現・用例】\ndeserve + 名詞 → ～に値する\ndeserve to do → ～するに値する、～されて当然である\ndeserve praise → 称賛に値する\ndeserve attention → 注目に値する\ndeserve to be recognized → 認められるに値する\n【覚え方】\ndeserve / reserve / preserve / observe は、-serveで終わる紛らわしい語なので、まとめて区別すると覚えやすいです。",
       usedIn: ["s409"],
       tags: ["verb"]
     },
@@ -692,7 +692,7 @@ window.SECTIONS["sec05"] = {
       word: "undergo",
       ipa: "[ʌ̀ndərgóu]",
       meaning: "を経験する",
-      extraInfo: "【動】\nを経験する [= experience, go through]",
+      extraInfo: "【動】\nを経験する [= experience, go through]\n【関連語＆似た言葉】\nundergo /ˌʌndərˈɡoʊ/ 【動詞】～を経験する、～を受ける\nundertake /ˌʌndərˈteɪk/ 【動詞】～を引き受ける、着手する\nunderlie /ˌʌndərˈlaɪ/ 【動詞】～の根底にある\novercome /ˌoʊvərˈkʌm/ 【動詞】～を克服する\n【重要な意味・用例】\n準1級では「（変化・治療・検査など）を受ける／経験する」が重要です。\nundergo surgery → 手術を受ける\nundergo treatment → 治療を受ける\nundergo major changes → 大きな変化を経験する\nundergo testing → 検査を受ける\n【活用】\nundergo → underwent → undergone\ngo → went → gone と同じ変化です。",
       usedIn: ["s410"],
       tags: ["verb"]
     },
@@ -701,7 +701,7 @@ window.SECTIONS["sec05"] = {
       word: "contradict",
       ipa: "[kὰntrədíkt]",
       meaning: "と矛盾する、に反駁する",
-      extraInfo: "【動】\nと矛盾する [= conflict]、に反駁する [= counter, oppose, deny]\ncontradiction 【名】\ncontradictory 【形】",
+      extraInfo: "【動】\nと矛盾する [= conflict]、に反駁する [= counter, oppose, deny]\ncontradiction 【名】\ncontradictory 【形】\n【関連語＆似た言葉】\ncontradict /ˌkɑːntrəˈdɪkt/ 【動詞】～と矛盾する、～に反論する\ncontradiction /ˌkɑːntrəˈdɪkʃən/ 【名詞】矛盾、食い違い\ncontradictory /ˌkɑːntrəˈdɪktəri/ 【形容詞】矛盾した、相反する\ncontrast /ˈkɑːntræst/ 【名詞】対照、対比\ncounteract /ˌkaʊntərˈækt/ 【動詞】～を打ち消す、～に対抗する\n【覚え方】\ncontradict → contradiction → contradictory\n「矛盾する」→「矛盾」→「矛盾した」\n【例文】\nThe evidence contradicts his claim. → その証拠は彼の主張と矛盾している。\n【紛らわしい言葉の区別】\ncontrast（対比する）との混同に注意。\ncontradict = 矛盾する\ncontrast = 対照をなす",
       usedIn: ["s411"],
       tags: ["verb"]
     },
@@ -719,7 +719,7 @@ window.SECTIONS["sec05"] = {
       word: "accompany",
       ipa: "[əkʌ́mpəni]",
       meaning: "と一緒に行く、に付随する",
-      extraInfo: "【動】\nと一緒に行く [= go [come] with, escort]、に付随する [= attend]\naccompaniment 【名】伴奏",
+      extraInfo: "【動】\nと一緒に行く [= go [come] with, escort]、に付随する [= attend]\naccompaniment 【名】伴奏\n【関連語＆似た言葉】\naccompany /əˈkʌmpəni/ 【動詞】～に同行する、～に伴う\ncompany /ˈkʌmpəni/ 【名詞】会社；仲間、同伴\naccompanied /əˈkʌmpənid/ 【動詞】accompany の過去形・過去分詞\naccompaniment /əˈkʌmpənimənt/ 【名詞】伴奏；付随するもの\naccomplish /əˈkɑːmplɪʃ/ 【動詞】～を成し遂げる、達成する\n【重要な意味・用例】\n準1級では「人に同行する」だけでなく、「～に伴う」という抽象的な意味が重要です。\naccompany a friend → 友人に同行する\nbe accompanied by ～ → ～を伴う\nEconomic growth is often accompanied by environmental problems. → 経済成長にはしばしば環境問題が伴う。\n【覚え方】\ncompany → accompany とつなげると覚えやすいです。",
       usedIn: ["s413"],
       tags: ["verb"]
     },
@@ -764,7 +764,7 @@ window.SECTIONS["sec05"] = {
       word: "utilize",
       ipa: "[júːtəlàiz]",
       meaning: "を利用する",
-      extraInfo: "【動】\nを（効果的に）利用する [= make use of]\nutility 【名】役立つこと、実用（今）、（通例 -ties）電気・ガス・水道などの公共の設備",
+      extraInfo: "【動】\nを（効果的に）利用する [= make use of]\nutility 【名】役立つこと、実用（今）、（通例 -ties）電気・ガス・水道などの公共の設備\n【関連語＆似た言葉】\nutilize /ˈjuːtəlaɪz/ 【動詞】～を利用する、活用する\nutilization /ˌjuːtələˈzeɪʃən/ 【名詞】利用、活用\nutility /juːˈtɪləti/ 【名詞】有用性、実用性；公共サービス\nuse /juːz/ 【動詞】～を使う、利用する\nutilitarian /juːˌtɪləˈteriən/ 【形容詞】実用的な、実利的な\n【ニュアンス】\nuseよりもややフォーマルで、単に「使う」より「有効に利用する・活用する」というニュアンスがあります。\n【用例】\nutilize technology → 技術を活用する\nutilize available resources → 利用可能な資源を活用する\nutilize data effectively → データを効果的に活用する\n【Writingの例文】\nGovernments should utilize new technology to reduce costs. → 政府は費用を削減するために新しい技術を活用すべきだ。",
       usedIn: ["s418"],
       tags: ["verb"]
     },
@@ -800,7 +800,7 @@ window.SECTIONS["sec05"] = {
       word: "owe",
       ipa: "[óu]",
       meaning: "AはBのおかげである、AにBを借りている",
-      extraInfo: "【動】\n(owe A to B で) AはBのおかげである、(owe A B, owe B to A で) AにB（負債など）を負っている、AにB（お金など）を借りている",
+      extraInfo: "【動】\n(owe A to B で) AはBのおかげである、(owe A B, owe B to A で) AにB（負債など）を負っている、AにB（お金など）を借りている\n【関連語＆似た言葉】\nowe /oʊ/ 【動詞】～を借りている、～を支払う義務がある；～のおかげである\nown /oʊn/ 【動詞・形容詞】～を所有する；自分自身の\nowing /ˈoʊɪŋ/ 【形容詞】未払いの；～が原因で\nowed /oʊd/ 【動詞】owe の過去形・過去分詞\n【重要表現・例文】\nowe A B → AにBを借りている\nowe B to A → BはAのおかげである\nI owe him $100. → 私は彼に100ドル借りている。\nShe owes her success to hard work. → 彼女の成功は努力のおかげだ。\n【発音注意】\noweの発音は /oʊ/ で、日本語では「オウ」と聞こえます。\nown /oʊn/ と混同しやすいので注意しましょう。",
       usedIn: ["s422"],
       tags: ["verb"]
     },
@@ -890,7 +890,7 @@ window.SECTIONS["sec05"] = {
       word: "obstacle",
       ipa: "[άbstəkl]",
       meaning: "障害（物）",
-      extraInfo: "【名】\n障害（物）（to ～に対する） [= barrier]",
+      extraInfo: "【名】\n障害（物）（to ～に対する） [= barrier]\n【関連語＆似た言葉】\nobstacle /ˈɑːbstəkəl/ 【名詞】障害、妨害、邪魔になるもの\nobstruct /əbˈstrʌkt/ 【動詞】～を妨害する、ふさぐ\nobstruction /əbˈstrʌkʃən/ 【名詞】妨害、障害、閉塞\nbarrier /ˈbæriər/ 【名詞】障壁、障害\nhurdle /ˈhɜːrdəl/ 【名詞】障害、困難\n【重要表現・例文】\novercome an obstacle → 障害を克服する\nLack of money is a major obstacle to education. → お金の不足は教育にとって大きな障害である。\n【覚え方】\nobstacle = 障害物・問題そのもの\nobstruct = 妨害する（動詞）\nこの組み合わせも一緒に覚えておくと便利です。",
       usedIn: ["s432"],
       tags: ["noun"]
     },
@@ -926,7 +926,7 @@ window.SECTIONS["sec05"] = {
       word: "contribution",
       ipa: "[kὰntrəbjúːʃən]",
       meaning: "貢献、寄付",
-      extraInfo: "【名】\n貢献（to, toward ～への）、寄付（金） [= donation]\ncontribute 【動】貢献する（to ～に）、寄付する\ncontributor 【名】寄付者",
+      extraInfo: "【名】\n貢献（to, toward ～への）、寄付（金） [= donation]\ncontribute 【動】貢献する（to ～に）、寄付する\ncontributor 【名】寄付者\n【関連語＆似た言葉】\ncontribution /ˌkɑːntrəˈbjuːʃən/ 【名詞】貢献、寄与；寄付、提供\ncontribute /kənˈtrɪbjuːt/ 【動詞】貢献する、寄与する；寄付する\ncontributor /kənˈtrɪbjətər/ 【名詞】貢献者、寄稿者\ndistribution /ˌdɪstrəˈbjuːʃən/ 【名詞】分配、流通、分布\nattribution /ˌætrəˈbjuːʃən/ 【名詞】帰属、原因を～に求めること\n【覚え方】\ncontribute → contribution\n「貢献する」→「貢献」\n【重要表現・用例】\n準1級では特に次の形が重要です。\nmake a contribution to ～ → ～に貢献する\nmake a significant contribution to society → 社会に大きく貢献する\ncontribute to economic growth → 経済成長に貢献する\n【contribute toの意味】\ncontribute to ～ は「良いことへの貢献」だけでなく、「～の一因となる」という意味でも使えます。\nAir pollution contributes to health problems. → 大気汚染は健康問題の一因となる。",
       usedIn: ["s436"],
       tags: ["noun"]
     },
@@ -935,7 +935,7 @@ window.SECTIONS["sec05"] = {
       word: "congestion",
       ipa: "[kəndʒéstʃən]",
       meaning: "混雑、密集",
-      extraInfo: "【名】\n混雑 [= jam]、密集\ncongest 【動】を混雑させる\ntraffic congestion 交通渋滞",
+      extraInfo: "【名】\n混雑 [= jam]、密集\ncongest 【動】を混雑させる\ntraffic congestion 交通渋滞\n【関連語＆似た言葉】\ncongestion /kənˈdʒestʃən/ 【名詞】混雑、渋滞；うっ血\ncongested /kənˈdʒestɪd/ 【形容詞】混雑した、渋滞した\ncongest /kənˈdʒest/ 【動詞】～を混雑させる、詰まらせる\nsuggestion /səˈdʒestʃən/ 【名詞】提案、示唆\nconsumption /kənˈsʌmpʃən/ 【名詞】消費、消費量\n【重要表現・用例】\ntraffic congestion = 交通渋滞\nreduce traffic congestion → 交通渋滞を減らす\nease congestion → 混雑・渋滞を緩和する\ncongested roads → 混雑した道路\n【Writingでの表現】\nreduce traffic congestionは英検Writingでも使いやすい表現です。\nrelieve traffic jamsに近い意味で、reduce traffic congestionのほうがややフォーマルな表現です。",
       usedIn: ["s437"],
       tags: ["noun"]
     },
@@ -1007,7 +1007,7 @@ window.SECTIONS["sec05"] = {
       word: "deposit",
       ipa: "[dipά(ː)zət]",
       meaning: "内金、頭金、預金",
-      extraInfo: "【名】\n内金（on ～の）、頭金 [= down payment]、預金（額）\n【動】を預金する、を内金として払う",
+      extraInfo: "【名】\n内金（on ～の）、頭金 [= down payment]、預金（額）\n【動】を預金する、を内金として払う\n【関連語＆似た言葉】\ndeposit /dɪˈpɑːzɪt/ 【名詞】預金、保証金、手付金；堆積物\ndeposit /dɪˈpɑːzɪt/ 【動詞】～を預ける、預金する；～を堆積させる\ndepositor /dɪˈpɑːzɪtər/ 【名詞】預金者\ndeposition /ˌdepəˈzɪʃən/ 【名詞】堆積、沈殿；証言\nwithdraw /wɪðˈdrɔː/ 【動詞】～を引き出す；撤回する\n【覚え方】\n銀行関係では deposit ↔ withdraw をセットにすると覚えやすいです。\n【用例】\nmake a deposit → 預金する\npay a deposit → 手付金・保証金を払う\ndeposit money in a bank → 銀行にお金を預ける\nwithdraw money from a bank → 銀行からお金を引き出す\n【地学・環境分野の意味】\n準1級では、地学・環境系で mineral deposits（鉱床・鉱物の堆積物）のような意味も出てきます。",
       usedIn: ["s445"],
       tags: ["noun"]
     },
@@ -1034,7 +1034,7 @@ window.SECTIONS["sec05"] = {
       word: "intake",
       ipa: "[ínteik]",
       meaning: "摂取量、取り入れ",
-      extraInfo: "【名】\n摂取量、（空気・水などの）取り入れ",
+      extraInfo: "【名】\n摂取量、（空気・水などの）取り入れ\n【関連語＆似た言葉】\nintake /ˈɪnteɪk/ 【名詞】摂取量、取り入れる量；受け入れ人数\nintake /ˈɪnteɪk/ 【名詞】吸入口、取り入れ口\nundertake /ˌʌndərˈteɪk/ 【動詞】～を引き受ける、着手する\ntake in /teɪk ɪn/ 【句動詞】～を取り入れる、吸収する\n【重要な意味・用例】\n準1級では特に「摂取量」が重要です。\ncalorie intake → カロリー摂取量\nfood intake → 食物摂取量\ndaily intake of salt → 1日の塩分摂取量\nreduce salt intake → 塩分摂取量を減らす\n【覚え方】\nintake = in + take → 中に取り入れるもの・量 と考えると覚えやすいです。",
       usedIn: ["s448"],
       tags: ["noun"]
     },
@@ -1052,7 +1052,7 @@ window.SECTIONS["sec05"] = {
       word: "coverage",
       ipa: "[kʌ́vəridʒ]",
       meaning: "報道、補償範囲",
-      extraInfo: "【名】\n報道 [= report]、（保険の）補償範囲 [= cover]、適用範囲\ncover 【動】を覆う、を報道する、に保険をかける",
+      extraInfo: "【名】\n報道 [= report]、（保険の）補償範囲 [= cover]、適用範囲\ncover 【動】を覆う、を報道する、に保険をかける\n【関連語＆似た言葉】\ncoverage /ˈkʌvərɪdʒ/ 【名詞】報道、取材；適用範囲、補償範囲\ncover /ˈkʌvər/ 【動詞】～を覆う；～を扱う、報道する；費用をまかなう\ncover /ˈkʌvər/ 【名詞】覆い、表紙\naverage /ˈævərɪdʒ/ 【名詞・形容詞】平均；平均の\ncarriage /ˈkærɪdʒ/ 【名詞】馬車；運搬\n【重要な意味・用例】\n準1級では特に「報道」の意味が重要です。\nmedia coverage → メディアの報道\nnews coverage → ニュース報道\ninsurance coverage → 保険の補償範囲\ncoverage of the election → 選挙についての報道\n【覚え方】\ncover（報道する・扱う）→ coverage（報道・扱う範囲）とつなげて覚えると分かりやすいです。",
       usedIn: ["s450"],
       tags: ["noun"]
     },
@@ -1331,7 +1331,7 @@ window.SECTIONS["sec05"] = {
       word: "appropriate",
       ipa: "[əpróupriət]",
       meaning: "適切な",
-      extraInfo: "【形】\n適切な（for, to ～に） [= proper, suitable] [⇔ inappropriate]\nappropriately 【副】",
+      extraInfo: "【形】\n適切な（for, to ～に） [= proper, suitable] [⇔ inappropriate]\nappropriately 【副】\n【関連語＆似た言葉】\nappropriate /əˈproʊpriət/ 【形容詞】適切な、ふさわしい\nappropriate /əˈproʊprieɪt/ 【動詞】～を充てる、割り当てる；横領する\nappropriately /əˈproʊpriətli/ 【副詞】適切に、ふさわしく\ninappropriate /ˌɪnəˈproʊpriət/ 【形容詞】不適切な、ふさわしくない\nproper /ˈprɑːpər/ 【形容詞】適切な、正しい\n【重要な意味・用例】\n準1級ではまず形容詞「適切な・ふさわしい」を押さえましょう。\nappropriate measures → 適切な対策\nappropriate behavior → 適切な行動\nbe appropriate for ～ → ～に適している",
       usedIn: ["s481"],
       tags: ["adj"]
     },
@@ -1439,7 +1439,7 @@ window.SECTIONS["sec05"] = {
       word: "endangered",
       ipa: "[indéindʒərd]",
       meaning: "絶滅の危機にある",
-      extraInfo: "【形】\n（動植物が）絶滅の危機にある",
+      extraInfo: "【形】\n（動植物が）絶滅の危機にある\n【関連語＆似た言葉】\nendangered /ɪnˈdeɪndʒərd/ 【形容詞】絶滅の危機にある、危険にさらされた\nendanger /ɪnˈdeɪndʒər/ 【動詞】～を危険にさらす\ndanger /ˈdeɪndʒər/ 【名詞】危険\ndangerous /ˈdeɪndʒərəs/ 【形容詞】危険な\nthreatened /ˈθretənd/ 【形容詞】脅かされた、絶滅の恐れがある\n【重要表現・用例】\n準1級では特に endangered species = 絶滅危惧種 が重要です。\nprotect endangered species → 絶滅危惧種を保護する\nan endangered animal → 絶滅の危機にある動物\nHuman activities endanger wildlife. → 人間の活動が野生生物を危険にさらす\n【覚え方】\ndanger → endanger（危険にさらす）→ endangered（危険にさらされた）とつなげると覚えやすいです。",
       usedIn: ["s493"],
       tags: ["adj"]
     },
@@ -1457,7 +1457,7 @@ window.SECTIONS["sec05"] = {
       word: "fertile",
       ipa: "[fə́ːrtl]",
       meaning: "肥沃な",
-      extraInfo: "【形】\n（土地などが）肥沃な [⇔ infertile, barren 不毛の]\nfertilize 【動】を肥沃にする\nfertilizer 【名】肥料",
+      extraInfo: "【形】\n（土地などが）肥沃な [⇔ infertile, barren 不毛の]\nfertilize 【動】を肥沃にする\nfertilizer 【名】肥料\n【関連語＆似た言葉】\nfertile /ˈfɜːrtəl/ 【形容詞】肥沃な；繁殖力のある、生産力のある\nfertility /fərˈtɪləti/ 【名詞】肥沃さ；繁殖力、生殖能力\nfertilize /ˈfɜːrtəlaɪz/ 【動詞】～を肥沃にする；受精させる\nfertilizer /ˈfɜːrtəlaɪzər/ 【名詞】肥料\nfutile /ˈfjuːtəl/ 【形容詞】無駄な、効果のない\n【重要な意味・用例】\n準1級ではまず「肥沃な」が重要です。\nfertile soil → 肥沃な土壌\nfertile land → 肥沃な土地\na fertile region → 肥沃な地域\n【覚え方】\nfertile ↔ infertile（肥沃でない、不妊の）もセットで覚えられます。",
       usedIn: ["s495"],
       tags: ["adj"]
     },
@@ -1475,7 +1475,7 @@ window.SECTIONS["sec05"] = {
       word: "altogether",
       ipa: "[ɔ̀ːltəgéðər]",
       meaning: "完全に",
-      extraInfo: "【副】\n完全に [= completely] [⇔ partially 部分的に]",
+      extraInfo: "【副】\n完全に [= completely] [⇔ partially 部分的に]\n【関連語＆似た言葉】\naltogether /ˌɔːltəˈɡeðər/ 【副詞】完全に、まったく；全体で、合計して\nall together /ɔːl təˈɡeðər/ 【副詞句】みんな一緒に、全部まとめて\ntogether /təˈɡeðər/ 【副詞】一緒に、共に\noverall /ˌoʊvərˈɔːl/ 【副詞】全体として、総じて\n【用例】\naltogether different → まったく異なる\naltogether impossible → 完全に不可能な\nThere were 50 people altogether. → 全部で50人いた。\n【紛らわしい言葉の区別】\naltogether = 完全に、まったく；全体で、合計して\nall together = みんな一緒に、全部まとめて\nWe went there all together. → 私たちはみんな一緒にそこへ行った。",
       usedIn: ["s497"],
       tags: ["adv"]
     },

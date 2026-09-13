@@ -611,7 +611,7 @@ window.SECTIONS["sec07"] = {
       word: "resort",
       ipa: "[rizɔ́ːrt]",
       meaning: "訴える、頼る",
-      extraInfo: "【動】\n訴える（to 悪ましない手段に）、頼る\n【名】頼りになるもの [人]、手段、行楽地",
+      extraInfo: "【動】\n訴える（to 悪ましない手段に）、頼る\n【名】頼りになるもの [人]、手段、行楽地\n【関連語＆似た言葉】\nresort /rɪˈzɔːrt/ 【名詞】行楽地、リゾート地；最後の手段\nresort /rɪˈzɔːrt/ 【動詞】（好ましくない手段などに）訴える、頼る\nresource /ˈriːsɔːrs/ 【名詞】資源、手段\nresult /rɪˈzʌlt/ 【名詞・動詞】結果；結果として生じる\n【重要な意味・用例】\n準1級では、日本語にもなっている「リゾート地」より、「手段に訴える」の意味に注意しましょう。\nresort to ～ → ～に訴える、～に頼る\nresort to violence → 暴力に訴える\nas a last resort → 最後の手段として\n【覚え方】\nresort = リゾート地 だけでなく、resort to ～ = 困った末に～という手段に頼る までセットで覚えましょう。",
       usedIn: ["s601"],
       tags: ["verb"]
     },
@@ -629,7 +629,7 @@ window.SECTIONS["sec07"] = {
       word: "originate",
       ipa: "[ərídʒənèit]",
       meaning: "由来する、生じる",
-      extraInfo: "【動】\n由来する（from ～から、in ～に）、生じる、始まる [⇔ end]\norigin 【名】\noriginal 【形】\noriginally 【副】",
+      extraInfo: "【動】\n由来する（from ～から、in ～に）、生じる、始まる [⇔ end]\norigin 【名】\noriginal 【形】\noriginally 【副】\n【関連語＆似た言葉】\noriginate /əˈrɪdʒəneɪt/ 【動詞】生じる、始まる；～を生み出す、考案する\norigin /ˈɔːrɪdʒɪn/ 【名詞】起源、由来、出身\noriginal /əˈrɪdʒənəl/ 【形容詞】元の、独創的な\noriginally /əˈrɪdʒənəli/ 【副詞】もともと、当初は\ngenerate /ˈdʒenəreɪt/ 【動詞】～を生み出す、発生させる\n【重要表現・例文】\n特に重要なのは originate from/in ～ です。\nThe custom originated in Europe. → その習慣はヨーロッパで始まった。\nThe virus originated from animals. → そのウイルスは動物に由来した。\nThe idea originated with him. → そのアイデアは彼が考案した。\n【覚え方】\norigin（起源）→ originate（起こる・生じる）とつなげると覚えやすいです。",
       usedIn: ["s603"],
       tags: ["verb"]
     },
@@ -638,7 +638,7 @@ window.SECTIONS["sec07"] = {
       word: "regret",
       ipa: "[rigrét]",
       meaning: "を後悔する、を遺憾に思う",
-      extraInfo: "【動】\nを後悔する、を遺憾に思う\n【名】後悔\nregretful 【形】人が後悔している\nregrettable 【形】行為・出来事などが）遺憾な",
+      extraInfo: "【動】\nを後悔する、を遺憾に思う\n【名】後悔\nregretful 【形】人が後悔している\nregrettable 【形】行為・出来事などが）遺憾な\n【関連語＆似た言葉】\nregret /rɪˈɡret/ 【動詞】～を後悔する、残念に思う\nregret /rɪˈɡret/ 【名詞】後悔、残念な気持ち\nregrettable /rɪˈɡretəbəl/ 【形容詞】残念な、遺憾な\nregretfully /rɪˈɡretfəli/ 【副詞】残念ながら、後悔して\nrepent /rɪˈpent/ 【動詞】悔い改める、後悔する\n【重要表現・例文】\nregret doing something → ～したことを後悔する\nI regret saying that. → 私はそんなことを言ったのを後悔している。\nwith regret → 残念ながら、遺憾ながら\n【regret doingとregret to doの違い】\nregret doing ～ は「～したことを後悔する」、regret to do ～ は「残念ながらこれから～する」という意味です。\nI regret to inform you that ... → 残念ながら～をお知らせしなければなりません。",
       usedIn: ["s604"],
       tags: ["verb"]
     },
@@ -656,7 +656,7 @@ window.SECTIONS["sec07"] = {
       word: "revise",
       ipa: "[riváiz]",
       meaning: "を改正する、を見直す",
-      extraInfo: "【動】\n（法律など）を改正する、（印刷物）を改訂する、を校訂する\nrevision 【名】",
+      extraInfo: "【動】\n（法律など）を改正する、（印刷物）を改訂する、を校訂する\nrevision 【名】\n【関連語＆似た言葉】\nrevise /rɪˈvaɪz/ 【動詞】～を修正する、改訂する；復習する\nrevision /rɪˈvɪʒən/ 【名詞】修正、改訂；復習\nrevised /rɪˈvaɪzd/ 【形容詞】修正された、改訂された\nreview /rɪˈvjuː/ 【動詞・名詞】～を見直す、復習する；再検討\nreverse /rɪˈvɜːrs/ 【動詞・形容詞】～を逆転させる；逆の\n【重要な意味・用例】\n準1級では「修正する・改訂する」をまず押さえましょう。\nrevise a plan → 計画を修正する\nrevise a report → 報告書を改訂する\nrevise the law → 法律を改正する\n【イギリス英語での使い方】\nrevise for an exam = 試験勉強・復習をする\n【覚え方】\nrevise（修正する）→ revision（修正・改訂）のセットで覚えましょう。",
       usedIn: ["s606"],
       tags: ["verb"]
     },
@@ -665,7 +665,7 @@ window.SECTIONS["sec07"] = {
       word: "restrict",
       ipa: "[ristríkt]",
       meaning: "を制限する",
-      extraInfo: "【動】\n（大きさ・数・範囲など）を制限する（to ～に） [= limit]\nrestriction 【名】 [⇔ freedom]",
+      extraInfo: "【動】\n（大きさ・数・範囲など）を制限する（to ～に） [= limit]\nrestriction 【名】 [⇔ freedom]\n【関連語＆似た言葉】\nrestrict /rɪˈstrɪkt/ 【動詞】～を制限する、規制する\nrestriction /rɪˈstrɪkʃən/ 【名詞】制限、規制\nrestricted /rɪˈstrɪktɪd/ 【形容詞】制限された、限定された\nrestrain /rɪˈstreɪn/ 【動詞】～を抑える、制止する\ndistrict /ˈdɪstrɪkt/ 【名詞】地区、地域\n【重要表現・用例】\nrestrict A to B = AをBに制限する\nrestrict access → アクセスを制限する\nrestrict the use of cars → 自動車の使用を制限する\nAccess is restricted to members. → 利用は会員に限定されている\n【紛らわしい言葉の区別】\nrestrict = 制限する\ndistrict = 地区\ndistinct = 明確に異なる\ndistract = 注意をそらす\nこの4つはまとめて区別して覚えましょう。",
       usedIn: ["s607"],
       tags: ["verb"]
     },
@@ -683,7 +683,7 @@ window.SECTIONS["sec07"] = {
       word: "fade",
       ipa: "[feid]",
       meaning: "徐々に消えていく、あせる",
-      extraInfo: "【動】\n（記憶などが）徐々に消えていく [= disappear]、（色が）あせる",
+      extraInfo: "【動】\n（記憶などが）徐々に消えていく [= disappear]、（色が）あせる\n【関連語＆似た言葉】\nfade /feɪd/ 【動詞】薄れる、消えていく；色あせる\nfade /feɪd/ 【名詞】衰退、薄れること\nfaded /ˈfeɪdɪd/ 【形容詞】色あせた、薄れた\nfaint /feɪnt/ 【形容詞・動詞】かすかな；気を失う\nvanish /ˈvænɪʃ/ 【動詞】消える、姿を消す\n【意味のイメージ】\nfadeは「突然消える」のではなく、徐々に薄くなって消えていくイメージが大事です。\n【例文】\nThe color faded. → 色があせた。\nThe memory gradually faded. → その記憶は徐々に薄れた。\nHis hopes began to fade. → 彼の希望は薄れ始めた。\n【覚え方】\n映像や音楽でも使う fade out（徐々に消える）と結びつけると覚えやすいです。",
       usedIn: ["s609"],
       tags: ["verb"]
     },
@@ -692,7 +692,7 @@ window.SECTIONS["sec07"] = {
       word: "relieve",
       ipa: "[rilíːv]",
       meaning: "を和らげる、を軽くする",
-      extraInfo: "【動】\n（苦痛など）を和らげる、（問題など）を軽くする\nrelief 【名】",
+      extraInfo: "【動】\n（苦痛など）を和らげる、（問題など）を軽くする\nrelief 【名】\n【関連語＆似た言葉】\nrelieve /rɪˈliːv/ 【動詞】～を和らげる、軽減する；安心させる\nrelief /rɪˈliːf/ 【名詞】安心、安堵；軽減、救済\nrelieved /rɪˈliːvd/ 【形容詞】安心した、ほっとした\nrelease /rɪˈliːs/ 【動詞】～を解放する、放出する\nretrieve /rɪˈtriːv/ 【動詞】～を取り戻す、回収する\n【重要な意味・用例】\n特に「痛み・ストレス・負担などを軽減する」が重要です。\nrelieve pain → 痛みを和らげる\nrelieve stress → ストレスを軽減する\nrelieve pressure → 圧力・負担を軽減する\nI was relieved to hear that. → それを聞いて安心した。\n【覚え方】\nrelieve（和らげる）→ relief（安心・軽減）→ relieved（安心した）とセットで覚えましょう。",
       usedIn: ["s610"],
       tags: ["verb"]
     },
@@ -701,7 +701,7 @@ window.SECTIONS["sec07"] = {
       word: "suppress",
       ipa: "[səprés]",
       meaning: "を抑える、を抑圧する",
-      extraInfo: "【動】\n（思い・感情など）を抑える [= restrain]、（暴動など）を制圧する [= subdue]\nsuppression 【名】",
+      extraInfo: "【動】\n（思い・感情など）を抑える [= restrain]、（暴動など）を制圧する [= subdue]\nsuppression 【名】\n【関連語＆似た言葉】\nsuppress /səˈpres/ 【動詞】～を抑える、抑制する；鎮圧する\nsuppression /səˈpreʃən/ 【名詞】抑制、鎮圧\noppress /əˈpres/ 【動詞】～を抑圧する、虐げる\nrepress /rɪˈpres/ 【動詞】～を抑える、抑圧する\npress /pres/ 【動詞】～を押す、圧迫する\n【意味のイメージ】\nsuppressは「何かが表に出たり、広がったりするのを押さえ込む」というイメージです。\n【用例】\nsuppress a protest → 抗議運動を鎮圧する\nsuppress information → 情報を隠す・公表を抑える\nsuppress one's emotions → 感情を抑える\nsuppress the immune system → 免疫系を抑制する\n【紛らわしい言葉の区別】\nsuppress = 抑える・鎮圧する\nrepress = 感情などを抑圧する\noppress = 人々を虐げる・抑圧する\nこの3語を区別すると覚えやすいです。",
       usedIn: ["s611"],
       tags: ["verb"]
     },
@@ -764,7 +764,7 @@ window.SECTIONS["sec07"] = {
       word: "remodel",
       ipa: "[rìːmάdəl]",
       meaning: "を改装する",
-      extraInfo: "【動】\nを改装する、を改造する [= renovate]",
+      extraInfo: "【動】\nを改装する、を改造する [= renovate]\n【関連語＆似た言葉】\nremodel /ˌriːˈmɑːdəl/ 【動詞】～を改造する、改築する、作り直す\nremodeling /ˌriːˈmɑːdəlɪŋ/ 【名詞】改築、改装\nrenovate /ˈrenəveɪt/ 【動詞】～を改修する、修復する\nrebuild /ˌriːˈbɪld/ 【動詞】～を建て直す、再建する\nmodify /ˈmɑːdəfaɪ/ 【動詞】～を修正する、変更する\n【覚え方】\nremodel = re（再び）＋ model（形作る）で、「形を作り直す」というイメージです。\n【用例】\nremodel a house → 家を改築する\nremodel a kitchen → キッチンを改装する\nThe building was completely remodeled. → その建物は全面的に改装された。\n【renovateとの違い】\nremodelは「構造やデザインを変更する」、renovateは「古くなったものを修復して良い状態に戻す」という傾向があります。",
       usedIn: ["s618"],
       tags: ["verb"]
     },
@@ -836,7 +836,7 @@ window.SECTIONS["sec07"] = {
       word: "termite",
       ipa: "[tə́ːrmait]",
       meaning: "シロアリ",
-      extraInfo: "【名】\nシロアリ",
+      extraInfo: "【名】\nシロアリ\n【関連語＆似た言葉】\ntermite /ˈtɜːrmaɪt/ 【名詞】シロアリ\nant /ænt/ 【名詞】アリ\ninsect /ˈɪnsekt/ 【名詞】昆虫\nmite /maɪt/ 【名詞】ダニ\nterminate /ˈtɜːrməneɪt/ 【動詞】～を終わらせる、終了する\n【用例】\ntermite damage → シロアリによる被害\na termite colony → シロアリの群れ・コロニー\nTermites feed on wood. → シロアリは木材を食べる。\n【覚え方】\n日本語の「ターマイト」に近い発音なので、音と結びつけて覚えましょう。",
       usedIn: ["s626"],
       tags: ["noun"]
     },
@@ -872,7 +872,7 @@ window.SECTIONS["sec07"] = {
       word: "descendant",
       ipa: "[diséndənt]",
       meaning: "子孫",
-      extraInfo: "【名】\n子孫 [= offspring] [⇔ ancestor]\ndescend 【動】降りる、（運転などが）受け継がれる",
+      extraInfo: "【名】\n子孫 [= offspring] [⇔ ancestor]\ndescend 【動】降りる、（運転などが）受け継がれる\n【関連語＆似た言葉】\ndescendant /dɪˈsendənt/ 【名詞】子孫、末裔\ndescend /dɪˈsend/ 【動詞】下る、降りる；～の子孫である\ndescent /dɪˈsent/ 【名詞】下降；血統、家系\nancestor /ˈænsestər/ 【名詞】祖先、先祖\ndependent /dɪˈpendənt/ 【形容詞・名詞】依存している；扶養家族\n【対で覚える言葉】\nancestor ↔ descendant\nancestor = 祖先 ← 自分 → descendant = 子孫\n【用例】\na descendant of ～ → ～の子孫\ndirect descendants → 直系の子孫\nHe is a descendant of the royal family. → 彼は王家の子孫です。\n【覚え方】\ndescend（下る）→ descendant（下の世代へ続く人＝子孫）と考えると意味を結びつけやすいです。",
       usedIn: ["s630"],
       tags: ["noun"]
     },

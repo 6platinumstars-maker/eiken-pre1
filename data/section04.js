@@ -737,7 +737,7 @@ window.SECTIONS["sec04"] = {
       word: "propose",
       ipa: "[prəpóuz]",
       meaning: "を提案する",
-      extraInfo: "【動】\nを提案する（to ～に）、結婚を申し込む\nproposal 【名】提案\n語源メモ: pro（前に）+ pose（置く）",
+      extraInfo: "【動】\nを提案する（to ～に）、結婚を申し込む\nproposal 【名】提案\n語源メモ: pro（前に）+ pose（置く）\n【関連語＆似た言葉】\npropose /prəˈpoʊz/ 【動詞】～を提案する；～するつもりである；結婚を申し込む\nproposal /prəˈpoʊzəl/ 【名詞】提案、計画；結婚の申し込み\npurpose /ˈpɜːrpəs/ 【名詞】目的、意図\noppose /əˈpoʊz/ 【動詞】～に反対する\nsuppose /səˈpoʊz/ 【動詞】～だと思う、仮定する",
       usedIn: ["s315"],
       tags: ["verb"]
     },
@@ -746,7 +746,7 @@ window.SECTIONS["sec04"] = {
       word: "blame",
       ipa: "[bléim]",
       meaning: "のせいにする、を非難する",
-      extraInfo: "【動】\nのせいにする（for 過失などを）、を非難する、の責任を負わせる（on ～に）\nbe to blame 責任がある",
+      extraInfo: "【動】\nのせいにする（for 過失などを）、を非難する、の責任を負わせる（on ～に）\nbe to blame 責任がある\n【関連語＆似た言葉】\nblame /bleɪm/ 【動詞】～を責める、～のせいにする\nblame /bleɪm/ 【名詞】責任、非難\nclaim /kleɪm/ 【動詞・名詞】～と主張する；主張、要求\nflame /fleɪm/ 【名詞】炎、火炎\nblameworthy /ˈbleɪmwɜːrði/ 【形容詞】非難されるべき、責められるべき",
       usedIn: ["s316"],
       tags: ["verb"]
     },
@@ -755,7 +755,7 @@ window.SECTIONS["sec04"] = {
       word: "collapse",
       ipa: "[kəlǽps]",
       meaning: "崩れ落ちる、倒れる",
-      extraInfo: "【動】\n（建物などが）崩れ落ちる、（人が）倒れる\n【名】倒壊、破綻\n語源メモ: col（一緒に）+ lapse（倒れる）",
+      extraInfo: "【動】\n（建物などが）崩れ落ちる、（人が）倒れる\n【名】倒壊、破綻\n語源メモ: col（一緒に）+ lapse（倒れる）\n【関連語＆似た言葉】\ncollapse /kəˈlæps/ 【動詞】崩壊する、倒れる；急落する\ncollapse /kəˈlæps/ 【名詞】崩壊、倒壊；急落\ncollide /kəˈlaɪd/ 【動詞】衝突する、ぶつかる\ncorrupt /kəˈrʌpt/ 【動詞・形容詞】腐敗させる；腐敗した\ncomply /kəmˈplaɪ/ 【動詞】従う、応じる",
       usedIn: ["s317"],
       tags: ["verb"]
     },
@@ -791,7 +791,7 @@ window.SECTIONS["sec04"] = {
       word: "spot",
       ipa: "[spάt]",
       meaning: "場所、地点、しみ",
-      extraInfo: "【名】\n（特定の）場所、地点、しみ\n【動】を見つける\nspotless 【形】しみ（汚れ）のない\nspotted 【形】まだらの",
+      extraInfo: "【名】\n（特定の）場所、地点、しみ\n【動】を見つける\nspotless 【形】しみ（汚れ）のない\nspotted 【形】まだらの\n【関連語＆似た言葉】\nspot /spɑːt/ 【名詞】場所、地点；斑点、しみ\nspot /spɑːt/ 【動詞】～を見つける、見抜く、発見する\nsport /spɔːrt/ 【名詞】スポーツ、運動\nspoil /spɔɪl/ 【動詞】～を台無しにする、甘やかす\nspare /sper/ 【形容詞・動詞】予備の；～を割く、～を免れさせる",
       usedIn: ["s321"],
       tags: ["noun"]
     },
@@ -863,7 +863,7 @@ window.SECTIONS["sec04"] = {
       word: "formation",
       ipa: "[fɔːrméiʃən]",
       meaning: "形成、構成（物）",
-      extraInfo: "【名】\n形成、構成（物）\nform 【名】（物の）形\n【動】を形作る",
+      extraInfo: "【名】\n形成、構成（物）\nform 【名】（物の）形\n【動】を形作る\n【関連語＆似た言葉】\nformation /fɔːrˈmeɪʃən/ 【名詞】形成、成立；構成、編成\nform /fɔːrm/ 【動詞・名詞】～を形成する；形、形式\nformal /ˈfɔːrməl/ 【形容詞】正式な、公式の\nformulate /ˈfɔːrmjəleɪt/ 【動詞】～を考案する、策定する\ninformation /ˌɪnfərˈmeɪʃən/ 【名詞】情報",
       usedIn: ["s329"],
       tags: ["noun"]
     },
@@ -908,7 +908,7 @@ window.SECTIONS["sec04"] = {
       word: "storage",
       ipa: "[stɔ́ːridʒ]",
       meaning: "保管、貯蔵、収納力",
-      extraInfo: "【名】\n保管、貯蔵（法）、収納力\nstore 【動】を貯蔵する",
+      extraInfo: "【名】\n保管、貯蔵（法）、収納力\nstore 【動】を貯蔵する\n【関連語＆似た言葉】\nstorage /ˈstɔːrɪdʒ/ 【名詞】保管、貯蔵；保管場所、記憶容量\nstore /stɔːr/ 【動詞・名詞】～を保管する、蓄える；店\nstorehouse /ˈstɔːrhaʊs/ 【名詞】倉庫、貯蔵所\nshortage /ˈʃɔːrtɪdʒ/ 【名詞】不足、欠乏\nstir /stɜːr/ 【動詞】～をかき混ぜる；感情などを呼び起こす",
       usedIn: ["s334"],
       tags: ["noun"]
     },
@@ -980,7 +980,7 @@ window.SECTIONS["sec04"] = {
       word: "reduction",
       ipa: "[ridʌ́kʃən]",
       meaning: "減少、削減",
-      extraInfo: "【名】\n減少 [= decrease, decline]、削減 [= cut]\nreduce 【動】を減らす",
+      extraInfo: "【名】\n減少 [= decrease, decline]、削減 [= cut]\nreduce 【動】を減らす\n【関連語＆似た言葉】\nreduction /rɪˈdʌkʃən/ 【名詞】減少、削減、縮小\nreduce /rɪˈduːs/ 【動詞】～を減らす、削減する\nprediction /prɪˈdɪkʃən/ 【名詞】予測、予言\nrestriction /rɪˈstrɪkʃən/ 【名詞】制限、規制\nproduction /prəˈdʌkʃən/ 【名詞】生産、製造",
       usedIn: ["s342"],
       tags: ["noun"]
     },
@@ -998,7 +998,7 @@ window.SECTIONS["sec04"] = {
       word: "divorce",
       ipa: "[divɔ́ːrs]",
       meaning: "離婚、（完全な）分離",
-      extraInfo: "【名】\n離婚、（完全な）分離\n【動】と離婚する、を離婚させる\ndivorced 【形】",
+      extraInfo: "【名】\n離婚、（完全な）分離\n【動】と離婚する、を離婚させる\ndivorced 【形】\n【関連語＆似た言葉】\ndivorce /dɪˈvɔːrs/ 【名詞】離婚\ndivorce /dɪˈvɔːrs/ 【動詞】～と離婚する；～を切り離す\ndiverse /daɪˈvɜːrs/ 【形容詞】多様な、さまざまな\ndiversity /daɪˈvɜːrsəti/ 【名詞】多様性\ndevote /dɪˈvoʊt/ 【動詞】～をささげる、専念する",
       usedIn: ["s344"],
       tags: ["noun"]
     },
@@ -1034,7 +1034,7 @@ window.SECTIONS["sec04"] = {
       word: "plot",
       ipa: "[plάt]",
       meaning: "小区画の土地、陰謀、筋",
-      extraInfo: "【名】\n小区画の土地、陰謀 [= scheme, conspiracy]、（小説などの）筋",
+      extraInfo: "【名】\n小区画の土地、陰謀 [= scheme, conspiracy]、（小説などの）筋\n【関連語＆似た言葉】\nplot /plɑːt/ 【名詞】筋書き、構想；陰謀；一区画の土地\nplot /plɑːt/ 【動詞】～を企てる；（グラフなどに）点を描く\nplan /plæn/ 【名詞・動詞】計画；～を計画する\nplotter /ˈplɑːtər/ 【名詞】陰謀を企てる人；プロッター\nplod /plɑːd/ 【動詞】重い足取りで歩く、こつこつ進む",
       usedIn: ["s348"],
       tags: ["noun"]
     },
@@ -1070,7 +1070,7 @@ window.SECTIONS["sec04"] = {
       word: "obesity",
       ipa: "[oubíːsəti]",
       meaning: "肥満",
-      extraInfo: "【名】\n（病的な）肥満\nobese 【形】",
+      extraInfo: "【名】\n（病的な）肥満\nobese 【形】\n【関連語＆似た言葉】\nobesity /oʊˈbiːsəti/ 【名詞】肥満、肥満症\nobese /oʊˈbiːs/ 【形容詞】肥満した、肥満の\noverweight /ˌoʊvərˈweɪt/ 【形容詞】太りすぎの、標準体重を超えた\ndensity /ˈdensəti/ 【名詞】密度、濃度",
       usedIn: ["s352"],
       tags: ["noun"]
     },
@@ -1079,7 +1079,7 @@ window.SECTIONS["sec04"] = {
       word: "grant",
       ipa: "[grǽnt]",
       meaning: "助成金",
-      extraInfo: "【名】\n助成金（from ～からの、for ～のための） [= subsidy]、奨学金 [= scholarship, award]\n【動】を与える、を認める",
+      extraInfo: "【名】\n助成金（from ～からの、for ～のための） [= subsidy]、奨学金 [= scholarship, award]\n【動】を与える、を認める\n【関連語＆似た言葉】\ngrant /ɡrænt/ 【動詞】～を与える、認める、許可する\ngrant /ɡrænt/ 【名詞】助成金、補助金；授与\ngranted /ˈɡræntɪd/ 【形容詞】認められた、許可された\nguarantee /ˌɡærənˈtiː/ 【動詞・名詞】～を保証する；保証\ngratitude /ˈɡrætɪtuːd/ 【名詞】感謝、感謝の気持ち\n【重要な意味・用例】\n準1級では、特に「与える・認める」と「助成金」の2つが重要です。\ngrant permission → 許可を与える\ngrant a request → 要求を認める\nreceive a grant → 助成金を受け取る\na research grant → 研究助成金\n【熟語】\ntake ～ for granted → ～を当然のことと思う",
       usedIn: ["s353"],
       tags: ["noun"]
     },
@@ -1151,7 +1151,7 @@ window.SECTIONS["sec04"] = {
       word: "conservation",
       ipa: "[kὰnsərvéiʃən]",
       meaning: "保護、保存",
-      extraInfo: "【名】\n（動植物・森林などの）保護、（建物・文化遺産などの）保存\nconserve 【動】\nconservative 【形】保守的な",
+      extraInfo: "【名】\n（動植物・森林などの）保護、（建物・文化遺産などの）保存\nconserve 【動】\nconservative 【形】保守的な\n【関連語＆似た言葉】\nconservation /ˌkɑːnsərˈveɪʃən/ 【名詞】保護、保存；資源の節約\nconserve /kənˈsɜːrv/ 【動詞】～を保護する、保存する；節約する\nconversation /ˌkɑːnvərˈseɪʃən/ 【名詞】会話、対話\npreservation /ˌprezərˈveɪʃən/ 【名詞】保存、保護、維持\nreservation /ˌrezərˈveɪʃən/ 【名詞】予約；留保、疑念\n【環境分野の用例】\n準1級では環境問題で非常によく使います。\nwildlife conservation → 野生生物の保護\nenergy conservation → 省エネルギー\nconservation of natural resources → 天然資源の保全\n【覚え方】\nconserve（保護・節約する）→ conservation（保護・保全）とつなげて覚えると区別しやすいです。",
       usedIn: ["s361"],
       tags: ["noun"]
     },
@@ -1169,7 +1169,7 @@ window.SECTIONS["sec04"] = {
       word: "presence",
       ipa: "[prézəns]",
       meaning: "存在、出席",
-      extraInfo: "【名】\n存在、出席 [⇔ absence]\npresent 【形】ある、出席している",
+      extraInfo: "【名】\n存在、出席 [⇔ absence]\npresent 【形】ある、出席している\n【関連語＆似た言葉】\npresence /ˈprezəns/ 【名詞】存在、出席、居合わせること\npresent /ˈprezənt/ 【形容詞】現在の；出席している、存在している\nabsence /ˈæbsəns/ 【名詞】不在、欠席；欠如\npresent /prɪˈzent/ 【動詞】～を提示する、発表する\n【覚え方】\npresence ↔ absence は反対語としてセットで覚えると覚えやすいです。\n【用例】\nthe presence of ～ → ～の存在\nin the presence of ～ → ～のいるところで、～の面前で\nphysical presence → 物理的な存在・実際にその場にいること",
       usedIn: ["s363"],
       tags: ["noun"]
     },
@@ -1295,7 +1295,7 @@ window.SECTIONS["sec04"] = {
       word: "biased",
       ipa: "[báiəst]",
       meaning: "偏った、偏見を持った",
-      extraInfo: "【形】\n偏った、偏見を持った（against ～に対して）\nbias 【名】偏見、先入観",
+      extraInfo: "【形】\n偏った、偏見を持った（against ～に対して）\nbias 【名】偏見、先入観\n【関連語＆似た言葉】\nbiased /ˈbaɪəst/ 【形容詞】偏った、偏見を持った\nbias /ˈbaɪəs/ 【名詞】偏見、先入観、偏り\nbias /ˈbaɪəs/ 【動詞】～に偏見を持たせる、～を偏らせる\nunbiased /ʌnˈbaɪəst/ 【形容詞】偏りのない、公平な\nbalanced /ˈbælənst/ 【形容詞】バランスの取れた、公平な\n【用例】\n特にAI・ニュース・調査などの話題で頻出です。\nbiased information → 偏った情報\na biased opinion → 偏った意見\nbe biased against ～ → ～に対して偏見を持っている\n【覚え方】\nbias（偏り）→ biased（偏った）→ unbiased（偏りのない）と3つセットで覚えるとよいです。",
       usedIn: ["s377"],
       tags: ["adj"]
     },
@@ -1475,7 +1475,7 @@ window.SECTIONS["sec04"] = {
       word: "digestive",
       ipa: "[daidʒéstiv]",
       meaning: "消化の",
-      extraInfo: "【形】\n消化の\ndigest 【動】\ndigestion 【名】\nthe digestive system 消化器系",
+      extraInfo: "【形】\n消化の\ndigest 【動】\ndigestion 【名】\nthe digestive system 消化器系\n【関連語＆似た言葉】\ndigestive /daɪˈdʒestɪv/ 【形容詞】消化の、消化器官の\ndigest /daɪˈdʒest/ 【動詞】～を消化する；～を理解・吸収する\ndigestion /daɪˈdʒestʃən/ 【名詞】消化\nindigestion /ˌɪndɪˈdʒestʃən/ 【名詞】消化不良\n【覚え方】\ndigest → digestion → digestive\n「消化する」→「消化」→「消化の」\n【用例】\n準1級では特に次の表現を押さえておきましょう。\ndigestive system → 消化器系\ndigestive organs → 消化器官\ndigestive problems → 消化器系の問題\n【digestの比喩的な意味】\ndigestには食べ物だけでなく、「情報・内容を理解して吸収する」という意味もあります。\nIt takes time to digest the information. → その情報を理解して消化するには時間がかかる。",
       usedIn: ["s397"],
       tags: ["adj"]
     },
