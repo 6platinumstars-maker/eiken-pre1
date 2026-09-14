@@ -54,6 +54,9 @@
   const vocabFeedbackEl = $("vocabFeedback");
   const vocabCheckAllBtn = $("vocabCheckAllBtn");
   const vocabUncheckAllBtn = $("vocabUncheckAllBtn");
+  const vocabReplayBtn = $("vocabReplayBtn");
+  const vocabStopBtn = $("vocabStopBtn");
+  const vocabAudioStatusEl = $("vocabAudioStatus");
   const vocabPrevBtn = $("vocabPrevBtn");
   const vocabNextBtn = $("vocabNextBtn");
   const vocabRevealBtn = $("vocabRevealBtn");
@@ -93,6 +96,8 @@
   let checkedVocabReviewIndex = 0;
   let checkedVocabRevealStage = 0;
   const expandedVocabReviewIds = new Set();
+  let vocabPlaybackItem = null;
+  let vocabPlaybackStatus = "";
 
   // --- state save timer ---
   let saveTimer = null;
@@ -887,6 +892,8 @@
 
   function stopAudioPlayback() {
     audioPlaybackToken += 1;
+    vocabPlaybackItem = null;
+    vocabPlaybackStatus = "";
     isAudioSectionAutoplaying = false;
     isWordCheckAutoplaying = false;
     if (audioAdvanceTimer) {
@@ -901,6 +908,60 @@
     resetAudioBatchState();
     renderAudioPauseButton();
     renderWordCheckPlaybackButton();
+    renderVocabPlaybackControls();
+  }
+
+  function renderVocabPlaybackControls() {
+    const active = !!vocabPlaybackItem;
+    vocabReplayBtn.disabled = !active && getCheckedVocabItems().length === 0;
+    vocabReplayBtn.textContent = active ? (isAudioPaused() ? "再開" : "一時停止") : "再生";
+    vocabStopBtn.disabled = !active;
+    vocabAudioStatusEl.textContent = active
+      ? `${isAudioPaused() ? "一時停止中" : "再生中"}: ${vocabPlaybackItem.vocab.word}（5回連続）`
+      : vocabPlaybackStatus || "チェック済み単語を各5回ずつ番号順に再生します。";
+  }
+
+  async function autoplayCheckedVocab() {
+    stopAudioPlayback();
+    const items = getCheckedVocabItems();
+    const token = audioPlaybackToken;
+    for (const item of items) {
+      if (token !== audioPlaybackToken || currentView !== "vocab") return;
+      if (!getChipState(item.vocab.vid).checked) continue;
+      vocabPlaybackItem = item;
+      renderVocabPlaybackControls();
+      try {
+        await playAudioFile(getAudioPath(item.vocab, "word-5x", item.sectionId, "wordAudio"));
+      } catch (error) {
+        if (token !== audioPlaybackToken) return;
+        console.error(error);
+        stopAudioPlayback();
+        vocabPlaybackStatus = `${item.vocab.word} の音声を再生できませんでした。再生ボタンでやり直してください。`;
+        renderVocabPlaybackControls();
+        return;
+      }
+    }
+    if (token !== audioPlaybackToken) return;
+    vocabPlaybackItem = null;
+    vocabPlaybackStatus = "再生が終了しました。";
+    renderVocabPlaybackControls();
+  }
+
+  function toggleVocabPlayback() {
+    if (!vocabPlaybackItem) {
+      autoplayCheckedVocab();
+    } else if (isAudioPlaying()) {
+      audioElement.pause();
+    } else if (isAudioPaused()) {
+      const token = audioPlaybackToken;
+      audioElement.play().catch((error) => {
+        if (token !== audioPlaybackToken) return;
+        console.error(error);
+        stopAudioPlayback();
+        vocabPlaybackStatus = "音声を再開できませんでした。再生ボタンでやり直してください。";
+        renderVocabPlaybackControls();
+      });
+    }
   }
 
   function focusVocabInput() {
@@ -1029,6 +1090,10 @@
       };
 
       const onPauseOrPlay = () => {
+        if (currentView === "vocab") {
+          renderVocabPlaybackControls();
+          return;
+        }
         if (isAudioView()) {
           renderAudioView();
           return;
@@ -1496,6 +1561,8 @@
 
   function renderCheckedVocabReview() {
     const items = getCheckedVocabItems();
+    if (!items.length && vocabPlaybackItem) stopAudioPlayback();
+    renderVocabPlaybackControls();
 
     if (vocabCheckAllBtn) vocabCheckAllBtn.disabled = false;
     if (vocabUncheckAllBtn) vocabUncheckAllBtn.disabled = items.length === 0;
@@ -1866,7 +1933,7 @@
   // ---- View switching ----
   function setView(mode) {
     const previousView = currentView;
-    if (previousView !== mode && (isAudioView(previousView) || previousView === "sentences")) stopAudioPlayback();
+    if (previousView !== mode) stopAudioPlayback();
     currentView = mode === "vocab" || mode === "enAudio" || mode === "wordAudio" ? mode : "sentences";
     const isSent = currentView === "sentences";
     const isVocab = currentView === "vocab";
@@ -2072,6 +2139,9 @@
     renderSentence();
     renderCheckedVocabReview();
   });
+
+  vocabReplayBtn.addEventListener("click", toggleVocabPlayback);
+  vocabStopBtn.addEventListener("click", stopAudioPlayback);
 
   viewVocab.addEventListener("click", (event) => {
     if (currentView !== "vocab") return;
