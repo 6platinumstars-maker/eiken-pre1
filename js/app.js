@@ -55,7 +55,7 @@
   const vocabCheckAllBtn = $("vocabCheckAllBtn");
   const vocabUncheckAllBtn = $("vocabUncheckAllBtn");
   const vocabReplayBtn = $("vocabReplayBtn");
-  const vocabStopBtn = $("vocabStopBtn");
+  const vocabToggleAllBtn = $("vocabToggleAllBtn");
   const vocabAudioStatusEl = $("vocabAudioStatus");
   const vocabPrevBtn = $("vocabPrevBtn");
   const vocabNextBtn = $("vocabNextBtn");
@@ -914,8 +914,7 @@
   function renderVocabPlaybackControls() {
     const active = !!vocabPlaybackItem;
     vocabReplayBtn.disabled = !active && getCheckedVocabItems().length === 0;
-    vocabReplayBtn.textContent = active ? (isAudioPaused() ? "再開" : "一時停止") : "再生";
-    vocabStopBtn.disabled = !active;
+    vocabReplayBtn.textContent = active ? "停止" : "再生";
     vocabAudioStatusEl.textContent = active
       ? `${isAudioPaused() ? "一時停止中" : "再生中"}: ${vocabPlaybackItem.vocab.word}（5回連続）`
       : vocabPlaybackStatus || "チェック済み単語を各5回ずつ番号順に再生します。";
@@ -950,18 +949,27 @@
   function toggleVocabPlayback() {
     if (!vocabPlaybackItem) {
       autoplayCheckedVocab();
-    } else if (isAudioPlaying()) {
-      audioElement.pause();
-    } else if (isAudioPaused()) {
-      const token = audioPlaybackToken;
-      audioElement.play().catch((error) => {
-        if (token !== audioPlaybackToken) return;
-        console.error(error);
-        stopAudioPlayback();
-        vocabPlaybackStatus = "音声を再開できませんでした。再生ボタンでやり直してください。";
-        renderVocabPlaybackControls();
-      });
+    } else {
+      stopAudioPlayback();
     }
+  }
+
+  function renderVocabToggleAllButton(items) {
+    const allExpanded = items.length > 0 && items.every(item => expandedVocabReviewIds.has(item.vocab.vid));
+    vocabToggleAllBtn.disabled = items.length === 0;
+    vocabToggleAllBtn.textContent = allExpanded
+      ? "すべての単語カードを閉じる"
+      : "すべての単語カードを表示する";
+  }
+
+  function toggleAllVocabCards() {
+    const items = getCheckedVocabItems();
+    const allExpanded = items.every(item => expandedVocabReviewIds.has(item.vocab.vid));
+    items.forEach(item => {
+      if (allExpanded) expandedVocabReviewIds.delete(item.vocab.vid);
+      else expandedVocabReviewIds.add(item.vocab.vid);
+    });
+    renderCheckedVocabReview();
   }
 
   function focusVocabInput() {
@@ -1561,6 +1569,7 @@
 
   function renderCheckedVocabReview() {
     const items = getCheckedVocabItems();
+    renderVocabToggleAllButton(items);
     if (!items.length && vocabPlaybackItem) stopAudioPlayback();
     renderVocabPlaybackControls();
 
@@ -2141,7 +2150,7 @@
   });
 
   vocabReplayBtn.addEventListener("click", toggleVocabPlayback);
-  vocabStopBtn.addEventListener("click", stopAudioPlayback);
+  vocabToggleAllBtn.addEventListener("click", toggleAllVocabCards);
 
   viewVocab.addEventListener("click", (event) => {
     if (currentView !== "vocab") return;

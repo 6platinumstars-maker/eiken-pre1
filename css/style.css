@@ -190,6 +190,17 @@ body {
 
 .btn.primary { background: var(--btn2); font-weight: 700; }
 
+.actions.vocab-review-actions {
+  grid-template-columns: minmax(64px, 1fr) minmax(0, 3fr);
+}
+
+.vocab-review-actions .btn {
+  height: auto;
+  min-height: 46px;
+  padding: 8px;
+  overflow-wrap: anywhere;
+}
+
 .chips {
   display: flex;
   flex-wrap: wrap;
