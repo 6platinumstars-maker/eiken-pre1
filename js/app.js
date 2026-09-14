@@ -57,6 +57,8 @@
   const vocabReplayBtn = $("vocabReplayBtn");
   const vocabToggleAllBtn = $("vocabToggleAllBtn");
   const vocabAudioStatusEl = $("vocabAudioStatus");
+  const vocabPlaybackToolbar = $("vocabPlaybackToolbar");
+  const topbar = document.querySelector(".topbar");
   const vocabPrevBtn = $("vocabPrevBtn");
   const vocabNextBtn = $("vocabNextBtn");
   const vocabRevealBtn = $("vocabRevealBtn");
@@ -929,6 +931,7 @@
       if (!getChipState(item.vocab.vid).checked) continue;
       vocabPlaybackItem = item;
       renderVocabPlaybackControls();
+      scrollToPlayingVocab();
       try {
         await playAudioFile(getAudioPath(item.vocab, "word-5x", item.sectionId, "wordAudio"));
       } catch (error) {
@@ -952,6 +955,22 @@
     } else {
       stopAudioPlayback();
     }
+  }
+
+  function updateVocabScrollOffsets() {
+    viewVocab.style.setProperty("--review-topbar-height", `${topbar.getBoundingClientRect().height}px`);
+    viewVocab.style.setProperty("--review-toolbar-height", `${vocabPlaybackToolbar.getBoundingClientRect().height}px`);
+  }
+
+  function scrollToPlayingVocab() {
+    if (currentView !== "vocab" || !vocabPlaybackItem) return;
+    const card = Array.from(vocabMeaningEl.querySelectorAll(".vocab-review-card"))
+      .find(element => element.dataset.vid === vocabPlaybackItem.vocab.vid);
+    if (!card) return;
+    updateVocabScrollOffsets();
+    viewVocab.classList.add("has-playback-scroll");
+    const offset = topbar.getBoundingClientRect().height + vocabPlaybackToolbar.getBoundingClientRect().height + 8;
+    window.scrollTo({ top: Math.max(0, window.scrollY + card.getBoundingClientRect().top - offset), behavior: "instant" });
   }
 
   function renderVocabToggleAllButton(items) {
@@ -1604,6 +1623,7 @@
     vocabMeaningEl.innerHTML = items
       .map((item) => renderCheckedVocabCard(item, expandedVocabReviewIds.has(item.vocab.vid)))
       .join("");
+    scrollToPlayingVocab();
     vocabFeedbackEl.textContent = "単語カードをタップすると、訳・情報・例文と訳を開閉できます。";
     vocabAnswerEl.textContent = "";
     vocabIpaEl.classList.add("vocab-translation");
@@ -2150,6 +2170,16 @@
   });
 
   vocabReplayBtn.addEventListener("click", toggleVocabPlayback);
+  if (typeof ResizeObserver !== "undefined") {
+    const reviewLayoutObserver = new ResizeObserver(() => {
+      updateVocabScrollOffsets();
+      scrollToPlayingVocab();
+    });
+    reviewLayoutObserver.observe(topbar);
+    reviewLayoutObserver.observe(vocabPlaybackToolbar);
+  }
+  window.addEventListener("resize", updateVocabScrollOffsets);
+  updateVocabScrollOffsets();
   vocabToggleAllBtn.addEventListener("click", toggleAllVocabCards);
 
   viewVocab.addEventListener("click", (event) => {

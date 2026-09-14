@@ -194,6 +194,25 @@ body {
   grid-template-columns: minmax(64px, 1fr) minmax(0, 3fr);
 }
 
+.vocab-playback-toolbar {
+  position: sticky;
+  top: var(--review-topbar-height, 0px);
+  z-index: 5;
+  background: var(--card);
+  padding: 8px 0;
+}
+
+.vocab-playback-toolbar .actions {
+  margin-top: 0;
+}
+
+/* Leave room to align even the last card below the sticky controls. */
+#viewVocab.has-playback-scroll > .card::after {
+  content: "";
+  display: block;
+  height: max(0px, calc(100dvh - var(--review-topbar-height, 0px) - var(--review-toolbar-height, 0px)));
+}
+
 .vocab-review-actions .btn {
   height: auto;
   min-height: 46px;
