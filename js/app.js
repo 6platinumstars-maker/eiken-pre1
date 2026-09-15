@@ -7,6 +7,8 @@
 
   // ---- top controls ----
   const sectionSelect = $("sectionSelect");
+  const studyWordsBtn = $("studyWordsBtn");
+  const studyPhrasesBtn = $("studyPhrasesBtn");
   const tabSentences = $("tabSentences");
   const tabVocab = $("tabVocab");
   const tabEnAudio = $("tabEnAudio");
@@ -27,6 +29,7 @@
   const vocabChipsEl = $("vocabChips");
   const sentenceCard = $("sentenceCard");
   const sentenceVocabCard = $("sentenceVocabCard");
+  const studyCardTitleEl = $("studyCardTitle");
   const prevBtn = $("prevBtn");
   const checkReplayBtn = $("checkReplayBtn");
   const nextBtn = $("nextBtn");
@@ -582,6 +585,7 @@
     const state = {
       v: 1,
       lastSection: currentSectionId,
+      studyType: currentStudyType,
       currentView,
       fontScale,
       sentenceIndex,
@@ -635,7 +639,7 @@
     const state = safeParseJSON(raw);
     if (!state || typeof state !== "object") return;
 
-    const ids = Object.keys(window.SECTIONS || {});
+    const ids = getAllSectionIds();
     if (!ids.length) return;
 
     const last = typeof state.lastSection === "string" ? state.lastSection : null;
@@ -643,6 +647,14 @@
       currentSectionId = last;
     } else {
       currentSectionId = ids.sort()[0] || currentSectionId;
+    }
+
+    currentStudyType = state.studyType === "phrase" || state.studyType === "word"
+      ? state.studyType
+      : getStudyTypeForSection(currentSectionId);
+    const studySectionIds = getSectionIds(currentStudyType);
+    if (!studySectionIds.includes(currentSectionId)) {
+      currentSectionId = studySectionIds[0] || ids[0] || currentSectionId;
     }
 
     showJP = typeof state.showJP === "boolean" ? state.showJP : showJP;
@@ -693,6 +705,7 @@
   // ---- state ----
   // =========================
   let currentSectionId = "sec01";
+  let currentStudyType = "word";
   let currentView = "sentences";
   let fontScale = 1;
   let sentenceIndex = 0;
@@ -766,9 +779,46 @@
   const isVerbHeadTag = (t) => typeof t === "string" && t.startsWith("verb_");
 
   // --- helpers ---
-  function getSectionIds() {
+  function getAllSectionIds() {
     // Keep the UI in numeric section order even if lexical sort would misplace sec10, sec29, etc.
     return Object.keys(window.SECTIONS || {}).sort((a, b) => getSectionNumber(a) - getSectionNumber(b));
+  }
+
+  function getStudyTypeForSection(sectionId) {
+    const sectionNumber = getSectionNumber(sectionId);
+    return sectionNumber >= 17 && sectionNumber <= 19 ? "phrase" : "word";
+  }
+
+  function getSectionIds(studyType = currentStudyType) {
+    return getAllSectionIds().filter((id) => getStudyTypeForSection(id) === studyType);
+  }
+
+  function getStudyNoun() {
+    return currentStudyType === "phrase" ? "熟語" : "単語";
+  }
+
+  function getViewTitle(view = currentView) {
+    const noun = getStudyNoun();
+    if (view === "vocab") return `${noun}復習`;
+    if (view === "enAudio") return currentStudyType === "phrase" ? "熟語例文音声" : "例文音声";
+    if (view === "wordAudio") return `${noun}音声`;
+    return `${noun}チェック`;
+  }
+
+  function updateStudyTypeUI() {
+    const isPhrase = currentStudyType === "phrase";
+    studyWordsBtn?.classList.toggle("is-active", !isPhrase);
+    studyPhrasesBtn?.classList.toggle("is-active", isPhrase);
+    studyWordsBtn?.setAttribute("aria-pressed", String(!isPhrase));
+    studyPhrasesBtn?.setAttribute("aria-pressed", String(isPhrase));
+
+    tabSentences.textContent = getViewTitle("sentences");
+    tabVocab.textContent = getViewTitle("vocab");
+    if (tabEnAudio) tabEnAudio.textContent = getViewTitle("enAudio");
+    if (tabWordAudio) tabWordAudio.textContent = getViewTitle("wordAudio");
+    if (studyCardTitleEl) studyCardTitleEl.textContent = `${getStudyNoun()}カード`;
+    if (vocabCheckAllBtn) vocabCheckAllBtn.textContent = `すべての${getStudyNoun()}にチェックを入れる`;
+    if (vocabUncheckAllBtn) vocabUncheckAllBtn.textContent = `すべての${getStudyNoun()}のチェックを外す`;
   }
 
   function getSectionNumber(sectionId) {
@@ -795,24 +845,15 @@
   }
 
   function getAudioItemLabel(view = currentView) {
-    return view === "wordAudio" ? "単語" : "例文";
+    return view === "wordAudio" ? getStudyNoun() : "例文";
   }
 
   function getAudioBatchGroups() {
     const ids = getSectionIds().filter((id) => /^sec\d+$/.test(id));
-    const maxGroupIndex = ids.reduce((max, id) => {
-      const sectionNumber = getSectionNumber(id);
-      return Number.isFinite(sectionNumber) ? Math.max(max, Math.floor((sectionNumber - 1) / 5)) : max;
-    }, -1);
-    const groups = Array.from({ length: Math.max(0, maxGroupIndex + 1) }, () => []);
-
-    ids.forEach((id) => {
-      const sectionNumber = getSectionNumber(id);
-      if (!Number.isFinite(sectionNumber) || sectionNumber <= 0) return;
-      // Batch ranges stay fixed as 01-05, 06-10, ... even if one section fails to load.
-      groups[Math.floor((sectionNumber - 1) / 5)].push(id);
-    });
-
+    const groups = [];
+    for (let index = 0; index < ids.length; index += 5) {
+      groups.push(ids.slice(index, index + 5));
+    }
     return groups;
   }
 
@@ -919,7 +960,7 @@
     vocabReplayBtn.textContent = active ? "停止" : "再生";
     vocabAudioStatusEl.textContent = active
       ? `${isAudioPaused() ? "一時停止中" : "再生中"}: ${vocabPlaybackItem.vocab.word}（5回連続）`
-      : vocabPlaybackStatus || "チェック済み単語を各5回ずつ番号順に再生します。";
+      : vocabPlaybackStatus || `チェック済み${getStudyNoun()}を各5回ずつ番号順に再生します。`;
   }
 
   async function autoplayCheckedVocab() {
@@ -977,8 +1018,8 @@
     const allExpanded = items.length > 0 && items.every(item => expandedVocabReviewIds.has(item.vocab.vid));
     vocabToggleAllBtn.disabled = items.length === 0;
     vocabToggleAllBtn.textContent = allExpanded
-      ? "すべての単語カードを閉じる"
-      : "すべての単語カードを表示する";
+      ? `すべての${getStudyNoun()}カードを閉じる`
+      : `すべての${getStudyNoun()}カードを表示する`;
   }
 
   function toggleAllVocabCards() {
@@ -1083,11 +1124,11 @@
     audioBatchOptionEls.forEach((btn) => {
       const idx = Number(btn.dataset.batchIndex);
       const sectionIds = getAudioBatchSections(idx);
-      const rangeStart = String((idx - 1) * 5 + 1).padStart(2, "0");
-      const rangeEnd = String(idx * 5).padStart(2, "0");
-      btn.textContent = `${idx}`;
-      btn.title = `Section ${rangeStart}-${rangeEnd}`;
+      const rangeLabel = getAudioBatchRangeLabel(sectionIds);
+      btn.textContent = rangeLabel || `${idx}`;
+      btn.title = rangeLabel ? `Section ${rangeLabel}` : "";
       btn.disabled = sectionIds.length === 0;
+      btn.classList.toggle("is-hidden", sectionIds.length === 0);
       btn.classList.toggle("primary", idx === activeAudioBatchIndex);
     });
   }
@@ -1163,7 +1204,7 @@
     if (!sec?.vocab?.length) {
       sidEl.textContent = "—";
       progressEl.textContent = "0 / 0";
-      englishEl.textContent = "No words.";
+      englishEl.textContent = `No ${getStudyNoun()}.`;
       japaneseEl.textContent = "";
       sentenceVocabCard.classList.add("is-hidden");
       vocabChipsEl.innerHTML = "";
@@ -1183,6 +1224,7 @@
     vocabChipsEl.innerHTML = sentenceRevealStage === 0
       ? ""
       : renderSentenceVocabChip(v, true, { showCheckbox: false });
+    if (studyCardTitleEl) studyCardTitleEl.textContent = `${getStudyNoun()}カード`;
 
     prevBtn.disabled = sentenceIndex === 0;
     nextBtn.disabled = sentenceIndex >= sec.vocab.length - 1;
@@ -1325,7 +1367,7 @@
 
     if (audioRevealStage === 0) {
       audioRevealAreaEl.classList.add("is-empty");
-      audioRevealAreaEl.textContent = "タップで 単語のみ → 例文 + 日本語 + 単語 を切り替えます。";
+      audioRevealAreaEl.textContent = `タップで ${getStudyNoun()}のみ → 例文 + 日本語 + ${getStudyNoun()} を切り替えます。`;
       return;
     }
     if (audioRevealStage === 1) {
@@ -1355,7 +1397,7 @@
     if (!audioItems.length) {
       audioSidEl.textContent = "—";
       audioProgressEl.textContent = "0 / 0";
-      audioModeTitleEl.textContent = currentView === "wordAudio" ? "単語音声" : "例文音声";
+      audioModeTitleEl.textContent = getViewTitle();
       audioHintEl.textContent = "";
       audioRevealAreaEl.textContent = `No audio ${audioLabel}.`;
       audioStatusEl.textContent = "";
@@ -1368,10 +1410,10 @@
 
     audioSidEl.textContent = currentView === "wordAudio" ? sentence.vid : sentence.sid;
     audioProgressEl.textContent = `${audioSentenceIndex + 1} / ${audioItems.length}`;
-    audioModeTitleEl.textContent = currentView === "wordAudio" ? "単語音声" : "例文音声";
+    audioModeTitleEl.textContent = getViewTitle();
     audioHintEl.textContent = currentView === "wordAudio"
-      ? "単語カードを最初から表示します。カードをタップするとチェックを切り替えます。5連続で Section をまとめて再生できます。"
-      : "最初から 例文 + 日本語訳 + 単語 を表示します。カードをタップするとチェックを切り替えます。5連続で Section をまとめて再生できます。";
+      ? `${getStudyNoun()}カードを最初から表示します。カードをタップするとチェックを切り替えます。5連続で Section をまとめて再生できます。`
+      : `最初から 例文 + 日本語訳 + ${getStudyNoun()} を表示します。カードをタップするとチェックを切り替えます。5連続で Section をまとめて再生できます。`;
     if (isAudioView() && isAudioBatchPlaying) {
       const rangeLabel = getAudioBatchRangeLabel(audioBatchSectionIds);
       audioStatusEl.textContent = `5連続 ${activeAudioBatchIndex} (${rangeLabel}) を再生中: ${audioBatchSectionPos + 1} / ${audioBatchSectionIds.length} セクション`;
@@ -1579,7 +1621,7 @@
         </div>
         <div class="vocab-review-example">
           <div class="chip-extra-heading">例文</div>
-          <div class="english">${escapeHtml(sentence?.english || "この単語の例文は未登録です。")}</div>
+          <div class="english">${escapeHtml(sentence?.english || `この${getStudyNoun()}の例文は未登録です。`)}</div>
           ${sentence?.japanese ? `<div class="vocab-translation">${escapeHtml(sentence.japanese)}</div>` : ""}
         </div>
       </div>
@@ -1595,7 +1637,8 @@
     if (vocabCheckAllBtn) vocabCheckAllBtn.disabled = false;
     if (vocabUncheckAllBtn) vocabUncheckAllBtn.disabled = items.length === 0;
 
-    if (vocabPromptTitleEl) vocabPromptTitleEl.textContent = "チェック済み単語";
+    const noun = getStudyNoun();
+    if (vocabPromptTitleEl) vocabPromptTitleEl.textContent = `チェック済み${noun}`;
     if (vocabAnswerTitleEl) {
       vocabAnswerTitleEl.textContent = "例文と訳";
     }
@@ -1606,8 +1649,8 @@
 
     if (!items.length) {
       vocabIdEl.textContent = "—";
-      vocabProgressEl.textContent = "0 語";
-      vocabMeaningEl.innerHTML = `<div class="vocab-empty">チェックされた単語はありません</div>`;
+      vocabProgressEl.textContent = "0 件";
+      vocabMeaningEl.innerHTML = `<div class="vocab-empty">チェックされた${noun}はありません</div>`;
       vocabFeedbackEl.textContent = "";
       vocabAnswerEl.textContent = "";
       vocabIpaEl.textContent = "";
@@ -1619,12 +1662,12 @@
     }
 
     vocabIdEl.textContent = "チェック済み";
-    vocabProgressEl.textContent = `${items.length} 語`;
+    vocabProgressEl.textContent = `${items.length} 件`;
     vocabMeaningEl.innerHTML = items
       .map((item) => renderCheckedVocabCard(item, expandedVocabReviewIds.has(item.vocab.vid)))
       .join("");
     scrollToPlayingVocab();
-    vocabFeedbackEl.textContent = "単語カードをタップすると、訳・情報・例文と訳を開閉できます。";
+    vocabFeedbackEl.textContent = `${noun}カードをタップすると、訳・情報・例文と訳を開閉できます。`;
     vocabAnswerEl.textContent = "";
     vocabIpaEl.classList.add("vocab-translation");
     vocabIpaEl.textContent = "";
@@ -1970,6 +2013,8 @@
     const isWordAudio = currentView === "wordAudio";
     const isAudio = isEnAudio || isWordAudio;
 
+    updateStudyTypeUI();
+
     tabSentences.classList.toggle("is-active", isSent);
     tabVocab.classList.toggle("is-active", isVocab);
     tabEnAudio?.classList.toggle("is-active", isEnAudio);
@@ -1988,7 +2033,42 @@
     scheduleSave();
   }
 
+  function setStudyType(studyType) {
+    const nextStudyType = studyType === "phrase" ? "phrase" : "word";
+    if (nextStudyType === currentStudyType) return;
+
+    stopAudioPlayback();
+    currentStudyType = nextStudyType;
+    currentSectionId = getSectionIds()[0] || currentSectionId;
+    sentenceIndex = 0;
+    sentenceRevealStage = 0;
+    expandedSentenceChipIds = new Set();
+    vocabIndex = 0;
+    queue = [];
+    queuePos = 0;
+    wrongSet = new Set();
+    roundNo = 1;
+    checkedVocabReviewIndex = 0;
+    checkedVocabRevealStage = 0;
+    expandedVocabReviewIds.clear();
+    audioSentenceIndex = 0;
+    audioRevealStage = getDefaultAudioRevealStage(currentView);
+    isAudioBatchMenuOpen = false;
+
+    unlockVocabInput();
+    clearAutoTimer();
+    updateStudyTypeUI();
+    renderSectionOptions();
+    renderSentence();
+    renderCheckedVocabReview();
+    renderAudioView();
+    scheduleSave();
+  }
+
   // ---- events ----
+  studyWordsBtn?.addEventListener("click", () => setStudyType("word"));
+  studyPhrasesBtn?.addEventListener("click", () => setStudyType("phrase"));
+
   sectionSelect.addEventListener("change", (e) => {
     const id = e.target.value;
     if (!id) return;
@@ -2288,6 +2368,7 @@
   renderFontScaleControls();
 
   // 2) UI描画
+  updateStudyTypeUI();
   renderSectionOptions();
   renderSentence();
   renderCheckedVocabReview();

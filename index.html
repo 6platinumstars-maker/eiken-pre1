@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>英検準1級 Mobile</title>
-  <link rel="stylesheet" href="css/style.css?v=20260914-2" />
+  <link rel="stylesheet" href="css/style.css?v=20260915-1" />
 </head>
 <body>
   <header class="topbar">
@@ -20,7 +20,13 @@
         </div>
     </div>
     <div class="controls">
+      <div class="study-controls">
+        <div class="material-switch" role="group" aria-label="学習対象">
+          <button id="studyWordsBtn" class="seg-btn is-active" type="button" aria-pressed="true">単語</button>
+          <button id="studyPhrasesBtn" class="seg-btn" type="button" aria-pressed="false">熟語</button>
+        </div>
         <select id="sectionSelect" class="select" aria-label="Section"></select>
+      </div>
 
       <div class="seg">
         <button id="tabSentences" class="seg-btn is-active" type="button">単語チェック</button>
@@ -50,7 +56,7 @@
       </div>
 
       <div id="sentenceVocabCard" class="card is-hidden">
-        <div class="card-title">単語カード</div>
+        <div id="studyCardTitle" class="card-title">単語カード</div>
         <div id="vocabChips" class="chips"></div>
       </div>
     </section>
@@ -163,6 +169,6 @@
   <script src="data/section18.js?v=20260705-1"></script>
   <script src="data/section19.js?v=20260705-1"></script>
 
-  <script src="js/app.js?v=20260914-3"></script>
+  <script src="js/app.js?v=20260915-1"></script>
 </body>
 </html>
