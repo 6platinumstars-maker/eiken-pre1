@@ -638,7 +638,7 @@ window.SECTIONS["sec08"] = {
       word: "reproduce",
       ipa: "[rìːprədjúːs]",
       meaning: "を複製する、を再現する",
-      extraInfo: "【動】\nを複製する [= copy]、を繁殖させる [= breed]、を再現する\nreproduction 【名】\nreproductive 【形】",
+      extraInfo: "【動】\nを複製する [= copy]、を繁殖させる [= breed]、を再現する\nreproduction 【名】\nreproductive 【形】\n【関連語＆似た言葉】\nreproduce /ˌriːprəˈduːs/ 【動詞】繁殖する；再現する、複製する\nreproduction /ˌriːprəˈdʌkʃən/ 【名詞】繁殖、生殖；複製、再現\nproductive /prəˈdʌktɪv/ 【形容詞】生産的な\nproduce /prəˈduːs/ 【動詞】生産する、生み出す\nreplicate /ˈreplɪkeɪt/ 【動詞】複製する、再現する\n【重要な意味・用例】\n「繁殖する」と「再現する・複製する」の2方向の意味を押さえましょう。\nAnimals reproduce. → 動物が繁殖する\nreproduce the results → 結果を再現する\nreproduce a photograph → 写真を複製する\n【覚え方】\nre-（再び）＋ produce（生み出す）→ reproduce（再び生み出す → 再現・複製する／繁殖する）",
       usedIn: ["s704"],
       tags: ["verb"]
     },
@@ -647,7 +647,7 @@ window.SECTIONS["sec08"] = {
       word: "seize",
       ipa: "[síːz]",
       meaning: "を差し押さえる、をつかむ",
-      extraInfo: "【動】\nを差し押さえる [= confiscate]、をつかむ [= hold]、を奪い取る [= capture]\nseizure 【名】つかむこと、差し押さえ、発作",
+      extraInfo: "【動】\nを差し押さえる [= confiscate]、をつかむ [= hold]、を奪い取る [= capture]\nseizure 【名】つかむこと、差し押さえ、発作\n【関連語＆似た言葉】\nseize /siːz/ 【動詞】つかむ、捕らえる；押収する；（機会などを）とらえる\nseizure /ˈsiːʒər/ 【名詞】押収、差し押さえ；発作\ncease /siːs/ 【動詞】～をやめる、終わる\nsees /siːz/ 【動詞】see の三人称単数形「見る」\n【発音注意】\nseize /siːz/ と cease /siːs/ は紛らわしいので、語尾の発音の違いに注意しましょう。\n【用例】\nseize an opportunity → 機会をとらえる\nseize control of ～ → ～の支配権を握る\nThe police seized the drugs. → 警察が薬物を押収した\n【意味のイメージ】\n「ガッとつかむ」。物だけでなく、機会・権力・主導権をつかむ場合にも使います。",
       usedIn: ["s705"],
       tags: ["verb"]
     },
@@ -656,7 +656,7 @@ window.SECTIONS["sec08"] = {
       word: "dominate",
       ipa: "[dάmənèit]",
       meaning: "を支配する、優勢である",
-      extraInfo: "【動】\nを支配する [= control]、優勢である（over ～より） [= predominate]\ndominant 【形】\ndomination 【名】",
+      extraInfo: "【動】\nを支配する [= control]、優勢である（over ～より） [= predominate]\ndominant 【形】\ndomination 【名】\n【関連語＆似た言葉】\ndominate /ˈdɑːməneɪt/ 【動詞】支配する、優勢を占める、圧倒する\ndominant /ˈdɑːmənənt/ 【形容詞】支配的な、優勢な\ndomination /ˌdɑːməˈneɪʃən/ 【名詞】支配、優勢\ndominance /ˈdɑːmənəns/ 【名詞】支配、優位\ndomestic /dəˈmestɪk/ 【形容詞】国内の、家庭の\n【重要な意味・用例】\n準1級では、単純な「支配する」だけでなく「大部分を占める・圧倒的に優勢である」も重要です。\ndominate the market → 市場を支配する\ndominate the industry → 業界で圧倒的な地位を占める\nThe company dominates the market. → その会社は市場を支配している。\n【覚え方】\ndominate（動詞）→ dominant（形容詞）→ dominance / domination（名詞）とまとめて覚えましょう。",
       usedIn: ["s706"],
       tags: ["verb"]
     },

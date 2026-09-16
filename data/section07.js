@@ -890,7 +890,7 @@ window.SECTIONS["sec07"] = {
       word: "handout",
       ipa: "[hǽndàut]",
       meaning: "配布物、プリント",
-      extraInfo: "【名】\n（講演・授業などの）配布物、プリント\ncf. hand out ～を手渡す",
+      extraInfo: "【名】\n（講演・授業などの）配布物、プリント\ncf. hand out ～を手渡す\n【関連語＆似た言葉】\nhandout /ˈhændaʊt/ 【名詞】配布資料、プリント；施し、援助金\nhand out /hænd aʊt/ 【句動詞】～を配る、配布する\nhandbook /ˈhændbʊk/ 【名詞】手引書、ハンドブック\nleaflet /ˈliːflət/ 【名詞】チラシ、パンフレット\nbrochure /broʊˈʃʊr/ 【名詞】パンフレット、小冊子\n【紛らわしい言葉の区別】\nhandout（1語）= 配布資料【名詞】\nhand out ～（2語）= ～を配る【動詞】\n【用例】\nThe teacher gave us a handout. → 先生は私たちにプリントを配った。\ngovernment handouts → 政府からの給付・援助金\n【重要な意味】\n「配布資料」だけでなく、準1級では「施し・給付金」の意味も押さえておきましょう。",
       usedIn: ["s632"],
       tags: ["noun"]
     },
@@ -1070,7 +1070,7 @@ window.SECTIONS["sec07"] = {
       word: "reunion",
       ipa: "[riːjúːnjən]",
       meaning: "再会の集い、再会",
-      extraInfo: "【名】\n再会の集い、再会\nreunite 【動】（通常受身形で）再会する（with ～と）\nclass reunion クラスの同窓会",
+      extraInfo: "【名】\n再会の集い、再会\nreunite 【動】（通常受身形で）再会する（with ～と）\nclass reunion クラスの同窓会\n【関連語＆似た言葉】\nreunion /ˌriːˈjuːnjən/ 【名詞】再会；同窓会、親睦会\nreunite /ˌriːjuˈnaɪt/ 【動詞】再会する、再結合する\nunion /ˈjuːnjən/ 【名詞】結合、連合；組合\nunite /juˈnaɪt/ 【動詞】団結する、結合する\n【覚え方】\nre（再び）＋ union（結びつくこと）→「再会」と考えると覚えやすいです。\n【用例】\na family reunion → 親族の集まり、家族の再会\na class reunion → 同窓会\nan emotional reunion → 感動的な再会\n【語族のつながり】\n614番 unite と同じ語族です。\nunite → union = 結びつく → 結合\nreunite → reunion = 再び一緒になる → 再会",
       usedIn: ["s652"],
       tags: ["noun"]
     },
@@ -1142,7 +1142,7 @@ window.SECTIONS["sec07"] = {
       word: "expectancy",
       ipa: "[ikspéktənsi]",
       meaning: "期待、見込み",
-      extraInfo: "【名】\n期待、見込み\nlife expectancy 平均余命",
+      extraInfo: "【名】\n期待、見込み\nlife expectancy 平均余命\n【関連語＆似た言葉】\nexpectancy /ɪkˈspektənsi/ 【名詞】期待、予想；期待される期間\nexpect /ɪkˈspekt/ 【動詞】～を予期する、期待する\nexpectation /ˌekspekˈteɪʃən/ 【名詞】期待、予想\nexpectant /ɪkˈspektənt/ 【形容詞】期待している、待ち望んでいる\nlife expectancy /ˈlaɪf ɪkˌspektənsi/ 【名詞】平均余命、平均寿命\n【重要表現・用例】\n準1級では特に life expectancy が重要です。\naverage life expectancy → 平均寿命\nincrease life expectancy → 平均寿命を延ばす\nLife expectancy has increased. → 平均寿命が延びた。\n【expectationとの区別】\nexpectancyとexpectationはどちらも「期待・予想」ですが、expectancyは life expectancy の形で非常によく使われると覚えておくと区別しやすいです。",
       usedIn: ["s660"],
       tags: ["noun"]
     },
@@ -1160,7 +1160,7 @@ window.SECTIONS["sec07"] = {
       word: "courthouse",
       ipa: "[kɔ́ːrthàus]",
       meaning: "裁判所",
-      extraInfo: "【名】\n裁判所（の建物）\ncf. court 裁判所、法廷",
+      extraInfo: "【名】\n裁判所（の建物）\ncf. court 裁判所、法廷\n【関連語＆似た言葉】\ncourthouse /ˈkɔːrthaʊs/ 【名詞】裁判所、裁判所の建物\ncourt /kɔːrt/ 【名詞】裁判所、法廷；宮廷\ncourtroom /ˈkɔːrtruːm/ 【名詞】法廷、裁判が行われる部屋\ncourt case /ˈkɔːrt keɪs/ 【名詞】訴訟、裁判事件\n【覚え方】\ncourt + house → courthouse と分解できます。\n【用例】\noutside the courthouse → 裁判所の外で\ngo to the courthouse → 裁判所へ行く\nThe trial was held at the courthouse. → 裁判はその裁判所で行われた。\n【courtroomとの違い】\ncourthouseは「裁判所の建物」、courtroomはその中の「法廷・裁判室」という違いがあります。",
       usedIn: ["s662"],
       tags: ["noun"]
     },
@@ -1250,7 +1250,7 @@ window.SECTIONS["sec07"] = {
       word: "controversy",
       ipa: "[kάntrəvὰːrsi]",
       meaning: "論争、議論",
-      extraInfo: "【名】\n（長期の）論争、議論 [= debate, dispute]\ncontroversial 【形】",
+      extraInfo: "【名】\n（長期の）論争、議論 [= debate, dispute]\ncontroversial 【形】\n【関連語＆似た言葉】\ncontroversy /ˈkɑːntrəvɜːrsi/ 【名詞】論争、議論、物議\ncontroversial /ˌkɑːntrəˈvɜːrʃəl/ 【形容詞】論争を引き起こす、物議を醸す\ncontroversially /ˌkɑːntrəˈvɜːrʃəli/ 【副詞】物議を醸す形で\ncontradiction /ˌkɑːntrəˈdɪkʃən/ 【名詞】矛盾、食い違い\n【用例】\ncause controversy → 論争を引き起こす\na political controversy → 政治上の論争\na controversial issue → 議論の分かれる問題\n【覚え方】\n準1級では controversy（名詞）↔ controversial（形容詞）のセットが重要です。\n【紛らわしい言葉の区別】\n411番 contradict と頭の contra-/contro- の音が似ているので、区別して覚えましょう。\ncontroversy = 論争\ncontradict = 矛盾する・反論する",
       usedIn: ["s672"],
       tags: ["noun"]
     },
@@ -1259,7 +1259,7 @@ window.SECTIONS["sec07"] = {
       word: "recognition",
       ipa: "[rèkəgníʃən]",
       meaning: "認識、認知",
-      extraInfo: "【名】\n（人・物が）それと分かること、認めること、認識\nrecognize 【動】\nrecognizable 【形】",
+      extraInfo: "【名】\n（人・物が）それと分かること、認めること、認識\nrecognize 【動】\nrecognizable 【形】\n【関連語＆似た言葉】\nrecognition /ˌrekəɡˈnɪʃən/ 【名詞】認識、認知；評価、承認\nrecognize /ˈrekəɡnaɪz/ 【動詞】～を認識する、見分ける；～を認める\nrecognizable /ˈrekəɡnaɪzəbəl/ 【形容詞】見分けられる、認識できる\nreputation /ˌrepjəˈteɪʃən/ 【名詞】評判、名声\nacknowledgment /əkˈnɑːlɪdʒmənt/ 【名詞】承認、認識、謝意\n【重要な意味・用例】\nrecognitionは「見て分かる」という意味だけでなく、功績などが認められる「評価・承認」という意味も重要です。\ngain recognition → 認められる、評価を得る\nin recognition of ～ → ～を評価して、～を認めて\nfacial recognition → 顔認識\n【覚え方】\n216番 acknowledge とも意味が近い言葉です。\nrecognize → recognition\n「認識する・認める → 認識・承認」",
       usedIn: ["s673"],
       tags: ["noun"]
     },
@@ -1268,7 +1268,7 @@ window.SECTIONS["sec07"] = {
       word: "applicant",
       ipa: "[ǽplikənt]",
       meaning: "応募者、志願者",
-      extraInfo: "【名】\n応募者（for ～の）、志願者 [= candidate]\napplication 【名】応募\napply 【動】",
+      extraInfo: "【名】\n応募者（for ～の）、志願者 [= candidate]\napplication 【名】応募\napply 【動】\n【関連語＆似た言葉】\napplicant /ˈæplɪkənt/ 【名詞】応募者、志願者、申請者\napply /əˈplaɪ/ 【動詞】応募する、申請する；適用する\napplication /ˌæplɪˈkeɪʃən/ 【名詞】応募、申請；申請書；適用\napplicable /əˈplɪkəbəl/ 【形容詞】適用できる、該当する\ncandidate /ˈkændɪdeɪt/ 【名詞】候補者、志願者\n【覚え方】\napply → application → applicant\n「応募・申請する → 応募・申請 → 応募者・申請者」という関係です。\n【用例】\njob applicant → 求職者、仕事への応募者\nsuccessful applicant → 合格した応募者\nevaluate applicants → 応募者を評価する\n【要約問題の表現】\nevaluate applicants consistently → 応募者を一貫した基準で評価する",
       usedIn: ["s674"],
       tags: ["noun"]
     },
@@ -1331,7 +1331,7 @@ window.SECTIONS["sec07"] = {
       word: "conventional",
       ipa: "[kənvénʃənəl]",
       meaning: "伝統的な、型にはまった",
-      extraInfo: "【形】\n伝統的な、型にはまった [⇔ unconventional]\nconvention 【名】慣習、しきたり、会議",
+      extraInfo: "【形】\n伝統的な、型にはまった [⇔ unconventional]\nconvention 【名】慣習、しきたり、会議\n【関連語＆似た言葉】\nconventional /kənˈvenʃənəl/ 【形容詞】従来の、伝統的な；一般的な、型にはまった\nconvention /kənˈvenʃən/ 【名詞】慣習、しきたり；大会、会議\nconventionally /kənˈvenʃənəli/ 【副詞】従来の方法で、慣習的に\ntraditional /trəˈdɪʃənəl/ 【形容詞】伝統的な\nunconventional /ˌʌnkənˈvenʃənəl/ 【形容詞】型破りな、従来とは異なる\n【重要な意味・用例】\n準1級では「従来の」という意味が重要です。\nconventional methods → 従来の方法\nconventional medicine → 従来型の医療\nconventional farming → 従来型農業\nconventional wisdom → 一般に受け入れられている考え・通念\n【覚え方】\nconventional（従来型の）↔ unconventional（型破りな・従来型でない）と対義語で覚えると分かりやすいです。",
       usedIn: ["s681"],
       tags: ["adjective"]
     },
@@ -1349,7 +1349,7 @@ window.SECTIONS["sec07"] = {
       word: "consistent",
       ipa: "[kənsístənt]",
       meaning: "着実な、一貫した",
-      extraInfo: "【形】\n着実な、安定した、首尾一貫した [= constant, steady]\nconsistency 【名】",
+      extraInfo: "【形】\n着実な、安定した、首尾一貫した [= constant, steady]\nconsistency 【名】\n【関連語＆似た言葉】\nconsistent /kənˈsɪstənt/ 【形容詞】一貫した、矛盾のない；安定した\nconsistently /kənˈsɪstəntli/ 【副詞】一貫して、常に\nconsistency /kənˈsɪstənsi/ 【名詞】一貫性、整合性\ninconsistent /ˌɪnkənˈsɪstənt/ 【形容詞】一貫性のない、矛盾した\nconstant /ˈkɑːnstənt/ 【形容詞】絶え間ない、一定の\n【重要表現・用例】\nbe consistent with ～ = ～と一致している、～と矛盾しない\nconsistent results → 一貫した結果\nconsistent performance → 安定した成績・成果\nThe results are consistent with the theory. → 結果はその理論と一致している。\n【語族のつながり】\nevaluate applicants consistently（応募者を一貫した基準で評価する）のconsistentlyもこの語族です。\nconsistent = 一貫した\n→ consistently = 一貫して\n→ consistency = 一貫性",
       usedIn: ["s683"],
       tags: ["adjective"]
     },
@@ -1394,7 +1394,7 @@ window.SECTIONS["sec07"] = {
       word: "unpredictable",
       ipa: "[`ʌnpridíktəbl]",
       meaning: "変わりやすい、予測できない",
-      extraInfo: "【形】\n変わりやすい、予測できない [⇔ predictable]\npredict 【動】",
+      extraInfo: "【形】\n変わりやすい、予測できない [⇔ predictable]\npredict 【動】\n【関連語＆似た言葉】\nunpredictable /ˌʌnprɪˈdɪktəbəl/ 【形容詞】予測できない、予測不能な\npredictable /prɪˈdɪktəbəl/ 【形容詞】予測できる、予想どおりの\npredict /prɪˈdɪkt/ 【動詞】～を予測する、予言する\nprediction /prɪˈdɪkʃən/ 【名詞】予測、予言\nunexpected /ˌʌnɪkˈspektɪd/ 【形容詞】予期しない、思いがけない\n【覚え方】\n125番 predict と同じ語族です。\npredict → predictable → unpredictable\n予測する → 予測できる → 予測できない\n【用例】\nunpredictable weather → 予測しにくい天候\nunpredictable behavior → 予測できない行動\nThe situation is highly unpredictable. → 状況は非常に予測困難だ。\n【unexpectedとの違い】\nunexpectedは「実際に予想外だった」、unpredictableは「そもそも予測するのが難しい」という違いがあります。",
       usedIn: ["s688"],
       tags: ["adjective"]
     },
@@ -1457,7 +1457,7 @@ window.SECTIONS["sec07"] = {
       word: "horrible",
       ipa: "[hɔ́ːrəbl]",
       meaning: "実にひどい、ぞっとする",
-      extraInfo: "【形】\n実にひどい [= awful, terrible]、ぞっとする\nhorror 【名】恐怖",
+      extraInfo: "【形】\n実にひどい [= awful, terrible]、ぞっとする\nhorror 【名】恐怖\n【関連語＆似た言葉】\nhorrible /ˈhɔːrəbəl/ 【形容詞】ひどい、恐ろしい、不快な\nhorribly /ˈhɔːrəbli/ 【副詞】ひどく、恐ろしく\nhorror /ˈhɔːrər/ 【名詞】恐怖、恐ろしいもの\nhorrific /həˈrɪfɪk/ 【形容詞】恐ろしい、ぞっとするような\nterrible /ˈterəbəl/ 【形容詞】ひどい、恐ろしい\n【重要な意味・用例】\nhorribleは「恐ろしい」だけでなく、日常的な「ひどい・最悪な」にもよく使われます。\nhorrible weather → ひどい天気\na horrible experience → ひどい経験\nThe food tasted horrible. → その料理はひどい味だった。\n【覚え方】\nhorror → horrible と語族で覚えると定着しやすいです。",
       usedIn: ["s695"],
       tags: ["adjective"]
     },
@@ -1475,7 +1475,7 @@ window.SECTIONS["sec07"] = {
       word: "supplementary",
       ipa: "[s`ʌpləméntəri]",
       meaning: "補足の、追加の",
-      extraInfo: "【形】\n補足の、追加の [= extra, additional]\nsupplement 【名】",
+      extraInfo: "【形】\n補足の、追加の [= extra, additional]\nsupplement 【名】\n【関連語＆似た言葉】\nsupplementary /ˌsʌpləˈmentəri/ 【形容詞】補足の、追加の、補助的な\nsupplement /ˈsʌpləmənt/ 【名詞】補足、追加物、栄養補助食品\nsupplement /ˈsʌpləment/ 【動詞】～を補う、補足する\ncomplementary /ˌkɑːmpləˈmentəri/ 【形容詞】相互に補完する、補足的な\nadditional /əˈdɪʃənəl/ 【形容詞】追加の\n【用例】\nsupplementary information → 補足情報\nsupplementary materials → 補助教材・追加資料\nsupplementary income → 副収入、追加収入\n【complementaryとの違い】\nsupplementary = 足りないものを「追加する」\ncomplementary = 2つのものが「互いに補い合う」\nこの2語は混同しないように注意しましょう。",
       usedIn: ["s697"],
       tags: ["adjective"]
     },
@@ -1493,7 +1493,7 @@ window.SECTIONS["sec07"] = {
       word: "intermediate",
       ipa: "[ìntərmíːdiət]",
       meaning: "中級の",
-      extraInfo: "【形】\n（程度が）中級の\nelementary（初級の）と advanced（上級の）の中間\n語源 inter（の間）・mediate（調停する）",
+      extraInfo: "【形】\n（程度が）中級の\nelementary（初級の）と advanced（上級の）の中間\n語源 inter（の間）・mediate（調停する）\n【関連語＆似た言葉】\nintermediate /ˌɪntərˈmiːdiət/ 【形容詞】中間の、中級の\nintermediate /ˌɪntərˈmiːdiət/ 【名詞】中級者、中間物\nimmediate /ɪˈmiːdiət/ 【形容詞】即座の、直接の\nintimidate /ɪnˈtɪmədeɪt/ 【動詞】脅す、威圧する\n【発音・意味の区別】\nintermediate → インターミーディエット → 中間の・中級の\nintimidate → インティミデイト → 脅す・威圧する\nカタカナでは音が似ているので、発音と品詞をセットで区別しましょう。",
       usedIn: ["s699"],
       tags: ["adjective"]
     },

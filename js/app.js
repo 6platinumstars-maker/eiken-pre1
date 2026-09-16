@@ -361,6 +361,7 @@
           <label class="chip-check-row">
             <input type="checkbox" class="chip-check" data-vid="${escapeHtml(v.vid)}" ${state.checked ? "checked" : ""} />
             <span>チェック</span>
+            <span class="chip-number">${getVocabIdNumber(v.vid)}番</span>
           </label>
         </div>
       `
@@ -1617,6 +1618,7 @@
           <label class="chip-check-row">
             <input type="checkbox" class="chip-check vocab-review-check" data-vid="${escapeHtml(vocab.vid)}" ${state.checked ? "checked" : ""} />
             <span>チェック</span>
+            <span class="chip-number">${getVocabIdNumber(vocab.vid)}番</span>
           </label>
         </div>
         <div class="vocab-review-example">

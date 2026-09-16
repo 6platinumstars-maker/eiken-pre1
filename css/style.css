@@ -395,6 +395,12 @@ body {
   height: 18px;
 }
 
+.chip-number {
+  font-size: calc(10px * var(--font-scale));
+  font-weight: 400;
+  white-space: nowrap;
+}
+
 .vocab-review-card {
   width: 100%;
   cursor: pointer;
