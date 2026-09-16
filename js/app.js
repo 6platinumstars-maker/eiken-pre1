@@ -1224,7 +1224,7 @@
     sentenceVocabCard.classList.toggle("is-hidden", sentenceRevealStage === 0);
     vocabChipsEl.innerHTML = sentenceRevealStage === 0
       ? ""
-      : renderSentenceVocabChip(v, true, { showCheckbox: false });
+      : renderSentenceVocabChip(v, true);
     if (studyCardTitleEl) studyCardTitleEl.textContent = `${getStudyNoun()}カード`;
 
     prevBtn.disabled = sentenceIndex === 0;
@@ -1334,7 +1334,7 @@
     audioRevealAreaEl.classList.remove("is-empty");
 
     if (currentView === "wordAudio") {
-      audioRevealAreaEl.innerHTML = renderSentenceVocabChip(sentence, true, { showCheckbox: false });
+      audioRevealAreaEl.innerHTML = renderSentenceVocabChip(sentence, true);
       return;
     }
 
@@ -1345,7 +1345,7 @@
       chips.innerHTML = vocabItems.length
         ? vocabItems
             .map((v) => (currentView === "enAudio"
-              ? renderSentenceVocabChip(v, true, { showCheckbox: false })
+              ? renderSentenceVocabChip(v, true)
               : renderVocabChip(v)))
             .join("")
         : `<div class="chip"><div class="chip-word">(未登録)</div><div class="chip-meaning">この文の重要語リストは未登録です。</div></div>`;
@@ -1600,6 +1600,13 @@
         <div class="chip sentence-chip vocab-review-card${state.checked ? " is-checked" : ""}" data-vid="${escapeHtml(vocab.vid)}">
           <div class="chip-main">
             <div class="chip-word">${escapeHtml(vocab.word)}</div>
+          </div>
+          <div class="chip-check-cell">
+            <label class="chip-check-row">
+              <input type="checkbox" class="chip-check vocab-review-check" data-vid="${escapeHtml(vocab.vid)}" ${state.checked ? "checked" : ""} />
+              <span>チェック</span>
+              <span class="chip-number">${getVocabIdNumber(vocab.vid)}番</span>
+            </label>
           </div>
         </div>
       `;
@@ -2123,6 +2130,7 @@
 
   vocabChipsEl.addEventListener("click", (event) => {
     if (currentView === "sentences") {
+      if (event.target.closest(".chip-check-row")) event.preventDefault();
       event.stopPropagation();
       advanceSentenceReveal();
       return;
@@ -2201,6 +2209,7 @@
     if (!vid) return;
 
     const nextChecked = !getChipState(vid).checked;
+    if (event.target.closest(".chip-check-row")) event.preventDefault();
     setChipChecked(vid, nextChecked);
     renderAudioView();
     renderSentence();
