@@ -267,7 +267,7 @@ body {
   width: 100%;
   min-width: var(--chip-min-width);
   gap: 8px;
-  grid-template-columns: fit-content(260px) minmax(0, 1fr) auto;
+  grid-template-columns: fit-content(260px) minmax(0, 1fr);
   align-items: start;
 }
 
@@ -401,9 +401,27 @@ body {
   white-space: nowrap;
 }
 
+.chip-heading {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+}
+
+.chip-heading .chip-word {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
 .vocab-review-card {
   width: 100%;
   cursor: pointer;
+}
+
+.vocab-review-card .chip-check-cell {
+  grid-column: 1 / -1;
 }
 
 .vocab-review-card + .vocab-review-card {

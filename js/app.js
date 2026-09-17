@@ -339,12 +339,11 @@
       .join("");
   }
 
-  function renderSentenceVocabChip(v, isExpanded = false, options = {}) {
+  function renderSentenceVocabChip(v, isExpanded = false) {
     if (!v) {
       return `<div class="chip"><div class="chip-word">(not found)</div></div>`;
     }
 
-    const { showCheckbox = true } = options;
     const state = getChipState(v.vid);
     const checkedClass = state.checked ? " is-checked" : "";
     const ipa = v.ipa ? `<div class="chip-ipa">${escapeHtml(v.ipa)}</div>` : "";
@@ -352,31 +351,18 @@
     const meta = renderChipMeta(v);
 
     if (!isExpanded) {
-      return `<button type="button" class="chip sentence-chip${checkedClass}" data-vid="${escapeHtml(v.vid)}"><div class="chip-word">${escapeHtml(v.word)}</div>${ipa}${meaning}</button>`;
+      return `<button type="button" class="chip sentence-chip${checkedClass}" data-vid="${escapeHtml(v.vid)}"><div class="chip-heading"><div class="chip-word">${escapeHtml(v.word)}</div><span class="chip-number">${getVocabIdNumber(v.vid)}番</span></div>${ipa}${meaning}</button>`;
     }
-
-    const checkCell = showCheckbox
-      ? `
-        <div class="chip-check-cell">
-          <label class="chip-check-row">
-            <input type="checkbox" class="chip-check" data-vid="${escapeHtml(v.vid)}" ${state.checked ? "checked" : ""} />
-            <span>チェック</span>
-            <span class="chip-number">${getVocabIdNumber(v.vid)}番</span>
-          </label>
-        </div>
-      `
-      : "";
 
     return `
       <button type="button" class="chip sentence-chip sentence-chip-expanded${checkedClass}" data-vid="${escapeHtml(v.vid)}">
+        <div class="chip-heading"><div class="chip-word">${escapeHtml(v.word)}</div><span class="chip-number">${getVocabIdNumber(v.vid)}番</span></div>
         <div class="chip-main">
-          <div class="chip-word">${escapeHtml(v.word)}</div>
           ${ipa}
           ${meaning}
           ${meta}
         </div>
         <div class="chip-extra">${renderChipExtraInfo(getChipExtraInfo(v))}</div>
-        ${checkCell}
       </button>
     `;
   }
@@ -1598,24 +1584,15 @@
     if (!isExpanded) {
       return `
         <div class="chip sentence-chip vocab-review-card${state.checked ? " is-checked" : ""}" data-vid="${escapeHtml(vocab.vid)}">
-          <div class="chip-main">
-            <div class="chip-word">${escapeHtml(vocab.word)}</div>
+          <div class="chip-heading"><div class="chip-word">${escapeHtml(vocab.word)}</div><span class="chip-number">${getVocabIdNumber(vocab.vid)}番</span></div>
           </div>
-          <div class="chip-check-cell">
-            <label class="chip-check-row">
-              <input type="checkbox" class="chip-check vocab-review-check" data-vid="${escapeHtml(vocab.vid)}" ${state.checked ? "checked" : ""} />
-              <span>チェック</span>
-              <span class="chip-number">${getVocabIdNumber(vocab.vid)}番</span>
-            </label>
-          </div>
-        </div>
       `;
     }
 
     return `
       <div class="chip sentence-chip sentence-chip-expanded vocab-review-card${state.checked ? " is-checked" : ""}" data-vid="${escapeHtml(vocab.vid)}">
+        <div class="chip-heading"><div class="chip-word">${escapeHtml(vocab.word)}</div><span class="chip-number">${getVocabIdNumber(vocab.vid)}番</span></div>
         <div class="chip-main">
-          <div class="chip-word">${escapeHtml(vocab.word)}</div>
           ${ipa}
           ${meaning}
           ${meta}
@@ -1625,7 +1602,6 @@
           <label class="chip-check-row">
             <input type="checkbox" class="chip-check vocab-review-check" data-vid="${escapeHtml(vocab.vid)}" ${state.checked ? "checked" : ""} />
             <span>チェック</span>
-            <span class="chip-number">${getVocabIdNumber(vocab.vid)}番</span>
           </label>
         </div>
         <div class="vocab-review-example">
@@ -2130,26 +2106,8 @@
 
   vocabChipsEl.addEventListener("click", (event) => {
     if (currentView === "sentences") {
-      if (event.target.closest(".chip-check-row")) event.preventDefault();
       event.stopPropagation();
       advanceSentenceReveal();
-      return;
-    }
-
-    const checkbox = event.target.closest(".chip-check");
-    if (checkbox) {
-      event.stopPropagation();
-      const vid = checkbox.dataset.vid;
-      if (!vid) return;
-      const wasChecked = !!getChipState(vid).checked;
-      if (wasChecked && !checkbox.checked) {
-        checkbox.checked = true;
-        renderSentence();
-        return;
-      }
-      setChipChecked(vid, checkbox.checked);
-      renderSentence();
-      if (currentView === "vocab") renderCheckedVocabReview();
       return;
     }
 
@@ -2209,7 +2167,6 @@
     if (!vid) return;
 
     const nextChecked = !getChipState(vid).checked;
-    if (event.target.closest(".chip-check-row")) event.preventDefault();
     setChipChecked(vid, nextChecked);
     renderAudioView();
     renderSentence();
@@ -2276,7 +2233,6 @@
   viewVocab.addEventListener("click", (event) => {
     if (currentView !== "vocab") return;
     if (event.target.closest(".chip-check-row")) return;
-    if (event.target.closest(".chip-check")) return;
     const card = event.target.closest(".vocab-review-card");
     if (!card) return;
 
@@ -2290,7 +2246,6 @@
   viewVocab.addEventListener("change", (event) => {
     const checkbox = event.target.closest(".vocab-review-check");
     if (!checkbox) return;
-
     const vid = checkbox.dataset.vid;
     if (!vid) return;
     setChipChecked(vid, checkbox.checked);
