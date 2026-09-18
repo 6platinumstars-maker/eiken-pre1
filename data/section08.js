@@ -665,7 +665,7 @@ window.SECTIONS["sec08"] = {
       word: "complicate",
       ipa: "[kάmpləkèit]",
       meaning: "を複雑にする",
-      extraInfo: "【動】\nを複雑にする [⇔ simplify]\ncomplicated 【形】\ncomplication 【名】（物事を）複雑にする問題や要因、（通常 ～s）合併症",
+      extraInfo: "【動】\nを複雑にする [⇔ simplify]\ncomplicated 【形】\ncomplication 【名】（物事を）複雑にする問題や要因、（通常 ～s）合併症\n【関連語＆似た言葉】\ncomplicate /ˈkɑːmplɪkeɪt/ 【動詞】～を複雑にする、ややこしくする\ncomplicated /ˈkɑːmplɪkeɪtɪd/ 【形容詞】複雑な、ややこしい\ncomplication /ˌkɑːmplɪˈkeɪʃən/ 【名詞】複雑化、問題；合併症\ncomplex /kəmˈpleks/ 【形容詞】複雑な\ncomplete /kəmˈpliːt/ 【動詞・形容詞】完成させる；完全な\n【紛らわしい言葉の区別】\ncompleteとの混同に注意しましょう。\ncomplicate = 複雑にする\ncomplete = 完成させる\n【例文】\nThis could complicate the situation. → これは状況を複雑にする可能性がある。\n【覚え方】\ncomplicate → complicated → complication\n「複雑にする → 複雑な → 複雑化・問題」",
       usedIn: ["s707"],
       tags: ["verb"]
     },
@@ -710,7 +710,7 @@ window.SECTIONS["sec08"] = {
       word: "confine",
       ipa: "[kənfáin]",
       meaning: "を限定する、を閉じ込める",
-      extraInfo: "【動】\nを限定する（to ～に） [= restrict, limit]、を閉じ込める [= imprison]\nconfinement 【名】監禁、監禁（状態）",
+      extraInfo: "【動】\nを限定する（to ～に） [= restrict, limit]、を閉じ込める [= imprison]\nconfinement 【名】監禁、監禁（状態）\n【関連語＆似た言葉】\nconfine /kənˈfaɪn/ 【動詞】～を制限する、～を閉じ込める\nconfined /kənˈfaɪnd/ 【形容詞】限られた、狭い；閉じ込められた\nconfinement /kənˈfaɪnmənt/ 【名詞】監禁、拘束、制限\nconfirm /kənˈfɜːrm/ 【動詞】確認する、裏付ける\ndefine /dɪˈfaɪn/ 【動詞】定義する、明確にする\n【重要表現・例文】\nconfine A to B → AをBに限定する\nThe discussion was confined to environmental issues. → 議論は環境問題に限定された。\nbe confined to bed → 病気などでベッドから出られない\na confined space → 狭く閉ざされた空間\n【紛らわしい言葉の区別】\n525番 conform（従う・適合する）や confirm（確認する）と形が似ているので、混同に注意しましょう。\nconfine = 制限する・閉じ込める\nconform = 従う・適合する\nconfirm = 確認する",
       usedIn: ["s712"],
       tags: ["verb"]
     },
@@ -737,7 +737,7 @@ window.SECTIONS["sec08"] = {
       word: "ease",
       ipa: "[iːz]",
       meaning: "を和らげる、を緩和する",
-      extraInfo: "【動】\nを和らげる、を緩和する [= alleviate]\n【名】たやすさ\neasy 【形】",
+      extraInfo: "【動】\nを和らげる、を緩和する [= alleviate]\n【名】たやすさ\neasy 【形】\n【関連語＆似た言葉】\nease /iːz/ 【動詞】～を和らげる、軽減する\nease /iːz/ 【名詞】容易さ、気楽さ\neasy /ˈiːzi/ 【形容詞】容易な、楽な\nrelieve /rɪˈliːv/ 【動詞】苦痛・不安などを和らげる\ncease /siːs/ 【動詞】やめる、終わる\n【重要な意味・用例】\n準1級では動詞の「軽減する・和らげる」が重要です。\nease the pain → 痛みを和らげる\nease traffic congestion → 交通渋滞を緩和する\nease restrictions → 規制を緩和する\nease the burden → 負担を軽減する\n【relieveとの違い】\n610番 relieve と意味が近い言葉です。\nease = 問題・負担・痛みなどを「軽くする」\nrelieve = 苦痛・不安などを「取り除いて楽にする」\n【熟語】\nwith ease = 簡単に、楽々と",
       usedIn: ["s715"],
       tags: ["verb"]
     },
@@ -746,7 +746,7 @@ window.SECTIONS["sec08"] = {
       word: "resume",
       ipa: "[rìːzjúːm]",
       meaning: "を再開する",
-      extraInfo: "【動】\nを再開する [= renew, restart, reopen] [⇔ discontinue]\nresumption 【名】",
+      extraInfo: "【動】\nを再開する [= renew, restart, reopen] [⇔ discontinue]\nresumption 【名】\n【関連語＆似た言葉】\nresume /rɪˈzuːm/ 【動詞】再開する、再び始める；再開される\nresumption /rɪˈzʌmpʃən/ 【名詞】再開、再び始めること\nrésumé /ˈrezəmeɪ/ 【名詞】履歴書、経歴書\nrestart /ˌriːˈstɑːrt/ 【動詞】再開する、再始動する\ncontinue /kənˈtɪnjuː/ 【動詞】続ける\n【発音・意味の区別】\nresume /rɪˈzuːm/ → 再開する\nrésumé /ˈrezəmeɪ/ → 履歴書\n【重要な意味・用例】\n準1級ではまず動詞の resume = 再開する を覚えましょう。\nresume work → 仕事を再開する\nresume negotiations → 交渉を再開する\nThe meeting resumed after lunch. → 昼食後、会議が再開された。\n【continueとの違い】\ncontinueが「そのまま続ける」なのに対して、resumeは「いったん止まったものを再開する」というイメージです。",
       usedIn: ["s716"],
       tags: ["verb"]
     },
@@ -755,7 +755,7 @@ window.SECTIONS["sec08"] = {
       word: "pursue",
       ipa: "[pərsúː]",
       meaning: "を追跡する、を追求する",
-      extraInfo: "【動】\nを追跡する [= chase]、を追求する [= seek]\npursuit 【名】\n語源 pur（前へ）+ sue（ついて行く）",
+      extraInfo: "【動】\nを追跡する [= chase]、を追求する [= seek]\npursuit 【名】\n語源 pur（前へ）+ sue（ついて行く）\n【関連語＆似た言葉】\npursue /pərˈsuː/ 【動詞】追求する、追い求める；追跡する、続行する\npursuit /pərˈsuːt/ 【名詞】追求、追跡；活動\npersuade /pərˈsweɪd/ 【動詞】説得する\npresume /prɪˈzuːm/ 【動詞】～と推定する、～と思う\n【重要な意味・用例】\npursueは「物理的に追いかける」だけでなく、準1級では目標・夢・キャリアなどを追求する意味が重要です。\npursue a goal → 目標を追求する\npursue a career → キャリアを追求する\npursue higher education → 高等教育を受ける・進学する\npursue one's dream → 夢を追い求める\n【紛らわしい言葉の区別】\npursue /pərˈsuː/ と persuade /pərˈsweɪd/ は見た目が似ているので注意しましょう。\npursue = 追い求める\npersuade = 説得する",
       usedIn: ["s717"],
       tags: ["verb"]
     },
@@ -809,7 +809,7 @@ window.SECTIONS["sec08"] = {
       word: "withstand",
       ipa: "[wiðstǽnd]",
       meaning: "に耐える、に逆らう",
-      extraInfo: "【動】\nに耐える、に逆らう [= resist]",
+      extraInfo: "【動】\nに耐える、に逆らう [= resist]\n【関連語＆似た言葉】\nwithstand /wɪðˈstænd/ 【動詞】～に耐える、～に抵抗する\nresist /rɪˈzɪst/ 【動詞】抵抗する、耐える\nendure /ɪnˈdʊr/ 【動詞】苦痛・困難などに耐える\nstand /stænd/ 【動詞】立つ；耐える\nwithdraw /wɪðˈdrɔː/ 【動詞】引き出す、撤退する\n【意味のイメージ】\nwithstandは、強い力・圧力・悪条件などを受けても「持ちこたえる」というイメージです。\n【用例】\nwithstand pressure → 圧力に耐える\nwithstand high temperatures → 高温に耐える\nwithstand an earthquake → 地震に耐える\nwithstand strong winds → 強風に耐える\n【活用】\nwithstand → withstood → withstood\n【例文】\nThe building was designed to withstand earthquakes. → その建物は地震に耐えられるよう設計された。",
       usedIn: ["s723"],
       tags: ["verb"]
     },
@@ -827,7 +827,7 @@ window.SECTIONS["sec08"] = {
       word: "transform",
       ipa: "[trænsfɔ́ːrm]",
       meaning: "を大きく変える",
-      extraInfo: "【動】\nを大きく変える [= change, convert]\ntransformation 【名】\n語源 trans（別の状態へ）+ form（形作る）",
+      extraInfo: "【動】\nを大きく変える [= change, convert]\ntransformation 【名】\n語源 trans（別の状態へ）+ form（形作る）\n【関連語＆似た言葉】\ntransform /trænsˈfɔːrm/ 【動詞】～を変える、変革する、変形させる\ntransformation /ˌtrænsfərˈmeɪʃən/ 【名詞】変化、変革、変形\ntransformative /trænsˈfɔːrmətɪv/ 【形容詞】大きな変化をもたらす\nconvert /kənˈvɜːrt/ 【動詞】～を転換する、変換する\ntransfer /trænsˈfɜːr/ 【動詞】移す、転送する\n【意味のニュアンス】\ntransformは単なるchangeよりも、「姿・性質・状態を大きく変える」ニュアンスがあります。\n【重要表現・例文】\ntransform A into B → AをBに変える\nTechnology has transformed our lives. → テクノロジーは私たちの生活を大きく変えた。\ntransform waste into energy → 廃棄物をエネルギーに変える\n【覚え方】\ntransform → transformation と語族をセットで覚えると覚えやすいです。",
       usedIn: ["s725"],
       tags: ["verb"]
     },
@@ -845,7 +845,7 @@ window.SECTIONS["sec08"] = {
       word: "retail",
       ipa: "[ríːteil]",
       meaning: "を小売りする",
-      extraInfo: "【動】\nを小売りする [⇔ wholesale を卸売りする]\n【名】小売り\nretailer 【名】小売業者\n語源 re（再び）+ tail（切る）",
+      extraInfo: "【動】\nを小売りする [⇔ wholesale を卸売りする]\n【名】小売り\nretailer 【名】小売業者\n語源 re（再び）+ tail（切る）\n【関連語＆似た言葉】\nretail /ˈriːteɪl/ 【名詞・形容詞】小売り；小売りの\nretail /ˈriːteɪl/ 【動詞】小売りする\nretailer /ˈriːteɪlər/ 【名詞】小売業者、小売店\nwholesale /ˈhoʊlseɪl/ 【名詞・形容詞】卸売り；卸売りの\ndetail /ˈdiːteɪl/ 【名詞】詳細、細部\n【対で覚える言葉】\nretail ↔ wholesale\nretail → 小売り（消費者に売る）\nwholesale → 卸売り（店などにまとめて売る）\n【用例】\nretail price → 小売価格\nretail store → 小売店\nretail industry → 小売業界\nonline retail → オンライン小売\n【紛らわしい言葉の区別】\nretail（小売り）と detail（詳細）は音とスペルが似ているので、混同に注意しましょう。",
       usedIn: ["s727"],
       tags: ["verb"]
     },
@@ -872,7 +872,7 @@ window.SECTIONS["sec08"] = {
       word: "circulation",
       ipa: "[sə̀ːrkjəléiʃən]",
       meaning: "発行部数、循環、流布",
-      extraInfo: "【名】\n発行部数、循環、流布\ncirculate 【動】循環する\ncirculatory 【形】循環の",
+      extraInfo: "【名】\n発行部数、循環、流布\ncirculate 【動】循環する\ncirculatory 【形】循環の\n【関連語＆似た言葉】\ncirculation /ˌsɜːrkjəˈleɪʃən/ 【名詞】循環、流通；（新聞・雑誌の）発行部数\ncirculate /ˈsɜːrkjəleɪt/ 【動詞】循環する、流通する、広まる\ncircular /ˈsɜːrkjələr/ 【形容詞】円形の、循環する\ncircumstance /ˈsɜːrkəmstæns/ 【名詞】状況、事情\ndistribution /ˌdɪstrɪˈbjuːʃən/ 【名詞】分配、流通\n【用例】\ncirculationは意味がいくつかあるので、文脈に注意しましょう。\nblood circulation → 血液循環\nthe circulation of money → お金の流通\nnewspaper circulation → 新聞の発行部数\nin circulation → 流通して、出回って\n【覚え方】\n中心イメージは「ぐるぐる回る」です。\ncircle（円）→ circulate（循環する）→ circulation（循環・流通）",
       usedIn: ["s730"],
       tags: ["noun"]
     },
@@ -881,7 +881,7 @@ window.SECTIONS["sec08"] = {
       word: "appliance",
       ipa: "[əpláiəns]",
       meaning: "器具",
-      extraInfo: "【名】\n（特に家庭用の）器具\nhousehold appliances 家庭用（電気）器具",
+      extraInfo: "【名】\n（特に家庭用の）器具\nhousehold appliances 家庭用（電気）器具\n【関連語＆似た言葉】\nappliance /əˈplaɪəns/ 【名詞】（家庭用の）電気器具、家電製品；器具\napply /əˈplaɪ/ 【動詞】応募する、適用する\napplication /ˌæplɪˈkeɪʃən/ 【名詞】応募、申請；適用\napplicant /ˈæplɪkənt/ 【名詞】応募者、申請者\ndevice /dɪˈvaɪs/ 【名詞】装置、機器\n【重要表現・用例】\nhome/household appliance = 家電製品\nelectrical appliances → 電気器具、家電\nhousehold appliances → 家庭用電化製品\nkitchen appliances → キッチン家電\nrefrigerator、washing machine、microwaveなどがappliancesです。\n【紛らわしい言葉の区別】\n674番 applicant と音が似ているので、混同に注意しましょう。\napplicant → 応募者・申請者\nappliance → 家電・器具",
       usedIn: ["s731"],
       tags: ["noun"]
     },
@@ -890,7 +890,7 @@ window.SECTIONS["sec08"] = {
       word: "bond",
       ipa: "[bɑ(ː)nd]",
       meaning: "きずな、債券、契約",
-      extraInfo: "【名】\nきずな（between ～の間の）、債券、契約\n【動】を接合する",
+      extraInfo: "【名】\nきずな（between ～の間の）、債券、契約\n【動】を接合する\n【関連語＆似た言葉】\nbond /bɑːnd/ 【名詞】絆、結びつき；債券；保証金\nbond /bɑːnd/ 【動詞】結びつく、絆を深める\nbonding /ˈbɑːndɪŋ/ 【名詞】結合、絆を形成すること\nbound /baʊnd/ 【形容詞・動詞】～行きの；縛られた／bindの過去・過去分詞\nbind /baɪnd/ 【動詞】縛る、結びつける\n【用例】\na strong bond between A and B → AとBの強い絆\nform a bond → 絆を築く\ngovernment bonds → 国債\nchemical bond → 化学結合\n【意味のイメージ・覚え方】\nbondは意味が広いですが、まず「結びつき・絆」を中心にすると覚えやすいです。\n「何かと何かを結びつけるもの」が中心イメージで、そこから「絆」「化学結合」「債券」などに広がっています。",
       usedIn: ["s732"],
       tags: ["noun"]
     },
@@ -917,7 +917,7 @@ window.SECTIONS["sec08"] = {
       word: "infant",
       ipa: "[ínfənt]",
       meaning: "幼児、乳児",
-      extraInfo: "【名】\n幼児、乳児 [= baby]\n【形】幼児の、初期の\ninfancy 【名】幼年時代",
+      extraInfo: "【名】\n幼児、乳児 [= baby]\n【形】幼児の、初期の\ninfancy 【名】幼年時代\n【関連語＆似た言葉】\ninfant /ˈɪnfənt/ 【名詞】乳児、幼児\ninfant /ˈɪnfənt/ 【形容詞】乳幼児の、初期段階の\ninfancy /ˈɪnfənsi/ 【名詞】幼児期、初期段階\ninfinite /ˈɪnfənət/ 【形容詞】無限の\ninfluence /ˈɪnfluəns/ 【名詞・動詞】影響；影響を与える\n【重要表現・用例】\ninfant mortality → 乳児死亡率\ninfant care → 乳児の世話\nan infant industry → 発展初期の産業\n【使われる文脈】\ninfantはbabyよりもやや硬い表現で、統計・医療・社会問題などの文章によく出ます。\n【発音注意】\ninfant /ˈɪnfənt/ と infinite /ˈɪnfənət/ は音がかなり似ているので注意しましょう。",
       usedIn: ["s735"],
       tags: ["noun"]
     },
@@ -926,7 +926,7 @@ window.SECTIONS["sec08"] = {
       word: "transaction",
       ipa: "[trænsǽkʃən]",
       meaning: "取引、処理",
-      extraInfo: "【名】\n（商）取引 [= deal]、（業務・取引などの）処理\ntransact 【動】",
+      extraInfo: "【名】\n（商）取引 [= deal]、（業務・取引などの）処理\ntransact 【動】\n【関連語＆似た言葉】\ntransaction /trænˈzækʃən/ 【名詞】取引、売買；処理\ntransact /trænˈzækt/ 【動詞】取引する、業務を行う\ntransactional /trænˈzækʃənəl/ 【形容詞】取引上の、取引に関する\ntransfer /trænsˈfɜːr/ 【動詞】移す、送金する\ntransition /trænˈzɪʃən/ 【名詞】移行、変化、過渡期\n【意味のイメージ】\ntransactionは、銀行・ビジネス・ITでよく使われる「1件の取引・処理」というイメージです。\n【用例】\nfinancial transaction → 金融取引\nbank transaction → 銀行取引\nonline transaction → オンライン取引\ncomplete a transaction → 取引を完了する\n【紛らわしい言葉の区別】\ntransaction = 取引\ntransition = 移行・変化\nこの2語は混同しないように注意しましょう。",
       usedIn: ["s736"],
       tags: ["noun"]
     },
@@ -953,7 +953,7 @@ window.SECTIONS["sec08"] = {
       word: "makeup",
       ipa: "[méik`ʌp]",
       meaning: "構成、構造、化粧",
-      extraInfo: "【名】\n構成、構造 [= composition, constitution, structure]、化粧\nmake-up もつづる",
+      extraInfo: "【名】\n構成、構造 [= composition, constitution, structure]、化粧\nmake-up もつづる\n【関連語＆似た言葉】\nmakeup /ˈmeɪkʌp/ 【名詞】構成、組成；化粧、化粧品\nmake up /meɪk ˈʌp/ 【句動詞】構成する；作り上げる；仲直りする\nmake up for /meɪk ˈʌp fɔːr/ 【句動詞】～を埋め合わせる、補う\ncomposition /ˌkɑːmpəˈzɪʃən/ 【名詞】構成、組成\nconstitute /ˈkɑːnstətuːt/ 【動詞】～を構成する\n【重要な意味・用例】\n「化粧」の意味が有名ですが、準1級では「構成・組成」にも注意しましょう。\nthe genetic makeup of a species → 種の遺伝的構成\nthe racial makeup of a population → 人口の人種構成\n【スペースの有無による区別】\nmakeup（名詞）→ 構成、化粧\nmake up（動詞）→ ～を構成する、作り上げる\nmake up for ～ → ～を埋め合わせる",
       usedIn: ["s739"],
       tags: ["noun"]
     },
@@ -962,7 +962,7 @@ window.SECTIONS["sec08"] = {
       word: "respondent",
       ipa: "[rispάːndənt]",
       meaning: "回答者",
-      extraInfo: "【名】\n（調査・アンケートなどの）回答者\nrespond 【動】\nresponse 【名】\nresponsive 【形】",
+      extraInfo: "【名】\n（調査・アンケートなどの）回答者\nrespond 【動】\nresponse 【名】\nresponsive 【形】\n【関連語＆似た言葉】\nrespondent /rɪˈspɑːndənt/ 【名詞】回答者、応答者；（調査・アンケートの）回答者\nrespond /rɪˈspɑːnd/ 【動詞】答える、反応する\nresponse /rɪˈspɑːns/ 【名詞】返答、反応\nresponsive /rɪˈspɑːnsɪv/ 【形容詞】反応のよい、敏感に反応する\nrecipient /rɪˈsɪpiənt/ 【名詞】受取人、受領者\n【重要な意味・用例】\n準1級では特に「アンケート・調査の回答者」が重要です。\nsurvey respondents → アンケート回答者\nMost respondents said that ～. → 回答者の大多数が～と答えた。\n30 percent of respondents → 回答者の30％\n【覚え方】\nrespond（答える）→ response（回答）→ respondent（回答者）\n【紛らわしい言葉の区別】\n264番 recipient（受取人）と語尾が似ているので、混同に注意しましょう。\nrespondent = 回答者\nrecipient = 受取人",
       usedIn: ["s740"],
       tags: ["noun"]
     },
@@ -971,7 +971,7 @@ window.SECTIONS["sec08"] = {
       word: "well-being",
       ipa: "[wélbíːiŋ]",
       meaning: "健康、幸福",
-      extraInfo: "【名】\n健康（of ～の）、幸福 [= happiness, welfare]",
+      extraInfo: "【名】\n健康（of ～の）、幸福 [= happiness, welfare]\n【関連語＆似た言葉】\nwell-being /ˌwel ˈbiːɪŋ/ 【名詞】幸福、健康、心身の良好な状態、福祉\nwelfare /ˈwelfer/ 【名詞】幸福、福祉、福利\nwellness /ˈwelnəs/ 【名詞】健康、心身の良好な状態\nbeing /ˈbiːɪŋ/ 【名詞】存在、生き物\nwell-off /ˌwel ˈɔːf/ 【形容詞】裕福な、暮らし向きのよい\n【意味の説明】\nwell-beingは単なる「幸福」より広く、身体・精神・生活面を含めて良好な状態という意味です。\n【用例】\nphysical well-being → 身体的健康\nmental well-being → 精神的健康・幸福\nimprove people's well-being → 人々の幸福・生活の質を向上させる\nhealth and well-being → 健康と幸福\n英検の社会問題系長文やWritingでも使いやすい単語です。",
       usedIn: ["s741"],
       tags: ["noun"]
     },
@@ -980,7 +980,7 @@ window.SECTIONS["sec08"] = {
       word: "flaw",
       ipa: "[flɔː]",
       meaning: "欠点、傷、ひび",
-      extraInfo: "【名】\n欠点 [= fault, defect, shortcoming]、傷、ひび [= crack]\nflawless 【形】欠点のない",
+      extraInfo: "【名】\n欠点 [= fault, defect, shortcoming]、傷、ひび [= crack]\nflawless 【形】欠点のない\n【関連語＆似た言葉】\nflaw /flɔː/ 【名詞】欠点、欠陥、不備\nflawed /flɔːd/ 【形容詞】欠陥のある、不完全な\nflow /floʊ/ 【名詞・動詞】流れ；流れる\nfault /fɔːlt/ 【名詞】欠点、過失、故障\ndefect /ˈdiːfekt/ 【名詞】欠陥、不具合\n【意味の説明】\nflawは、人・計画・理論・システムなどにある「欠点・弱点」を表します。\n【用例】\na serious flaw → 重大な欠陥\na flaw in the system → システムの欠陥\na flaw in the argument → 議論の欠点\nThe plan has a major flaw. → その計画には大きな欠点がある。\n【発音・意味の区別】\nflaw /flɔː/ → 欠点\nflow /floʊ/ → 流れ",
       usedIn: ["s742"],
       tags: ["noun"]
     },
@@ -1007,7 +1007,7 @@ window.SECTIONS["sec08"] = {
       word: "publicity",
       ipa: "[pʌblísəti]",
       meaning: "一般に知れ渡ること、評判、宣伝",
-      extraInfo: "【名】\n一般に知れ渡ること [⇔ privacy]、評判 [= popularity]、宣伝 [= promotion]\npublic 【形】公の、公共の\npublicize 【動】",
+      extraInfo: "【名】\n一般に知れ渡ること [⇔ privacy]、評判 [= popularity]、宣伝 [= promotion]\npublic 【形】公の、公共の\npublicize 【動】\n【関連語＆似た言葉】\npublicity /pʌbˈlɪsəti/ 【名詞】宣伝、広報；世間の注目、評判\npublicize /ˈpʌblɪsaɪz/ 【動詞】宣伝する、公表する\npublic /ˈpʌblɪk/ 【形容詞・名詞】公の；一般大衆\npublication /ˌpʌblɪˈkeɪʃən/ 【名詞】出版、刊行物\nadvertising /ˈædvərtaɪzɪŋ/ 【名詞】広告、広告活動\n【重要な意味・用例】\npublicityは「宣伝」だけでなく、メディアなどによって世間から注目されることも重要です。\ngain publicity → 世間の注目を集める\nreceive a lot of publicity → 大きく報道・宣伝される\nnegative publicity → 悪い評判・否定的な報道\npublicity campaign → 広報・宣伝キャンペーン\n【advertisingとの違い】\nadvertisingが「お金を払って行う広告」に寄りやすいのに対し、publicityは「報道などを含め、広く世間に知られること」まで含みます。",
       usedIn: ["s745"],
       tags: ["noun"]
     },
@@ -1025,7 +1025,7 @@ window.SECTIONS["sec08"] = {
       word: "addiction",
       ipa: "[ədíkʃən]",
       meaning: "依存",
-      extraInfo: "【名】\n依存 [= dependence, dependency]\naddict 【動】[ədíkt]（受身形で）常習する（to ～を）、依存する\n【名】[ǽdikt] 中毒患者\naddictive 【形】",
+      extraInfo: "【名】\n依存 [= dependence, dependency]\naddict 【動】[ədíkt]（受身形で）常習する（to ～を）、依存する\n【名】[ǽdikt] 中毒患者\naddictive 【形】\n【関連語＆似た言葉】\naddiction /əˈdɪkʃən/ 【名詞】依存、依存症、中毒\naddict /ˈædɪkt/ 【名詞】依存症の人、中毒者\naddicted /əˈdɪktɪd/ 【形容詞】～に依存して、中毒になって\naddictive /əˈdɪktɪv/ 【形容詞】依存性のある、やめられない\naddition /əˈdɪʃən/ 【名詞】追加、加算\n【発音・スペル注意】\naddiction /əˈdɪkʃən/ と addition /əˈdɪʃən/ は、スペルも音も似ているので注意しましょう。\n【用例】\naddiction to ～ → ～への依存\ndrug addiction → 薬物依存\ninternet addiction → インターネット依存\n【覚え方】\naddiction（依存）→ addicted（依存している）→ addictive（依存性がある）とまとめると覚えやすいです。",
       usedIn: ["s747"],
       tags: ["noun"]
     },
@@ -1034,7 +1034,7 @@ window.SECTIONS["sec08"] = {
       word: "profession",
       ipa: "[prəféʃən]",
       meaning: "職業",
-      extraInfo: "【名】\n（主に知的な）職業 [= occupation, vocation]\nprofessional 【形】\nprofess 【動】を表ろ、を公言する",
+      extraInfo: "【名】\n（主に知的な）職業 [= occupation, vocation]\nprofessional 【形】\nprofess 【動】を表ろ、を公言する\n【関連語＆似た言葉】\nprofession /prəˈfeʃən/ 【名詞】職業、専門職；専門職に就く人々\nprofessional /prəˈfeʃənəl/ 【形容詞・名詞】専門的な、プロの；専門家\nprofessionalism /prəˈfeʃənəlɪzəm/ 【名詞】プロ意識、専門性\noccupation /ˌɑːkjəˈpeɪʃən/ 【名詞】職業；占領\ncareer /kəˈrɪr/ 【名詞】経歴、職業人生\n【意味のニュアンス】\nprofessionは単なる「仕事」より、専門的な知識・資格を必要とする職業というニュアンスがあります。\n【用例】\nthe medical profession → 医療専門職（医療界）\nthe legal profession → 法曹界\nby profession → 職業は～で\nenter a profession → 専門職に就く\n【似た言葉の区別】\njob = 個々の仕事・職\noccupation = 職業（一般的・公的な表現）\nprofession = 専門的な職業\ncareer = 長期的な職業人生・経歴",
       usedIn: ["s748"],
       tags: ["noun"]
     },
@@ -1052,7 +1052,7 @@ window.SECTIONS["sec08"] = {
       word: "nerve",
       ipa: "[nəːrv]",
       meaning: "度胸、神経",
-      extraInfo: "【名】\n度胸（to do ～する） [= courage]、神経\nnervous 【形】心配して、神経質な",
+      extraInfo: "【名】\n度胸（to do ～する） [= courage]、神経\nnervous 【形】心配して、神経質な\n【関連語＆似た言葉】\nnerve /nɜːrv/ 【名詞】神経；度胸、勇気；緊張、不安\nnervous /ˈnɜːrvəs/ 【形容詞】緊張した、不安な；神経の\nnervously /ˈnɜːrvəsli/ 【副詞】緊張して、不安そうに\nnervousness /ˈnɜːrvəsnəs/ 【名詞】緊張、不安\nserve /sɜːrv/ 【動詞】仕える、提供する、役立つ\n【重要な意味・用例】\nnerveは「神経」が基本ですが、勇気・度胸という意味も重要です。\nlose one's nerve → 怖くなって尻込みする\nhave the nerve to do → ～する度胸がある\nnerve damage → 神経損傷\nget on someone's nerves → 人の神経に障る、いらいらさせる\n【覚え方】\nnerve（神経）→ nervous（神経質な・緊張した）とつなげると覚えやすいです。",
       usedIn: ["s750"],
       tags: ["noun"]
     },
@@ -1061,7 +1061,7 @@ window.SECTIONS["sec08"] = {
       word: "assumption",
       ipa: "[əsʌ́mpʃən]",
       meaning: "仮定、想定、思い込み",
-      extraInfo: "【名】\n（確証のない）仮定（that ... 〜という）、想定、思い込み [= presumption, supposition]\nassume 【動】",
+      extraInfo: "【名】\n（確証のない）仮定（that ... 〜という）、想定、思い込み [= presumption, supposition]\nassume 【動】\n【関連語＆似た言葉】\nassumption /əˈsʌmpʃən/ 【名詞】仮定、想定、思い込み、前提\nassume /əˈsuːm/ 【動詞】～と仮定する、～と思い込む\npresumption /prɪˈzʌmpʃən/ 【名詞】推定、仮定\nsupposition /ˌsʌpəˈzɪʃən/ 【名詞】仮定、推測\nconsumption /kənˈsʌmpʃən/ 【名詞】消費、摂取\n【紛らわしい言葉の区別】\nassumption（仮定・前提）と consumption（消費・摂取）は語尾が同じなので混同に注意しましょう。\n【用例】\nmake an assumption → 仮定する、決めつける\nbased on the assumption that ～ → ～という仮定・前提に基づいて\na false assumption → 誤った思い込み・仮定\n【覚え方】\nassume → assumption は形が少し変わるのでセットで覚えましょう。\nassume（仮定する）→ assumption（仮定・前提）",
       usedIn: ["s751"],
       tags: ["noun"]
     },
@@ -1088,7 +1088,7 @@ window.SECTIONS["sec08"] = {
       word: "trait",
       ipa: "[treit]",
       meaning: "特徴、特色",
-      extraInfo: "【名】\n特徴、特色 [= feature, characteristic]",
+      extraInfo: "【名】\n特徴、特色 [= feature, characteristic]\n【関連語＆似た言葉】\ntrait /treɪt/ 【名詞】特徴、特性、性質\ncharacteristic /ˌkærəktəˈrɪstɪk/ 【名詞・形容詞】特徴、特性；特徴的な\nfeature /ˈfiːtʃər/ 【名詞】特徴、特色、機能\nattribute /ˈætrɪbjuːt/ 【名詞】属性、特質\ntreat /triːt/ 【動詞】扱う、治療する\n【重要な意味・用例】\ntraitは特に、人の性格・生物の遺伝的特徴によく使われます。\npersonality trait → 性格上の特徴\ngenetic trait → 遺伝的形質\na common trait → 共通の特徴\ninherited trait → 遺伝した形質\n【発音・意味の区別】\ntrait /treɪt/ = 特徴・特性\ntreat /triːt/ = 扱う・治療する\n音が紛らわしいので注意しましょう。",
       usedIn: ["s754"],
       tags: ["noun"]
     },
@@ -1124,7 +1124,7 @@ window.SECTIONS["sec08"] = {
       word: "currency",
       ipa: "[kə́ːrənsi]",
       meaning: "通貨、普及",
-      extraInfo: "【名】\n通貨 [= money]、普及 [= circulation]\ncurrent 【形】現在の\ncurrently 【副】現在（は）\n語源 ラテン語 currere（走る）から",
+      extraInfo: "【名】\n通貨 [= money]、普及 [= circulation]\ncurrent 【形】現在の\ncurrently 【副】現在（は）\n語源 ラテン語 currere（走る）から\n【関連語＆似た言葉】\ncurrency /ˈkɜːrənsi/ 【名詞】通貨、貨幣；流通、普及\ncurrent /ˈkɜːrənt/ 【形容詞・名詞】現在の；流れ、電流\ncurrently /ˈkɜːrəntli/ 【副詞】現在、今のところ\ncash /kæʃ/ 【名詞】現金\ncurb /kɜːrb/ 【動詞】抑制する\n【重要な意味・用例】\n基本は「通貨」で覚えましょう。\nforeign currency → 外貨\nlocal currency → 現地通貨\ndigital currency → デジタル通貨\ncurrency exchange → 両替、為替\n【覚え方】\ncurrent（流れる・現在の）と同じ語源系で、currency = 世の中を「流通しているもの」→ 通貨 と考えると覚えやすいです。",
       usedIn: ["s758"],
       tags: ["noun"]
     },
@@ -1151,7 +1151,7 @@ window.SECTIONS["sec08"] = {
       word: "dispute",
       ipa: "[dispjúːt]",
       meaning: "論争",
-      extraInfo: "【名】\n論争 [= argument, quarrel]\n【動】に反論する、論争する\ndisputable 【形】",
+      extraInfo: "【名】\n論争 [= argument, quarrel]\n【動】に反論する、論争する\ndisputable 【形】\n【関連語＆似た言葉】\ndispute /dɪˈspjuːt/ 【名詞・動詞】論争、紛争；～に異議を唱える、反論する\ndisputed /dɪˈspjuːtɪd/ 【形容詞】議論のある、係争中の\ndisputable /dɪˈspjuːtəbəl/ 【形容詞】議論の余地がある\ndebate /dɪˈbeɪt/ 【名詞・動詞】議論；議論する\nconflict /ˈkɑːnflɪkt/ 【名詞】対立、紛争\n【意味の説明】\ndisputeは「意見の違い」から、かなり深刻な「紛争・争い」まで使えます。\n【用例】\na territorial dispute → 領土紛争\na labor dispute → 労働争議\nsettle a dispute → 紛争を解決する\ndispute a claim → 主張に異議を唱える\n【debateとの違い】\ndebateが「議論する」なのに対し、disputeは対立・争いのニュアンスが強めです。",
       usedIn: ["s761"],
       tags: ["noun"]
     },
@@ -1160,7 +1160,7 @@ window.SECTIONS["sec08"] = {
       word: "counterpart",
       ipa: "[káuntərpὰːrt]",
       meaning: "対応［相当］する人［もの］",
-      extraInfo: "【名】\n対応［相当］する人［もの］（to ～に） [= equivalent]",
+      extraInfo: "【名】\n対応［相当］する人［もの］（to ～に） [= equivalent]\n【関連語＆似た言葉】\ncounterpart /ˈkaʊntərpɑːrt/ 【名詞】対応する人・物、同等の立場の人・物\ncounter /ˈkaʊntər/ 【名詞・動詞など】カウンター；対抗する\nequivalent /ɪˈkwɪvələnt/ 【名詞・形容詞】同等のもの；同等の\ncolleague /ˈkɑːliːɡ/ 【名詞】同僚\n【重要な意味・用例】\n準1級では「別の組織・国などで、自分と同じ役割や地位にある人」という意味が重要です。\nmeet with his Japanese counterpart → 日本側の同じ立場の人物と会談する\na foreign counterpart → 外国の同等の立場の人\nthe male counterpart → 男性に対応するもの・人物\n【意味のイメージ】\n「日本企業の社長」と「米国企業の社長」のように、別の組織にいる対応する存在がcounterpartです。",
       usedIn: ["s762"],
       tags: ["noun"]
     },
@@ -1169,7 +1169,7 @@ window.SECTIONS["sec08"] = {
       word: "perception",
       ipa: "[pərsépʃən]",
       meaning: "認識、知覚",
-      extraInfo: "【名】\n認識、知覚 [= awareness, recognition]\nperceive 【動】に notice, recognize\nperceptive 【形】",
+      extraInfo: "【名】\n認識、知覚 [= awareness, recognition]\nperceive 【動】に notice, recognize\nperceptive 【形】\n【関連語＆似た言葉】\nperception /pərˈsepʃən/ 【名詞】認識、知覚、見方、捉え方\nperceive /pərˈsiːv/ 【動詞】～を認識する、知覚する、～と捉える\nperceptive /pərˈseptɪv/ 【形容詞】洞察力のある、理解の鋭い\nperspective /pərˈspektɪv/ 【名詞】視点、観点、見方\nreception /rɪˈsepʃən/ 【名詞】受け入れ、歓迎、受信\n【perspectiveとの違い】\nperceptionとperspectiveは意味も音も近いので注意しましょう。\nperception = 人が何かをどう認識・理解しているか\nperspective = 物事を見る視点・立場\n【用例】\npublic perception → 世間の認識\nchange people's perception of ～ → ～に対する人々の認識を変える\na common perception → 一般的な認識\n【覚え方】\nperceive（認識する）→ perception（認識）をセットで覚えましょう。",
       usedIn: ["s763"],
       tags: ["noun"]
     },
@@ -1178,7 +1178,7 @@ window.SECTIONS["sec08"] = {
       word: "custody",
       ipa: "[kʌ́stədi]",
       meaning: "親権、保護、管理",
-      extraInfo: "【名】\n親権、保護 [= care, guardianship, protection]、管理、拘留\ncustodial 【形】\ncustodian 【名】管理人",
+      extraInfo: "【名】\n親権、保護 [= care, guardianship, protection]、管理、拘留\ncustodial 【形】\ncustodian 【名】管理人\n【関連語＆似た言葉】\ncustody /ˈkʌstədi/ 【名詞】保護、監護；拘留、身柄の拘束\ncustodial /kʌˈstoʊdiəl/ 【形容詞】保護・監護の；拘禁の\ncustom /ˈkʌstəm/ 【名詞】習慣、慣習\ncustomer /ˈkʌstəmər/ 【名詞】顧客\ncustodian /kʌˈstoʊdiən/ 【名詞】管理人、保護者\n【意味の説明・用例】\ncustodyは使われる場面によって意味が変わります。\nchild custody → 子どもの親権・監護権\nin police custody → 警察に拘留されて\ntake ～ into custody → ～を拘留する\nhave custody of a child → 子どもの監護権を持つ\n【重要表現】\n準1級では、ニュースなどで出てくる in custody =「拘留されて、身柄を拘束されて」を押さえましょう。",
       usedIn: ["s764"],
       tags: ["noun"]
     },
@@ -1187,7 +1187,7 @@ window.SECTIONS["sec08"] = {
       word: "venue",
       ipa: "[vénjuː]",
       meaning: "会場",
-      extraInfo: "【名】\n会場（for ～の）、開催地 [= site]",
+      extraInfo: "【名】\n会場（for ～の）、開催地 [= site]\n【関連語＆似た言葉】\nvenue /ˈvenjuː/ 【名詞】会場、開催地；（裁判の）開催地・管轄地\navenue /ˈævənuː/ 【名詞】大通り；手段、方法\nmenu /ˈmenjuː/ 【名詞】メニュー、献立\nevent /ɪˈvent/ 【名詞】行事、イベント\n【avenueとの区別】\nvenue = イベントなどが行われる場所・会場\navenue = 大通り、または問題解決への道・手段\n形が似ているので注意しましょう。\n【用例】\na concert venue → コンサート会場\na wedding venue → 結婚式場\nchange the venue → 会場を変更する\nthe venue for the conference → 会議の開催場所\n【覚え方】\neventが行われる場所がvenueと結びつけると覚えやすいです。",
       usedIn: ["s765"],
       tags: ["noun"]
     },
@@ -1196,7 +1196,7 @@ window.SECTIONS["sec08"] = {
       word: "dread",
       ipa: "[dred]",
       meaning: "不安、恐れ",
-      extraInfo: "【名】\n不安、恐れ [= fear, anxiety]\n【動】をひどく恐れる、を心配する\ndreadful 【形】",
+      extraInfo: "【名】\n不安、恐れ [= fear, anxiety]\n【動】をひどく恐れる、を心配する\ndreadful 【形】\n【関連語＆似た言葉】\ndread /dred/ 【動詞・名詞】～をひどく恐れる；恐怖、不安\ndreadful /ˈdredfəl/ 【形容詞】恐ろしい、ひどい\nthreat /θret/ 【名詞】脅威、脅迫\nthread /θred/ 【名詞】糸；（議論などの）筋道\ndead /ded/ 【形容詞】死んだ\n【意味のニュアンス】\ndreadは単なるfearより、「これから起こる嫌なことを考えて、強い恐怖・不安を感じる」ニュアンスがあります。\n【用例・例文】\ndread doing ～ → ～するのが怖い・嫌でたまらない\ndread the thought of ～ → ～を考えるだけでも恐ろしい\na feeling of dread → 強い恐怖感・不安感\nI dread going to the dentist. → 歯医者に行くのが嫌でたまらない。",
       usedIn: ["s766"],
       tags: ["noun"]
     },
@@ -1205,7 +1205,7 @@ window.SECTIONS["sec08"] = {
       word: "incentive",
       ipa: "[inséntiv]",
       meaning: "動機、誘因",
-      extraInfo: "【名】\n動機（to do ～するための）、誘因 [= inducement, motivation, motive]\n【形】[séntiv] より、古ほになる",
+      extraInfo: "【名】\n動機（to do ～するための）、誘因 [= inducement, motivation, motive]\n【形】[séntiv] より、古ほになる\n【関連語＆似た言葉】\nincentive /ɪnˈsentɪv/ 【名詞・形容詞】動機、刺激、奨励策；動機づけとなる\nincentivize /ɪnˈsentɪvaɪz/ 【動詞】動機づけする、奨励する\nintensive /ɪnˈtensɪv/ 【形容詞】集中的な、徹底的な\nintention /ɪnˈtenʃən/ 【名詞】意図、目的\n【意味の説明】\nincentiveは「人に何かをさせるための動機・誘因」という意味が中心です。\n【用例】\nfinancial incentive → 金銭的な奨励策\ntax incentive → 税制上の優遇措置\nprovide an incentive to do → ～する動機を与える\nan incentive for employees → 従業員への奨励策",
       usedIn: ["s767"],
       tags: ["noun"]
     },
@@ -1223,7 +1223,7 @@ window.SECTIONS["sec08"] = {
       word: "province",
       ipa: "[prά(ː)vins]",
       meaning: "州、県、省",
-      extraInfo: "【名】\n（カナダ・フランス・中国などの）州、県、省\nprovincial 【形】州［県、省］の、地方の、原始な",
+      extraInfo: "【名】\n（カナダ・フランス・中国などの）州、県、省\nprovincial 【形】州［県、省］の、地方の、原始な\n【関連語＆似た言葉】\nprovince /ˈprɑːvɪns/ 【名詞】州、省、地方；領域、分野\nprovincial /prəˈvɪnʃəl/ 【形容詞】州・地方の、地方特有の\nprovide /prəˈvaɪd/ 【動詞】提供する\nprovidence /ˈprɑːvɪdəns/ 【名詞】神意、摂理\nregion /ˈriːdʒən/ 【名詞】地域、地方\n【重要な意味・用例】\nprovinceは特に、国を構成する行政区画としての「州・省」が重要です。\na Canadian province → カナダの州\nthe province of Ontario → オンタリオ州\na remote province → 遠く離れた地方\n少し硬い表現では「専門分野・担当領域」の意味もあります。\nThat's not my province. → それは私の専門分野・担当領域ではない。\n【紛らわしい言葉の区別】\nprovince = 州・省・地方\nprovide = 提供する\n音が少し似ているので区別しましょう。",
       usedIn: ["s769"],
       tags: ["noun"]
     },
@@ -1232,7 +1232,7 @@ window.SECTIONS["sec08"] = {
       word: "proponent",
       ipa: "[prəpóunənt]",
       meaning: "支持者",
-      extraInfo: "【名】\n支持者（of ～の） [= advocate, supporter] [⇔ opponent]",
+      extraInfo: "【名】\n支持者（of ～の） [= advocate, supporter] [⇔ opponent]\n【関連語＆似た言葉】\nproponent /prəˈpoʊnənt/ 【名詞】支持者、提唱者、賛成者\nopponent /əˈpoʊnənt/ 【名詞】反対者、対立者、競争相手\nproposal /prəˈpoʊzəl/ 【名詞】提案、計画\npropose /prəˈpoʊz/ 【動詞】提案する\n【覚え方】\nproponent ↔ opponent をセットで覚えましょう。\n【用例】\nproponents of the plan → その計画の支持者\nproponents argue that ～ → 支持者は～と主張する\na strong proponent of ～ → ～の強力な支持者\n【長文・Writingの表現】\nProponents argue that ～, while opponents argue that ... → 賛成派は～と主張する一方、反対派は…と主張する",
       usedIn: ["s770"],
       tags: ["noun"]
     },
@@ -1259,7 +1259,7 @@ window.SECTIONS["sec08"] = {
       word: "vulnerable",
       ipa: "[vʌ́lnərəbl]",
       meaning: "弱い、傷つきやすい",
-      extraInfo: "【形】\n弱い（to 病気などに）、傷つきやすい [⇔ immune]\n免疫のある、影響を受けない\nvulnerability 【名】",
+      extraInfo: "【形】\n弱い（to 病気などに）、傷つきやすい [⇔ immune]\n免疫のある、影響を受けない\nvulnerability 【名】\n【関連語＆似た言葉】\nvulnerable /ˈvʌlnərəbəl/ 【形容詞】傷つきやすい、弱い、被害を受けやすい、脆弱な\nvulnerability /ˌvʌlnərəˈbɪləti/ 【名詞】弱さ、脆弱性\nvulnerably /ˈvʌlnərəbli/ 【副詞】傷つきやすい状態で\nvaluable /ˈvæljuəbəl/ 【形容詞】価値のある、貴重な\n【紛らわしい言葉の区別】\nvulnerableとvaluableは音と見た目が混ざりやすいので注意しましょう。\n【用例】\nvulnerable people → 社会的に弱い立場の人々\nvulnerable to disease → 病気にかかりやすい\nvulnerable to attack → 攻撃を受けやすい\na vulnerable species → 脆弱な・絶滅の危険がある種\n【ITでの表現】\nvulnerability = 脆弱性\nsecurity vulnerability → セキュリティ上の脆弱性\nサーバやセキュリティの話題でも使われます。",
       usedIn: ["s773"],
       tags: ["adjective"]
     },
@@ -1268,7 +1268,7 @@ window.SECTIONS["sec08"] = {
       word: "protective",
       ipa: "[prətéktiv]",
       meaning: "保護する、守ろうとする",
-      extraInfo: "【形】\n保護する、守ろうとする\nprotect 【動】\nprotection 【名】",
+      extraInfo: "【形】\n保護する、守ろうとする\nprotect 【動】\nprotection 【名】\n【関連語＆似た言葉】\nprotective /prəˈtektɪv/ 【形容詞】保護する、保護用の；かばおうとする\nprotect /prəˈtekt/ 【動詞】～を守る、保護する\nprotection /prəˈtekʃən/ 【名詞】保護、防護\nprotector /prəˈtektər/ 【名詞】保護する人・物\nproductive /prəˈdʌktɪv/ 【形容詞】生産的な、生産力のある\n【紛らわしい言葉の区別】\nprotectiveとproductiveは音が少し似ているので注意しましょう。\n【用例】\nprotective clothing → 防護服\nprotective equipment → 保護具、防護装備\nprotective measures → 保護措置\nbe protective of ～ → ～をかばう、～を守ろうとする\n【覚え方】\nprotect（守る）→ protection（保護）→ protective（保護するための）",
       usedIn: ["s774"],
       tags: ["adjective"]
     },
@@ -1295,7 +1295,7 @@ window.SECTIONS["sec08"] = {
       word: "reluctant",
       ipa: "[rilʌ́ktənt]",
       meaning: "気が進まない",
-      extraInfo: "【形】\n気が進まない（to do ～することに） [⇔ unwilling]\nreluctance 【名】",
+      extraInfo: "【形】\n気が進まない（to do ～することに） [⇔ unwilling]\nreluctance 【名】\n【関連語＆似た言葉】\nreluctant /rɪˈlʌktənt/ 【形容詞】気が進まない、嫌がる、しぶしぶの\nreluctantly /rɪˈlʌktəntli/ 【副詞】しぶしぶ、いやいやながら\nreluctance /rɪˈlʌktəns/ 【名詞】気が進まないこと、ためらい\nresistant /rɪˈzɪstənt/ 【形容詞】抵抗する、耐性のある\nhesitant /ˈhezɪtənt/ 【形容詞】ためらっている、躊躇した\n【重要表現・用例】\nbe reluctant to do の形を覚えましょう。\nbe reluctant to accept ～ → ～を受け入れることに気が進まない\nbe reluctant to change → 変えることを嫌がる\nreluctantly agree → しぶしぶ同意する\n【hesitantとの違い】\nreluctant → やりたくない・気が進まない\nhesitant → 迷っていて決断できない・ためらう",
       usedIn: ["s777"],
       tags: ["adjective"]
     },
@@ -1304,7 +1304,7 @@ window.SECTIONS["sec08"] = {
       word: "confident",
       ipa: "[kά(ː)nfədənt]",
       meaning: "確信して",
-      extraInfo: "【形】\n確信して（that ... 〜と、of, about ～を） [= sure, certain]、自信に満ちた [⇔ anxious]\nconfidence 【名】\nconfide 【動】打ち明ける",
+      extraInfo: "【形】\n確信して（that ... 〜と、of, about ～を） [= sure, certain]、自信に満ちた [⇔ anxious]\nconfidence 【名】\nconfide 【動】打ち明ける\n【関連語＆似た言葉】\nconfident /ˈkɑːnfɪdənt/ 【形容詞】自信のある、確信している\nconfidence /ˈkɑːnfɪdəns/ 【名詞】自信、確信、信頼\nconfidently /ˈkɑːnfɪdəntli/ 【副詞】自信を持って\nconfidential /ˌkɑːnfɪˈdenʃəl/ 【形容詞】秘密の、機密の\nconfidant /ˈkɑːnfɪdænt/ 【名詞】親友、相談相手\n【紛らわしい言葉の区別】\nconfident = 自信がある\nconfidential = 秘密・機密の\nこの2語は混同に注意しましょう。\n【用例】\nbe confident about ～ → ～について自信がある\nbe confident that ～ → ～だと確信している\nfeel confident → 自信を感じる",
       usedIn: ["s778"],
       tags: ["adjective"]
     },
@@ -1322,7 +1322,7 @@ window.SECTIONS["sec08"] = {
       word: "barren",
       ipa: "[bǽrən]",
       meaning: "不毛の、作物ができない",
-      extraInfo: "【形】\n不毛の、作物ができない [⇔ sterile] [⇔ fertile]\n【名】（通常 ～s）やせ地、（特に北米の）荒野",
+      extraInfo: "【形】\n不毛の、作物ができない [⇔ sterile] [⇔ fertile]\n【名】（通常 ～s）やせ地、（特に北米の）荒野\n【関連語＆似た言葉】\nbarren /ˈbærən/ 【形容詞】不毛の、作物が育たない；実りのない\nbaron /ˈbærən/ 【名詞】男爵；実業界などの大物\nburden /ˈbɜːrdən/ 【名詞・動詞】負担、重荷；負担をかける\nbare /ber/ 【形容詞】むき出しの、何もない\n【意味の説明・用例】\nbarrenは特に土地についてよく使います。\nbarren land → 不毛の土地\na barren desert → 不毛な砂漠\nbarren soil → やせた土壌\n比喩的に「成果・実りがない」という意味でも使われます。\n【覚え方】\nfertile（肥沃な）のほぼ反対と考えると覚えやすいです。\nfertile land ↔ barren land\n肥沃な土地 ↔ 不毛の土地",
       usedIn: ["s780"],
       tags: ["adjective"]
     },
@@ -1340,7 +1340,7 @@ window.SECTIONS["sec08"] = {
       word: "reliable",
       ipa: "[riláiəbl]",
       meaning: "信頼できる",
-      extraInfo: "【形】\n信頼できる [= dependable, trustworthy] [⇔ unreliable]\nrely 【動】\nreliability 【名】",
+      extraInfo: "【形】\n信頼できる [= dependable, trustworthy] [⇔ unreliable]\nrely 【動】\nreliability 【名】\n【関連語＆似た言葉】\nreliable /rɪˈlaɪəbəl/ 【形容詞】信頼できる、頼りになる、確かな\nreliably /rɪˈlaɪəbli/ 【副詞】確実に、信頼できる形で\nreliability /rɪˌlaɪəˈbɪləti/ 【名詞】信頼性、確実性\nrely /rɪˈlaɪ/ 【動詞】頼る、信頼する\nrelievable /rɪˈliːvəbəl/ 【形容詞】軽減できる\n【覚え方】\nrely → reliable → reliability とつなげて覚えましょう。\n【用例】\na reliable source → 信頼できる情報源\nreliable information → 信頼できる情報\na reliable method → 確かな方法\na reliable person → 頼りになる人\n【重要表現】\nrely on ～ = ～を頼る\nbe reliable = 頼りになる・信頼できる",
       usedIn: ["s782"],
       tags: ["adjective"]
     },
@@ -1349,7 +1349,7 @@ window.SECTIONS["sec08"] = {
       word: "curious",
       ipa: "[kjúəriəs]",
       meaning: "好奇心の強い、注意深すぎる",
-      extraInfo: "【形】\n好奇心の強い（about, as to ～に対して）、注意深すぎる [= nosy] [⇔ indifferent]\ncuriously 【副】\ncuriosity 【名】",
+      extraInfo: "【形】\n好奇心の強い（about, as to ～に対して）、注意深すぎる [= nosy] [⇔ indifferent]\ncuriously 【副】\ncuriosity 【名】\n【関連語＆似た言葉】\ncurious /ˈkjʊriəs/ 【形容詞】好奇心の強い、知りたがる；奇妙な、不思議な\ncuriosity /ˌkjʊriˈɑːsəti/ 【名詞】好奇心\ncuriously /ˈkjʊriəsli/ 【副詞】好奇心を持って；奇妙なことに\ncautious /ˈkɔːʃəs/ 【形容詞】用心深い、慎重な\n【重要表現・用例】\nbe curious about ～ の形を覚えましょう。\nbe curious about other cultures → 他の文化に興味を持っている\nbe curious to know ～ → ～を知りたがる\nout of curiosity → 好奇心から\n【もう一つの意味】\ncuriousには「好奇心がある」だけでなく「奇妙な、不思議な」という意味もあります。\na curious situation → 奇妙な状況",
       usedIn: ["s783"],
       tags: ["adjective"]
     },
@@ -1358,7 +1358,7 @@ window.SECTIONS["sec08"] = {
       word: "hasty",
       ipa: "[héisti]",
       meaning: "急ぎの、早まった",
-      extraInfo: "【形】\n急ぎの [= quick]、早まった [= rash]\nhastily 【副】\nhaste 【名】\nhasten 【動】",
+      extraInfo: "【形】\n急ぎの [= quick]、早まった [= rash]\nhastily 【副】\nhaste 【名】\nhasten 【動】\n【関連語＆似た言葉】\nhasty /ˈheɪsti/ 【形容詞】急いだ、性急な、軽率な\nhastily /ˈheɪstɪli/ 【副詞】急いで、慌てて\nhaste /heɪst/ 【名詞】急ぐこと、性急さ\nhesitant /ˈhezɪtənt/ 【形容詞】ためらっている\nhostile /ˈhɑːstəl/ 【形容詞】敵意のある、敵対的な\n【意味のニュアンス】\nhastyは単に「速い」というより、十分に考えず急いでしまう → 性急な・軽率なというニュアンスが重要です。\n【用例・例文】\na hasty decision → 性急な決定\na hasty conclusion → 早まった結論\nmake a hasty judgment → 軽率な判断をする\nDon't be hasty. → 早まらないで。\n【覚え方】\nhaste（急ぐこと）→ hasty（性急な）→ hastily（性急に）",
       usedIn: ["s784"],
       tags: ["adjective"]
     },
@@ -1376,7 +1376,7 @@ window.SECTIONS["sec08"] = {
       word: "bulky",
       ipa: "[bʌ́lki]",
       meaning: "かさばった、扱いにくいほど大きい",
-      extraInfo: "【形】\nかさばった、扱いにくいほど大きい\nbulk 【名】",
+      extraInfo: "【形】\nかさばった、扱いにくいほど大きい\nbulk 【名】\n【関連語＆似た言葉】\nbulky /ˈbʌlki/ 【形容詞】かさばる、大きくて扱いにくい；図体の大きい\nbulk /bʌlk/ 【名詞】大部分、大量；かさ、容積\nbulk up /bʌlk ʌp/ 【句動詞】体を大きくする、筋肉をつける\nbully /ˈbʊli/ 【名詞・動詞】いじめっ子；いじめる\n【意味のニュアンス】\nbulkyは単に大きいというより、大きくて場所を取る・持ち運びにくいというニュアンスです。\n【用例】\nbulky furniture → かさばる家具\na bulky package → かさばる荷物\nbulky equipment → 大型で扱いにくい機器\n【largeとの違い】\nlarge = 単純に大きい\nbulky = 大きくてかさばる",
       usedIn: ["s786"],
       tags: ["adjective"]
     },
@@ -1385,7 +1385,7 @@ window.SECTIONS["sec08"] = {
       word: "faulty",
       ipa: "[fɔ́ːlti]",
       meaning: "欠陥のある",
-      extraInfo: "【形】\n（機械・装置などが）欠陥のある [= defective] [⇔ faultless]\nfault 【名】",
+      extraInfo: "【形】\n（機械・装置などが）欠陥のある [= defective] [⇔ faultless]\nfault 【名】\n【関連語＆似た言葉】\nfaulty /ˈfɔːlti/ 【形容詞】欠陥のある、不完全な；誤った\nfault /fɔːlt/ 【名詞】欠点、欠陥；過失、責任\nflaw /flɔː/ 【名詞】欠点、欠陥\nfalse /fɔːls/ 【形容詞】誤った、偽の\n【意味の説明・用例】\nfaultyは機械・製品だけでなく、考え方や推論にも使えます。\nfaulty equipment → 欠陥のある機器\nfaulty wiring → 不良配線\nfaulty reasoning → 誤った推論\na faulty assumption → 誤った前提\n【覚え方】\n742番 flaw と関連づけましょう。\nflaw = 「欠陥」という名詞\nfaulty = 「欠陥のある」という形容詞",
       usedIn: ["s787"],
       tags: ["adjective"]
     },
@@ -1403,7 +1403,7 @@ window.SECTIONS["sec08"] = {
       word: "knowledgeable",
       ipa: "[nά(ː)lidʒəbl]",
       meaning: "よく知っている、物知りの",
-      extraInfo: "【形】\nよく知っている（about ～を） [= familiar]、物知りの [= well-informed]\nknowledge 【名】",
+      extraInfo: "【形】\nよく知っている（about ～を） [= familiar]、物知りの [= well-informed]\nknowledge 【名】\n【関連語＆似た言葉】\nknowledgeable /ˈnɑːlɪdʒəbəl/ 【形容詞】知識が豊富な、よく知っている、博識な\nknowledge /ˈnɑːlɪdʒ/ 【名詞】知識、理解\nknow /noʊ/ 【動詞】知っている\nacknowledge /əkˈnɑːlɪdʒ/ 【動詞】認める、認識する\nnoticeable /ˈnoʊtɪsəbəl/ 【形容詞】目立つ、気づくほどの\n【重要表現・用例】\nbe knowledgeable about ～ の形を覚えましょう。\nbe knowledgeable about computers → コンピュータについて詳しい\na knowledgeable person → 知識豊富な人\na knowledgeable expert → 博識な専門家\n【発音・スペル注意】\nknowledge → knowledgeable\nknowの /noʊ/ ではなく、最初が /ˈnɑːl-/ になるところに注意しましょう。\n【覚え方】\n216番 acknowledge ともknowledge系としてまとめておくと覚えやすいです。",
       usedIn: ["s789"],
       tags: ["adjective"]
     },
@@ -1412,7 +1412,7 @@ window.SECTIONS["sec08"] = {
       word: "tense",
       ipa: "[tens]",
       meaning: "緊迫した、緊張した",
-      extraInfo: "【形】\n緊迫した [= strained]、緊張した [= nervous] [⇔ relaxed]\ntension 【名】",
+      extraInfo: "【形】\n緊迫した [= strained]、緊張した [= nervous] [⇔ relaxed]\ntension 【名】\n【関連語＆似た言葉】\ntense /tens/ 【形容詞】緊張した、張り詰めた\ntense /tens/ 【名詞】時制（現在形・過去形など）\ntension /ˈtenʃən/ 【名詞】緊張、緊張状態、張力\nintense /ɪnˈtens/ 【形容詞】激しい、強烈な\ndense /dens/ 【形容詞】密集した、濃い\n【重要な意味・用例】\n準1級では形容詞の「緊張した・張り詰めた」を押さえましょう。\na tense situation → 緊迫した状況\na tense atmosphere → 張り詰めた雰囲気\nfeel tense → 緊張している\ntense relations → 緊張した関係\n【intenseとの違い】\ntense → 人・状況などが緊張した\nintense → 程度が激しい・強烈な",
       usedIn: ["s790"],
       tags: ["adjective"]
     },
@@ -1421,7 +1421,7 @@ window.SECTIONS["sec08"] = {
       word: "intact",
       ipa: "[intǽkt]",
       meaning: "損なわれていない、手をつけられていない",
-      extraInfo: "【形】\n損なわれていない [= undamaged]、手をつけられていない",
+      extraInfo: "【形】\n損なわれていない [= undamaged]、手をつけられていない\n【関連語＆似た言葉】\nintact /ɪnˈtækt/ 【形容詞】損なわれていない、無傷の、完全なままの\ncontact /ˈkɑːntækt/ 【名詞・動詞】接触、連絡；連絡する\nimpact /ˈɪmpækt/ 【名詞】影響、衝撃\ninteract /ˌɪntərˈækt/ 【動詞】相互作用する、交流する\n【意味のイメージ】\nintactは何かが壊れたり失われたりせず、元の状態を保っているというイメージです。\n【用例・例文】\nremain intact → 損なわれずに残る\nkeep ～ intact → ～を完全な状態に保つ\nThe building remained intact. → その建物は無傷のままだった。\n【紛らわしい言葉の区別】\n308番 interact と見た目が似ていますが、意味は異なります。\nintact = 無傷の、完全なまま\ninteract = 交流する、相互作用する",
       usedIn: ["s791"],
       tags: ["adjective"]
     },
@@ -1430,7 +1430,7 @@ window.SECTIONS["sec08"] = {
       word: "comprehensive",
       ipa: "[kὰ(ː)mprihénsiv]",
       meaning: "包括的な、広範囲にわたる",
-      extraInfo: "【形】\n包括的な、広範囲にわたる [= inclusive]\ncf. comprehend を理解する\ncomprehension 【名】理解",
+      extraInfo: "【形】\n包括的な、広範囲にわたる [= inclusive]\ncf. comprehend を理解する\ncomprehension 【名】理解\n【関連語＆似た言葉】\ncomprehensive /ˌkɑːmprɪˈhensɪv/ 【形容詞】包括的な、総合的な、広範囲にわたる\ncomprehensively /ˌkɑːmprɪˈhensɪvli/ 【副詞】包括的に、総合的に\ncomprehension /ˌkɑːmprɪˈhenʃən/ 【名詞】理解、理解力\ncomprehend /ˌkɑːmprɪˈhend/ 【動詞】理解する\ncomprehensible /ˌkɑːmprɪˈhensəbəl/ 【形容詞】理解できる、分かりやすい\n【意味の説明】\ncomprehensiveは「いろいろな要素を含んでいる → 包括的・総合的」という意味が重要です。\n【用例】\na comprehensive study → 包括的な研究\na comprehensive plan → 総合的な計画\na comprehensive review → 全面的・包括的な見直し\ncomprehensive information → 幅広く網羅した情報\n【comprehensibleとの違い】\ncomprehensive → 包括的な・幅広い\ncomprehensible → 理解できる・分かりやすい",
       usedIn: ["s792"],
       tags: ["adjective"]
     },
@@ -1448,7 +1448,7 @@ window.SECTIONS["sec08"] = {
       word: "scarce",
       ipa: "[skὲərs]",
       meaning: "十分でない、乏しい",
-      extraInfo: "【形】\n十分でない、乏しい [= insufficient, inadequate] [⇔ plentiful]\nscarcely 【副】\nscarcity 【名】",
+      extraInfo: "【形】\n十分でない、乏しい [= insufficient, inadequate] [⇔ plentiful]\nscarcely 【副】\nscarcity 【名】\n【関連語＆似た言葉】\nscarce /skers/ 【形容詞】乏しい、不足している、希少な\nscarcely /ˈskersli/ 【副詞】ほとんど～ない、かろうじて\nscarcity /ˈskersəti/ 【名詞】不足、欠乏、希少性\nscare /sker/ 【動詞・名詞】怖がらせる；恐怖\nscared /skerd/ 【形容詞】怖がっている\n【意味のニュアンス】\nscarceは必要な量に対して十分にないというニュアンスです。\n【用例】\nscarce resources → 乏しい資源\nwater is scarce → 水が不足している\na scarce resource → 希少資源\nbecome increasingly scarce → ますます不足する\n【覚え方】\nscarce（乏しい）→ scarcity（不足・希少性）は準1級で使いやすい組み合わせです。",
       usedIn: ["s794"],
       tags: ["adjective"]
     },
@@ -1475,7 +1475,7 @@ window.SECTIONS["sec08"] = {
       word: "nonetheless",
       ipa: "[n`ʌnðəlés]",
       meaning: "それにもかかわらず",
-      extraInfo: "【副】\nそれにもかかわらず [= nevertheless]",
+      extraInfo: "【副】\nそれにもかかわらず [= nevertheless]\n【関連語＆似た言葉】\nnonetheless /ˌnʌnðəˈles/ 【副詞】それにもかかわらず、それでもなお\nnevertheless /ˌnevərðəˈles/ 【副詞】それにもかかわらず、それでも\nhowever /haʊˈevər/ 【副詞】しかしながら\nregardless /rɪˈɡɑːrdləs/ 【副詞】それでも、とにかく、関係なく\n【意味・例文】\nnonethelessはneverthelessとほぼ同じ意味です。\nThe task was difficult. Nonetheless, she completed it. → その課題は難しかった。それにもかかわらず、彼女はやり遂げた。\n【覚え方】\nnone + the + less → nonetheless\nWritingでも逆接を作るときに使えます。\nnonetheless = nevertheless = それにもかかわらず と結びつけて覚えましょう。",
       usedIn: ["s797"],
       tags: ["adverb"]
     },
@@ -1493,7 +1493,7 @@ window.SECTIONS["sec08"] = {
       word: "intentionally",
       ipa: "[inténʃənəli]",
       meaning: "故意に、意図的に",
-      extraInfo: "【副】\n故意に、意図的に [= deliberately] [⇔ unintentionally]\nintention 【名】\nintentional 【形】",
+      extraInfo: "【副】\n故意に、意図的に [= deliberately] [⇔ unintentionally]\nintention 【名】\nintentional 【形】\n【関連語＆似た言葉】\nintentionally /ɪnˈtenʃənəli/ 【副詞】意図的に、故意に、わざと\nintentional /ɪnˈtenʃənəl/ 【形容詞】意図的な、故意の\nintention /ɪnˈtenʃən/ 【名詞】意図、意向、目的\nintend /ɪnˈtend/ 【動詞】～するつもりである、意図する\nunintentionally /ˌʌnɪnˈtenʃənəli/ 【副詞】意図せず、偶然に\n【覚え方】\nintend（意図する）→ intention（意図）→ intentional（意図的な）→ intentionally（意図的に）\n124番 intend から派生させて覚えましょう。\n【用例】\nintentionally damage ～ → ～を故意に傷つける\nintentionally ignore ～ → ～をわざと無視する\ndo something intentionally → 意図的に何かをする\n【対義語】\n反対は unintentionally（意図せずに）です。",
       usedIn: ["s799"],
       tags: ["adverb"]
     },
@@ -1502,7 +1502,7 @@ window.SECTIONS["sec08"] = {
       word: "abruptly",
       ipa: "[əbrʌ́ptli]",
       meaning: "突然に",
-      extraInfo: "【副】\n突然に [= suddenly, unexpectedly]\nabrupt 【形】",
+      extraInfo: "【副】\n突然に [= suddenly, unexpectedly]\nabrupt 【形】\n【関連語＆似た言葉】\nabruptly /əˈbrʌptli/ 【副詞】突然に、不意に；ぶっきらぼうに\nabrupt /əˈbrʌpt/ 【形容詞】突然の、唐突な；ぶっきらぼうな\nsuddenly /ˈsʌdənli/ 【副詞】突然に\nadmittedly /ədˈmɪtɪdli/ 【副詞】確かに、認めざるを得ないが\n【用例】\nstop abruptly → 突然止まる\nchange abruptly → 急に変化する\nend abruptly → 唐突に終わる\nspeak abruptly → ぶっきらぼうに話す\n【覚え方】\nabrupt（突然の）→ abruptly（突然に）。/brʌptli/ は「ブラプトリ」に近い音。",
       usedIn: ["s800"],
       tags: ["adverb"]
     }

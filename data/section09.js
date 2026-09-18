@@ -620,7 +620,7 @@ window.SECTIONS["sec09"] = {
       word: "applaud",
       ipa: "[əplɔ́ːd]",
       meaning: "に拍手する、を賞賛する",
-      extraInfo: "【動】\nに拍手する [= clap]、を賞賛する [= praise, commend, acclaim]\napplause 【名】",
+      extraInfo: "【動】\nに拍手する [= clap]、を賞賛する [= praise, commend, acclaim]\napplause 【名】\n【関連語＆似た言葉】\napplaud /əˈplɔːd/ 【動詞】拍手する；称賛する、高く評価する\napplause /əˈplɔːz/ 【名詞】拍手、喝采\napplaudable /əˈplɔːdəbəl/ 【形容詞】称賛に値する\napprove /əˈpruːv/ 【動詞】賛成する、承認する\n【ポイント】\n実際に拍手するだけでなく、考え・行動などを称賛する意味でも使う。\n【用例】\napplaud a performance → 演技に拍手を送る\napplaud someone's efforts → 人の努力を称賛する\napplaud the decision → その決定を高く評価する\n【覚え方】\napplaud（拍手する）→ applause（拍手）。スペルと語尾の発音の変化に注意。",
       usedIn: ["s802"],
       tags: ["verb"]
     },
@@ -629,7 +629,7 @@ window.SECTIONS["sec09"] = {
       word: "bribe",
       ipa: "[braib]",
       meaning: "を買収する",
-      extraInfo: "【動】\nを買収する [= buy off]\n【名】賄賂（の金品）\nbribery 【名】賄賂の授受",
+      extraInfo: "【動】\nを買収する [= buy off]\n【名】賄賂（の金品）\nbribery 【名】賄賂の授受\n【関連語＆似た言葉】\nbribe /braɪb/ 【名詞・動詞】賄賂；～に賄賂を贈る、買収する\nbribery /ˈbraɪbəri/ 【名詞】贈収賄、賄賂行為\nbribe /braɪb/ 【動詞】賄賂を渡して～させる\nbride /braɪd/ 【名詞】花嫁\ntribe /traɪb/ 【名詞】部族、種族\n【用例】\naccept a bribe → 賄賂を受け取る\noffer a bribe → 賄賂を申し出る\nbribe an official → 役人を買収する\nbribe someone to do ～ → ～するよう人を買収する\n【覚え方】\nbribe（賄賂）→ bribery（贈収賄）。bribe / bride は一文字違いで音も似ているので注意。",
       usedIn: ["s803"],
       tags: ["verb"]
     },
@@ -647,7 +647,7 @@ window.SECTIONS["sec09"] = {
       word: "stroll",
       ipa: "[stróul]",
       meaning: "ぶらぶら歩く、散歩する",
-      extraInfo: "【動】\nぶらぶら歩く、散歩する [= walk, wander, roam]\n【名】ぶらぶら歩くこと、散歩",
+      extraInfo: "【動】\nぶらぶら歩く、散歩する [= walk, wander, roam]\n【名】ぶらぶら歩くこと、散歩\n【関連語＆似た言葉】\nstroll /stroʊl/ 【動詞・名詞】ぶらぶら歩く、散歩する；散歩\nstroller /ˈstroʊlər/ 【名詞】散歩する人；ベビーカー\nscroll /skroʊl/ 【動詞・名詞】スクロールする；巻物\nstride /straɪd/ 【動詞・名詞】大股で歩く；大股の一歩\nroam /roʊm/ 【動詞】歩き回る、放浪する\n【ポイント】\nstroll はゆっくり気楽にぶらぶら歩くイメージ。\n【用例】\nstroll through the park → 公園をぶらぶら歩く\ntake a stroll → 散歩する\ngo for a stroll → 散歩に出かける\n【混同注意】\nstroll = 散歩する / scroll = 画面をスクロールする。一文字違いに注意。",
       usedIn: ["s805"],
       tags: ["verb"]
     },
@@ -656,7 +656,7 @@ window.SECTIONS["sec09"] = {
       word: "swell",
       ipa: "[swel]",
       meaning: "増大する、腫れる",
-      extraInfo: "【動】\n増大する [= increase, expand]、腫れる\n【名】ふくらみ、膨れ、増大\nswelling 【名】腫れること、腫れもの",
+      extraInfo: "【動】\n増大する [= increase, expand]、腫れる\n【名】ふくらみ、膨れ、増大\nswelling 【名】腫れること、腫れもの\n【関連語＆似た言葉】\nswell /swel/ 【動詞・名詞】膨らむ、腫れる；増大する／膨張、うねり\nswollen /ˈswoʊlən/ 【形容詞】腫れた、膨れた\nswelling /ˈswelɪŋ/ 【名詞】腫れ、膨張\ndwell /dwel/ 【動詞】住む；～についてくよくよ考える\nwell /wel/ 【副詞・形容詞・名詞】よく；健康な；井戸\n【ポイント】\n「膨らむ」から、数量などが増大する場合にも使う。\n【用例】\nHer ankle began to swell. → 彼女の足首が腫れ始めた。\nThe population swelled. → 人口が急増した。\nswell in size → 大きく膨らむ\n【活用】\nswell → swelled → swollen / swelled。特に swollen はよく使われる。",
       usedIn: ["s806"],
       tags: ["verb"]
     },
@@ -665,7 +665,7 @@ window.SECTIONS["sec09"] = {
       word: "uphold",
       ipa: "[ʌphóuld]",
       meaning: "を支持する、を維持する",
-      extraInfo: "【動】\nを支持する [= support]、を確認する [= confirm]、を維持する [= maintain]",
+      extraInfo: "【動】\nを支持する [= support]、を確認する [= confirm]、を維持する [= maintain]\n【関連語＆似た言葉】\nuphold /ʌpˈhoʊld/ 【動詞】支持する、擁護する；維持する；判決などを支持する\nupheld /ʌpˈheld/ 【動詞】uphold の過去形・過去分詞\nhold /hoʊld/ 【動詞】持つ、保持する\nmaintain /meɪnˈteɪn/ 【動詞】維持する\nsupport /səˈpɔːrt/ 【動詞】支持する、支える\n【ポイント】\n法律・原則・権利・決定などを守って維持するイメージ。\n【用例】\nuphold the law → 法律を守る・維持する\nuphold human rights → 人権を擁護する\nuphold a decision → 決定を支持する\nuphold a tradition → 伝統を守る\n【活用・覚え方】\nuphold → upheld → upheld\nup + hold = 上に持ち上げて支えておく → 支持・維持する。",
       usedIn: ["s807"],
       tags: ["verb"]
     },
@@ -683,7 +683,7 @@ window.SECTIONS["sec09"] = {
       word: "expire",
       ipa: "[ikspáiər]",
       meaning: "期限が切れる、終了する",
-      extraInfo: "【動】\n（権利などの）期限が切れる、終了する [= run out, end, terminate]\nexpiration 【名】",
+      extraInfo: "【動】\n（権利などの）期限が切れる、終了する [= run out, end, terminate]\nexpiration 【名】\n【関連語＆似た言葉】\nexpire /ɪkˈspaɪər/ 【動詞】期限が切れる、失効する；満了する\nexpiration /ˌekspəˈreɪʃən/ 【名詞】期限切れ、満了\nexpiry /ɪkˈspaɪəri/ 【名詞】有効期限、満了\ninspire /ɪnˈspaɪər/ 【動詞】奮起させる、刺激する\naspire /əˈspaɪər/ 【動詞】熱望する、目指す\n【ポイント】\n有効期限が切れる・契約などが満了する意味が重要。\n【用例】\nThe contract expires next month. → 契約は来月満了する。\nMy passport has expired. → 私のパスポートは有効期限が切れている。\nan expiration date → 有効期限\n【混同注意】\nexpire = 期限が切れる / inspire = 奮起させる / aspire = ～を目指す。",
       usedIn: ["s809"],
       tags: ["verb"]
     },
@@ -710,7 +710,7 @@ window.SECTIONS["sec09"] = {
       word: "accumulate",
       ipa: "[əkjúːmjəlèit]",
       meaning: "を蓄積する、を集める",
-      extraInfo: "【動】\nを蓄積する、を集める [= gather, collect, pile up]\naccumulation 【名】",
+      extraInfo: "【動】\nを蓄積する、を集める [= gather, collect, pile up]\naccumulation 【名】\n【関連語＆似た言葉】\naccumulate /əˈkjuːmjəleɪt/ 【動詞】蓄積する、ためる；蓄積する、たまる\naccumulation /əˌkjuːmjəˈleɪʃən/ 【名詞】蓄積、集積\naccumulative /əˈkjuːmjələtɪv/ 【形容詞】蓄積する、累積的な\naccommodate /əˈkɑːmədeɪt/ 【動詞】収容する、適応させる\ncalculate /ˈkælkjəleɪt/ 【動詞】計算する\n【ポイント】\n少しずつ集まって量が増えていくイメージ。自動詞・他動詞の両方で使う。\n【用例】\naccumulate wealth → 富を蓄える\naccumulate knowledge → 知識を蓄積する\nDust accumulated on the floor. → 床にほこりがたまった。\naccumulate + wealth / evidence / knowledge / debt の組み合わせを覚える。",
       usedIn: ["s812"],
       tags: ["verb"]
     },
@@ -719,7 +719,7 @@ window.SECTIONS["sec09"] = {
       word: "designate",
       ipa: "[dézignèit]",
       meaning: "を指定する、を任命する",
-      extraInfo: "【動】\nを指定する（as, for ～に）、を任命 [指名] する [= appoint, nominate]\ndesignation 【名】",
+      extraInfo: "【動】\nを指定する（as, for ～に）、を任命 [指名] する [= appoint, nominate]\ndesignation 【名】\n【関連語＆似た言葉】\ndesignate /ˈdezɪɡneɪt/ 【動詞】指定する、指名する；～と定める\ndesignation /ˌdezɪɡˈneɪʃən/ 【名詞】指定、指名、名称\ndesignated /ˈdezɪɡneɪtɪd/ 【形容詞】指定された、所定の\ndesign /dɪˈzaɪn/ 【動詞・名詞】設計する；設計、デザイン\ndelegate /ˈdelɪɡeɪt/ 【動詞】権限・仕事などを委任する\n【ポイント】\n人・場所・物などを特定の役割や目的のために正式に指定する。\n【用例】\ndesignate an area as a national park → ある地域を国立公園に指定する\ndesignate someone as a leader → 人をリーダーに指名する\na designated area → 指定区域\na designated driver → 飲酒せず運転を担当する人\n【混同注意】\ndesign /dɪˈzaɪn/ とスペルは似ているが、発音も意味も異なる。",
       usedIn: ["s813"],
       tags: ["verb"]
     },
@@ -728,7 +728,7 @@ window.SECTIONS["sec09"] = {
       word: "conceal",
       ipa: "[kənsíːl]",
       meaning: "を隠す",
-      extraInfo: "【動】\nを隠す [= hide, mask, cover up] [⇔ disclose]\nconcealment 【名】",
+      extraInfo: "【動】\nを隠す [= hide, mask, cover up] [⇔ disclose]\nconcealment 【名】\n【関連語＆似た言葉】\nconceal /kənˈsiːl/ 【動詞】隠す、秘密にする、見えないようにする\nconcealment /kənˈsiːlmənt/ 【名詞】隠すこと、隠蔽\nreveal /rɪˈviːl/ 【動詞】明らかにする、暴露する\nconceive /kənˈsiːv/ 【動詞】思いつく、想像する；妊娠する\ncancel /ˈkænsəl/ 【動詞】中止する、取り消す\n【ポイント】\n物だけでなく、事実・感情・情報などを人に知られないようにする場合にも使う。\n【用例】\nconceal the truth → 真実を隠す\nconceal information → 情報を隠す\nconceal one's feelings → 感情を隠す\nconceal a weapon → 武器を隠す\n【対義語】\nconceal（隠す）⇔ reveal（明らかにする）",
       usedIn: ["s814"],
       tags: ["verb"]
     },
@@ -737,7 +737,7 @@ window.SECTIONS["sec09"] = {
       word: "disregard",
       ipa: "[dìsrigάːrd]",
       meaning: "を無視する、を軽視する",
-      extraInfo: "【動】\nを無視する、を軽視する [= neglect, ignore] [⇔ pay attention to]\n【名】無視、軽視",
+      extraInfo: "【動】\nを無視する、を軽視する [= neglect, ignore] [⇔ pay attention to]\n【名】無視、軽視\n【関連語＆似た言葉】\ndisregard /ˌdɪsrɪˈɡɑːrd/ 【動詞・名詞】無視する、軽視する；無視、軽視\nregard /rɪˈɡɑːrd/ 【動詞・名詞】～とみなす；考慮、関心\nregardless /rɪˈɡɑːrdləs/ 【副詞】それにもかかわらず；関係なく\nignore /ɪɡˈnɔːr/ 【動詞】無視する\ndismiss /dɪsˈmɪs/ 【動詞】退ける、取り合わない\n【覚え方】\ndis + regard：regard（注意・関心を向ける）→ disregard（注意を向けない → 無視する、軽視する）。013番 regard と関連づける。\n【用例】\ndisregard the rules → 規則を無視する\ndisregard a warning → 警告を無視する\ndisregard the consequences → 結果を考慮しない",
       usedIn: ["s815"],
       tags: ["verb"]
     },
@@ -764,7 +764,7 @@ window.SECTIONS["sec09"] = {
       word: "enact",
       ipa: "[inǽkt]",
       meaning: "を制定する、を通過させる",
-      extraInfo: "【動】\n（法案）を制定する、を通過させる [= establish, pass]\nenactment 【名】",
+      extraInfo: "【動】\n（法案）を制定する、を通過させる [= establish, pass]\nenactment 【名】\n【関連語＆似た言葉】\nenact /ɪˈnækt/ 【動詞】法律などを制定する；実施する、実行する\nenactment /ɪˈnæktmənt/ 【名詞】法律の制定、施行\nact /ækt/ 【動詞・名詞】行動する；行為、法律\nenforce /ɪnˈfɔːrs/ 【動詞】法律・規則を施行する、守らせる\nimplement /ˈɪmpləment/ 【動詞】計画・政策などを実施する\n【用例】\nenact a law → 法律を制定する\nenact legislation → 法律を制定する\nenact new regulations → 新しい規制を制定する\n【混同注意】\n「法律を制定する」を第一に覚える。\nenact a law = 法律を作る・制定する / enforce a law = その法律を施行する・守らせる。",
       usedIn: ["s818"],
       tags: ["verb"]
     },
@@ -773,7 +773,7 @@ window.SECTIONS["sec09"] = {
       word: "exert",
       ipa: "[igzə́ːrt]",
       meaning: "を行使する、努力する",
-      extraInfo: "【動】\nを行使する [= exercise]、（exert oneself）努力する [= try, endeavor]\nexertion 【名】（= effort）",
+      extraInfo: "【動】\nを行使する [= exercise]、（exert oneself）努力する [= try, endeavor]\nexertion 【名】（= effort）\n【関連語＆似た言葉】\nexert /ɪɡˈzɜːrt/ 【動詞】力・影響などを及ぼす；力を行使する；努力する\nexertion /ɪɡˈzɜːrʃən/ 【名詞】努力、骨折り；力を使うこと\nassert /əˈsɜːrt/ 【動詞】断言する、主張する\nexhaust /ɪɡˈzɔːst/ 【動詞】疲れ果てさせる；使い果たす\n【重要表現】\nexert influence on ～ → ～に影響を及ぼす\nexert pressure on ～ → ～に圧力をかける\nexert force → 力を加える\nexert oneself → 力を尽くす、努力する\n単独で「努力する」と覚えるより、特に exert influence / pressure の組み合わせが重要。",
       usedIn: ["s819"],
       tags: ["verb"]
     },
@@ -809,7 +809,7 @@ window.SECTIONS["sec09"] = {
       word: "declare",
       ipa: "[diklέər]",
       meaning: "を宣言する、を断言する",
-      extraInfo: "【動】\nを宣言する [= proclaim]、を断言する\ndeclaration 【名】\n語源 de（完全に）+ clare（明らかにする）",
+      extraInfo: "【動】\nを宣言する [= proclaim]、を断言する\ndeclaration 【名】\n語源 de（完全に）+ clare（明らかにする）\n【関連語＆似た言葉】\ndeclare /dɪˈkler/ 【動詞】宣言する、公表する；申告する\ndeclaration /ˌdekləˈreɪʃən/ 【名詞】宣言、声明、申告\ndeclared /dɪˈklerd/ 【形容詞】公言した、宣言された\ndeclaim /dɪˈkleɪm/ 【動詞】大げさに演説する、朗読する\ndecree /dɪˈkriː/ 【名詞・動詞】法令、布告；命令する\n【ポイント】\nはっきりと公式に表明するイメージ。declare → declaration をセットで覚える。\n【用例】\ndeclare independence → 独立を宣言する\ndeclare war → 宣戦布告する\ndeclare a state of emergency → 非常事態を宣言する\ndeclare income → 所得を申告する\ndeclare goods at customs → 税関で物品を申告する",
       usedIn: ["s823"],
       tags: ["verb"]
     },
@@ -836,7 +836,7 @@ window.SECTIONS["sec09"] = {
       word: "interfere",
       ipa: "[ìntərfíər]",
       meaning: "妨げる、干渉する",
-      extraInfo: "【動】\n妨げる（with ～を）、干渉する（in ～に）\ninterference 【名】",
+      extraInfo: "【動】\n妨げる（with ～を）、干渉する（in ～に）\ninterference 【名】\n【関連語＆似た言葉】\ninterfere /ˌɪntərˈfɪr/ 【動詞】干渉する、口出しする；妨げる、邪魔する\ninterference /ˌɪntərˈfɪrəns/ 【名詞】干渉、妨害\nintervene /ˌɪntərˈviːn/ 【動詞】介入する、仲裁する\ninterrupt /ˌɪntəˈrʌpt/ 【動詞】中断させる、話を遮る\ninteract /ˌɪntərˈækt/ 【動詞】相互に作用する、交流する\n【重要表現・用例】\ninterfere with ～ → ～を妨げる、～の邪魔をする\ninterfere in ～ → ～に干渉する、口出しする\nNoise interferes with my concentration. → 騒音が私の集中を妨げる。\nDon't interfere in other people's affairs. → 他人のことに口出しするな。\n【混同注意】\n308番 interact = お互いに関わる / interfere = 邪魔・干渉する。",
       usedIn: ["s826"],
       tags: ["verb"]
     },
@@ -845,7 +845,7 @@ window.SECTIONS["sec09"] = {
       word: "nest",
       ipa: "[nest]",
       meaning: "巣",
-      extraInfo: "【名】\n（鳥の）巣\n【動】巣を作る、巣ごもる",
+      extraInfo: "【名】\n（鳥の）巣\n【動】巣を作る、巣ごもる\n【関連語＆似た言葉】\nnest /nest/ 【名詞・動詞】巣；巣を作る、巣を作って住む\nnested /ˈnestɪd/ 【形容詞】入れ子になった、入れ子式の\nnestle /ˈnesəl/ 【動詞】寄り添う、心地よく収まる\nrest /rest/ 【名詞・動詞】休息；休む\nnet /net/ 【名詞】網、ネット\n【用例】\na bird's nest → 鳥の巣\nbuild a nest → 巣を作る\nnest in a tree → 木に巣を作る\n【ポイント】\n基本は鳥などの巣。比喩的にも使い、コンピュータでは nested structure（入れ子構造）という表現がある。",
       usedIn: ["s827"],
       tags: ["noun"]
     },
@@ -854,7 +854,7 @@ window.SECTIONS["sec09"] = {
       word: "founder",
       ipa: "[fáundər]",
       meaning: "創設者",
-      extraInfo: "【名】\n創設者\nfound 【動】\nfoundation 【名】創設",
+      extraInfo: "【名】\n創設者\nfound 【動】\nfoundation 【名】創設\n【関連語＆似た言葉】\nfounder /ˈfaʊndər/ 【名詞】創設者、設立者\nfounder /ˈfaʊndər/ 【動詞】失敗する、挫折する；船が沈没する\nfound /faʊnd/ 【動詞】設立する、創設する\nfoundation /faʊnˈdeɪʃən/ 【名詞】設立、基礎、財団\nflounder /ˈflaʊndər/ 【動詞】もがく、苦戦する\n【品詞による意味の違い】\nこのカードの見出しは名詞「創設者」。別系統の動詞には「失敗する・挫折する；沈没する」の意味がある。\n【用例】\nThe project foundered. → その計画は失敗に終わった。\nthe founder of a company → 会社の創設者\n【混同注意】\nfounder（動詞）= 失敗する、挫折する / flounder = もがく、苦戦する。",
       usedIn: ["s828"],
       tags: ["noun"]
     },
@@ -872,7 +872,7 @@ window.SECTIONS["sec09"] = {
       word: "arrangement",
       ipa: "[əréindʒmənt]",
       meaning: "準備、配置、取り決め",
-      extraInfo: "【名】\n（通常 ～s）準備（for ～のための）、配置、取り決め\narrange 【動】",
+      extraInfo: "【名】\n（通常 ～s）準備（for ～のための）、配置、取り決め\narrange 【動】\n【関連語＆似た言葉】\narrangement /əˈreɪndʒmənt/ 【名詞】手配、準備；取り決め；配置、配列\narrange /əˈreɪndʒ/ 【動詞】手配する、準備する；整理する\nrearrange /ˌriːəˈreɪndʒ/ 【動詞】並べ替える、再調整する\nagreement /əˈɡriːmənt/ 【名詞】合意、協定\nappointment /əˈpɔɪntmənt/ 【名詞】約束、予約；任命\n【用例】\nmake arrangements for ～ → ～の手配をする\ntravel arrangements → 旅行の手配\nfinancial arrangements → 金銭上の取り決め\nseating arrangement → 座席配置\n【覚え方】\n特に「手配・取り決め」が重要。make arrangements をまとまりで覚える。\narrange（手配する）→ arrangement（手配・取り決め）",
       usedIn: ["s830"],
       tags: ["noun"]
     },
@@ -890,7 +890,7 @@ window.SECTIONS["sec09"] = {
       word: "trunk",
       ipa: "[trʌŋk]",
       meaning: "幹、トランク",
-      extraInfo: "【名】\n（木の）幹、（象の）鼻、（自動車の）トランク [= boot]",
+      extraInfo: "【名】\n（木の）幹、（象の）鼻、（自動車の）トランク [= boot]\n【関連語＆似た言葉】\ntrunk /trʌŋk/ 【名詞】木の幹；（象の）鼻；大型の箱、トランク；車の荷物入れ\nbranch /bræntʃ/ 【名詞】枝、支店、部門\ntruck /trʌk/ 【名詞】トラック、貨物自動車\nchunk /tʃʌŋk/ 【名詞】大きな塊、かなりの量\nstump /stʌmp/ 【名詞】切り株\n【用例】\nthe trunk of a tree → 木の幹\nan elephant's trunk → 象の鼻\na car trunk → 車のトランク（荷物入れ）\n【覚え方】\nまず「木の幹」を押さえる。「太くて中心となる部分」をイメージし、trunk（幹）→ branch（枝）の対比で覚える。",
       usedIn: ["s832"],
       tags: ["noun"]
     },
@@ -899,7 +899,7 @@ window.SECTIONS["sec09"] = {
       word: "principle",
       ipa: "[prínsəpəl]",
       meaning: "主義、信条、原則",
-      extraInfo: "【名】\n（通常 ～s）（個人の）主義、信条、原則\n可否語 principal（主要な、校長）",
+      extraInfo: "【名】\n（通常 ～s）（個人の）主義、信条、原則\n可否語 principal（主要な、校長）\n【関連語＆似た言葉】\nprincipal /ˈprɪnsəpəl/ 【形容詞・名詞】主要な、最も重要な；校長、責任者\nprinciple /ˈprɪnsəpəl/ 【名詞】原則、原理、主義\nprincipally /ˈprɪnsəpəli/ 【副詞】主に、主として\nprimary /ˈpraɪmeri/ 【形容詞】主要な、第一の\n【混同注意】\nこのカードの見出しは principle（原則・原理）。principal（主要な・校長）とは発音が同じなので、スペルと意味を区別する。\n【用例】\nthe principal reason → 主な理由\nthe principal of a school → 学校の校長\na basic principle → 基本原則\n【覚え方】\nprincipal の最後の pal（仲間・人）から、校長という「人」を連想する。",
       usedIn: ["s833"],
       tags: ["noun"]
     },
@@ -917,7 +917,7 @@ window.SECTIONS["sec09"] = {
       word: "independence",
       ipa: "[ìndipéndəns]",
       meaning: "独立、自立",
-      extraInfo: "【名】\n独立（from ～からの）、自立 [⇔ dependence]\nindependent 【形】",
+      extraInfo: "【名】\n独立（from ～からの）、自立 [⇔ dependence]\nindependent 【形】\n【関連語＆似た言葉】\nindependence /ˌɪndɪˈpendəns/ 【名詞】独立、自立\nindependent /ˌɪndɪˈpendənt/ 【形容詞】独立した、自立した\nindependently /ˌɪndɪˈpendəntli/ 【副詞】独立して、自力で\ndependence /dɪˈpendəns/ 【名詞】依存\ndepend /dɪˈpend/ 【動詞】頼る、依存する；～次第である\n【覚え方】\ndepend（依存する）→ dependent（依存している）\nindependent（独立した）→ independence（独立・自立）\n【用例】\ngain independence → 独立を得る\ndeclare independence → 独立を宣言する\nfinancial independence → 経済的自立\n823番 declare とつなげて declare independence を覚える。",
       usedIn: ["s835"],
       tags: ["noun"]
     },
@@ -926,7 +926,7 @@ window.SECTIONS["sec09"] = {
       word: "exploration",
       ipa: "[èkspləréiʃən]",
       meaning: "探検、調査",
-      extraInfo: "【名】\n探検 [= expedition]、調査 [= investigation]\nexplore 【動】\nexplorer 【名】探検家",
+      extraInfo: "【名】\n探検 [= expedition]、調査 [= investigation]\nexplore 【動】\nexplorer 【名】探検家\n【関連語＆似た言葉】\nexploration /ˌekspləˈreɪʃən/ 【名詞】探検、探索；調査、探究\nexplore /ɪkˈsplɔːr/ 【動詞】探検する、探索する；詳しく調べる\nexplorer /ɪkˈsplɔːrər/ 【名詞】探検家\nexploitation /ˌeksplɔɪˈteɪʃən/ 【名詞】利用、開発；搾取\nexplanation /ˌekspləˈneɪʃən/ 【名詞】説明\n【用例】\nspace exploration → 宇宙探査\noil exploration → 石油の探査\nthe exploration of new ideas → 新しい考えの探究\n【覚え方・混同注意】\nexplore（探索する）→ exploration（探索・探究）。exploration / exploitation は形が似ているので注意。",
       usedIn: ["s836"],
       tags: ["noun"]
     },
@@ -953,7 +953,7 @@ window.SECTIONS["sec09"] = {
       word: "involvement",
       ipa: "[invά(ː)lvmənt]",
       meaning: "関与、巻き込まれること",
-      extraInfo: "【名】\n関与（in ～への）、巻き込まれること\ninvolve 【動】\n語源 in（中へ）+ volve（巻き込む）",
+      extraInfo: "【名】\n関与（in ～への）、巻き込まれること\ninvolve 【動】\n語源 in（中へ）+ volve（巻き込む）\n【関連語＆似た言葉】\ninvolvement /ɪnˈvɑːlvmənt/ 【名詞】関与、参加、かかわり\ninvolve /ɪnˈvɑːlv/ 【動詞】関与させる、伴う、含む\ninvolved /ɪnˈvɑːlvd/ 【形容詞】関与している、参加している；複雑な\nengagement /ɪnˈɡeɪdʒmənt/ 【名詞】関与、参加；婚約\nintervention /ˌɪntərˈvenʃən/ 【名詞】介入、干渉\n【用例】\ngovernment involvement → 政府の関与\nparental involvement → 親の関与\ninvolvement in the community → 地域社会への参加・関与\n【覚え方】\n「関与・参加」が中心。involve（関与させる）→ involvement（関与・参加）。",
       usedIn: ["s839"],
       tags: ["noun"]
     },
@@ -962,7 +962,7 @@ window.SECTIONS["sec09"] = {
       word: "accounting",
       ipa: "[əkáuntiŋ]",
       meaning: "経理、会計",
-      extraInfo: "【名】\n経理、会計（学）\naccountant 【名】会計士",
+      extraInfo: "【名】\n経理、会計（学）\naccountant 【名】会計士\n【関連語＆似た言葉】\naccounting /əˈkaʊntɪŋ/ 【名詞】会計、経理\naccount /əˈkaʊnt/ 【名詞・動詞】口座；説明、報告；説明する\naccountant /əˈkaʊntənt/ 【名詞】会計士、経理担当者\naccountable /əˈkaʊntəbəl/ 【形容詞】責任がある、説明責任がある\ncounting /ˈkaʊntɪŋ/ 【名詞】数えること、計数\n【用例】\naccounting system → 会計システム\naccounting firm → 会計事務所\naccounting practices → 会計慣行\n【ポイント】\naccounting は基本的に「会計・経理」。account は意味が広く、account for ～ = ～を説明する／～を占める、も重要。",
       usedIn: ["s840"],
       tags: ["noun"]
     },
@@ -971,7 +971,7 @@ window.SECTIONS["sec09"] = {
       word: "discrimination",
       ipa: "[diskrìmənéiʃən]",
       meaning: "差別",
-      extraInfo: "【名】\n差別（against ～に対する、in favor of ～をひいきしての）\ndiscriminate 【動】",
+      extraInfo: "【名】\n差別（against ～に対する、in favor of ～をひいきしての）\ndiscriminate 【動】\n【関連語＆似た言葉】\ndiscrimination /dɪˌskrɪməˈneɪʃən/ 【名詞】差別；識別、区別\ndiscriminate /dɪˈskrɪməneɪt/ 【動詞】差別する；識別する、区別する\ndiscriminatory /dɪˈskrɪmənətɔːri/ 【形容詞】差別的な\ndistinction /dɪˈstɪŋkʃən/ 【名詞】区別、相違\ndistinguish /dɪˈstɪŋɡwɪʃ/ 【動詞】区別する、見分ける\n【用例】\nracial discrimination → 人種差別\ngender discrimination → 性差別\ndiscrimination against ～ → ～に対する差別\n【ポイント】\n「差別」が特に重要だが、「違いを見分ける・識別する」意味もある。\ndiscriminate between A and B → AとBを区別する",
       usedIn: ["s841"],
       tags: ["noun"]
     },
@@ -980,7 +980,7 @@ window.SECTIONS["sec09"] = {
       word: "inequality",
       ipa: "[ìnikwά(ː)ləti]",
       meaning: "不平等",
-      extraInfo: "【名】\n不平等 [⇔ equality]",
+      extraInfo: "【名】\n不平等 [⇔ equality]\n【関連語＆似た言葉】\ninequality /ˌɪnɪˈkwɑːləti/ 【名詞】不平等、格差\nequality /iˈkwɑːləti/ 【名詞】平等、同等\nequal /ˈiːkwəl/ 【形容詞・名詞・動詞】等しい；同等の人・物；等しくなる\ninequity /ɪnˈekwəti/ 【名詞】不公平、不公正\ninequitable /ɪnˈekwɪtəbəl/ 【形容詞】不公平な、不公正な\n【用例】\nincome inequality → 所得格差\neconomic inequality → 経済格差\nsocial inequality → 社会的不平等\nreduce inequality → 格差を縮小する\n【混同注意】\n社会問題の文脈で重要。\ninequality = 平等ではない → 格差・不平等\ninequity = 公平ではない → 不公平・不公正",
       usedIn: ["s842"],
       tags: ["noun"]
     },
@@ -998,7 +998,7 @@ window.SECTIONS["sec09"] = {
       word: "millennium",
       ipa: "[miléniəm]",
       meaning: "1,000年（間）、千年祭",
-      extraInfo: "【名】\n（西暦元年から数えて）1,000年（間）、千年祭\n語源 ラテン語 mille（千）+ annus（年）から",
+      extraInfo: "【名】\n（西暦元年から数えて）1,000年（間）、千年祭\n語源 ラテン語 mille（千）+ annus（年）から\n【関連語＆似た言葉】\nmillennium /mɪˈleniəm/ 【名詞】1000年間、千年紀\nmillennial /mɪˈleniəl/ 【形容詞・名詞】千年紀の；ミレニアル世代の人\ncentury /ˈsentʃəri/ 【名詞】100年間、世紀\ndecade /ˈdekeɪd/ 【名詞】10年間、10年\n【覚え方】\ndecade = 10年間 → century = 100年間 → millennium = 1000年間。\nmillennium は l が2つ、n も2つ。\n【用例】\nthe beginning of the new millennium → 新しい千年紀の始まり\nfor over a millennium → 1000年以上にわたって",
       usedIn: ["s844"],
       tags: ["noun"]
     },
@@ -1007,7 +1007,7 @@ window.SECTIONS["sec09"] = {
       word: "refusal",
       ipa: "[rifjúːzəl]",
       meaning: "拒否",
-      extraInfo: "【名】\n拒否（of ～の、to do ～することの）、拒絶\n[= rejection] [⇔ acceptance]\nrefuse 【動】",
+      extraInfo: "【名】\n拒否（of ～の、to do ～することの）、拒絶\n[= rejection] [⇔ acceptance]\nrefuse 【動】\n【関連語＆似た言葉】\nrefusal /rɪˈfjuːzəl/ 【名詞】拒否、拒絶、断ること\nrefuse /rɪˈfjuːz/ 【動詞】拒否する、断る\nrejection /rɪˈdʒekʃən/ 【名詞】拒絶、却下、不採用\ndenial /dɪˈnaɪəl/ 【名詞】否定、拒否\nrefuse /ˈrefjuːs/ 【名詞】廃棄物、ごみ\n【発音と意味の違い】\nrefuse /rɪˈfjuːz/（動詞：拒否する）→ refusal /rɪˈfjuːzəl/（名詞：拒否）。\n名詞 refuse /ˈrefjuːs/ は「ごみ・廃棄物」で、意味も発音も異なる。\n【用例】\nrefusal to cooperate → 協力することの拒否\nrefusal of a request → 要求の拒否",
       usedIn: ["s845"],
       tags: ["noun"]
     },
@@ -1070,7 +1070,7 @@ window.SECTIONS["sec09"] = {
       word: "crust",
       ipa: "[krʌ́st]",
       meaning: "地殻、甲殻",
-      extraInfo: "【名】\n地殻、パンの耳、（動物の）甲殻",
+      extraInfo: "【名】\n地殻、パンの耳、（動物の）甲殻\n【関連語＆似た言葉】\ncrust /krʌst/ 【名詞】地殻；パンなどの皮、外皮；硬い表面\ncrustal /ˈkrʌstəl/ 【形容詞】地殻の\ncrush /krʌʃ/ 【動詞・名詞】押しつぶす；圧倒する\ntrust /trʌst/ 【名詞・動詞】信頼；信頼する\ncrest /krest/ 【名詞】頂上、峰；波頭\n【用例】\nthe Earth's crust → 地球の地殻\noceanic crust → 海洋地殻\nthe crust of bread → パンの皮\n【覚え方】\n特に「地殻」が重要。「物のいちばん外側を覆う硬い部分」というイメージで、パンの皮と地殻をつなげる。",
       usedIn: ["s852"],
       tags: ["noun"]
     },
@@ -1088,7 +1088,7 @@ window.SECTIONS["sec09"] = {
       word: "janitor",
       ipa: "[dʒǽnətər]",
       meaning: "用務員、管理人",
-      extraInfo: "【名】\n（アパート・ビル・学校などの）用務員、管理人",
+      extraInfo: "【名】\n（アパート・ビル・学校などの）用務員、管理人\n【関連語＆似た言葉】\njanitor /ˈdʒænɪtər/ 【名詞】用務員、管理人、清掃員\njanitorial /ˌdʒænɪˈtɔːriəl/ 【形容詞】清掃・建物管理の\ncaretaker /ˈkerteɪkər/ 【名詞】管理人、世話人\ncustodian /kʌˈstoʊdiən/ 【名詞】管理人、用務員；保管責任者\ncleaner /ˈkliːnər/ 【名詞】清掃員\n【ポイント】\n特にアメリカ英語で、学校・オフィスなどの清掃や建物の維持管理をする人を指す。\n【用例】\na school janitor → 学校の用務員\nwork as a janitor → 用務員として働く\n【関連語】\n764番 custody（保護・監護・拘留）と custodian は同系統。custodian も建物の管理人を意味し、janitor に近い。",
       usedIn: ["s854"],
       tags: ["noun"]
     },
@@ -1097,7 +1097,7 @@ window.SECTIONS["sec09"] = {
       word: "prejudice",
       ipa: "[prédʒudis]",
       meaning: "偏見",
-      extraInfo: "【名】\n偏見（against ～への）、先入観 [= bias]\n【動】に偏見［先入観］を抱かせる\n語源 pre（先に）+ judice（判断）",
+      extraInfo: "【名】\n偏見（against ～への）、先入観 [= bias]\n【動】に偏見［先入観］を抱かせる\n語源 pre（先に）+ judice（判断）\n【関連語＆似た言葉】\nprejudice /ˈpredʒədɪs/ 【名詞・動詞】偏見、先入観；～に偏見を持たせる、不利な影響を与える\nprejudiced /ˈpredʒədɪst/ 【形容詞】偏見を持った\nbias /ˈbaɪəs/ 【名詞・動詞】偏見、偏り；偏らせる\ndiscrimination /dɪˌskrɪməˈneɪʃən/ 【名詞】差別、識別\npreconception /ˌpriːkənˈsepʃən/ 【名詞】先入観、思い込み\n【使い分け】\nprejudice → 心の中の偏見・先入観\ndiscrimination → 偏見などに基づく差別的な扱い・行為（841番）\nracial prejudice → 人種的偏見\nracial discrimination → 人種差別\n【覚え方】\n377番 biased（偏った）とも関連づける。\nbias → biased / prejudice → prejudiced",
       usedIn: ["s855"],
       tags: ["noun"]
     },
@@ -1106,7 +1106,7 @@ window.SECTIONS["sec09"] = {
       word: "prosperity",
       ipa: "[prɑːspérəti]",
       meaning: "繁栄、繁盛",
-      extraInfo: "【名】\n繁栄、繁盛\nprosper 【動】",
+      extraInfo: "【名】\n繁栄、繁盛\nprosper 【動】\n【関連語＆似た言葉】\nprosperity /prɑːˈsperəti/ 【名詞】繁栄、繁盛、成功\nprosper /ˈprɑːspər/ 【動詞】繁栄する、成功する\nprosperous /ˈprɑːspərəs/ 【形容詞】繁栄している、裕福な\nproperty /ˈprɑːpərti/ 【名詞】財産、所有物、不動産\nposterity /pɑːˈsterəti/ 【名詞】後世、子孫\n【混同注意】\nprosperity = 繁栄 / property = 財産・不動産（136番）。見た目と音が似ている。\n【用例】\neconomic prosperity → 経済的繁栄\nbring prosperity → 繁栄をもたらす\n【覚え方】\nprosper → prosperous → prosperity\n繁栄する → 繁栄した → 繁栄",
       usedIn: ["s856"],
       tags: ["noun"]
     },
@@ -1151,7 +1151,7 @@ window.SECTIONS["sec09"] = {
       word: "preparation",
       ipa: "[prèpəréiʃən]",
       meaning: "準備、支度",
-      extraInfo: "【名】\n準備（of, for ～の、to do ～する）、支度\nprepare 【動】\npreparatory 【形】",
+      extraInfo: "【名】\n準備（of, for ～の、to do ～する）、支度\nprepare 【動】\npreparatory 【形】\n【関連語＆似た言葉】\npreparation /ˌprepəˈreɪʃən/ 【名詞】準備、用意；準備すること\nprepare /prɪˈper/ 【動詞】準備する、用意する\nprepared /prɪˈperd/ 【形容詞】準備ができた、覚悟ができた\npreparatory /prɪˈpærətɔːri/ 【形容詞】準備の、予備の\npreservation /ˌprezərˈveɪʃən/ 【名詞】保存、保護\n【用例】\nin preparation for ～ → ～に備えて\nmake preparations for ～ → ～の準備をする\nexam preparation → 試験準備\n【覚え方】\nprepare（準備する）→ preparation（準備）",
       usedIn: ["s861"],
       tags: ["noun"]
     },
@@ -1169,7 +1169,7 @@ window.SECTIONS["sec09"] = {
       word: "stale",
       ipa: "[steil]",
       meaning: "鮮度の落ちた、陳腐な",
-      extraInfo: "【形】\n（パンなどが）堅くなった、鮮度の落ちた [⇔ fresh]、陳腐な",
+      extraInfo: "【形】\n（パンなどが）堅くなった、鮮度の落ちた [⇔ fresh]、陳腐な\n【関連語＆似た言葉】\nstale /steɪl/ 【形容詞】鮮度が落ちた、古くなった；陳腐な、新鮮味のない\nsteal /stiːl/ 【動詞】盗む\nsteel /stiːl/ 【名詞】鋼鉄\nstill /stɪl/ 【副詞・形容詞】まだ；静かな\nstyle /staɪl/ 【名詞】様式、スタイル\n【用例】\nstale bread → 古くなって固くなったパン\nstale air → よどんだ空気\na stale joke → 陳腐な・聞き古された冗談\n【覚え方】\n「新鮮さがなくなった」というイメージ。食べ物だけでなく、考えや話題などにも使う。",
       usedIn: ["s863"],
       tags: ["adjective"]
     },
@@ -1178,7 +1178,7 @@ window.SECTIONS["sec09"] = {
       word: "disadvantaged",
       ipa: "[dìsædvǽntɪdʒd]",
       meaning: "恵まれない",
-      extraInfo: "【形】\n（経済的・社会的に）恵まれない [= deprived, underprivileged]\ndisadvantage 【名】不利な点、ハンディキャップ",
+      extraInfo: "【形】\n（経済的・社会的に）恵まれない [= deprived, underprivileged]\ndisadvantage 【名】不利な点、ハンディキャップ\n【関連語＆似た言葉】\ndisadvantaged /ˌdɪsədˈvæntɪdʒd/ 【形容詞】不利な立場にある、恵まれない\ndisadvantage /ˌdɪsədˈvæntɪdʒ/ 【名詞】不利、不利益、欠点\nadvantaged /ədˈvæntɪdʒd/ 【形容詞】有利な立場にある\nunderprivileged /ˌʌndərˈprɪvəlɪdʒd/ 【形容詞】社会的・経済的に恵まれない\n【用例】\ndisadvantaged children → 恵まれない子どもたち\neconomically disadvantaged people → 経済的に不利な立場の人々\nsocially disadvantaged groups → 社会的に不利な立場の集団\n【使い分け】\ndisadvantaged people / groups / communities の形が重要。\ndisadvantage = 「不利」という状態・条件（名詞）\ndisadvantaged = 「不利な立場に置かれた」という人や集団の状態（形容詞）",
       usedIn: ["s864"],
       tags: ["adjective"]
     },
@@ -1187,7 +1187,7 @@ window.SECTIONS["sec09"] = {
       word: "ongoing",
       ipa: "[ɔ́ːngòuiŋ]",
       meaning: "継続している、進行中の",
-      extraInfo: "【形】\n継続している、進行中の [= continuing, in progress, under way]",
+      extraInfo: "【形】\n継続している、進行中の [= continuing, in progress, under way]\n【関連語＆似た言葉】\nongoing /ˈɑːnˌɡoʊɪŋ/ 【形容詞】進行中の、継続中の、現在も続いている\ncontinuous /kənˈtɪnjuəs/ 【形容詞】連続した、途切れない\ncontinuing /kənˈtɪnjuːɪŋ/ 【形容詞】継続している\nupcoming /ˈʌpˌkʌmɪŋ/ 【形容詞】今度の、近く行われる\n【使い分け】\nongoing → すでに始まっていて、今も続いている\nupcoming → まだ始まっておらず、これから起こる\n【用例】\nan ongoing investigation → 現在進行中の調査\nongoing discussions → 継続中の議論",
       usedIn: ["s865"],
       tags: ["adjective"]
     },
@@ -1196,7 +1196,7 @@ window.SECTIONS["sec09"] = {
       word: "sturdy",
       ipa: "[stə́ːrdi]",
       meaning: "頑丈な、たくましい",
-      extraInfo: "【形】\n頑丈な、たくましい [= strong, robust]、不屈の [= unyielding, firm] [⇔ weak, frail]",
+      extraInfo: "【形】\n頑丈な、たくましい [= strong, robust]、不屈の [= unyielding, firm] [⇔ weak, frail]\n【関連語＆似た言葉】\nsturdy /ˈstɜːrdi/ 【形容詞】頑丈な、丈夫な、たくましい\nsturdily /ˈstɜːrdɪli/ 【副詞】頑丈に、しっかりと\nsteady /ˈstedi/ 【形容詞】安定した、着実な\nstern /stɜːrn/ 【形容詞】厳格な、厳しい\n【用例】\na sturdy chair → 頑丈な椅子\nsturdy construction → 頑丈な構造\na sturdy child → 丈夫でたくましい子ども\n【覚え方】\n「簡単には壊れない・へこたれない強さ」のイメージ。sturdy は形容詞、sturdily は副詞。",
       usedIn: ["s866"],
       tags: ["adjective"]
     },
@@ -1214,7 +1214,7 @@ window.SECTIONS["sec09"] = {
       word: "verbal",
       ipa: "[və́ːrbəl]",
       meaning: "口頭での、言葉の",
-      extraInfo: "【形】\n口頭での [= oral, spoken]、言葉の［に関する］ [⇔ nonverbal]",
+      extraInfo: "【形】\n口頭での [= oral, spoken]、言葉の［に関する］ [⇔ nonverbal]\n【関連語＆似た言葉】\nverbal /ˈvɜːrbəl/ 【形容詞】言葉による、口頭の；言語の\nverbally /ˈvɜːrbəli/ 【副詞】口頭で、言葉で\nverb /vɜːrb/ 【名詞】動詞\nvocal /ˈvoʊkəl/ 【形容詞】声の；声に出した\nliteral /ˈlɪtərəl/ 【形容詞】文字どおりの\n【ポイント】\nverbal は「動詞の」だけではなく、「言葉による・口頭の」が重要。\n【用例】\nverbal communication → 言葉によるコミュニケーション\nverbal agreement → 口頭での合意\nverbal abuse → 言葉による虐待・暴言\n【対義語】\nverbal ↔ nonverbal（言葉による ↔ 非言語の）",
       usedIn: ["s868"],
       tags: ["adjective"]
     },
@@ -1223,7 +1223,7 @@ window.SECTIONS["sec09"] = {
       word: "weary",
       ipa: "[wíəri]",
       meaning: "疲れ果てた、うんざりした",
-      extraInfo: "【形】\n疲れ果てた [= exhausted, worn out]、うんざりした [= tired, fed up]\nweariness 【名】\nwearisome 【形】退屈な",
+      extraInfo: "【形】\n疲れ果てた [= exhausted, worn out]、うんざりした [= tired, fed up]\nweariness 【名】\nwearisome 【形】退屈な\n【関連語＆似た言葉】\nweary /ˈwɪri/ 【形容詞】疲れた、うんざりした\nweary /ˈwɪri/ 【動詞】疲れさせる、うんざりさせる\nwary /ˈweri/ 【形容詞】用心深い、警戒している\nworry /ˈwɜːri/ 【動詞・名詞】心配する；心配\ndreary /ˈdrɪri/ 【形容詞】わびしい、退屈な、陰気な\n【混同注意】\nweary = 疲れている・うんざり / wary = 警戒している・用心深い。\n【重要表現】\nbe weary of ～ → ～にうんざりしている\nbe wary of ～ → ～を警戒している\n形と発音が似ているのでセットで区別する。",
       usedIn: ["s869"],
       tags: ["adjective"]
     },
@@ -1232,7 +1232,7 @@ window.SECTIONS["sec09"] = {
       word: "equivalent",
       ipa: "[ikwívələnt]",
       meaning: "相当する、同等の",
-      extraInfo: "【形】\n相当する（to ～に）、同等の [= equal]\n【名】等しいもの\nequivalence 【名】同等",
+      extraInfo: "【形】\n相当する（to ～に）、同等の [= equal]\n【名】等しいもの\nequivalence 【名】同等\n【関連語＆似た言葉】\nequivalent /ɪˈkwɪvələnt/ 【形容詞・名詞】同等の、相当する；同等のもの\nequivalence /ɪˈkwɪvələns/ 【名詞】同等、等価\nequal /ˈiːkwəl/ 【形容詞・名詞・動詞】等しい；同等のもの；等しい\n【重要表現・用例】\nbe equivalent to ～ → ～に相当する、～と同等である\nThis qualification is equivalent to a university degree. → この資格は大学の学位に相当する。\nequivalent amount → 同等の量\nthe equivalent of $100 → 100ドル相当のもの・金額\n【使い分け】\nequal は数・量などが等しい、equivalent はまったく同じものではないが価値・意味・機能などが同等というニュアンス。\nequivalent ↔ different（同等の ↔ 異なる）",
       usedIn: ["s870"],
       tags: ["adjective"]
     },
@@ -1241,7 +1241,7 @@ window.SECTIONS["sec09"] = {
       word: "intense",
       ipa: "[inténs]",
       meaning: "極度の、激しい",
-      extraInfo: "【形】\n極度の、激しい [⇔ extreme] [⇔ mild]\nintensify 【動】を強化する\nintensity 【名】",
+      extraInfo: "【形】\n極度の、激しい [⇔ extreme] [⇔ mild]\nintensify 【動】を強化する\nintensity 【名】\n【関連語＆似た言葉】\nintense /ɪnˈtens/ 【形容詞】激しい、強烈な、非常に強い\nintensely /ɪnˈtensli/ 【副詞】激しく、強烈に\nintensity /ɪnˈtensəti/ 【名詞】強烈さ、激しさ、強度\nintensive /ɪnˈtensɪv/ 【形容詞】集中的な、徹底的な\ntense /tens/ 【形容詞】緊張した、張り詰めた\n【使い分け】\nintense → 程度・感情などが非常に強い\nintensive → 活動などを集中的に行う\n【用例】\nintense pain → 激しい痛み\nintense competition → 激しい競争\nintense pressure → 強い圧力\nintensive training → 集中的な訓練\n790番 tense（緊張した）とも形が似ているので注意。",
       usedIn: ["s871"],
       tags: ["adjective"]
     },
@@ -1250,7 +1250,7 @@ window.SECTIONS["sec09"] = {
       word: "consecutive",
       ipa: "[kənsékjutiv]",
       meaning: "連続した",
-      extraInfo: "【形】\n連続した [= successive, straight]\nconsecutively 【副】",
+      extraInfo: "【形】\n連続した [= successive, straight]\nconsecutively 【副】\n【関連語＆似た言葉】\nconsecutive /kənˈsekjətɪv/ 【形容詞】連続した、連続する\nconsecutively /kənˈsekjətɪvli/ 【副詞】連続して\nsuccessive /səkˈsesɪv/ 【形容詞】連続する、次々の\ncontinuous /kənˈtɪnjuəs/ 【形容詞】絶え間なく続く\nconsistent /kənˈsɪstənt/ 【形容詞】一貫した、安定した\n【使い分け】\nconsecutive → 個別のものが順番に連続する\ncontinuous → 途中で切れずずっと続く\n【用例】\nthree consecutive days → 3日連続\ntwo consecutive victories → 2連勝\nfor the third consecutive year → 3年連続で",
       usedIn: ["s872"],
       tags: ["adjective"]
     },
@@ -1259,7 +1259,7 @@ window.SECTIONS["sec09"] = {
       word: "noticeable",
       ipa: "[nóutisəbl]",
       meaning: "著しい、目立つ",
-      extraInfo: "【形】\n著しい、目立つ [= conspicuous, prominent, outstanding]\nnotice 【動】に気づく\n【名】注意、通知、掲示",
+      extraInfo: "【形】\n著しい、目立つ [= conspicuous, prominent, outstanding]\nnotice 【動】に気づく\n【名】注意、通知、掲示\n【関連語＆似た言葉】\nnoticeable /ˈnoʊtɪsəbəl/ 【形容詞】目立つ、著しい、気づくほどの\nnoticeably /ˈnoʊtɪsəbli/ 【副詞】目立って、著しく\nnotice /ˈnoʊtɪs/ 【動詞・名詞】気づく；通知、掲示\nnotable /ˈnoʊtəbəl/ 【形容詞】注目に値する、顕著な\nknowledgeable /ˈnɑːlɪdʒəbəl/ 【形容詞】知識が豊富な、博識な\n【使い分け】\nnoticeable → 気づくほど目立つ\nnotable → 注目・言及する価値がある\n【用例】\na noticeable difference → はっきり分かる違い\na noticeable increase → 目立った増加\nnoticeable improvement → 明らかな改善\n789番 knowledgeable と語尾 -able の響きが似ているので混同注意。",
       usedIn: ["s873"],
       tags: ["adjective"]
     },
@@ -1277,7 +1277,7 @@ window.SECTIONS["sec09"] = {
       word: "electrical",
       ipa: "[iléktrikəl]",
       meaning: "電気の、電気を扱う",
-      extraInfo: "【形】\n電気の、電気を扱う\nelectricity 【名】\nelectrically 【副】",
+      extraInfo: "【形】\n電気の、電気を扱う\nelectricity 【名】\nelectrically 【副】\n【関連語＆似た言葉】\nelectrical /ɪˈlektrɪkəl/ 【形容詞】電気の、電気に関する\nelectric /ɪˈlektrɪk/ 【形容詞】電気で動く、電気を帯びた\nelectricity /ɪˌlekˈtrɪsəti/ 【名詞】電気、電力\nelectronic /ɪˌlekˈtrɑːnɪk/ 【形容詞】電子の、電子機器の\nelectronics /ɪˌlekˈtrɑːnɪks/ 【名詞】電子工学、電子機器\n【使い分け】\nelectrical → 電気に関する\nelectric → 電気で動く・を使う\nelectronic → 電子回路・電子技術に関する\n【用例】\nelectrical equipment → 電気設備\nelectrical engineer → 電気技術者\nelectric car → 電気自動車\nelectronic device → 電子機器\nelectrical appliances → 電化製品（731番 appliance と関連づける）",
       usedIn: ["s875"],
       tags: ["adjective"]
     },
@@ -1286,7 +1286,7 @@ window.SECTIONS["sec09"] = {
       word: "steep",
       ipa: "[stiːp]",
       meaning: "急な",
-      extraInfo: "【形】\n（傾斜が）急な [⇔ gradual]",
+      extraInfo: "【形】\n（傾斜が）急な [⇔ gradual]\n【関連語＆似た言葉】\nsteep /stiːp/ 【形容詞】急な、急勾配の；（価格などが）非常に高い、急激な\nsteeply /ˈstiːpli/ 【副詞】急に、急激に\nstep /step/ 【名詞・動詞】一歩、段；歩く\ndeep /diːp/ 【形容詞】深い\nsweep /swiːp/ 【動詞】掃く、一掃する\n【ポイント】\n「坂が急」から、価格・増減などにも使う。地形だけでなく「急激な」の意味も重要。\n【用例】\na steep hill → 急な坂\na steep increase → 急激な増加\na steep decline → 急激な減少\na steep price → 非常に高い価格",
       usedIn: ["s876"],
       tags: ["adjective"]
     },
@@ -1304,7 +1304,7 @@ window.SECTIONS["sec09"] = {
       word: "supreme",
       ipa: "[supríːm]",
       meaning: "最高の、至高の",
-      extraInfo: "【形】\n最高の、至高の [⇔ lowest]\nsupremacy 【名】",
+      extraInfo: "【形】\n最高の、至高の [⇔ lowest]\nsupremacy 【名】\n【関連語＆似た言葉】\nsupreme /suːˈpriːm/ 【形容詞】最高の、至高の；最重要の\nsupremely /suːˈpriːmli/ 【副詞】この上なく、最高に\nsuperior /suːˈpɪriər/ 【形容詞】より優れた、上位の\nsupply /səˈplaɪ/ 【名詞・動詞】供給；供給する\nprime /praɪm/ 【形容詞】主要な、最も重要な、最良の\n【用例】\nsupreme importance → 最高の重要性、最重要\nsupreme authority → 最高権力\nthe Supreme Court → 最高裁判所\n【覚え方】\n他のものより上にある → 最高の・至高の。supply / prime と音を混同しない。",
       usedIn: ["s878"],
       tags: ["adjective"]
     },
@@ -1313,7 +1313,7 @@ window.SECTIONS["sec09"] = {
       word: "elite",
       ipa: "[eilíːt]",
       meaning: "えり抜きの、エリートの",
-      extraInfo: "【形】\nえり抜きの、エリートの\n【名】（通例 the ～、集合的に）エリート、精鋭",
+      extraInfo: "【形】\nえり抜きの、エリートの\n【名】（通例 the ～、集合的に）エリート、精鋭\n【関連語＆似た言葉】\nelite /eɪˈliːt/ 【名詞・形容詞】エリート、精鋭；選ばれた、優秀な\nelitist /eɪˈliːtɪst/ 【名詞・形容詞】エリート主義者；エリート主義的な\nelect /ɪˈlekt/ 【動詞】選ぶ、選挙で選出する\neminent /ˈemɪnənt/ 【形容詞】著名な、高名な、優れた\n【ポイント】\nある集団の中で特に優れた、選ばれた人々。ここに示した発音では最初が /eɪ/ になる点に注意。\n【用例】\nthe political elite → 政治エリート層\nelite athletes → 一流の競技選手\nan elite university → 名門大学\nelite troops → 精鋭部隊",
       usedIn: ["s879"],
       tags: ["adjective"]
     },
@@ -1322,7 +1322,7 @@ window.SECTIONS["sec09"] = {
       word: "broad",
       ipa: "[brɔːd]",
       meaning: "幅の広い、広範囲な",
-      extraInfo: "【形】\n（幅の）広い、広範囲な [⇔ wide] [⇔ narrow]\nbroaden 【動】\nbreadth 【名】幅",
+      extraInfo: "【形】\n（幅の）広い、広範囲な [⇔ wide] [⇔ narrow]\nbroaden 【動】\nbreadth 【名】幅\n【関連語＆似た言葉】\nbroad /brɔːd/ 【形容詞】幅広い、広範囲の；大まかな\nbroadly /ˈbrɔːdli/ 【副詞】広く、大まかに\nbroaden /ˈbrɔːdən/ 【動詞】広げる、広くなる\nboard /bɔːrd/ 【名詞・動詞】板、委員会；乗り込む\nabroad /əˈbrɔːd/ 【副詞】海外へ、海外で\n【混同注意】\nbroad = 幅広い・広範囲の / board = 板・委員会。スペルと音に注意。\n【用例】\na broad range of ～ → 幅広い～\nbroad knowledge → 幅広い知識\na broad overview → 大まかな概要\nbroaden one's horizons → 視野を広げる\n【ポイント】\nwide も「広い」だが、broad は a broad range / broad knowledge / broad support のように抽象的な範囲の広さにもよく使う。",
       usedIn: ["s880"],
       tags: ["adjective"]
     },
@@ -1349,7 +1349,7 @@ window.SECTIONS["sec09"] = {
       word: "external",
       ipa: "[ikstə́ːrnəl]",
       meaning: "外部の、外（側）の",
-      extraInfo: "【形】\n外部の、外（側）の [= outside, exterior] [⇔ internal]",
+      extraInfo: "【形】\n外部の、外（側）の [= outside, exterior] [⇔ internal]\n【関連語＆似た言葉】\nexternal /ɪkˈstɜːrnəl/ 【形容詞】外部の、外側の；外部からの\nexternally /ɪkˈstɜːrnəli/ 【副詞】外部から、外面的に\ninternal /ɪnˈtɜːrnəl/ 【形容詞】内部の、内面的な\nexterior /ɪkˈstɪriər/ 【名詞・形容詞】外部、外面；外側の\neternal /ɪˈtɜːrnəl/ 【形容詞】永遠の、永久の\n【用例】\nexternal factors → 外的要因\nexternal pressure → 外部からの圧力\nexternal hard drive → 外付けハードディスク\nexternal appearance → 外見\n【対義語・混同注意】\nexternal（外部の）↔ internal（内部の）\nexternal = 外部の / eternal = 永遠の。音が似ているので注意。",
       usedIn: ["s883"],
       tags: ["adjective"]
     },
@@ -1367,7 +1367,7 @@ window.SECTIONS["sec09"] = {
       word: "latter",
       ipa: "[lǽtər]",
       meaning: "後半の、後の方の",
-      extraInfo: "【形】\n後半の、後の方の [⇔ earlier]、（the ～）後者の [⇔ former]\n【名】二者のうちの）後者",
+      extraInfo: "【形】\n後半の、後の方の [⇔ earlier]、（the ～）後者の [⇔ former]\n【名】二者のうちの）後者\n【関連語＆似た言葉】\nlatter /ˈlætər/ 【形容詞・名詞】後半の、後者の；後者\nlater /ˈleɪtər/ 【副詞・形容詞】後で、その後；後の\nformer /ˈfɔːrmər/ 【形容詞・名詞】前者の；前者\nlatest /ˈleɪtɪst/ 【形容詞】最新の\n【重要表現・用例】\nthe former ... the latter ... → 前者……後者……\nI like dogs and cats, but I prefer the latter. → 犬と猫が好きだが、後者（猫）のほうが好きだ。\n【発音の違い】\nlatter /ˈlætər/ → /æ/ の音\nlater /ˈleɪtər/ → /eɪ/ の音\nカタカナだけで覚えず、former と latter をセットで覚える。",
       usedIn: ["s885"],
       tags: ["adjective"]
     },
@@ -1376,7 +1376,7 @@ window.SECTIONS["sec09"] = {
       word: "presidential",
       ipa: "[prèzidénʃəl]",
       meaning: "大統領の",
-      extraInfo: "【形】\n大統領の [による]、社長の\npresident 【名】（しばしば President で）大統領、社長、会長\npresidency 【名】大統領の地位［任期］",
+      extraInfo: "【形】\n大統領の [による]、社長の\npresident 【名】（しばしば President で）大統領、社長、会長\npresidency 【名】大統領の地位［任期］\n【関連語＆似た言葉】\npresidential /ˌprezɪˈdenʃəl/ 【形容詞】大統領の、大統領職に関する\npresident /ˈprezɪdənt/ 【名詞】大統領、会長、社長\npresidency /ˈprezɪdənsi/ 【名詞】大統領職、大統領在任期間\nprecedential /ˌpresɪˈdenʃəl/ 【形容詞】先例となる、先例に関する\n【混同注意】\npresidential → president（大統領）に関する\nprecedential → precedent（先例）に関する\n【用例】\npresidential election → 大統領選挙\npresidential candidate → 大統領候補\npresidential power → 大統領の権限\n【覚え方】\npresident → presidency → presidential",
       usedIn: ["s886"],
       tags: ["adjective"]
     },
@@ -1394,7 +1394,7 @@ window.SECTIONS["sec09"] = {
       word: "realistic",
       ipa: "[rìːəlístik]",
       meaning: "現実的な、実際的な",
-      extraInfo: "【形】\n現実的な、実際的な [⇔ unrealistic, idealistic]\nreality 【名】\nrealistically 【副】",
+      extraInfo: "【形】\n現実的な、実際的な [⇔ unrealistic, idealistic]\nreality 【名】\nrealistically 【副】\n【関連語＆似た言葉】\nrealistic /ˌriːəˈlɪstɪk/ 【形容詞】現実的な、実際的な；現実に忠実な\nrealistically /ˌriːəˈlɪstɪkli/ 【副詞】現実的に\nrealism /ˈriːəlɪzəm/ 【名詞】現実主義、写実主義\nrealize /ˈriːəlaɪz/ 【動詞】気づく、理解する；実現する\nunrealistic /ˌʌnriːəˈlɪstɪk/ 【形容詞】非現実的な、現実離れした\n【用例】\na realistic goal → 現実的な目標\na realistic plan → 実現可能な計画\nrealistic expectations → 現実的な期待\nbe realistic about ～ → ～について現実的に考える\n【ポイント】\nrealistic ↔ unrealistic をセットで覚える。「本物っぽい」だけでなく、「現実を踏まえていて実現可能な」の意味が重要。",
       usedIn: ["s888"],
       tags: ["adjective"]
     },
@@ -1412,7 +1412,7 @@ window.SECTIONS["sec09"] = {
       word: "underlying",
       ipa: "[`ʌndərláiŋ]",
       meaning: "潜在的な、根本的な",
-      extraInfo: "【形】\n潜在的な、根本的な [= basic, fundamental]\nunderlie 【動】の根底［奥］にある",
+      extraInfo: "【形】\n潜在的な、根本的な [= basic, fundamental]\nunderlie 【動】の根底［奥］にある\n【関連語＆似た言葉】\nunderlying /ˌʌndərˈlaɪɪŋ/ 【形容詞】根本的な、潜在的な、根底にある\nunderlie /ˌʌndərˈlaɪ/ 【動詞】～の根底にある、～の基礎となる\nunderline /ˌʌndərˈlaɪn/ 【動詞】下線を引く；強調する\nundertake /ˌʌndərˈteɪk/ 【動詞】引き受ける、着手する\nundergo /ˌʌndərˈɡoʊ/ 【動詞】経験する、受ける\n【ポイント】\n表面には見えないが、その下に存在している根本的なものというイメージ。\n【用例】\nan underlying cause → 根本的な原因\nan underlying problem → 根底にある問題\nunderlying factors → 背景にある要因\nunderlying assumptions → 根底にある前提\n【混同注意】\nunderlying = 根底にある / underline = 下線を引く・強調する。\n410番 undergo とも関連づける。",
       usedIn: ["s890"],
       tags: ["adjective"]
     },
@@ -1421,7 +1421,7 @@ window.SECTIONS["sec09"] = {
       word: "urgent",
       ipa: "[ə́ːrdʒənt]",
       meaning: "緊急の、切迫した",
-      extraInfo: "【形】\n緊急の、切迫した [= emergency, pressing]\nurgency 【名】\nurgently 【副】",
+      extraInfo: "【形】\n緊急の、切迫した [= emergency, pressing]\nurgency 【名】\nurgently 【副】\n【関連語＆似た言葉】\nurgent /ˈɜːrdʒənt/ 【形容詞】緊急の、差し迫った；至急の\nurgently /ˈɜːrdʒəntli/ 【副詞】緊急に、至急\nurgency /ˈɜːrdʒənsi/ 【名詞】緊急性、切迫感\nurge /ɜːrdʒ/ 【動詞・名詞】強く促す；強い衝動\nemergent /ɪˈmɜːrdʒənt/ 【形容詞】新たに現れる、発生しつつある\n【覚え方】\nurge（強く促す）→ urgent（すぐに対応する必要がある）→ urgency（緊急性）。\nurgent / emergent は音が似ているが意味の違いに注意。\n【用例】\nan urgent problem → 緊急の問題\nan urgent need for ～ → ～の差し迫った必要性\ntake urgent action → 緊急の措置を取る",
       usedIn: ["s891"],
       tags: ["adjective"]
     },
@@ -1430,7 +1430,7 @@ window.SECTIONS["sec09"] = {
       word: "complimentary",
       ipa: "[kὰ(ː)mpləméntəri]",
       meaning: "無料の、賞賛する",
-      extraInfo: "【形】\n無料の [= free]、賞賛する\ncompliment 【名】賛辞",
+      extraInfo: "【形】\n無料の [= free]、賞賛する\ncompliment 【名】賛辞\n【関連語＆似た言葉】\ncomplementary /ˌkɑːmpləˈmentəri/ 【形容詞】相互に補完する、補足的な\ncomplimentary /ˌkɑːmpləˈmentəri/ 【形容詞】無料の；称賛する、お世辞の\nsupplementary /ˌsʌpləˈmentəri/ 【形容詞】補足の、追加の\ncomplement /ˈkɑːmpləment/ 【名詞・動詞】補完するもの；補完する\n【混同注意】\nこのカードの見出しは complimentary（無料の・称賛する）。complementary（相互に補完する）とは発音がほぼ同じだが、スペルと意味が違う。\ncomplementary → お互いを補い合う\ncomplimentary → 無料の／褒める\n【用例】\ncomplementary skills → 互いに補完し合う技能\ncomplimentary breakfast → 無料の朝食\n【使い分け】\n697番 supplementary は本体に何かを追加して補う。complementary は二つのものが互いの不足を補い合う。",
       usedIn: ["s892"],
       tags: ["adjective"]
     },
@@ -1457,7 +1457,7 @@ window.SECTIONS["sec09"] = {
       word: "accordingly",
       ipa: "[əkɔ́ːrdiŋli]",
       meaning: "それ相応に、従って",
-      extraInfo: "【副】\nそれ相応に、（通例文頭で）従って、そんなわけで [= therefore]\ncf. according to ～によると、に従って",
+      extraInfo: "【副】\nそれ相応に、（通例文頭で）従って、そんなわけで [= therefore]\ncf. according to ～によると、に従って\n【関連語＆似た言葉】\naccordingly /əˈkɔːrdɪŋli/ 【副詞】それに応じて、それ相応に；したがって\naccording to /əˈkɔːrdɪŋ tuː/ 【前置詞句】～によれば；～に従って\nordinary /ˈɔːrdəneri/ 【形容詞】普通の、通常の\nconsequently /ˈkɑːnsəkwentli/ 【副詞】その結果、したがって\n【2つの使い方】\n① それに応じて\nThe situation changed, so we adjusted our plan accordingly. → 状況が変化したので、それに応じて計画を調整した。\n② したがって、その結果\nHe was unprepared. Accordingly, he failed the test. → 彼は準備不足だった。したがって試験に落ちた。\n【混同注意】\naccording to ～（～によれば）と区別する。",
       usedIn: ["s895"],
       tags: ["adverb"]
     },
@@ -1466,7 +1466,7 @@ window.SECTIONS["sec09"] = {
       word: "occasionally",
       ipa: "[əkéiʒənəli]",
       meaning: "ときどき",
-      extraInfo: "【副】\nときどき [= sometimes, from time to time]\noccasion 【名】場合、機会\noccasional 【形】",
+      extraInfo: "【副】\nときどき [= sometimes, from time to time]\noccasion 【名】場合、機会\noccasional 【形】\n【関連語＆似た言葉】\noccasionally /əˈkeɪʒənəli/ 【副詞】時々、たまに、ときおり\noccasional /əˈkeɪʒənəl/ 【形容詞】時々の、たまの\noccasion /əˈkeɪʒən/ 【名詞】機会、場合、行事\naccidentally /ˌæksɪˈdentəli/ 【副詞】偶然に、うっかり\n【頻度の目安】\nalways → usually → often → sometimes → occasionally → rarely → never\noccasionally は sometimes より頻度が低めの「たまに」というイメージ。\n【用例】\nI occasionally eat out. → 私はたまに外食する。\n【覚え方】\noccasion → occasional → occasionally とスペルをつなげて覚える。",
       usedIn: ["s896"],
       tags: ["adverb"]
     },
@@ -1493,7 +1493,7 @@ window.SECTIONS["sec09"] = {
       word: "notably",
       ipa: "[nóutəbli]",
       meaning: "とりわけ",
-      extraInfo: "【副】\nとりわけ [= particularly, especially]\nnotable 【形】注目に値する、際立った\nnote 【動】に注目する\n【名】メモ、注釈、警報",
+      extraInfo: "【副】\nとりわけ [= particularly, especially]\nnotable 【形】注目に値する、際立った\nnote 【動】に注目する\n【名】メモ、注釈、警報\n【関連語＆似た言葉】\nnotably /ˈnoʊtəbli/ 【副詞】特に、とりわけ；著しく、目立って\nnotable /ˈnoʊtəbəl/ 【形容詞】注目すべき、顕著な\nnoticeably /ˈnoʊtɪsəbli/ 【副詞】目立って、はっきり分かるほど\nnoticeable /ˈnoʊtɪsəbəl/ 【形容詞】目立つ、著しい\n【使い分け】\nnotably → 特に・とりわけ\nnoticeably → 気づくほど目立って\n873番 noticeable とも区別する。\n【用例】\nSeveral countries, notably Japan, have aging populations. → いくつかの国、特に日本では人口の高齢化が進んでいる。\nThe temperature has dropped noticeably. → 気温がはっきり分かるほど下がった。\n【覚え方】\nnotably = especially と結びつける。",
       usedIn: ["s899"],
       tags: ["adverb"]
     },
