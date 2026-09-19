@@ -611,7 +611,7 @@ window.SECTIONS["sec10"] = {
       word: "compel",
       ipa: "[kəmpél]",
       meaning: "に強いて〜させる",
-      extraInfo: "【動】\n（compel O to do で）〈人〉に強いて〜させる [= force]\ncompelling 【形】説得力のある",
+      extraInfo: "【動】\n（compel O to do で）〈人〉に強いて〜させる [= force]\ncompelling 【形】説得力のある\n【関連語＆似た言葉】\ncompel /kəmˈpel/ 【動詞】～に強いる、無理に～させる\ncompelling /kəmˈpelɪŋ/ 【形容詞】説得力のある、非常に魅力的な\ncompete /kəmˈpiːt/ 【動詞】競争する\ncomply /kəmˈplaɪ/ 【動詞】従う、応じる\n【重要表現・用例】\ncompel A to do → Aに～することを強いる\nThe law compels companies to disclose the information. → その法律は企業に情報を開示することを義務づけている。\n【覚え方】\n強い力で相手を動かすイメージ。compelling evidence（説得力のある証拠）は、人を納得させずにはいられないほど強いという意味。",
       usedIn: ["s901"],
       tags: ["verb"]
     },
@@ -620,7 +620,7 @@ window.SECTIONS["sec10"] = {
       word: "distinguish",
       ipa: "[distíŋgwiʃ]",
       meaning: "を区別する",
-      extraInfo: "【動】\n区別する（between ～の間を）、を区別する（from ～と） [= differentiate]\ndistinction 【名】\ndistinguished 【形】著名な",
+      extraInfo: "【動】\n区別する（between ～の間を）、を区別する（from ～と） [= differentiate]\ndistinction 【名】\ndistinguished 【形】著名な\n【関連語＆似た言葉】\ndistinguish /dɪˈstɪŋɡwɪʃ/ 【動詞】～を区別する、見分ける；～を特徴づける\ndistinguished /dɪˈstɪŋɡwɪʃt/ 【形容詞】著名な、優れた\ndistinction /dɪˈstɪŋkʃən/ 【名詞】区別、相違；卓越\ndistinct /dɪˈstɪŋkt/ 【形容詞】明確に異なる、別個の\ndiscriminate /dɪˈskrɪməneɪt/ 【動詞】区別する；差別する\n【重要表現・用例】\ndistinguish A from B → AとBを区別する、見分ける\nIt is difficult to distinguish fact from opinion. → 事実と意見を区別するのは難しい。\n【覚え方】\n579番 distinct と同じ語族。distinct → distinction → distinguish とつなげる。",
       usedIn: ["s902"],
       tags: ["verb"]
     },
@@ -665,7 +665,7 @@ window.SECTIONS["sec10"] = {
       word: "glance",
       ipa: "[glæns]",
       meaning: "ちらりと見る",
-      extraInfo: "【動】\nちらりと見る（at ～を） [= glimpse]\n【名】ちらりと見ること",
+      extraInfo: "【動】\nちらりと見る（at ～を） [= glimpse]\n【名】ちらりと見ること\n【関連語＆似た言葉】\nglance /ɡlæns/ 【動詞・名詞】ちらっと見る；一目、ちらりと見ること\nglimpse /ɡlɪmps/ 【動詞・名詞】ちらっと見える；ちらりと見えること\ngaze /ɡeɪz/ 【動詞・名詞】じっと見つめる\ngrant /ɡrænt/ 【動詞・名詞】与える、認める；助成金\n【使い分け】\nglance → 自分からちらっと見る\nglimpse → 一瞬だけちらっと見える・目に入る\n【用例】\nglance at ～ → ～をちらっと見る\nShe glanced at her watch. → 彼女は時計をちらっと見た。\nat a glance → 一目で、ひと目見ただけで",
       usedIn: ["s907"],
       tags: ["verb"]
     },
@@ -674,7 +674,7 @@ window.SECTIONS["sec10"] = {
       word: "notify",
       ipa: "[nóutəfài]",
       meaning: "に知らせる",
-      extraInfo: "【動】\nに知らせる（of, about ～を） [= inform]\nnotification 【名】",
+      extraInfo: "【動】\nに知らせる（of, about ～を） [= inform]\nnotification 【名】\n【関連語＆似た言葉】\nnotify /ˈnoʊtɪfaɪ/ 【動詞】～に知らせる、通知する\nnotification /ˌnoʊtɪfɪˈkeɪʃən/ 【名詞】通知、告知\nnotice /ˈnoʊtɪs/ 【動詞・名詞】～に気づく；通知、掲示\nnotable /ˈnoʊtəbəl/ 【形容詞】注目すべき、顕著な\n【重要表現・用例】\nnotify A of B → AにBを知らせる\nnotify A that ～ → Aに～だと知らせる\nThe company notified customers of the change. → 会社は顧客にその変更を通知した。\n【使い分け】\nnotice = 気づく / notify = 相手に知らせる。",
       usedIn: ["s908"],
       tags: ["verb"]
     },
@@ -692,7 +692,7 @@ window.SECTIONS["sec10"] = {
       word: "pierce",
       ipa: "[piərs]",
       meaning: "に穴を開ける、を突き通す",
-      extraInfo: "【動】\nに穴を開ける、を突き通す [= penetrate]",
+      extraInfo: "【動】\nに穴を開ける、を突き通す [= penetrate]\n【関連語＆似た言葉】\npierce /pɪrs/ 【動詞】～を突き刺す、貫く；穴を開ける\npiercing /ˈpɪrsɪŋ/ 【形容詞】鋭い、耳をつんざくような\npenetrate /ˈpenətreɪt/ 【動詞】～を貫通する、入り込む\npeer /pɪr/ 【動詞・名詞】じっと見る；同等の人、仲間\n【用例】\npierce the skin → 皮膚を突き刺す\npierce one's ears → 耳にピアスの穴を開ける\na piercing sound → 耳をつんざくような鋭い音\n【覚え方】\n鋭いものが突き抜けるイメージ。日本語の「ピアス」と関連づける。英語で耳の装飾品は普通 earring、穴を開けることは piercing。",
       usedIn: ["s910"],
       tags: ["verb"]
     },
@@ -701,7 +701,7 @@ window.SECTIONS["sec10"] = {
       word: "overestimate",
       ipa: "[òuvəréstəmèit]",
       meaning: "を過大に評価する",
-      extraInfo: "【動】\nを過大に評価する [見積もる] [⇔ overrate, overvalue] [⇔ underestimate]\n【名】[òuvəréstəmət] 過大評価",
+      extraInfo: "【動】\nを過大に評価する [見積もる] [⇔ overrate, overvalue] [⇔ underestimate]\n【名】[òuvəréstəmət] 過大評価\n【関連語＆似た言葉】\noverestimate /ˌoʊvərˈestɪmeɪt/ 【動詞】～を過大評価する、実際より多く見積もる\noverestimate /ˌoʊvərˈestɪmət/ 【名詞】過大評価、過大な見積もり\nunderestimate /ˌʌndərˈestɪmeɪt/ 【動詞】～を過小評価する、甘く見る\nestimate /ˈestɪmeɪt/ 【動詞】見積もる、推定する\n【覚え方】\nover（～しすぎる）＋ estimate（見積もる）→ 実際より高く見積もる＝過大評価する。\n【用例】\nDon't overestimate your ability. → 自分の能力を過大評価してはいけない。\n【対義語】\noverestimate ↔ underestimate（過小評価する）",
       usedIn: ["s911"],
       tags: ["verb"]
     },
@@ -710,7 +710,7 @@ window.SECTIONS["sec10"] = {
       word: "raid",
       ipa: "[reid]",
       meaning: "手入れを行う、急襲する",
-      extraInfo: "【動】\n（警察が）に手入れを行う、（軍隊が）を急襲する\n【名】手入れ、急襲",
+      extraInfo: "【動】\n（警察が）に手入れを行う、（軍隊が）を急襲する\n【名】手入れ、急襲\n【関連語＆似た言葉】\nraid /reɪd/ 【名詞・動詞】襲撃、急襲、手入れ；急襲する、捜索する\nride /raɪd/ 【動詞・名詞】乗る；乗車\nrid /rɪd/ 【動詞】～を取り除く\naid /eɪd/ 【名詞・動詞】援助；援助する\n【用例】\na police raid → 警察の手入れ・一斉捜索\nraid a building → 建物を急襲する\nan air raid → 空襲\n【覚え方】\n突然踏み込むイメージ。raid /reɪd/、ride /raɪd/、rid /rɪd/ の母音を区別する。",
       usedIn: ["s912"],
       tags: ["verb"]
     },
@@ -719,7 +719,7 @@ window.SECTIONS["sec10"] = {
       word: "recall",
       ipa: "[rikɔ́ːl]",
       meaning: "を思い出す、を回収する",
-      extraInfo: "【動】\nを思い出す [= remember] [⇔ forget]、（商品など）を回収する\n【名】記憶（力）、（欠陥商品などの）リコール",
+      extraInfo: "【動】\nを思い出す [= remember] [⇔ forget]、（商品など）を回収する\n【名】記憶（力）、（欠陥商品などの）リコール\n【関連語＆似た言葉】\nrecall /rɪˈkɔːl/ 【動詞・名詞】思い出す；呼び戻す、回収する／記憶、製品回収\nremember /rɪˈmembər/ 【動詞】覚えている、思い出す\nrecollect /ˌrekəˈlekt/ 【動詞】思い出す、回想する\nretrieve /rɪˈtriːv/ 【動詞】取り戻す、検索して取り出す\n【覚え方】\nre（戻す）＋ call（呼ぶ）。記憶を呼び戻す → 思い出す、人を呼び戻す → 召還する、商品を呼び戻す → 回収する。\n【用例】\nI can't recall his name. → 彼の名前を思い出せない。\nrecall a defective product → 欠陥商品を回収する\n自動車の「リコール」もこの recall。",
       usedIn: ["s913"],
       tags: ["verb"]
     },
@@ -737,7 +737,7 @@ window.SECTIONS["sec10"] = {
       word: "wrinkle",
       ipa: "[ríŋkl]",
       meaning: "にしわを寄せる",
-      extraInfo: "【動】\n（顔など）にしわを寄せる、（衣服など）にしわを作る\n【名】しわ、よれ",
+      extraInfo: "【動】\n（顔など）にしわを寄せる、（衣服など）にしわを作る\n【名】しわ、よれ\n【関連語＆似た言葉】\nwrinkle /ˈrɪŋkəl/ 【名詞・動詞】しわ；しわを寄せる、しわになる\nwrinkled /ˈrɪŋkəld/ 【形容詞】しわの寄った\nwinkle /ˈwɪŋkəl/ 【名詞・動詞】タマキビ類；苦労して引き出す\ntwinkle /ˈtwɪŋkəl/ 【動詞・名詞】きらきら光る；きらめき\n【発音】\nwrinkle は最初の w を発音せず、「リンクル」に近い音。winkle と区別する。\n【用例】\nwrinkles around the eyes → 目の周りのしわ\nwrinkle one's forehead → 額にしわを寄せる\na wrinkled shirt → しわの寄ったシャツ",
       usedIn: ["s915"],
       tags: ["verb"]
     },
@@ -746,7 +746,7 @@ window.SECTIONS["sec10"] = {
       word: "conspire",
       ipa: "[kənspáiər]",
       meaning: "陰謀を企てる、共謀する",
-      extraInfo: "【動】\n陰謀を企てる（to do ～しようと）、共謀する\nconspiracy 【名】\nconspirator 【名】共謀者",
+      extraInfo: "【動】\n陰謀を企てる（to do ～しようと）、共謀する\nconspiracy 【名】\nconspirator 【名】共謀者\n【関連語＆似た言葉】\nconspire /kənˈspaɪər/ 【動詞】共謀する、陰謀を企てる；重なって～を引き起こす\nconspiracy /kənˈspɪrəsi/ 【名詞】陰謀、共謀\nconspirator /kənˈspɪrətər/ 【名詞】共謀者、陰謀者\ninspire /ɪnˈspaɪər/ 【動詞】鼓舞する、刺激する\nexpire /ɪkˈspaɪər/ 【動詞】期限が切れる、失効する\n【重要表現・用例】\nconspire with A to do → Aと共謀して～する\nThey conspired to overthrow the government. → 彼らは政府を倒すために共謀した。\nSeveral factors conspired to cause the problem. → いくつもの要因が重なって問題を引き起こした。\n【混同注意】\nconspire / inspire / expire（809番）をまとめて区別する。",
       usedIn: ["s916"],
       tags: ["verb"]
     },
@@ -773,7 +773,7 @@ window.SECTIONS["sec10"] = {
       word: "overrate",
       ipa: "[òuvərréit]",
       meaning: "を過大評価する",
-      extraInfo: "【動】\n（通例受身形で）過大評価される [= overestimate, overvalue] [⇔ underrate]",
+      extraInfo: "【動】\n（通例受身形で）過大評価される [= overestimate, overvalue] [⇔ underrate]\n【関連語＆似た言葉】\noverrate /ˌoʊvərˈreɪt/ 【動詞】～を過大評価する、実際以上に高く評価する\noverrated /ˌoʊvərˈreɪtɪd/ 【形容詞】過大評価された\noverestimate /ˌoʊvərˈestɪmeɪt/ 【動詞】過大評価する、過大に見積もる\nunderrate /ˌʌndərˈreɪt/ 【動詞】～を過小評価する\n【使い分け】\noverrate → 人・物の価値や能力を高く評価しすぎる\noverestimate（911番）→ 能力・数量・可能性などを実際より大きく見積もる\n【用例】\nThe restaurant is overrated. → そのレストランは過大評価されている。\n【覚え方】\nover + rate（評価する）→ overrate（評価しすぎる）",
       usedIn: ["s919"],
       tags: ["verb"]
     },
@@ -791,7 +791,7 @@ window.SECTIONS["sec10"] = {
       word: "glide",
       ipa: "[glaid]",
       meaning: "滑らかに動く、音もなく移動する",
-      extraInfo: "【動】\n滑らかに動く、音もなく移動する [= slide]\n【名】滑空、滑走",
+      extraInfo: "【動】\n滑らかに動く、音もなく移動する [= slide]\n【名】滑空、滑走\n【関連語＆似た言葉】\nglide /ɡlaɪd/ 【動詞・名詞】滑るように進む、滑空する；滑走、滑空\nslide /slaɪd/ 【動詞・名詞】滑る、滑らせる\nglider /ˈɡlaɪdər/ 【名詞】グライダー、滑空機\ngrid /ɡrɪd/ 【名詞】格子、送電網\n【用例】\nA bird glided through the air. → 鳥が空中を滑るように飛んだ。\nglide across the ice → 氷の上を滑るように進む\n【覚え方】\nなめらかに、すーっと進むイメージ。slide に比べ、なめらかでほとんど力を使わず動くニュアンスが強い。grid と区別する。",
       usedIn: ["s921"],
       tags: ["verb"]
     },
@@ -818,7 +818,7 @@ window.SECTIONS["sec10"] = {
       word: "simmer",
       ipa: "[símər]",
       meaning: "ことこと煮える",
-      extraInfo: "【動】\n（煮立たない程度に）ことこと煮える [⇔ boil gently]",
+      extraInfo: "【動】\n（煮立たない程度に）ことこと煮える [⇔ boil gently]\n【関連語＆似た言葉】\nsimmer /ˈsɪmər/ 【動詞・名詞】ことこと煮る；くすぶる、今にも爆発しそうな状態が続く\nshimmer /ˈʃɪmər/ 【動詞・名詞】かすかに光る、きらめく\nsummer /ˈsʌmər/ 【名詞】夏\nsimper /ˈsɪmpər/ 【動詞】作り笑いをする、にやにや笑う\n【覚え方】\n沸騰させず弱火でぐつぐつ・ことこと煮るイメージ。比喩的に、感情や対立などが表面化せずくすぶる意味にもなる。\n【用例】\nLet the soup simmer for 20 minutes. → スープを20分ことこと煮る。\nTensions continued to simmer. → 緊張状態がくすぶり続けた。",
       usedIn: ["s924"],
       tags: ["verb"]
     },
@@ -827,7 +827,7 @@ window.SECTIONS["sec10"] = {
       word: "thaw",
       ipa: "[θɔː]",
       meaning: "解凍される、溶ける",
-      extraInfo: "【動】\n解凍される [= defrost]、溶ける [= melt]\n【名】（氷・雪などが）溶けること",
+      extraInfo: "【動】\n解凍される [= defrost]、溶ける [= melt]\n【名】（氷・雪などが）溶けること\n【関連語＆似た言葉】\nthaw /θɔː/ 【動詞・名詞】解ける、解凍する；雪解け、関係の緊張緩和\nsaw /sɔː/ 【名詞・動詞】のこぎり；see の過去形\nthought /θɔːt/ 【名詞】考え、思考\nfreeze /friːz/ 【動詞】凍る、凍らせる\n【用例】\nThe snow began to thaw. → 雪が解け始めた。\nthaw frozen food → 冷凍食品を解凍する\na thaw in relations → 関係の緊張緩和\n【覚え方】\n凍っていたものが解けるイメージ。人間関係や国家間の冷え切った関係が和らぐ場合にも使う。freeze ↔ thaw をセットで覚える。",
       usedIn: ["s925"],
       tags: ["verb"]
     },
@@ -836,7 +836,7 @@ window.SECTIONS["sec10"] = {
       word: "unfold",
       ipa: "[ʌnfóuld]",
       meaning: "明らかになる、を明らかにする",
-      extraInfo: "【動】\n（真相などが）明らかになる、を明らかにする [= reveal, disclose, expose]",
+      extraInfo: "【動】\n（真相などが）明らかになる、を明らかにする [= reveal, disclose, expose]\n【関連語＆似た言葉】\nunfold /ʌnˈfoʊld/ 【動詞】広げる、開く；展開する、明らかになる\nfold /foʊld/ 【動詞】折る、折りたたむ\nuncover /ʌnˈkʌvər/ 【動詞】覆いを取る；明らかにする\nunveil /ʌnˈveɪl/ 【動詞】公開する、明らかにする\n【覚え方】\nun + fold（折りたたむ）→ 折りたたまれていたものを広げる。物理的な「広げる」から出来事が「展開する」へ意味が広がる。\n【用例】\nThe story gradually unfolded. → 物語が徐々に展開していった。\nThe events unfolded rapidly. → 事態は急速に展開した。",
       usedIn: ["s926"],
       tags: ["verb"]
     },
@@ -845,7 +845,7 @@ window.SECTIONS["sec10"] = {
       word: "detain",
       ipa: "[ditéin]",
       meaning: "を勾留する、を引き留める",
-      extraInfo: "【動】\nを勾留［留置］する [= confine, imprison]、（人）を引き留める\ndetention 【名】\ndetainee 【名】拘留者",
+      extraInfo: "【動】\nを勾留［留置］する [= confine, imprison]、（人）を引き留める\ndetention 【名】\ndetainee 【名】拘留者\n【関連語＆似た言葉】\ndetain /dɪˈteɪn/ 【動詞】拘留する、引き留める、待たせる\ndetention /dɪˈtenʃən/ 【名詞】拘留、勾留；居残り\nretain /rɪˈteɪn/ 【動詞】保持する、維持する\ncontain /kənˈteɪn/ 【動詞】含む；封じ込める\nobtain /əbˈteɪn/ 【動詞】得る、取得する\n【用例】\nThe police detained the suspect. → 警察は容疑者を拘留した。\nI was detained by an unexpected meeting. → 急な会議で引き留められた。\n【覚え方・混同注意】\n人をその場にとどめて行かせないイメージ。\ndetain = 引き留める / retain = 保持する / contain = 中に含む / obtain = 手に入れる。",
       usedIn: ["s927"],
       tags: ["verb"]
     },
@@ -863,7 +863,7 @@ window.SECTIONS["sec10"] = {
       word: "strangle",
       ipa: "[strǽŋgl]",
       meaning: "を抑圧する、を窒息させる",
-      extraInfo: "【動】\n（発展・活動など）を抑圧する [= suppress, restrain, hamper]、を窒息させる [= choke, smother, stifle]",
+      extraInfo: "【動】\n（発展・活動など）を抑圧する [= suppress, restrain, hamper]、を窒息させる [= choke, smother, stifle]\n【関連語＆似た言葉】\nstrangle /ˈstræŋɡəl/ 【動詞】首を絞める、絞殺する；抑圧する、成長を妨げる\nstruggle /ˈstrʌɡəl/ 【動詞・名詞】苦闘する、もがく；苦闘\nstranglehold /ˈstræŋɡəlhoʊld/ 【名詞】強い支配、締め付け\ntangle /ˈtæŋɡəl/ 【動詞・名詞】もつれさせる；もつれ\n【覚え方】\n首などを締めつけて、自由に機能できなくするイメージ。比喩的に成長や競争を妨げる場合にも使う。\n【用例】\nstrangle economic growth → 経済成長を阻害する\nstrangle competition → 競争を抑圧する\n【混同注意】\nstrangle = 首を絞める・抑圧する / struggle = 苦闘する・もがく。",
       usedIn: ["s929"],
       tags: ["verb"]
     },
@@ -971,7 +971,7 @@ window.SECTIONS["sec10"] = {
       word: "stroke",
       ipa: "[stróuk]",
       meaning: "脳卒中、発作",
-      extraInfo: "【名】\n脳卒中、（強い）発作、（武器などで）打つこと",
+      extraInfo: "【名】\n脳卒中、（強い）発作、（武器などで）打つこと\n【関連語＆似た言葉】\nstroke /stroʊk/ 【名詞・動詞】脳卒中；一打、一振り；なでる\nstreak /striːk/ 【名詞】筋、しま；連続\nstrike /straɪk/ 【動詞・名詞】打つ；襲う／ストライキ\nstruck /strʌk/ 【動詞】strike の過去形・過去分詞\n【用例】\nhave/suffer a stroke → 脳卒中になる\na stroke of the pen → ペンの一筆\na swimming stroke → 水泳の泳法・ひとかき\nstroke a cat → 猫をなでる\n【ポイント】\n一回のなめらかな動き・一打をイメージする。特に名詞「脳卒中」が重要。動詞では手で優しくなでる意味。",
       usedIn: ["s941"],
       tags: ["noun"]
     },
@@ -1007,7 +1007,7 @@ window.SECTIONS["sec10"] = {
       word: "incidence",
       ipa: "[ínsədəns]",
       meaning: "発生（率）",
-      extraInfo: "【名】\n発生（率）（of 事件・病気などの）",
+      extraInfo: "【名】\n発生（率）（of 事件・病気などの）\n【関連語＆似た言葉】\nincidence /ˈɪnsɪdəns/ 【名詞】発生率、発生件数；発生、出現\nincident /ˈɪnsɪdənt/ 【名詞】出来事、事件\nincidental /ˌɪnsɪˈdentəl/ 【形容詞】付随的な、偶発的な\ninstance /ˈɪnstəns/ 【名詞】例、事例、場合\n【用例】\nthe incidence of cancer → がんの発生率\na high incidence of crime → 犯罪の高い発生率\nreduce the incidence of disease → 病気の発生率を下げる\n【使い分け】\nincident = 1つの事件・出来事 / incidence = それが発生する頻度・割合。出来事・病気などがどの程度発生するかを表す。",
       usedIn: ["s945"],
       tags: ["noun"]
     },
@@ -1061,7 +1061,7 @@ window.SECTIONS["sec10"] = {
       word: "bride",
       ipa: "[braid]",
       meaning: "花嫁、新婦",
-      extraInfo: "【名】\n花嫁、新婦 [⇔ bridegroom, groom]",
+      extraInfo: "【名】\n花嫁、新婦 [⇔ bridegroom, groom]\n【関連語＆似た言葉】\nbride /braɪd/ 【名詞】花嫁、新婦\nbribe /braɪb/ 【名詞・動詞】賄賂；賄賂を贈る\npride /praɪd/ 【名詞・動詞】誇り、自尊心；誇りに思う\nbreed /briːd/ 【動詞・名詞】繁殖させる；品種\n【発音の違い】\nbride は最後が /d/ → 花嫁、bribe は最後が /b/ → 賄賂（803番）。\n【用例】\nthe bride and groom → 新郎新婦\na bride-to-be → 花嫁になる予定の女性",
       usedIn: ["s951"],
       tags: ["noun"]
     },
@@ -1115,7 +1115,7 @@ window.SECTIONS["sec10"] = {
       word: "blister",
       ipa: "[blístər]",
       meaning: "水ぶくれ",
-      extraInfo: "【名】\n水ぶくれ\n【動】に水ぶくれを作る",
+      extraInfo: "【名】\n水ぶくれ\n【動】に水ぶくれを作る\n【関連語＆似た言葉】\nblister /ˈblɪstər/ 【名詞・動詞】水ぶくれ、水疱；水ぶくれができる\nblistering /ˈblɪstərɪŋ/ 【形容詞】猛烈な、焼けつくような\ncluster /ˈklʌstər/ 【名詞・動詞】集団、群れ；群がる\nsister /ˈsɪstər/ 【名詞】姉、妹\n【用例】\na blister on my hand → 手にできた水ぶくれ\nget/develop a blister → 水ぶくれができる\nblister on the skin → 皮膚に水疱ができる\n【覚え方】\n皮膚などの表面がぷくっと膨らんだもの。塗装などがふくれる・気泡状に浮く場合にも使う。",
       usedIn: ["s957"],
       tags: ["noun"]
     },
@@ -1151,7 +1151,7 @@ window.SECTIONS["sec10"] = {
       word: "leisure",
       ipa: "[líːʒər]",
       meaning: "自由な時間、余暇",
-      extraInfo: "【名】\n自由な時間、余暇 [⇔ work]\nleisurely 【形】のんびりとした\nat one's leisure うかがのあるときに",
+      extraInfo: "【名】\n自由な時間、余暇 [⇔ work]\nleisurely 【形】のんびりとした\nat one's leisure うかがのあるときに\n【関連語＆似た言葉】\nleisure /ˈliːʒər/ 【名詞・形容詞】余暇、自由時間；余暇の\nleisurely /ˈliːʒərli/ 【形容詞・副詞】ゆったりした、のんびりと\npleasure /ˈpleʒər/ 【名詞】喜び、楽しみ\nlaser /ˈleɪzər/ 【名詞】レーザー\n【ポイント】\n仕事などから解放されて自由に使える時間。leisure / pleasure は形も音も似ているので注意。\n【用例】\nleisure time → 余暇、自由時間\nleisure activities → 余暇活動\nat leisure → 暇なときに、ゆっくりと",
       usedIn: ["s961"],
       tags: ["noun"]
     },
@@ -1160,7 +1160,7 @@ window.SECTIONS["sec10"] = {
       word: "meditation",
       ipa: "[mèdətéiʃən]",
       meaning: "瞑想、黙想",
-      extraInfo: "【名】\n瞑想、黙想 [= contemplation]\nmeditate 【動】",
+      extraInfo: "【名】\n瞑想、黙想 [= contemplation]\nmeditate 【動】\n【関連語＆似た言葉】\nmeditation /ˌmedɪˈteɪʃən/ 【名詞】瞑想、黙想；熟考\nmeditate /ˈmedɪteɪt/ 【動詞】瞑想する、熟考する\nmeditative /ˈmedɪteɪtɪv/ 【形容詞】瞑想的な、物思いにふけった\nmedication /ˌmedɪˈkeɪʃən/ 【名詞】薬、薬物治療\n【混同注意】\nmeditation → -tation → 瞑想 / medication → -cation → 薬・投薬。\n【用例】\npractice meditation → 瞑想を行う\nmeditation techniques → 瞑想法\nthrough meditation → 瞑想を通じて",
       usedIn: ["s962"],
       tags: ["noun"]
     },
@@ -1169,7 +1169,7 @@ window.SECTIONS["sec10"] = {
       word: "procession",
       ipa: "[prəséʃən]",
       meaning: "行列、行進",
-      extraInfo: "【名】\n（儀式などの）行列、行進\nproceed 【動】",
+      extraInfo: "【名】\n（儀式などの）行列、行進\nproceed 【動】\n【関連語＆似た言葉】\nprocession /prəˈseʃən/ 【名詞】行列、行進\nprocess /ˈprɑːses/ 【名詞】過程、工程、処理\nprofession /prəˈfeʃən/ 【名詞】職業、専門職\npossession /pəˈzeʃən/ 【名詞】所有、所持；所有物\n【ポイント】\n人々が列を作って進んでいくこと。procession / profession / possession の音を区別する。\n【用例】\na funeral procession → 葬列\na wedding procession → 結婚式の行列\na religious procession → 宗教的な行列",
       usedIn: ["s963"],
       tags: ["noun"]
     },
@@ -1178,7 +1178,7 @@ window.SECTIONS["sec10"] = {
       word: "unrest",
       ipa: "[ʌnrést]",
       meaning: "（社会的な）混乱、不安",
-      extraInfo: "【名】\n（社会的な）混乱、不安 [= disruption, turbulence]、（心の）動揺\ncf. rest 【名】休息、【動】休む",
+      extraInfo: "【名】\n（社会的な）混乱、不安 [= disruption, turbulence]、（心の）動揺\ncf. rest 【名】休息、【動】休む\n【関連語＆似た言葉】\nunrest /ʌnˈrest/ 【名詞】社会的不安、騒乱、動揺\narrest /əˈrest/ 【名詞・動詞】逮捕；逮捕する\nrest /rest/ 【名詞・動詞】休息；休む\nunsettled /ʌnˈsetəld/ 【形容詞】不安定な、落ち着かない\n【覚え方】\nun + rest：rest（安定・平穏）→ unrest（平穏ではない状態）→ 社会的不安・騒乱。\n【用例】\npolitical unrest → 政情不安\nsocial unrest → 社会不安・社会的騒乱\ncivil unrest → 市民の騒乱\nニュース・社会問題の長文で重要。",
       usedIn: ["s964"],
       tags: ["noun"]
     },
@@ -1205,7 +1205,7 @@ window.SECTIONS["sec10"] = {
       word: "problematic",
       ipa: "[prὰbləmǽtik]",
       meaning: "問題のある、疑わしい",
-      extraInfo: "【形】\n問題のある、疑わしい [= troublesome]\nproblem 【名】",
+      extraInfo: "【形】\n問題のある、疑わしい [= troublesome]\nproblem 【名】\n【関連語＆似た言葉】\nproblematic /ˌprɑːbləˈmætɪk/ 【形容詞】問題のある、問題を引き起こす、厄介な\nproblem /ˈprɑːbləm/ 【名詞】問題、課題\nproblematically /ˌprɑːbləˈmætɪkli/ 【副詞】問題のある形で\npragmatic /præɡˈmætɪk/ 【形容詞】実用的な、現実的な\n【覚え方】\nproblem + -atic → 問題を含んでいる → 問題のある。problematic / pragmatic は語尾が似ているが意味の違いに注意。\n【用例】\na problematic situation → 問題のある状況\nThis approach is problematic. → この方法には問題がある。\npotentially problematic → 問題になりかねない",
       usedIn: ["s967"],
       tags: ["adj"]
     },
@@ -1214,7 +1214,7 @@ window.SECTIONS["sec10"] = {
       word: "desirable",
       ipa: "[dizáiərəbl]",
       meaning: "望ましい",
-      extraInfo: "【形】\n望ましい [= attractive, advantageous] [⇔ undesirable]\ndesire 【動】【名】",
+      extraInfo: "【形】\n望ましい [= attractive, advantageous] [⇔ undesirable]\ndesire 【動】【名】\n【関連語＆似た言葉】\ndesirable /dɪˈzaɪərəbəl/ 【形容詞】望ましい、好ましい、魅力的な\ndesire /dɪˈzaɪər/ 【名詞・動詞】願望、欲求；強く望む\nundesirable /ˌʌndɪˈzaɪərəbəl/ 【形容詞】望ましくない、好ましくない\nconsiderable /kənˈsɪdərəbəl/ 【形容詞】かなりの、相当な\n【覚え方】\ndesire（望む）＋ -able（～できる／～に値する）→ 望むに値する → 望ましい、好ましい。\ndesirable ↔ undesirable をセットで覚える。\n【用例】\na desirable outcome → 望ましい結果\na desirable quality → 好ましい性質\nIt is desirable to do ～ → ～することが望ましい",
       usedIn: ["s968"],
       tags: ["adj"]
     },
@@ -1223,7 +1223,7 @@ window.SECTIONS["sec10"] = {
       word: "geological",
       ipa: "[dʒìːəlάdʒikəl]",
       meaning: "地質（学）上の",
-      extraInfo: "【形】\n地質（学）上の\ngeology 【名】地質学\ngeologist 【名】地質学者",
+      extraInfo: "【形】\n地質（学）上の\ngeology 【名】地質学\ngeologist 【名】地質学者\n【関連語＆似た言葉】\ngeological /ˌdʒiːəˈlɑːdʒɪkəl/ 【形容詞】地質学の、地質に関する\ngeology /dʒiˈɑːlədʒi/ 【名詞】地質学\ngeologist /dʒiˈɑːlədʒɪst/ 【名詞】地質学者\ngeographical /ˌdʒiːəˈɡræfɪkəl/ 【形容詞】地理的な、地理学の\n【覚え方・使い分け】\ngeology → geological の派生で覚える。\ngeological → 地質・岩石・地層など / geographical → 地理・場所・地域など。\n【用例】\ngeological activity → 地質活動\ngeological formation → 地層・地質構造\ngeological evidence → 地質学的証拠\ngeological history → 地質学的歴史",
       usedIn: ["s969"],
       tags: ["adj"]
     },
@@ -1232,7 +1232,7 @@ window.SECTIONS["sec10"] = {
       word: "rash",
       ipa: "[ræʃ]",
       meaning: "早まった、軽率な",
-      extraInfo: "【形】\n早まった、軽率な [= hasty]",
+      extraInfo: "【形】\n早まった、軽率な [= hasty]\n【関連語＆似た言葉】\nrash /ræʃ/ 【形容詞】軽率な、早まった、無謀な\nrash /ræʃ/ 【名詞】発疹、皮疹\nrush /rʌʃ/ 【動詞・名詞】急ぐ；殺到、急ぐこと\nharsh /hɑːrʃ/ 【形容詞】厳しい、過酷な\n【用例】\na rash decision → 軽率な決定\na skin rash → 皮膚の発疹\n【混同注意】\nrash /ræʃ/ = 軽率な；発疹 / rush /rʌʃ/ = 急ぐ。母音と意味を区別する。",
       usedIn: ["s970"],
       tags: ["adj"]
     },
@@ -1241,7 +1241,7 @@ window.SECTIONS["sec10"] = {
       word: "solitary",
       ipa: "[sάlətèri]",
       meaning: "ひとりの、孤独の",
-      extraInfo: "【形】\nひとりの、孤独の [= isolated]\nsolitude 【名】",
+      extraInfo: "【形】\nひとりの、孤独の [= isolated]\nsolitude 【名】\n【関連語＆似た言葉】\nsolitary /ˈsɑːləteri/ 【形容詞・名詞】ひとりの、孤独な；単独の／独居者\nsolitude /ˈsɑːlətuːd/ 【名詞】孤独、ひとりでいること\nsole /soʊl/ 【形容詞】唯一の、ただ一人の\nsolidarity /ˌsɑːlɪˈderəti/ 【名詞】連帯、団結\n【用例】\na solitary life → 孤独な生活\na solitary animal → 単独で生活する動物\nsolitary confinement → 独房監禁\na solitary figure → ぽつんと一人でいる人\n【覚え方】\n他から離れて一人・一つだけのイメージ。\nsolitary = 単独 / solidarity = 連帯。見た目は似ているが対照的な意味。",
       usedIn: ["s971"],
       tags: ["adj"]
     },
@@ -1268,7 +1268,7 @@ window.SECTIONS["sec10"] = {
       word: "dense",
       ipa: "[dens]",
       meaning: "濃い、密集した",
-      extraInfo: "【形】\n（霧・雪などが）濃い [= thick]、（人・物が）密集した [⇔ sparse]\ndensity 【名】",
+      extraInfo: "【形】\n（霧・雪などが）濃い [= thick]、（人・物が）密集した [⇔ sparse]\ndensity 【名】\n【関連語＆似た言葉】\ndense /dens/ 【形容詞】密集した、密度の高い；濃い；理解しにくい\ndensity /ˈdensəti/ 【名詞】密度、人口密度\nintense /ɪnˈtens/ 【形容詞】激しい、強烈な\ntense /tens/ 【形容詞・名詞】緊張した；時制\n【用例】\ndense forest → 木が密集した森\ndense population → 密集した人口\ndense fog → 濃い霧\ndense material → 密度の高い物質\n【覚え方・混同注意】\nぎっしり詰まっているイメージ。\ndense = 密集・高密度 / tense = 緊張 / intense = 強烈・激しい。",
       usedIn: ["s974"],
       tags: ["adj"]
     },
@@ -1304,7 +1304,7 @@ window.SECTIONS["sec10"] = {
       word: "intimate",
       ipa: "[íntəmət]",
       meaning: "くつろげる、親密な",
-      extraInfo: "【形】\n（場所・状況が）くつろげる、心地よい、（人が）親しい、親密な\nintimacy 【名】\nintimately 【副】",
+      extraInfo: "【形】\n（場所・状況が）くつろげる、心地よい、（人が）親しい、親密な\nintimacy 【名】\nintimately 【副】\n【関連語＆似た言葉】\nintimate /ˈɪntɪmət/ 【形容詞】親密な、親しい；個人的な、詳細な\nintimate /ˈɪntɪmeɪt/ 【動詞】ほのめかす、暗示する\nintimidate /ɪnˈtɪmədeɪt/ 【動詞】脅す、威圧する\nintermediate /ˌɪntərˈmiːdiət/ 【形容詞】中間の、中級の\n【用例】\nintimate friend → 親しい友人\nintimate relationship → 親密な関係\nintimate knowledge of ～ → ～についての詳しい知識\n【発音・混同注意】\n形容詞 /ˈɪntɪmət/ = 親密な / 動詞 /ˈɪntɪmeɪt/ = ほのめかす。\n699番 intermediate や intimidate と混同しない。",
       usedIn: ["s978"],
       tags: ["adj"]
     },
@@ -1349,7 +1349,7 @@ window.SECTIONS["sec10"] = {
       word: "blurry",
       ipa: "[blə́ːri]",
       meaning: "ぼやけた、不鮮明な",
-      extraInfo: "【形】\nぼやけた、不鮮明な [= blurred] [⇔ clear]\nblur 【動】ぼやけて見えるもの、【動】をぼかす",
+      extraInfo: "【形】\nぼやけた、不鮮明な [= blurred] [⇔ clear]\nblur 【動】ぼやけて見えるもの、【動】をぼかす\n【関連語＆似た言葉】\nblurry /ˈblɜːri/ 【形容詞】ぼやけた、かすんだ、不鮮明な\nblur /blɜːr/ 【名詞・動詞】ぼやけ；ぼやけさせる\nbarely /ˈberli/ 【副詞】かろうじて、ほとんど～ない\nbleary /ˈblɪri/ 【形容詞】目がかすんだ、眠そうな\n【用例】\na blurry image → ぼやけた画像\nblurry vision → かすんだ視界\nThe photo is blurry. → 写真がぼやけている。\n【覚え方・使い分け】\nblur（ぼやけ）＋ -y → ぼやけている状態。\nblurry は画像・視界などが不鮮明、bleary は主に目が疲労や眠気でかすんだ状態。",
       usedIn: ["s983"],
       tags: ["adj"]
     },
@@ -1358,7 +1358,7 @@ window.SECTIONS["sec10"] = {
       word: "exceptional",
       ipa: "[iksépʃənəl]",
       meaning: "例外的に優れた、まれな",
-      extraInfo: "【形】\n例外的に優れた、まれな [= extraordinary, outstanding, excellent] [⇔ ordinary]\nexception 【名】\nexceptionally 【副】",
+      extraInfo: "【形】\n例外的に優れた、まれな [= extraordinary, outstanding, excellent] [⇔ ordinary]\nexception 【名】\nexceptionally 【副】\n【関連語＆似た言葉】\nexceptional /ɪkˈsepʃənəl/ 【形容詞】並外れた、非常に優れた；例外的な\nexception /ɪkˈsepʃən/ 【名詞】例外\nexceptionally /ɪkˈsepʃənəli/ 【副詞】並外れて、非常に\nexcessive /ɪkˈsesɪv/ 【形容詞】過度の、過剰な\n【覚え方】\nexception（例外）→ exceptional（普通の範囲から外れている）。例外的なだけでなく、良い意味で並外れて優秀なという意味も重要。\n【用例】\nexceptional ability → 並外れた能力\nexceptional talent → 非凡な才能\nexceptional circumstances → 例外的な状況\nexceptionally high → 異常なほど高い",
       usedIn: ["s984"],
       tags: ["adj"]
     },
@@ -1367,7 +1367,7 @@ window.SECTIONS["sec10"] = {
       word: "finite",
       ipa: "[fáinait]",
       meaning: "有限の、限られた",
-      extraInfo: "【形】\n有限の、限られた [= limited] [⇔ infinite]",
+      extraInfo: "【形】\n有限の、限られた [= limited] [⇔ infinite]\n【関連語＆似た言葉】\nfinite /ˈfaɪnaɪt/ 【形容詞】有限の、限りのある\ninfinite /ˈɪnfɪnət/ 【形容詞】無限の、果てしない\ndefinite /ˈdefɪnət/ 【形容詞】明確な、確定した\nfinal /ˈfaɪnəl/ 【形容詞・名詞】最終の；最後\n【用例】\nfinite resources → 限りある資源\na finite amount of time → 限られた時間\nfinite number → 有限の数\n【発音・覚え方】\nfinite は限界・終わりがあるという意味。\nfinite /ˈfaɪnaɪt/ ↔ infinite /ˈɪnfɪnət/。単純に in + finite の発音にはならない。",
       usedIn: ["s985"],
       tags: ["adj"]
     },
@@ -1394,7 +1394,7 @@ window.SECTIONS["sec10"] = {
       word: "cheery",
       ipa: "[tʃíəri]",
       meaning: "陽気な、元気な",
-      extraInfo: "【形】\n陽気な、元気な [= happy, cheerful]\ncheer 【名】【動】",
+      extraInfo: "【形】\n陽気な、元気な [= happy, cheerful]\ncheer 【名】【動】\n【関連語＆似た言葉】\ncheery /ˈtʃɪri/ 【形容詞】陽気な、明るい、快活な\ncheerful /ˈtʃɪrfəl/ 【形容詞】陽気な、元気な\ncheer /tʃɪr/ 【名詞・動詞】歓声；元気づける、応援する\nchilly /ˈtʃɪli/ 【形容詞】肌寒い；冷淡な\n【覚え方】\ncheer（元気・歓声）＋ -y → cheery（明るく陽気な）。「チアリー／チーリー」に近い音と綴りを結びつける。\n【用例】\na cheery smile → 明るい笑顔\na cheery voice → 明るく陽気な声\na cheery person → 快活な人",
       usedIn: ["s988"],
       tags: ["adj"]
     },
@@ -1412,7 +1412,7 @@ window.SECTIONS["sec10"] = {
       word: "immeasurable",
       ipa: "[iméʒərəbl]",
       meaning: "計り知れない、果てしない、広大な",
-      extraInfo: "【形】\n計り知れない、果てしない、広大な [= immense, infinite]",
+      extraInfo: "【形】\n計り知れない、果てしない、広大な [= immense, infinite]\n【関連語＆似た言葉】\nimmeasurable /ɪˈmeʒərəbəl/ 【形容詞】計り知れない、計測できない、莫大な\nmeasurable /ˈmeʒərəbəl/ 【形容詞】測定できる、かなりの\nmeasurement /ˈmeʒərmənt/ 【名詞】測定、寸法\nimmense /ɪˈmens/ 【形容詞】莫大な、非常に大きな\n【覚え方】\nim-（否定）＋ measure（測る）＋ -able（できる）→ 測ることができない → 計り知れない。\n【用例】\nimmeasurable value → 計り知れない価値\nimmeasurable damage → 計り知れない損害\nimmeasurable impact → 計り知れない影響",
       usedIn: ["s990"],
       tags: ["adj"]
     },
@@ -1421,7 +1421,7 @@ window.SECTIONS["sec10"] = {
       word: "impaired",
       ipa: "[impέərd]",
       meaning: "障害のある、弱った、損なわれた",
-      extraInfo: "【形】\n（複合語で）～に障害のある、弱った、損なわれた\nphysically impaired 身体に障害がある",
+      extraInfo: "【形】\n（複合語で）～に障害のある、弱った、損なわれた\nphysically impaired 身体に障害がある\n【関連語＆似た言葉】\nimpaired /ɪmˈperd/ 【形容詞】損なわれた、機能が低下した、障害のある\nimpair /ɪmˈper/ 【動詞】損なう、弱める、悪化させる\nunimpaired /ˌʌnɪmˈperd/ 【形容詞】損なわれていない\nimpartial /ɪmˈpɑːrʃəl/ 【形容詞】公平な、偏りのない\n【覚え方】\nimpair（機能などを損なう）→ impaired（機能が損なわれた）。本来の能力・機能が低下しているイメージ。\n【用例】\nimpaired vision → 視力が低下した状態\nimpaired function → 機能低下\nhearing-impaired → 聴覚に障害のある",
       usedIn: ["s991"],
       tags: ["adj"]
     },
@@ -1430,7 +1430,7 @@ window.SECTIONS["sec10"] = {
       word: "impassable",
       ipa: "[impǽsəbl]",
       meaning: "通行できない、克服できない",
-      extraInfo: "【形】\n（道・川などが）通行できない [= blocked, closed]、（困難・障害などが）克服できない",
+      extraInfo: "【形】\n（道・川などが）通行できない [= blocked, closed]、（困難・障害などが）克服できない\n【関連語＆似た言葉】\nimpassable /ɪmˈpæsəbəl/ 【形容詞】通行できない、通り抜けられない\nimpossible /ɪmˈpɑːsəbəl/ 【形容詞】不可能な、あり得ない\npassable /ˈpæsəbəl/ 【形容詞】通行可能な；まずまずの\nimpassive /ɪmˈpæsɪv/ 【形容詞】無表情な、感情を表に出さない\n【覚え方・混同注意】\nim + pass + able → 通ることができない → 通行不能な。\nimpassable = pass（通る）できない / impossible = possible（可能）ではない。\n【用例】\nan impassable road → 通行できない道路\nThe road became impassable. → その道路は通行不能になった。",
       usedIn: ["s992"],
       tags: ["adj"]
     },
@@ -1466,7 +1466,7 @@ window.SECTIONS["sec10"] = {
       word: "unpleasant",
       ipa: "[ʌnpléznt]",
       meaning: "不愉快な、いやな",
-      extraInfo: "【形】\n不愉快な、いやな [= annoying, displeasing] [⇔ pleasant]",
+      extraInfo: "【形】\n不愉快な、いやな [= annoying, displeasing] [⇔ pleasant]\n【関連語＆似た言葉】\nunpleasant /ʌnˈplezənt/ 【形容詞】不快な、嫌な、不愉快な\npleasant /ˈplezənt/ 【形容詞】快適な、楽しい、感じのよい\npleasure /ˈpleʒər/ 【名詞】喜び、楽しみ\ndispleased /dɪsˈpliːzd/ 【形容詞】不満な、不愉快に感じた\n【覚え方】\nun-（～でない）＋ pleasant（心地よい）→ 心地よくない → 不快な、嫌な。pleasant ↔ unpleasant をセットで覚える。\n【用例】\nan unpleasant experience → 不快な経験\nan unpleasant smell → 嫌なにおい\nunpleasant weather → 不快な天候",
       usedIn: ["s996"],
       tags: ["adj"]
     },

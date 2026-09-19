@@ -620,7 +620,7 @@ window.SECTIONS["sec11"] = {
       word: "curb",
       ipa: "[kəːrb]",
       meaning: "を抑制する、を制御する",
-      extraInfo: "【動】\nを抑制する、を制御する [= restrain, control, contain]\n【名】抑制、制御",
+      extraInfo: "【動】\nを抑制する、を制御する [= restrain, control, contain]\n【名】抑制、制御\n【関連語＆似た言葉】\ncurb /kɜːrb/ 【動詞・名詞】抑制する、食い止める；抑制、縁石\ncurve /kɜːrv/ 【名詞・動詞】曲線、カーブ；曲がる\ncurved /kɜːrvd/ 【形容詞】曲がった、湾曲した\n【用例】\ncurb inflation → インフレを抑える\ncurb spending → 支出を抑える\ncurb pollution → 汚染を抑制する\n【覚え方・混同注意】\n行きすぎないように抑えるイメージ。日本語の「カーブ」につられて curve と混同しない。curb は語尾が /b/、curve は /v/。",
       usedIn: ["s1002"],
       tags: ["verb"]
     },
@@ -629,7 +629,7 @@ window.SECTIONS["sec11"] = {
       word: "restrain",
       ipa: "[ristréin]",
       meaning: "を制止する、を抑制する",
-      extraInfo: "【動】\nを制止する、を抑制する [= control, curb, check]\nrestraint 【名】\nrestrained 【形】",
+      extraInfo: "【動】\nを制止する、を抑制する [= control, curb, check]\nrestraint 【名】\nrestrained 【形】\n【関連語＆似た言葉】\nrestrain /rɪˈstreɪn/ 【動詞】抑える、制止する、抑制する\nrestrict /rɪˈstrɪkt/ 【動詞】制限する、規制する\nrefrain /rɪˈfreɪn/ 【動詞】控える、慎む\nconstraint /kənˈstreɪnt/ 【名詞】制約、束縛\n【覚え方・使い分け】\n人・感情・行動などを押さえて、自由に動かないようにするイメージ。\ncurb（1002番）= 増加・悪化などを抑制する / restrain = 人・感情・行動を抑える。\n【用例】\nrestrain one's anger → 怒りを抑える\nrestrain a person → 人を制止する\nrestrain oneself → 自制する",
       usedIn: ["s1003"],
       tags: ["verb"]
     },
@@ -638,7 +638,7 @@ window.SECTIONS["sec11"] = {
       word: "stumble",
       ipa: "[stʌ́mbl]",
       meaning: "つまずく",
-      extraInfo: "【動】\nつまずく（on, over ～に） [⇔ trip]、よろめきながら歩く [= stagger]",
+      extraInfo: "【動】\nつまずく（on, over ～に） [⇔ trip]、よろめきながら歩く [= stagger]\n【関連語＆似た言葉】\nstumble /ˈstʌmbəl/ 【動詞・名詞】つまずく、よろめく；しくじる、言葉につかえる\ntumble /ˈtʌmbəl/ 【動詞】転ぶ、転落する；急落する\nmumble /ˈmʌmbəl/ 【動詞】ぶつぶつ言う、もごもご話す\nfumble /ˈfʌmbəl/ 【動詞】手探りする；不器用に扱う、しくじる\n【覚え方】\n進んでいる途中でつまずくイメージ。物理的な意味から比喩的にも広がる。\n【用例】\nstumble over a rock → 石につまずく\nstumble over one's words → 言葉につかえる\nstumble upon/across ～ → ～に偶然出会う、～を偶然発見する\n特に stumble upon ～ は重要。",
       usedIn: ["s1004"],
       tags: ["verb"]
     },
@@ -647,7 +647,7 @@ window.SECTIONS["sec11"] = {
       word: "diminish",
       ipa: "[dimíniʃ]",
       meaning: "減少する、を減じる",
-      extraInfo: "【動】\n減少する、を減じる [= decrease, reduce, lessen, dwindle] [⇔ increase]",
+      extraInfo: "【動】\n減少する、を減じる [= decrease, reduce, lessen, dwindle] [⇔ increase]\n【関連語＆似た言葉】\ndiminish /dɪˈmɪnɪʃ/ 【動詞】減少する、減少させる；弱める、価値を下げる\ndiminished /dɪˈmɪnɪʃt/ 【形容詞】減少した、弱まった\ndecrease /dɪˈkriːs/ 【動詞】減少する、減らす\ndemolish /dɪˈmɑːlɪʃ/ 【動詞】取り壊す、破壊する\n【用例】\ndiminish the risk → リスクを減らす\ndiminish in importance → 重要性が低下する\nHis influence diminished. → 彼の影響力が弱まった。\n【覚え方・使い分け】\nだんだん小さくなる・弱くなるイメージ。decrease は数量の減少に広く使い、diminish は重要性・影響力・価値・強さなどが弱まる場合にもよく使う。",
       usedIn: ["s1005"],
       tags: ["verb"]
     },
@@ -683,7 +683,7 @@ window.SECTIONS["sec11"] = {
       word: "offset",
       ipa: "[ɔ́ːfset]",
       meaning: "を相殺する、を埋め合わせる",
-      extraInfo: "【動】\nを相殺する、を埋め合わせる [= compensate for]\n【名】相殺するもの、埋め合わせ",
+      extraInfo: "【動】\nを相殺する、を埋め合わせる [= compensate for]\n【名】相殺するもの、埋め合わせ\n【関連語＆似た言葉】\noffset /ˈɔːfset/ 【動詞・名詞】相殺する、埋め合わせる；相殺するもの、埋め合わせ\ncompensate /ˈkɑːmpənseɪt/ 【動詞】補償する、埋め合わせる\ncounteract /ˌkaʊntərˈækt/ 【動詞】～の作用を打ち消す\nset off /set ˈɔːf/ 【句動詞】出発する；引き起こす\n【覚え方】\n悪い影響・損失などを別のもので相殺する。マイナスに反対側からプラスを当て、差し引きゼロに近づけるイメージ。\n【用例】\noffset the cost → 費用を埋め合わせる\noffset the negative effects → 悪影響を相殺する\nHigher sales offset the losses. → 売上増が損失を埋め合わせた。",
       usedIn: ["s1009"],
       tags: ["verb"]
     },
@@ -692,7 +692,7 @@ window.SECTIONS["sec11"] = {
       word: "bid",
       ipa: "[bid]",
       meaning: "入札する",
-      extraInfo: "【動】\n入札する（for ～に）\n【名】つけ値、入札、せり、はぢ\nbidder 【名】入札者",
+      extraInfo: "【動】\n入札する（for ～に）\n【名】つけ値、入札、せり、はぢ\nbidder 【名】入札者\n【関連語＆似た言葉】\nbid /bɪd/ 【動詞・名詞】入札する；～しようと努める／入札、試み\nbit /bɪt/ 【名詞】少し、わずか；小片\nbet /bet/ 【動詞・名詞】賭ける；賭け\nbide /baɪd/ 【動詞】時機を待つ\n【覚え方】\n値段を提示して獲得しようとする → 入札する。そこから何かを獲得しようとする試みへ広がる。\n【用例】\nbid for a contract → 契約に入札する\nmake a bid for ～ → ～を得ようと試みる\na bid to reduce costs → コストを削減しようとする試み\n特に a bid to do = ～しようとする試み、も重要。",
       usedIn: ["s1010"],
       tags: ["verb"]
     },
@@ -701,7 +701,7 @@ window.SECTIONS["sec11"] = {
       word: "burst",
       ipa: "[bəːrst]",
       meaning: "破裂する、爆発する",
-      extraInfo: "【動】\n破裂する、爆発する [= explode, blow up]\n【名】破裂、爆発",
+      extraInfo: "【動】\n破裂する、爆発する [= explode, blow up]\n【名】破裂、爆発\n【関連語＆似た言葉】\nburst /bɜːrst/ 【動詞・名詞】破裂する、突然～し始める；爆発、急増\nblast /blæst/ 【名詞・動詞】爆発、突風；爆破する\nboost /buːst/ 【動詞・名詞】押し上げる、増加させる\nbursting /ˈbɜːrstɪŋ/ 【形容詞】はち切れそうな、いっぱいの\n【覚え方・活用】\n内側から一気に破れる・突然あふれ出すイメージ。\nburst → burst → burst と活用は変化しない。\n【用例】\na pipe burst → パイプが破裂した\nburst into tears → 突然泣き出す\nburst into laughter → 突然笑い出す\na burst of energy → 急に湧き出るエネルギー",
       usedIn: ["s1011"],
       tags: ["verb"]
     },
@@ -719,7 +719,7 @@ window.SECTIONS["sec11"] = {
       word: "retain",
       ipa: "[ritéin]",
       meaning: "を保持する",
-      extraInfo: "【動】\nを保持する [= keep, hold, maintain, preserve]\nretention 【名】",
+      extraInfo: "【動】\nを保持する [= keep, hold, maintain, preserve]\nretention 【名】\n【関連語＆似た言葉】\nretain /rɪˈteɪn/ 【動詞】保持する、維持する；覚えておく\nrestrain /rɪˈstreɪn/ 【動詞】抑える、制止する\nrefrain /rɪˈfreɪn/ 【動詞】控える、慎む\nretrieve /rɪˈtriːv/ 【動詞】取り戻す、検索して取り出す\n【用例】\nretain information → 情報を記憶しておく\nretain employees → 従業員を引き留める\nretain control → 支配・管理を維持する\nretain its original shape → 元の形を保つ\n【覚え方・混同注意】\n手放さず、そのまま持っておくイメージ。\nretain = 保つ / restrain（1003番）= 抑える。",
       usedIn: ["s1013"],
       tags: ["verb"]
     },
@@ -746,7 +746,7 @@ window.SECTIONS["sec11"] = {
       word: "discipline",
       ipa: "[dísəplin]",
       meaning: "を罰する、を訓練する",
-      extraInfo: "【動】\nを罰する（for ～のことで）、を訓練する [= train]\n【名】規律、訓練\ndisciplinary 【形】",
+      extraInfo: "【動】\nを罰する（for ～のことで）、を訓練する [= train]\n【名】規律、訓練\ndisciplinary 【形】\n【関連語＆似た言葉】\ndiscipline /ˈdɪsəplɪn/ 【名詞・動詞】規律、訓練、自制心；しつける、訓練する\ndisciplined /ˈdɪsəplɪnd/ 【形容詞】規律正しい、自制心のある\ndisciple /dɪˈsaɪpəl/ 【名詞】弟子、門弟\nprinciple /ˈprɪnsəpəl/ 【名詞】原則、主義\n【覚え方】\nルールや訓練によって自分・人を律すること。発音は真ん中が弱く「ディサプリン」寄りに聞こえる。\n【用例】\nself-discipline → 自制心\nmaintain discipline → 規律を維持する\ndiscipline children → 子どもをしつける\nan academic discipline → 学問分野\n「学問分野・専門分野」という意味もある。",
       usedIn: ["s1016"],
       tags: ["verb"]
     },
@@ -755,7 +755,7 @@ window.SECTIONS["sec11"] = {
       word: "yield",
       ipa: "[jíːld]",
       meaning: "を産出する、譲る",
-      extraInfo: "【動】\nを産出する [= produce]、（権利など）を譲る（to ～に）、屈する [= surrender, submit]\n【名】産出（物）、生産（高）",
+      extraInfo: "【動】\nを産出する [= produce]、（権利など）を譲る（to ～に）、屈する [= surrender, submit]\n【名】産出（物）、生産（高）\n【関連語＆似た言葉】\nyield /jiːld/ 【動詞・名詞】生み出す、産出する；屈する、譲る／収穫量、利益\nshield /ʃiːld/ 【名詞・動詞】盾；～を保護する\nfield /fiːld/ 【名詞】野原、分野、現場\nwield /wiːld/ 【動詞】武器・権力などを振るう、行使する\n【ポイント】\n結果として何かを生み出す意味と、抵抗をやめる → 屈する・譲る意味が重要。発音は最初に /j/ が入り、「イィールド」に近い感覚。\n【用例】\nyield good results → 良い結果を生み出す\nThe land yields crops. → その土地は作物を産出する。\na high yield → 高い収穫量・高い利回り\nyield to pressure → 圧力に屈する\nyield to another car → 他の車に道を譲る",
       usedIn: ["s1017"],
       tags: ["verb"]
     },
@@ -773,7 +773,7 @@ window.SECTIONS["sec11"] = {
       word: "dictate",
       ipa: "[díkteit]",
       meaning: "を命令する、を決定づける",
-      extraInfo: "【動】\nを命令する [= command]、を決定づける [= determine]、を書き取らせる\ndictation 【名】口述\ndictator 【名】独裁者",
+      extraInfo: "【動】\nを命令する [= command]、を決定づける [= determine]、を書き取らせる\ndictation 【名】口述\ndictator 【名】独裁者\n【関連語＆似た言葉】\ndictate /ˈdɪkteɪt/ 【動詞】命令する、指図する；決定づける；書き取らせる\ndictator /ˈdɪkteɪtər/ 【名詞】独裁者\ndictation /dɪkˈteɪʃən/ 【名詞】書き取り、口述\ndedicate /ˈdedɪkeɪt/ 【動詞】～をささげる、専念する\n【覚え方】\nこちらから言葉・条件を一方的に示すイメージ。命令するだけでなく、状況などが結果を決定づける意味にも広がる。dedicate（ささげる）と混同注意。\n【用例】\ndictate the terms → 条件を指図する\nCircumstances dictate our actions. → 状況が私たちの行動を決定づける。\ndictate a letter → 手紙を口述する",
       usedIn: ["s1019"],
       tags: ["verb"]
     },
@@ -791,7 +791,7 @@ window.SECTIONS["sec11"] = {
       word: "urge",
       ipa: "[əːrdʒ]",
       meaning: "に熱心に勧める",
-      extraInfo: "【動】\nに熱心に勧める（to do ～することを） [= encourage] [⇔ discourage]\n【名】衝動、駆り立てる力\nurgent 【形】急を要する",
+      extraInfo: "【動】\nに熱心に勧める（to do ～することを） [= encourage] [⇔ discourage]\n【名】衝動、駆り立てる力\nurgent 【形】急を要する\n【関連語＆似た言葉】\nurge /ɜːrdʒ/ 【動詞・名詞】強く勧める、促す／強い衝動、欲求\nurgent /ˈɜːrdʒənt/ 【形容詞】緊急の、差し迫った\nencourage /ɪnˈkɜːrɪdʒ/ 【動詞】励ます、促す\n【重要表現・用例】\nurge A to do → Aに～するよう強く促す\nurge people to vote → 人々に投票するよう強く促す\nurge the government to act → 政府に行動するよう強く求める\nan urge to eat → 食べたいという強い衝動\n【覚え方】\n強い力で相手を前へ押すイメージ。urge = 強く促す / urgent（891番）= 今すぐ対応が必要な。",
       usedIn: ["s1021"],
       tags: ["verb"]
     },
@@ -809,7 +809,7 @@ window.SECTIONS["sec11"] = {
       word: "roam",
       ipa: "[roum]",
       meaning: "歩き回る、放浪する",
-      extraInfo: "【動】\n歩き回る、放浪する [= wander, stroll, ramble]",
+      extraInfo: "【動】\n歩き回る、放浪する [= wander, stroll, ramble]\n【関連語＆似た言葉】\nroam /roʊm/ 【動詞】歩き回る、さまよう、あちこち移動する\nRome /roʊm/ 【固有名詞】ローマ\nroom /ruːm/ 【名詞】部屋、空間\nloom /luːm/ 【動詞・名詞】ぼんやり現れる、迫る／織機\n【覚え方】\n特に決まった目的地を持たず、広い範囲をあちこち動き回る。スマホの roaming（ローミング）も、普段の通信網を離れて別の通信網を渡り歩くと考えると覚えやすい。\n【用例】\nroam around the city → 街を歩き回る\nanimals roaming freely → 自由に歩き回る動物\nroam the countryside → 田舎をあちこち歩き回る",
       usedIn: ["s1023"],
       tags: ["verb"]
     },
@@ -818,7 +818,7 @@ window.SECTIONS["sec11"] = {
       word: "assess",
       ipa: "[əsés]",
       meaning: "を査定する、を評価する",
-      extraInfo: "【動】\nを査定する、を評価する [= evaluate, estimate, appraise]\nassessment 【名】",
+      extraInfo: "【動】\nを査定する、を評価する [= evaluate, estimate, appraise]\nassessment 【名】\n【関連語＆似た言葉】\nassess /əˈses/ 【動詞】評価する、査定する；判断する\nassessment /əˈsesmənt/ 【名詞】評価、査定、判断\nevaluate /ɪˈvæljueɪt/ 【動詞】評価する、査定する\naccess /ˈækses/ 【名詞・動詞】利用・接近する権利／アクセスする\n【用例】\nassess the risk → リスクを評価する\nassess the damage → 被害の程度を査定する\nassess a student's ability → 生徒の能力を評価する\n【覚え方・使い分け】\n情報を調べて程度・価値・状況を判断するイメージ。assess = 調べて判断する / evaluate（220番）= 価値・質・成果を評価する。\nassess /əˈses/ と access /ˈækses/ の綴り・発音を区別する。",
       usedIn: ["s1024"],
       tags: ["verb"]
     },
@@ -845,7 +845,7 @@ window.SECTIONS["sec11"] = {
       word: "repay",
       ipa: "[ripéi]",
       meaning: "を返済する",
-      extraInfo: "【動】\nを返済する [= refund, reimburse, pay back]\nrepayment 【名】返済、（通例 ～s）返済金",
+      extraInfo: "【動】\nを返済する [= refund, reimburse, pay back]\nrepayment 【名】返済、（通例 ～s）返済金\n【関連語＆似た言葉】\nrepay /rɪˈpeɪ/ 【動詞】返済する、返金する；恩などに報いる\nrepayment /rɪˈpeɪmənt/ 【名詞】返済、払い戻し\npay /peɪ/ 【動詞】支払う\nreimburse /ˌriːɪmˈbɜːrs/ 【動詞】費用などを払い戻す、返済する\n【覚え方】\nre-（戻す）＋ pay（支払う）→ お金を払い戻す → 返済する。お金だけでなく親切・恩などをお返しする意味にも使う。\n【用例】\nrepay a loan → ローンを返済する\nrepay a debt → 借金を返す\nrepay someone's kindness → 人の親切に報いる",
       usedIn: ["s1027"],
       tags: ["verb"]
     },
@@ -854,7 +854,7 @@ window.SECTIONS["sec11"] = {
       word: "overthrow",
       ipa: "[òuvərθróu]",
       meaning: "を打倒する",
-      extraInfo: "【動】\n（政府・体制など）を打倒する [= subvert, topple, overturn, bring down]",
+      extraInfo: "【動】\n（政府・体制など）を打倒する [= subvert, topple, overturn, bring down]\n【関連語＆似た言葉】\noverthrow /ˌoʊvərˈθroʊ/ 【動詞・名詞】政府・支配者などを打倒する、転覆させる／打倒、転覆\noverturn /ˌoʊvərˈtɜːrn/ 【動詞】ひっくり返す；決定などを覆す\noverwhelm /ˌoʊvərˈwelm/ 【動詞】圧倒する\nthrow /θroʊ/ 【動詞】投げる\n【覚え方・発音】\nover + throw → 上にいるものを投げ落とす → 権力者などを打倒するイメージ。野球で使う overthrow と同じ綴り。th は /θ/ で、日本語の「ス」とは異なる。\n【用例】\noverthrow a government → 政府を打倒する\noverthrow a dictator → 独裁者を打倒する\nattempt to overthrow the regime → 政権を転覆させようとする",
       usedIn: ["s1028"],
       tags: ["verb"]
     },
@@ -863,7 +863,7 @@ window.SECTIONS["sec11"] = {
       word: "fulfill",
       ipa: "[fulfíl]",
       meaning: "を果たす",
-      extraInfo: "【動】\n（約束・任務など）を果たす [= achieve, accomplish]、（条件・要求など）を満たす [= satisfy, meet]\nfulfillment 【名】",
+      extraInfo: "【動】\n（約束・任務など）を果たす [= achieve, accomplish]、（条件・要求など）を満たす [= satisfy, meet]\nfulfillment 【名】\n【関連語＆似た言葉】\nfulfill /fʊlˈfɪl/ 【動詞】果たす、実行する；満たす、実現する\nfulfillment /fʊlˈfɪlmənt/ 【名詞】達成、実現；充足感\nfill /fɪl/ 【動詞】満たす、いっぱいにする\naccomplish /əˈkɑːmplɪʃ/ 【動詞】成し遂げる、達成する\n【覚え方】\n必要なものを完全に満たすイメージ。約束・義務を果たす、条件を満たす、夢を実現する意味へ広がる。\n【用例】\nfulfill a promise → 約束を果たす\nfulfill an obligation → 義務を果たす\nfulfill the requirements → 要件を満たす\nfulfill one's dream → 夢を実現する\n特に fulfill the requirements も重要。",
       usedIn: ["s1029"],
       tags: ["verb"]
     },
@@ -881,7 +881,7 @@ window.SECTIONS["sec11"] = {
       word: "affiliate",
       ipa: "[əfílièit]",
       meaning: "を提携させる、を合併する",
-      extraInfo: "【動】\nを提携させる（with, to ～と）、を合併する [= associate, ally]\n【名】[əfíliət] 支店、会員\naffiliation 【名】提携、合併",
+      extraInfo: "【動】\nを提携させる（with, to ～と）、を合併する [= associate, ally]\n【名】[əfíliət] 支店、会員\naffiliation 【名】提携、合併\n【関連語＆似た言葉】\naffiliate /əˈfɪlieɪt/ 【動詞】提携させる、加盟させる；関係づける\naffiliate /əˈfɪliət/ 【名詞】関連会社、系列会社；加盟団体\naffiliation /əˌfɪliˈeɪʃən/ 【名詞】所属、提携、加盟\nassociate /əˈsoʊʃieɪt/ 【動詞】関連づける、結びつける\n【発音】\n動詞 affiliate /əˈfɪlieɪt/ と名詞 affiliate /əˈfɪliət/ では語尾の発音が変わる。\n【用例】\nbe affiliated with ～ → ～と提携している、～に所属している\nan affiliated company → 系列会社\na local affiliate → 地方の系列局・関連組織\n【ポイント】\nアフィリエイト広告の affiliate と同じ語。特に be affiliated with ～（～と提携・関係している）が重要。",
       usedIn: ["s1031"],
       tags: ["verb"]
     },
@@ -890,7 +890,7 @@ window.SECTIONS["sec11"] = {
       word: "assault",
       ipa: "[əsɔ́ːlt]",
       meaning: "を攻撃する、を非難する",
-      extraInfo: "【動】\nを攻撃する [= attack, assail]、を非難する\n【名】猛攻撃、光線",
+      extraInfo: "【動】\nを攻撃する [= attack, assail]、を非難する\n【名】猛攻撃、光線\n【関連語＆似た言葉】\nassault /əˈsɔːlt/ 【名詞・動詞】暴行、襲撃；攻撃する、襲う\nattack /əˈtæk/ 【名詞・動詞】攻撃；攻撃する\nassail /əˈseɪl/ 【動詞】激しく攻撃する、非難する\ninsult /ˈɪnsʌlt/ 【名詞】侮辱、無礼な言動\n【ポイント】\n人などに対する強い攻撃・襲撃が中心。attack よりも暴行・襲撃という強いニュアンスを持つことが多い。\n【用例】\nlaunch an assault on ～ → ～への攻撃を開始する\nassault a person → 人に暴行を加える\nphysical assault → 身体的暴行",
       usedIn: ["s1032"],
       tags: ["verb"]
     },
@@ -899,7 +899,7 @@ window.SECTIONS["sec11"] = {
       word: "testimony",
       ipa: "[téstəmòuni]",
       meaning: "証言、証拠",
-      extraInfo: "【名】\n証言、証拠 [= evidence, testament]\ntestimonial 【名】（人物・能力などの）証明書\ntestify 【動】証言する",
+      extraInfo: "【名】\n証言、証拠 [= evidence, testament]\ntestimonial 【名】（人物・能力などの）証明書\ntestify 【動】証言する\n【関連語＆似た言葉】\ntestimony /ˈtestɪmoʊni/ 【名詞】証言、証言内容；証拠\ntestify /ˈtestɪfaɪ/ 【動詞】証言する、証明する\ntestimonial /ˌtestɪˈmoʊniəl/ 【名詞・形容詞】推薦文、証明書／証言の\nevidence /ˈevɪdəns/ 【名詞】証拠、根拠\n【ポイント】\n特に裁判・公的な場での証言が中心。testify（証言する）→ testimony（証言）をセットで覚える。\n【用例】\ngive testimony → 証言する\nwitness testimony → 証人の証言\naccording to his testimony → 彼の証言によると",
       usedIn: ["s1033"],
       tags: ["noun"]
     },
@@ -908,7 +908,7 @@ window.SECTIONS["sec11"] = {
       word: "errand",
       ipa: "[érənd]",
       meaning: "使い、用足し",
-      extraInfo: "【名】\n（人の）使い、用足し",
+      extraInfo: "【名】\n（人の）使い、用足し\n【関連語＆似た言葉】\nerrand /ˈerənd/ 【名詞】使い、用事、おつかい\nerrant /ˈerənt/ 【形容詞】道を外れた、誤った\nerrand boy /ˈerənd bɔɪ/ 【名詞】使い走りをする人\n【覚え方】\nどこかへ行って済ませるちょっとした用事。run an errand / run errands をまとまりで覚える。\n【用例】\nrun an errand → 用事を済ませる、おつかいに行く\nrun errands → あれこれ用事を済ませる\nI have an errand to run. → 済ませなければならない用事がある。",
       usedIn: ["s1034"],
       tags: ["noun"]
     },
@@ -926,7 +926,7 @@ window.SECTIONS["sec11"] = {
       word: "coalition",
       ipa: "[kòuəlíʃən]",
       meaning: "連立、合同",
-      extraInfo: "【名】\n連立、合同 [= alliance, association, union]",
+      extraInfo: "【名】\n連立、合同 [= alliance, association, union]\n【関連語＆似た言葉】\ncoalition /ˌkoʊəˈlɪʃən/ 【名詞】連合、連立、提携\ncorrelation /ˌkɔːrəˈleɪʃən/ 【名詞】相関関係、関連性\nalliance /əˈlaɪəns/ 【名詞】同盟、提携\ncooperation /koʊˌɑːpəˈreɪʃən/ 【名詞】協力、協調\n【覚え方・混同注意】\n別々の政党・組織・国などが共通の目的のために一緒になるイメージ。\ncoalition = 連合 / correlation = 相関関係。\n【用例】\nform a coalition → 連合・連立を組む\na coalition government → 連立政権\na coalition of environmental groups → 環境団体の連合",
       usedIn: ["s1036"],
       tags: ["noun"]
     },
@@ -935,7 +935,7 @@ window.SECTIONS["sec11"] = {
       word: "influx",
       ipa: "[ínflʌks]",
       meaning: "殺到、流入",
-      extraInfo: "【名】\n（人・物の）殺到、（水・空気の）流入",
+      extraInfo: "【名】\n（人・物の）殺到、（水・空気の）流入\n【関連語＆似た言葉】\ninflux /ˈɪnflʌks/ 【名詞】大量流入、殺到\ninfluence /ˈɪnfluəns/ 【名詞・動詞】影響／影響を与える\ninflict /ɪnˈflɪkt/ 【動詞】苦痛・損害などを与える\ninflexible /ɪnˈfleksəbəl/ 【形容詞】柔軟性のない、融通の利かない\n【覚え方】\nin（中へ）＋ flux（流れ）→ 中へどっと流れ込むこと。\n【重要表現・用例】\nan influx of ～ → ～の大量流入\nan influx of tourists → 観光客の大量流入\nan influx of immigrants → 移民の大量流入\na sudden influx of money → 突然の資金流入",
       usedIn: ["s1037"],
       tags: ["noun"]
     },
@@ -962,7 +962,7 @@ window.SECTIONS["sec11"] = {
       word: "visibility",
       ipa: "[vìzəbíləti]",
       meaning: "視界、視野",
-      extraInfo: "【名】\n視界、視野 [⇔ view]、目に見えること [⇔ invisibility]\nvisible 【形】見える、目立つ",
+      extraInfo: "【名】\n視界、視野 [⇔ view]、目に見えること [⇔ invisibility]\nvisible 【形】見える、目立つ\n【関連語＆似た言葉】\nvisibility /ˌvɪzəˈbɪləti/ 【名詞】視界、視認性；目立つこと、認知度\nvisible /ˈvɪzəbəl/ 【形容詞】目に見える、明らかな\nvision /ˈvɪʒən/ 【名詞】視力、視覚；展望\nviability /ˌvaɪəˈbɪləti/ 【名詞】実行可能性、生存能力\n【覚え方】\nvisible（見える）＋ -ity（状態）→ 見える状態・見えやすさ。物理的な視界だけでなく、企業・商品などの世間での認知度、目立ちやすさにも使う。\n【用例】\npoor visibility → 視界不良\nincrease visibility → 視認性・認知度を高める\ngain greater visibility → より注目されるようになる",
       usedIn: ["s1040"],
       tags: ["noun"]
     },
@@ -1034,7 +1034,7 @@ window.SECTIONS["sec11"] = {
       word: "completion",
       ipa: "[kəmplíːʃən]",
       meaning: "完了、完成",
-      extraInfo: "【名】\n完了、完成 [= accomplishment]\ncomplete 【動】【形】\ncompletely 【副】",
+      extraInfo: "【名】\n完了、完成 [= accomplishment]\ncomplete 【動】【形】\ncompletely 【副】\n【関連語＆似た言葉】\ncompletion /kəmˈpliːʃən/ 【名詞】完成、完了、終了\ncomplete /kəmˈpliːt/ 【動詞・形容詞】完成させる、完了する／完全な\ncompression /kəmˈpreʃən/ 【名詞】圧縮、圧迫\ncomplement /ˈkɑːmpləmənt/ 【名詞・動詞】補完するもの／補完する\n【覚え方・混同注意】\ncomplete（完了する）＋ -ion（こと）→ 何かを最後まで終えること。completion / compression の音を区別する。\n【用例】\nupon completion of ～ → ～の完了時に\nthe completion of the project → プロジェクトの完成\nsuccessful completion → 無事完了、成功裏の完了",
       usedIn: ["s1048"],
       tags: ["noun"]
     },
@@ -1043,7 +1043,7 @@ window.SECTIONS["sec11"] = {
       word: "expertise",
       ipa: "[èkspərtíːz]",
       meaning: "専門的知識",
-      extraInfo: "【名】\n専門的知識 [技術、意見]（in ～についての）\nexpert 【名】熟練者",
+      extraInfo: "【名】\n専門的知識 [技術、意見]（in ～についての）\nexpert 【名】熟練者\n【関連語＆似た言葉】\nexpertise /ˌekspɜːrˈtiːz/ 【名詞】専門知識、専門的技能、専門性\nexpert /ˈekspɜːrt/ 【名詞・形容詞】専門家／熟練した\nexperience /ɪkˈspɪriəns/ 【名詞・動詞】経験／経験する\nspecialty /ˈspeʃəlti/ 【名詞】専門、得意分野\n【ポイント・発音】\n専門家として身につけた高度な知識・技能。expert と違い、expertise は最後の /tiːz/ に強勢がある。「エクスパーティーズ」に近い音。\n【用例】\nhave expertise in ～ → ～の専門知識を持つ\ntechnical expertise → 技術的な専門知識\nshare one's expertise → 専門知識を共有する",
       usedIn: ["s1049"],
       tags: ["noun"]
     },
@@ -1142,7 +1142,7 @@ window.SECTIONS["sec11"] = {
       word: "perspective",
       ipa: "[pərspéktiv]",
       meaning: "観点、見通し、遠近画法",
-      extraInfo: "【名】\n観点（on ～についての） [= viewpoint, standpoint, outlook]、見通し、遠近画法",
+      extraInfo: "【名】\n観点（on ～についての） [= viewpoint, standpoint, outlook]、見通し、遠近画法\n【関連語＆似た言葉】\nperspective /pərˈspektɪv/ 【名詞】視点、観点、見方；大局的な見方\nprospective /prəˈspektɪv/ 【形容詞】将来の、見込みのある\nrespective /rɪˈspektɪv/ 【形容詞】それぞれの、各自の\nperception /pərˈsepʃən/ 【名詞】認識、知覚、見方\n【用例】\nfrom a different perspective → 別の視点から\nfrom a global perspective → 世界的な観点から\nput ～ into perspective → ～を大局的・客観的に捉える\n【覚え方・使い分け】\nどの立場・角度から物事を見るかが中心。\nperspective = 見る立場・視点 / perception（763番）= どう認識しているか。",
       usedIn: ["s1060"],
       tags: ["noun"]
     },
@@ -1160,7 +1160,7 @@ window.SECTIONS["sec11"] = {
       word: "legislation",
       ipa: "[lèdʒisléiʃən]",
       meaning: "法律、立法",
-      extraInfo: "【名】\n（集合的に）法律（on ～についての） [= law]、立法 [= lawmaking]\nlegislate 【動】立法する\nlegislature 【名】立法府、議会",
+      extraInfo: "【名】\n（集合的に）法律（on ～についての） [= law]、立法 [= lawmaking]\nlegislate 【動】立法する\nlegislature 【名】立法府、議会\n【関連語＆似た言葉】\nlegislation /ˌledʒɪsˈleɪʃən/ 【名詞】法律、法律制定、立法\nregistration /ˌredʒɪˈstreɪʃən/ 【名詞】登録、登録手続き\nlegislature /ˈledʒɪsleɪtʃər/ 【名詞】立法府、議会\nlegislative /ˈledʒɪsleɪtɪv/ 【形容詞】立法の、立法権の\n【覚え方・混同注意】\nlegis（法律）から法律を作ること → 立法・法律と連想する。registration（登録）と区別する。\n【用例】\npass legislation → 法律を成立させる\nintroduce legislation → 法案を提出する\nenvironmental legislation → 環境関連法",
       usedIn: ["s1062"],
       tags: ["noun"]
     },
@@ -1169,7 +1169,7 @@ window.SECTIONS["sec11"] = {
       word: "barn",
       ipa: "[bɑːrn]",
       meaning: "家畜小屋、（農家の）納屋",
-      extraInfo: "【名】\n家畜小屋、（農家の）納屋",
+      extraInfo: "【名】\n家畜小屋、（農家の）納屋\n【関連語＆似た言葉】\nbarn /bɑːrn/ 【名詞】納屋、家畜小屋、農作物などを保管する建物\nban /bæn/ 【名詞・動詞】禁止／禁止する\nburn /bɜːrn/ 【動詞・名詞】燃える、燃やす／やけど\nbar /bɑːr/ 【名詞・動詞】棒、障害／妨げる、禁じる\n【ポイント】\n農場にある大きな建物で、家畜を入れたり干し草・農具などを保管したりする納屋。\n【用例】\na cattle barn → 牛舎\na barn on a farm → 農場の納屋",
       usedIn: ["s1063"],
       tags: ["noun"]
     },
@@ -1196,7 +1196,7 @@ window.SECTIONS["sec11"] = {
       word: "tragic",
       ipa: "[trǽdʒik]",
       meaning: "悲惨な、悲劇的な",
-      extraInfo: "【形】\n悲惨な、悲劇的な [= disastrous] [⇔ comic]\ntragedy 【名】 [⇔ comedy]",
+      extraInfo: "【形】\n悲惨な、悲劇的な [= disastrous] [⇔ comic]\ntragedy 【名】 [⇔ comedy]\n【関連語＆似た言葉】\ntragic /ˈtrædʒɪk/ 【形容詞】悲劇的な、痛ましい、悲惨な\ntragedy /ˈtrædʒədi/ 【名詞】悲劇、惨事\ndrastic /ˈdræstɪk/ 【形容詞】抜本的な、思い切った、劇的な\ndramatic /drəˈmætɪk/ 【形容詞】劇的な、目覚ましい\n【ポイント】\n事故・死・災害など非常に深刻で痛ましい出来事に使う。tragedy（悲劇）→ tragic（悲劇的な）をセットで覚える。\n【用例】\na tragic accident → 悲惨な事故\na tragic event → 痛ましい出来事\na tragic death → 悲劇的な死",
       usedIn: ["s1066"],
       tags: ["adj"]
     },
@@ -1205,7 +1205,7 @@ window.SECTIONS["sec11"] = {
       word: "sinister",
       ipa: "[sínistər]",
       meaning: "邪悪な、不吉な",
-      extraInfo: "【形】\n邪悪な [= evil, wicked, wrongful]、不吉な [= ominous]",
+      extraInfo: "【形】\n邪悪な [= evil, wicked, wrongful]、不吉な [= ominous]\n【関連語＆似た言葉】\nsinister /ˈsɪnɪstər/ 【形容詞】不吉な、邪悪な、悪意のある\nsincere /sɪnˈsɪr/ 【形容詞】誠実な、心からの\nsister /ˈsɪstər/ 【名詞】姉、妹\nminister /ˈmɪnɪstər/ 【名詞】大臣、牧師\n【ポイント】\n何か悪いことが起こりそうな、不気味で不吉なニュアンス。\n【用例】\na sinister-looking man → 不気味な男\na sinister plot → 邪悪な陰謀\na sinister atmosphere → 不吉な雰囲気",
       usedIn: ["s1067"],
       tags: ["adj"]
     },
@@ -1214,7 +1214,7 @@ window.SECTIONS["sec11"] = {
       word: "striking",
       ipa: "[stráikiŋ]",
       meaning: "著しい、目立つ",
-      extraInfo: "【形】\n著しい、目立つ [= noticeable, conspicuous, outstanding]\nstrikingly 【副】",
+      extraInfo: "【形】\n著しい、目立つ [= noticeable, conspicuous, outstanding]\nstrikingly 【副】\n【関連語＆似た言葉】\nstriking /ˈstraɪkɪŋ/ 【形容詞】著しい、目立つ、印象的な\nstrike /straɪk/ 【動詞・名詞】打つ；襲う／ストライキ\nstunning /ˈstʌnɪŋ/ 【形容詞】非常に印象的な、驚くほど美しい\nstartling /ˈstɑːrtlɪŋ/ 【形容詞】驚くべき、びっくりさせる\n【覚え方】\nstrike（打つ）→ striking（目を打つ → 印象的な）。ここでは「ストライキをしている」ではなく、強く印象に残る意味。\n【用例】\na striking difference → 著しい違い\na striking feature → 際立った特徴\na striking example → 顕著な例",
       usedIn: ["s1068"],
       tags: ["adj"]
     },
@@ -1223,7 +1223,7 @@ window.SECTIONS["sec11"] = {
       word: "plural",
       ipa: "[plúərəl]",
       meaning: "複数の、複数形の",
-      extraInfo: "【形】\n複数の、2つ[2人]以上の、複数形の [⇔ singular]\n【名】複数形",
+      extraInfo: "【形】\n複数の、2つ[2人]以上の、複数形の [⇔ singular]\n【名】複数形\n【関連語＆似た言葉】\nplural /ˈplʊrəl/ 【形容詞・名詞】複数の／複数形\nplurality /plʊˈræləti/ 【名詞】複数、多数；最多数\nrural /ˈrʊrəl/ 【形容詞】田舎の、農村の\nfloral /ˈflɔːrəl/ 【形容詞】花の、花柄の\n【ポイント・対義語】\n文法の複数だけでなく、一般に複数の・一つではない意味でも使う。\nsingular /ˈsɪŋɡjələr/（単数の・単数形）が反対語。\n【用例】\nplural form → 複数形\nplural nouns → 複数名詞\na plural society → 多元的な社会",
       usedIn: ["s1069"],
       tags: ["adj"]
     },
@@ -1232,7 +1232,7 @@ window.SECTIONS["sec11"] = {
       word: "vital",
       ipa: "[váitl]",
       meaning: "必要不可欠な",
-      extraInfo: "【形】\n必要不可欠な（to, for ～にとって） [= essential]\nvitality 【名】活力\nvitalize 【動】に生命を与える\n語源 vit（生命）+ al（形容詞語尾）",
+      extraInfo: "【形】\n必要不可欠な（to, for ～にとって） [= essential]\nvitality 【名】活力\nvitalize 【動】に生命を与える\n語源 vit（生命）+ al（形容詞語尾）\n【関連語＆似た言葉】\nvital /ˈvaɪtəl/ 【形容詞】極めて重要な、不可欠な；生命に関する\nvitality /vaɪˈtæləti/ 【名詞】活力、生命力\nvivid /ˈvɪvɪd/ 【形容詞】鮮明な、生き生きとした\nviral /ˈvaɪrəl/ 【形容詞】ウイルス性の；急速に広まる\n【覚え方】\n生命に関わるほど重要 → 絶対に欠かせない、極めて重要な。バイタルサインの「バイタル」もこの語。\n【用例】\nplay a vital role → 極めて重要な役割を果たす\nvital information → 極めて重要な情報\nbe vital to ～ → ～にとって不可欠である",
       usedIn: ["s1070"],
       tags: ["adj"]
     },
@@ -1250,7 +1250,7 @@ window.SECTIONS["sec11"] = {
       word: "remarkable",
       ipa: "[rimɑ́ːrkəbl]",
       meaning: "注目に値する、著しい",
-      extraInfo: "【形】\n注目に値する、著しい [= extraordinary, notable, outstanding]\nremarkably 【副】\nremark 【動】を述べる",
+      extraInfo: "【形】\n注目に値する、著しい [= extraordinary, notable, outstanding]\nremarkably 【副】\nremark 【動】を述べる\n【関連語＆似た言葉】\nremarkable /rɪˈmɑːrkəbəl/ 【形容詞】注目すべき、著しい、驚くべき、すばらしい\nremark /rɪˈmɑːrk/ 【名詞・動詞】発言、意見／述べる\nremarkably /rɪˈmɑːrkəbli/ 【副詞】著しく、驚くほど\nnoticeable /ˈnoʊtɪsəbəl/ 【形容詞】目立つ、気づくほどの\n【覚え方】\nremark（注目する・言及する）＋ able → わざわざ言及するほど目立っている → 注目すべき・驚くべき。\n873番 noticeable、1068番 striking と意味が近い。\n【用例】\nremarkable progress → 著しい進歩\na remarkable achievement → 素晴らしい業績\na remarkable difference → 顕著な違い",
       usedIn: ["s1072"],
       tags: ["adj"]
     },
@@ -1259,7 +1259,7 @@ window.SECTIONS["sec11"] = {
       word: "minimal",
       ipa: "[mínəməl]",
       meaning: "最小（限度）の",
-      extraInfo: "【形】\n最小（限度）の [⇔ maximal]\nminimum 【名】\nminimally 【副】\nminimize 【動】",
+      extraInfo: "【形】\n最小（限度）の [⇔ maximal]\nminimum 【名】\nminimally 【副】\nminimize 【動】\n【関連語＆似た言葉】\nminimal /ˈmɪnɪməl/ 【形容詞】最小限の、ごくわずかな\nminimum /ˈmɪnɪməm/ 【名詞・形容詞】最小限、最低限／最低の\nminimize /ˈmɪnəmaɪz/ 【動詞】最小限にする、できるだけ減らす\nminor /ˈmaɪnər/ 【形容詞】小さい、重要でない、軽微な\n【覚え方・使い分け】\n必要な最低限しかないイメージ。minimal は非常に少ないという性質を表す形容詞、minimum は最小値・最低限そのものと考えると整理しやすい。\n【用例】\nminimal damage → 最小限の被害\nminimal effort → 最小限の努力\nhave minimal impact on ～ → ～への影響がごくわずかである",
       usedIn: ["s1073"],
       tags: ["adj"]
     },
@@ -1277,7 +1277,7 @@ window.SECTIONS["sec11"] = {
       word: "authentic",
       ipa: "[ɔːθéntik]",
       meaning: "本物の、真正の",
-      extraInfo: "【形】\n本物の、真正の [= genuine, real] [⇔ fake]\nauthenticity 【名】",
+      extraInfo: "【形】\n本物の、真正の [= genuine, real] [⇔ fake]\nauthenticity 【名】\n【関連語＆似た言葉】\nauthentic /ɔːˈθentɪk/ 【形容詞】本物の、真正の；信頼できる、本格的な\nauthenticity /ˌɔːθenˈtɪsəti/ 【名詞】本物であること、真正性\ngenuine /ˈdʒenjuɪn/ 【形容詞】本物の、偽りのない\nauthoritative /əˈθɔːrəteɪtɪv/ 【形容詞】権威のある、信頼できる\n【覚え方・使い分け】\n偽物ではなく本物である → 本格的な。\nauthentic = 本物・本格的 / genuine = 偽物ではない・偽りのない。\n【用例】\nauthentic Italian food → 本格的なイタリア料理\nan authentic document → 本物の文書\nan authentic experience → 本格的な体験",
       usedIn: ["s1075"],
       tags: ["adj"]
     },
@@ -1304,7 +1304,7 @@ window.SECTIONS["sec11"] = {
       word: "prompt",
       ipa: "[prάm(p)t]",
       meaning: "迅速な",
-      extraInfo: "【形】\n迅速な [= quick, rapid, swift] [⇔ slow]\n【動】を促す、を思いつかせる\npromptly 【副】",
+      extraInfo: "【形】\n迅速な [= quick, rapid, swift] [⇔ slow]\n【動】を促す、を思いつかせる\npromptly 【副】\n【関連語＆似た言葉】\nprompt /prɑːmpt/ 【形容詞・動詞・名詞】迅速な、即座の／促す、引き起こす／きっかけ、指示\npromptly /ˈprɑːmptli/ 【副詞】すぐに、迅速に\npromote /prəˈmoʊt/ 【動詞】促進する、昇進させる\nprovoke /prəˈvoʊk/ 【動詞】引き起こす、刺激する\n【ポイント】\nAIへの指示という意味とも関連するが、英検では特に「促す・引き起こす」が重要。\n【用例】\nprompt A to do → Aに～するよう促す\nprompt action → 迅速な行動\nprompt a response → 反応を引き起こす\nThe incident prompted the government to take action. → その事件が政府に行動を起こさせた。",
       usedIn: ["s1078"],
       tags: ["adj"]
     },
@@ -1322,7 +1322,7 @@ window.SECTIONS["sec11"] = {
       word: "decisive",
       ipa: "[disáisiv]",
       meaning: "決定的な、断固たる",
-      extraInfo: "【形】\n決定的な [= conclusive]、断固たる [= resolute] [⇔ indecisive]\ndecision 【名】\ndecide 【動】",
+      extraInfo: "【形】\n決定的な [= conclusive]、断固たる [= resolute] [⇔ indecisive]\ndecision 【名】\ndecide 【動】\n【関連語＆似た言葉】\ndecisive /dɪˈsaɪsɪv/ 【形容詞】決定的な、決断力のある、断固とした\ndecision /dɪˈsɪʒən/ 【名詞】決定、決断\ndecide /dɪˈsaɪd/ 【動詞】決める、決定する\ndecisively /dɪˈsaɪsɪvli/ 【副詞】決定的に、断固として\n【覚え方・発音】\ndecide（決める）→ 物事を決めてしまうほど決定的な。人について使うと決断力がある意味。\ndecision /dɪˈsɪʒən/ と decisive /dɪˈsaɪsɪv/ の母音の変化に注意。\n【用例】\na decisive factor → 決定的な要因\na decisive victory → 決定的な勝利\ntake decisive action → 断固とした行動を取る",
       usedIn: ["s1080"],
       tags: ["adj"]
     },
@@ -1331,7 +1331,7 @@ window.SECTIONS["sec11"] = {
       word: "inevitable",
       ipa: "[inévətəbl]",
       meaning: "避けられない、必然的な",
-      extraInfo: "【形】\n避けられない、必然的な [⇔ avoidable]\ninevitably 【副】",
+      extraInfo: "【形】\n避けられない、必然的な [⇔ avoidable]\ninevitably 【副】\n【関連語＆似た言葉】\ninevitable /ɪnˈevɪtəbəl/ 【形容詞】避けられない、必然的な、当然起こる\ninevitably /ɪnˈevɪtəbli/ 【副詞】必然的に、避けられず\nunavoidable /ˌʌnəˈvɔɪdəbəl/ 【形容詞】避けられない\nevitable /ˈevɪtəbəl/ 【形容詞】避けることのできる（かなりまれ）\n【覚え方・発音】\nどうやっても避けられないイメージ。-table の部分は弱く /təbəl/ と発音する。\n【用例】\nan inevitable result → 必然的な結果\nan inevitable consequence → 避けられない結果\nIt is inevitable that ～ → ～は避けられない",
       usedIn: ["s1081"],
       tags: ["adj"]
     },
@@ -1358,7 +1358,7 @@ window.SECTIONS["sec11"] = {
       word: "incredible",
       ipa: "[inkrédəbl]",
       meaning: "信じられない、驚くほどの",
-      extraInfo: "【形】\n信じられない [= unbelievable]、驚くほどの [= wonderful, marvelous]\nincredibly 【副】",
+      extraInfo: "【形】\n信じられない [= unbelievable]、驚くほどの [= wonderful, marvelous]\nincredibly 【副】\n【関連語＆似た言葉】\nincredible /ɪnˈkredəbəl/ 【形容詞】信じられない、驚くべき、すばらしい\nincredibly /ɪnˈkredəbli/ 【副詞】信じられないほど、非常に\ncredible /ˈkredəbəl/ 【形容詞】信用できる、信頼できる\ncreditable /ˈkredɪtəbəl/ 【形容詞】称賛に値する、立派な\n【覚え方】\nin + credible（信じられる）→ 信じられない。口語では「ものすごい、すばらしい」という肯定的な意味にもなる。\ncredible（信用できる）↔ incredible（信じられない）。\n【用例】\nan incredible story → 信じられない話\nan incredible achievement → 驚くべき業績\nincredibly difficult → 信じられないほど難しい",
       usedIn: ["s1084"],
       tags: ["adj"]
     },
@@ -1367,7 +1367,7 @@ window.SECTIONS["sec11"] = {
       word: "precise",
       ipa: "[prisáis]",
       meaning: "正確な、厳格な",
-      extraInfo: "【形】\n正確な [= exact, accurate, correct]、厳格な [= strict, severe, rigid, rigorous]\nprecisely 【副】\nprecision 【名】",
+      extraInfo: "【形】\n正確な [= exact, accurate, correct]、厳格な [= strict, severe, rigid, rigorous]\nprecisely 【副】\nprecision 【名】\n【関連語＆似た言葉】\nprecise /prɪˈsaɪs/ 【形容詞】正確な、精密な、明確な\nprecisely /prɪˈsaɪsli/ 【副詞】正確に、まさに\nprecious /ˈpreʃəs/ 【形容詞】貴重な、大切な\nprecision /prɪˈsɪʒən/ 【名詞】正確さ、精密さ\n【覚え方・混同注意】\n細かいところまでズレがないイメージ。\nprecise /prɪˈsaɪs/（正確な）と precious /ˈpreʃəs/（貴重な）の綴り・音を区別する。\n【用例】\nprecise information → 正確な情報\na precise measurement → 精密な測定\nthe precise location → 正確な位置",
       usedIn: ["s1085"],
       tags: ["adj"]
     },
@@ -1376,7 +1376,7 @@ window.SECTIONS["sec11"] = {
       word: "invaluable",
       ipa: "[invǽljuəbl]",
       meaning: "極めて貴重な",
-      extraInfo: "【形】\n極めて貴重な [高価] な [= precious, priceless]\nvaluable（高価な）の強意語",
+      extraInfo: "【形】\n極めて貴重な [高価] な [= precious, priceless]\nvaluable（高価な）の強意語\n【関連語＆似た言葉】\ninvaluable /ɪnˈvæljuəbəl/ 【形容詞】非常に貴重な、計り知れない価値のある\nvaluable /ˈvæljuəbəl/ 【形容詞】価値のある、貴重な\ninvariable /ɪnˈveriəbəl/ 【形容詞】変わらない、不変の\ninvariably /ɪnˈveriəbli/ 【副詞】いつも、例外なく\n【混同注意】\ninvaluable は「価値がない」ではない。\nvaluable = 価値がある / invaluable = 値段をつけられないほど価値がある → 非常に貴重な。\nvalueless / worthless = 価値がない。\n【用例】\ninvaluable advice → 非常に貴重な助言\ninvaluable experience → かけがえのない経験\nprove invaluable → 非常に役立つことが分かる",
       usedIn: ["s1086"],
       tags: ["adj"]
     },
@@ -1385,7 +1385,7 @@ window.SECTIONS["sec11"] = {
       word: "stern",
       ipa: "[stəːrn]",
       meaning: "厳格な、いかめしい",
-      extraInfo: "【形】\n（顔つきなどが）いかめしい [= serious]、厳格な [= strict, severe, rigid, rigorous]\nsternly 【副】",
+      extraInfo: "【形】\n（顔つきなどが）いかめしい [= serious]、厳格な [= strict, severe, rigid, rigorous]\nsternly 【副】\n【関連語＆似た言葉】\nstern /stɜːrn/ 【形容詞・名詞】厳しい、厳格な、険しい／船尾\nstem /stem/ 【名詞・動詞】茎、幹／～から生じる、食い止める\nsturdy /ˈstɜːrdi/ 【形容詞】頑丈な、丈夫な\nstrict /strɪkt/ 【形容詞】厳しい、厳格な\n【覚え方・使い分け】\n人の態度・表情・警告などが厳しく、容赦がないイメージ。\nstrict は規則・基準を厳しく守る、stern は人の態度や表情が厳しいニュアンスが強い。\n【用例】\na stern warning → 厳しい警告\na stern look → 厳しい表情\na stern teacher → 厳格な教師",
       usedIn: ["s1087"],
       tags: ["adj"]
     },
@@ -1403,7 +1403,7 @@ window.SECTIONS["sec11"] = {
       word: "charitable",
       ipa: "[tʃǽrətəbl]",
       meaning: "慈善の、慈悲深い",
-      extraInfo: "【形】\n慈善の [⇔ philanthropic]、慈悲深い [= merciful]\ncharity 【名】慈善",
+      extraInfo: "【形】\n慈善の [⇔ philanthropic]、慈悲深い [= merciful]\ncharity 【名】慈善\n【関連語＆似た言葉】\ncharitable /ˈtʃærətəbəl/ 【形容詞】慈善の、慈善的な、寛大な\ncharity /ˈtʃærəti/ 【名詞】慈善、慈善団体、寄付\ncharitably /ˈtʃærətəbli/ 【副詞】慈善的に、寛大に\ncharismatic /ˌkærɪzˈmætɪk/ 【形容詞】カリスマ性のある、人を引きつける\n【覚え方】\ncharity（慈善）→ charitable（慈善の）。人の言動について寛大な、好意的な意味もある。\n【用例】\na charitable organization → 慈善団体\na charitable donation → 慈善目的の寄付\ncharitable activities → 慈善活動\na charitable interpretation → 好意的な解釈",
       usedIn: ["s1089"],
       tags: ["adj"]
     },
@@ -1412,7 +1412,7 @@ window.SECTIONS["sec11"] = {
       word: "massive",
       ipa: "[mǽsiv]",
       meaning: "大量の、大規模な、巨大な",
-      extraInfo: "【形】\n大量の、大規模な、巨大な\nmass 【名】\nmassively 【副】",
+      extraInfo: "【形】\n大量の、大規模な、巨大な\nmass 【名】\nmassively 【副】\n【関連語＆似た言葉】\nmassive /ˈmæsɪv/ 【形容詞】巨大な、大規模な、大量の\nmass /mæs/ 【名詞・形容詞】大量、かたまり、大衆／大量の\nmassively /ˈmæsɪvli/ 【副詞】大規模に、非常に\nmaximum /ˈmæksɪməm/ 【形容詞・名詞】最大の／最大限\n【覚え方】\nmass（大きなかたまり）→ massive（非常に大きな）。サイズだけでなく規模・量・影響が非常に大きい場合にも使う。\nmassive = very large / enormous。\n【用例】\nmassive amounts of data → 膨大な量のデータ\na massive increase → 大幅な増加\nmassive damage → 甚大な被害",
       usedIn: ["s1090"],
       tags: ["adj"]
     },
@@ -1421,7 +1421,7 @@ window.SECTIONS["sec11"] = {
       word: "comparable",
       ipa: "[kάm(p)ərəbl]",
       meaning: "匹敵する、同様の",
-      extraInfo: "【形】\n匹敵する（to, with ～に） [= equal]、同様の [= similar]\ncompare 【動】\ncomparison 【名】\ncomparative 【形】",
+      extraInfo: "【形】\n匹敵する（to, with ～に） [= equal]、同様の [= similar]\ncompare 【動】\ncomparison 【名】\ncomparative 【形】\n【関連語＆似た言葉】\ncomparable /ˈkɑːmpərəbəl/ 【形容詞】比較できる、同程度の、匹敵する\ncompare /kəmˈper/ 【動詞】比較する、比べる\ncomparative /kəmˈpærətɪv/ 【形容詞・名詞】比較の、相対的な／比較級\ncompatible /kəmˈpætəbəl/ 【形容詞】互換性のある、両立できる\n【覚え方・混同注意】\ncompare（比較する）→ comparable（比較できる）。特に同じくらいの・匹敵するという意味が重要。\ncomparable = 比較可能・同程度 / compatible = 両立できる・互換性がある。\n【用例】\nbe comparable to ～ → ～に匹敵する、～と同程度である\ncomparable results → 同程度の結果\nat a comparable level → 同程度の水準で",
       usedIn: ["s1091"],
       tags: ["adj"]
     },
@@ -1430,7 +1430,7 @@ window.SECTIONS["sec11"] = {
       word: "irrational",
       ipa: "[irǽʃənl]",
       meaning: "不合理な",
-      extraInfo: "【形】\n不合理な [= unreasonable, absurd] [⇔ rational]\nirrationality 【名】",
+      extraInfo: "【形】\n不合理な [= unreasonable, absurd] [⇔ rational]\nirrationality 【名】\n【関連語＆似た言葉】\nirrational /ɪˈræʃənəl/ 【形容詞】非合理的な、理性に反した、筋の通らない\nrational /ˈræʃənəl/ 【形容詞】合理的な、理性的な\nirrationally /ɪˈræʃənəli/ 【副詞】非合理的に、理性を欠いて\nirregular /ɪˈreɡjələr/ 【形容詞】不規則な、変則的な\n【覚え方】\nir-（～でない）＋ rational（合理的な）→ irrational（非合理的な）。\n【用例】\nirrational fear → 理屈では説明できない恐怖\nirrational behavior → 非合理的な行動\nan irrational decision → 理性を欠いた決定\nirrational fear は理由・根拠がないのに感じる恐怖という意味でよく使う。",
       usedIn: ["s1092"],
       tags: ["adj"]
     },
@@ -1439,7 +1439,7 @@ window.SECTIONS["sec11"] = {
       word: "cynical",
       ipa: "[sínikəl]",
       meaning: "懐疑的な、皮肉な",
-      extraInfo: "【形】\n懐疑的な [= skeptical]、皮肉な\ncynic 【名】皮肉屋\ncynicism 【名】冷笑的な態度",
+      extraInfo: "【形】\n懐疑的な [= skeptical]、皮肉な\ncynic 【名】皮肉屋\ncynicism 【名】冷笑的な態度\n【関連語＆似た言葉】\ncynical /ˈsɪnɪkəl/ 【形容詞】皮肉な、冷笑的な、人の善意を信じない\ncynicism /ˈsɪnɪsɪzəm/ 【名詞】冷笑、皮肉な態度、不信感\nskeptical /ˈskeptɪkəl/ 【形容詞】懐疑的な、疑っている\nsinister /ˈsɪnɪstər/ 【形容詞】不吉な、邪悪な\n【覚え方・使い分け】\n人は結局自分の利益のために行動するものだと冷めた見方をするイメージ。\nskeptical = 本当かどうか疑っている / cynical = 人の善意や動機そのものを信用していない。\n【用例】\na cynical attitude → 冷笑的な態度\na cynical view of politics → 政治に対する冷めた見方\nbe cynical about ～ → ～を冷めた目で見る",
       usedIn: ["s1093"],
       tags: ["adj"]
     },
@@ -1448,7 +1448,7 @@ window.SECTIONS["sec11"] = {
       word: "overly",
       ipa: "[òuvərli]",
       meaning: "あまりに、過度に",
-      extraInfo: "【副】\nあまりに、過度に [= too, excessively]",
+      extraInfo: "【副】\nあまりに、過度に [= too, excessively]\n【関連語＆似た言葉】\noverly /ˈoʊvərli/ 【副詞】過度に、あまりにも、必要以上に\noverall /ˌoʊvərˈɔːl/ 【形容詞・副詞】全体的な／全体として\novertly /oʊˈvɜːrtli/ 【副詞】公然と、あからさまに\noverdue /ˌoʊvərˈduː/ 【形容詞】期限を過ぎた、遅れている\n【覚え方・混同注意】\nover + -ly → 度を越えて。基本的に形容詞の前に置く。overall（全体として）と見間違えない。\n【用例】\noverly concerned → 過度に心配して\noverly optimistic → 楽観的すぎる\noverly complicated → 必要以上に複雑な",
       usedIn: ["s1094"],
       tags: ["adv"]
     },
@@ -1457,7 +1457,7 @@ window.SECTIONS["sec11"] = {
       word: "literally",
       ipa: "[lítərəli]",
       meaning: "文字どおり、まさしく",
-      extraInfo: "【副】\n文字どおり、まさしく\nliteral 【形】",
+      extraInfo: "【副】\n文字どおり、まさしく\nliteral 【形】\n【関連語＆似た言葉】\nliterally /ˈlɪtərəli/ 【副詞】文字どおりに、実際に、本当に\nliteral /ˈlɪtərəl/ 【形容詞】文字どおりの、字義どおりの\nliterary /ˈlɪtəreri/ 【形容詞】文学の、文学的な\nliterate /ˈlɪtərət/ 【形容詞】読み書きのできる、教養のある\n【ポイント・混同注意】\n基本は比喩ではなく文字どおり。会話では「本当に、マジで」のような強調にも使う。\nliterally / literary / literate を区別する。\n【用例】\nliterally true → 文字どおり本当である\ntranslate literally → 直訳する\nIt literally means ～. → それは文字どおり～という意味だ。",
       usedIn: ["s1095"],
       tags: ["adv"]
     },
@@ -1466,7 +1466,7 @@ window.SECTIONS["sec11"] = {
       word: "voluntarily",
       ipa: "[vὰlənterə́rəli]",
       meaning: "自発的に",
-      extraInfo: "【副】\n自発的に [= spontaneously] [⇔ involuntarily いやいやながら]\nvoluntary 【形】\nvolunteer 【名】【動】",
+      extraInfo: "【副】\n自発的に [= spontaneously] [⇔ involuntarily いやいやながら]\nvoluntary 【形】\nvolunteer 【名】【動】\n【関連語＆似た言葉】\nvoluntarily /ˌvɑːlənˈterəli/ 【副詞】自発的に、自ら進んで、任意で\nvoluntary /ˈvɑːlənteri/ 【形容詞】自発的な、任意の、ボランティアの\nvolunteer /ˌvɑːlənˈtɪr/ 【名詞・動詞】ボランティア／自発的に申し出る\ninvoluntarily /ɪnˌvɑːlənˈterəli/ 【副詞】無意識に、不本意ながら\n【覚え方】\n強制ではなく自分の意思で、というイメージ。voluntary（形容詞）→ voluntarily（副詞）の形と音を結びつける。\n【用例】\nparticipate voluntarily → 自発的に参加する\nleave voluntarily → 自らの意思で去る\nvoluntarily reduce consumption → 自主的に消費を減らす",
       usedIn: ["s1096"],
       tags: ["adv"]
     },
@@ -1475,7 +1475,7 @@ window.SECTIONS["sec11"] = {
       word: "technically",
       ipa: "[téknikəli]",
       meaning: "厳密に言えば、専門的に",
-      extraInfo: "【副】\n厳密に（言えば）、専門[技術]的に\ntechnical 【形】\ntechnique 【名】",
+      extraInfo: "【副】\n厳密に（言えば）、専門[技術]的に\ntechnical 【形】\ntechnique 【名】\n【関連語＆似た言葉】\ntechnically /ˈteknɪkəli/ 【副詞】厳密に言えば、技術的には、専門的には\ntechnical /ˈteknɪkəl/ 【形容詞】技術的な、専門的な\ntechnique /tekˈniːk/ 【名詞】技術、手法、テクニック\ntechnology /tekˈnɑːlədʒi/ 【名詞】科学技術、テクノロジー\n【ポイント】\n技術的に、だけでなく「厳密に言えば・規則上は」の意味も重要。technical → technically とつなげる。\n【用例】\nTechnically, this is illegal. → 厳密に言えば、これは違法です。\ntechnically possible → 技術的には可能\ntechnically correct → 厳密には正しい",
       usedIn: ["s1097"],
       tags: ["adv"]
     },
@@ -1484,7 +1484,7 @@ window.SECTIONS["sec11"] = {
       word: "wholly",
       ipa: "[hóulli]",
       meaning: "完全に、全く",
-      extraInfo: "【副】\n完全に、全く [= entirely, completely, absolutely] [⇔ partly]\nwhole 【形】",
+      extraInfo: "【副】\n完全に、全く [= entirely, completely, absolutely] [⇔ partly]\nwhole 【形】\n【関連語＆似た言葉】\nwholly /ˈhoʊlli/ 【副詞】完全に、まったく、全面的に\nholy /ˈhoʊli/ 【形容詞】神聖な、聖なる\nsolely /ˈsoʊlli/ 【副詞】もっぱら、ただ～だけ\nwhole /hoʊl/ 【形容詞・名詞】全体の、すべての／全体\n【覚え方・混同注意】\nwhole（全体）+ -ly → 全体として完全に。\nwholly（完全に）と holy（神聖な）は発音がほぼ同じなので文脈で区別する。\n【用例】\nwholly different → まったく異なる\nwholly responsible for ～ → ～に全面的に責任がある\na wholly new approach → まったく新しいアプローチ",
       usedIn: ["s1098"],
       tags: ["adv"]
     },
@@ -1493,7 +1493,7 @@ window.SECTIONS["sec11"] = {
       word: "approximately",
       ipa: "[əprά(k)simətli]",
       meaning: "おおよそ、ほぼ",
-      extraInfo: "【副】\nおおよそ、ほぼ [= roughly, about, around]\napproximate 【形】",
+      extraInfo: "【副】\nおおよそ、ほぼ [= roughly, about, around]\napproximate 【形】\n【関連語＆似た言葉】\napproximately /əˈprɑːksɪmətli/ 【副詞】およそ、約、ほぼ\napproximate /əˈprɑːksɪmət/ 【形容詞】おおよその、近似の\nproximately /ˈprɑːksɪmətli/ 【副詞】近接して（かなりまれ）\n【覚え方】\n正確には一致しないが、その近く → およそ、約。数字・時間・距離などとよく使う。\nabout / roughly ≒ approximately。\n【用例】\napproximately 100 people → 約100人\napproximately 20 percent → およそ20％\nIt takes approximately two hours. → 約2時間かかる。",
       usedIn: ["s1099"],
       tags: ["adv"]
     },
