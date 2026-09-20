@@ -1502,7 +1502,7 @@ window.SECTIONS["sec11"] = {
       word: "uniquely",
       ipa: "[jùːníːkli]",
       meaning: "比類なく、独特に",
-      extraInfo: "【副】\n比類なく、独特に [= distinctively]\nunique 【形】",
+      extraInfo: "【副】\n比類なく、独特に [= distinctively]\nunique 【形】\n【関連語＆似た言葉】\nuniquely /juˈniːkli/ 【副詞】独特に、他にない形で、唯一無二に\nunique /juˈniːk/ 【形容詞】独特の、唯一の\nuniformly /ˈjuːnəfɔːrmli/ 【副詞】一様に、均一に\nuniversally /ˌjuːnəˈvɜːrsəli/ 【副詞】普遍的に、例外なく\n【覚え方】\nunique + -ly → 他とは違う独自のやり方で。\n【用例】\nuniquely suited to ～ → ～に特に適している\nuniquely designed → 独自に設計された\nuniquely human → 人間に特有の",
       usedIn: ["s1100"],
       tags: ["adv"]
     }
