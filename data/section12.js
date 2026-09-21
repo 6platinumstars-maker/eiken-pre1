@@ -1502,7 +1502,7 @@ window.SECTIONS["sec12"] = {
       word: "alongside",
       ipa: "[əlɔ́ːŋsàid]",
       meaning: "〜と一緒に、〜と並んで",
-      extraInfo: "【前置詞】\n〜と一緒に、〜と並んで\n【副】並んで、そばに",
+      extraInfo: "【前置詞】\n〜と一緒に、〜と並んで\n【副】並んで、そばに\n【関連語＆似た言葉】\nalongside /əˌlɔːŋˈsaɪd/ 【前置詞・副詞】～と並んで、～と一緒に；～と並行して\nalong /əˈlɔːŋ/ 【前置詞・副詞】～に沿って、前へ\nbeside /bɪˈsaɪd/ 【前置詞】～のそばに、～の隣に\nalong with /əˈlɔːŋ wɪð/ 【前置詞句】～と一緒に、～に加えて\n【覚え方】\n横に並んで → 物理的な位置だけでなく、一緒に・並行して。特に「～と並行して／～とともに」が重要。\n【用例】\nHe worked alongside experienced engineers. → 彼は経験豊富な技術者たちと一緒に働いた。\nTraditional methods are used alongside new technology. → 従来の方法が新技術と並行して使われている。",
       usedIn: ["s1200"],
       tags: ["preposition"]
     }
