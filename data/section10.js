@@ -1466,7 +1466,7 @@ window.SECTIONS["sec10"] = {
       word: "unpleasant",
       ipa: "[ʌnpléznt]",
       meaning: "不愉快な、いやな",
-      extraInfo: "【形】\n不愉快な、いやな [= annoying, displeasing] [⇔ pleasant]\n【関連語＆似た言葉】\nunpleasant /ʌnˈplezənt/ 【形容詞】不快な、嫌な、不愉快な\npleasant /ˈplezənt/ 【形容詞】楽しい、心地よい、感じのよい\npleasantly /ˈplezəntli/ 【副詞】楽しく、心地よく\npleasure /ˈpleʒər/ 【名詞】喜び、楽しみ\ndispleased /dɪsˈpliːzd/ 【形容詞】不満な、不愉快に感じた\n【覚え方】\nun-（～でない）＋ pleasant（心地よい）→ 心地よくない → 不快な、嫌な。pleasant ↔ unpleasant をセットで覚える。\n【用例】\nan unpleasant experience → 不快な経験\nan unpleasant smell → 嫌なにおい\nunpleasant weather → 不快な天候",
+      extraInfo: "【形】\n不愉快な、いやな [= annoying, displeasing] [⇔ pleasant]\n【関連語＆似た言葉】\nunpleasant /ʌnˈplezənt/ 【形容詞】不快な、嫌な、不愉快な\npleasant /ˈplezənt/ 【形容詞】快適な、楽しい、感じのよい\npleasure /ˈpleʒər/ 【名詞】喜び、楽しみ\ndispleased /dɪsˈpliːzd/ 【形容詞】不満な、不愉快に感じた\n【覚え方】\nun-（～でない）＋ pleasant（心地よい）→ 心地よくない → 不快な、嫌な。pleasant ↔ unpleasant をセットで覚える。\n【用例】\nan unpleasant experience → 不快な経験\nan unpleasant smell → 嫌なにおい\nunpleasant weather → 不快な天候",
       usedIn: ["s996"],
       tags: ["adj"]
     },

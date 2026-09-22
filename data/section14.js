@@ -1061,7 +1061,7 @@ window.SECTIONS["sec14"] = {
       word: "peasant",
       ipa: "[pézənt]",
       meaning: "小作人、百姓",
-      extraInfo: "【名】\n（発展途上国などの）小作人、百姓",
+      extraInfo: "【名】\n（発展途上国などの）小作人、百姓\n【関連語＆似た言葉】\npeasant /ˈpezənt/ 【名詞】農民、小作農、農村の労働者\npeasantry /ˈpezəntri/ 【名詞】農民階級、農民層\nfarmer /ˈfɑːrmər/ 【名詞】農業従事者、農場経営者\npleasant /ˈplezənt/ 【形容詞】心地よい、楽しい\n【使い分け】\npeasant は歴史・社会の文章で農民階級に属する人。farmer は一般的な農業をする人、peasant は歴史的・社会階級的な農民。\n【用例】\na peasant family → 農民の家族\npeasant farmers → 小規模な農民\na peasant revolt → 農民反乱",
       usedIn: ["s1351"],
       tags: ["noun"]
     },
@@ -1070,7 +1070,7 @@ window.SECTIONS["sec14"] = {
       word: "burden",
       ipa: "[bə́ːrdn]",
       meaning: "負担、重荷",
-      extraInfo: "【名】\n負担（on ～への）、重荷 [= duty, strain, trouble], 荷物 [= load]\n【動】に負担をかける、を困らせる",
+      extraInfo: "【名】\n負担（on ～への）、重荷 [= duty, strain, trouble], 荷物 [= load]\n【動】に負担をかける、を困らせる\n【関連語＆似た言葉】\nburden /ˈbɜːrdən/ 【名詞・動詞】負担、重荷／負担をかける\nburdensome /ˈbɜːrdənsəm/ 【形容詞】負担の大きい、厄介な\nload /loʊd/ 【名詞・動詞】荷物、負荷／積む\nstrain /streɪn/ 【名詞・動詞】負担、重圧／酷使する\n【覚え方】\n背負わなければならない重い荷物 → 責任・費用・問題などの負担。\n【用例】\na financial burden → 経済的負担\nreduce the burden on ～ → ～の負担を軽減する\nplace a burden on ～ → ～に負担をかける\nbe burdened with debt → 借金を背負っている\nreduce the financial burden on families → 家庭の経済的負担を軽減する",
       usedIn: ["s1352"],
       tags: ["noun"]
     },
@@ -1079,7 +1079,7 @@ window.SECTIONS["sec14"] = {
       word: "faculty",
       ipa: "[fǽkəlti]",
       meaning: "教授陣、学部",
-      extraInfo: "【名】\n（単数形で集合的に）（大学・学部の）教授陣、学部、才能、能力 [= ability]",
+      extraInfo: "【名】\n（単数形で集合的に）（大学・学部の）教授陣、学部、才能、能力 [= ability]\n【関連語＆似た言葉】\nfaculty /ˈfækəlti/ 【名詞】能力、才能；大学の学部；教職員\nability /əˈbɪləti/ 【名詞】能力\ndepartment /dɪˈpɑːrtmənt/ 【名詞】学科、部門\nstaff /stæf/ 【名詞】職員、スタッフ\n【意味・用例】\nmental faculties → 知的能力、精神的能力\nthe Faculty of Science → 理学部\nfaculty members → 大学の教員\n特にアメリカ英語では大学の教員全体の意味で使う。",
       usedIn: ["s1353"],
       tags: ["noun"]
     },
@@ -1115,7 +1115,7 @@ window.SECTIONS["sec14"] = {
       word: "correlation",
       ipa: "[kɔ̀ːrəléiʃən]",
       meaning: "相互［相関］関係",
-      extraInfo: "【名】\n相互［相関］関係（between ～の間の、with ～との）\ncorrelate 【動】\ncorrelative 【形】",
+      extraInfo: "【名】\n相互［相関］関係（between ～の間の、with ～との）\ncorrelate 【動】\ncorrelative 【形】\n【関連語＆似た言葉】\ncorrelation /ˌkɔːrəˈleɪʃən/ 【名詞】相関関係、関連性\ncorrelate /ˈkɔːrəleɪt/ 【動詞】相関する、関連づける\ncorrelated /ˈkɔːrəleɪtɪd/ 【形容詞】相関している\nrelationship /rɪˈleɪʃənʃɪp/ 【名詞】関係、関連\n【ポイント】\n一方が変化するともう一方にも一定の関連した変化が見られる。\ncorrelation ≠ causation → 相関関係があっても因果関係があるとは限らない。\n【用例】\na correlation between A and B → AとBの相関関係\na strong correlation → 強い相関関係\na positive correlation → 正の相関\na negative correlation → 負の相関",
       usedIn: ["s1357"],
       tags: ["noun"]
     },
@@ -1151,7 +1151,7 @@ window.SECTIONS["sec14"] = {
       word: "availability",
       ipa: "[əvèiləbíləti]",
       meaning: "（入手の）可能性、有用［有効］性",
-      extraInfo: "【名】\n（入手の）可能性、有用［有効］性\navailable 【形】",
+      extraInfo: "【名】\n（入手の）可能性、有用［有効］性\navailable 【形】\n【関連語＆似た言葉】\navailability /əˌveɪləˈbɪləti/ 【名詞】利用可能性、入手可能性；空き状況\navailable /əˈveɪləbəl/ 【形容詞】利用できる、入手できる、空いている\nunavailable /ˌʌnəˈveɪləbəl/ 【形容詞】利用できない、入手できない\naccessibility /əkˌsesəˈbɪləti/ 【名詞】利用しやすさ、アクセス可能性\n【覚え方】\n必要なときに使える・手に入る状態。available（利用できる）→ availability（利用可能性）。\n【用例】\nthe availability of information → 情報が利用できること\nlimited availability → 入手・利用できる量が限られていること\ncheck availability → 空き状況を確認する\nincrease the availability of ～ → ～をより利用しやすくする",
       usedIn: ["s1361"],
       tags: ["noun"]
     },
@@ -1160,7 +1160,7 @@ window.SECTIONS["sec14"] = {
       word: "caution",
       ipa: "[kɔ́ːʃən]",
       meaning: "用心、注意",
-      extraInfo: "【名】\n用心、注意 [= carefulness, attention]、警戒、告 [= warning]\n【動】に警告する\ncautious 【形】",
+      extraInfo: "【名】\n用心、注意 [= carefulness, attention]、警戒、告 [= warning]\n【動】に警告する\ncautious 【形】\n【関連語＆似た言葉】\ncaution /ˈkɔːʃən/ 【名詞・動詞】注意、用心、慎重さ／警告する\ncautious /ˈkɔːʃəs/ 【形容詞】慎重な、用心深い\ncautiously /ˈkɔːʃəsli/ 【副詞】慎重に\nprecaution /prɪˈkɔːʃən/ 【名詞】予防措置、用心\n【覚え方】\n危険や失敗がないように気をつける。caution = 注意・用心 / cautious = 慎重な / precaution = 事前に取る予防措置。\n【用例】\nwith caution → 注意して、慎重に\nexercise caution → 注意を払う、慎重に行動する\nuse caution when ～ → ～するときは注意する\ncaution someone against ～ → 人に～しないよう警告する",
       usedIn: ["s1362"],
       tags: ["noun"]
     },
@@ -1169,7 +1169,7 @@ window.SECTIONS["sec14"] = {
       word: "prevention",
       ipa: "[privénʃən]",
       meaning: "予防、防止",
-      extraInfo: "【名】\n予防、防止\nprevent 【動】\npreventive 【形】",
+      extraInfo: "【名】\n予防、防止\nprevent 【動】\npreventive 【形】\n【関連語＆似た言葉】\nprevention /prɪˈvenʃən/ 【名詞】予防、防止、阻止\nprevent /prɪˈvent/ 【動詞】防ぐ、阻止する\npreventive /prɪˈventɪv/ 【形容詞】予防の、防止の\nprecaution /prɪˈkɔːʃən/ 【名詞】予防措置、用心\n【使い分け】\n悪いことが起きる前に止める。caution = 危険に注意する / precaution = 事前に対策する / prevention = 発生を防ぐ。\n【用例】\ncrime prevention → 犯罪防止\ndisease prevention → 病気の予防\naccident prevention → 事故防止\nprevention of pollution → 汚染の防止",
       usedIn: ["s1363"],
       tags: ["noun"]
     },
@@ -1178,7 +1178,7 @@ window.SECTIONS["sec14"] = {
       word: "reptile",
       ipa: "[réptail]",
       meaning: "爬虫類",
-      extraInfo: "【名】\n爬虫類（動物）\n【形】爬虫類の\ncf. mammal 哺乳類　amphibian 両生類",
+      extraInfo: "【名】\n爬虫類（動物）\n【形】爬虫類の\ncf. mammal 哺乳類　amphibian 両生類\n【関連語＆似た言葉】\nreptile /ˈreptaɪl/ 【名詞】爬虫類、爬虫類の動物\nreptilian /repˈtɪliən/ 【形容詞】爬虫類の、爬虫類のような\namphibian /æmˈfɪbiən/ 【名詞・形容詞】両生類／両生類の\nmammal /ˈmæməl/ 【名詞】哺乳類\n【ポイント】\nヘビ・トカゲ・ワニ・カメなどの爬虫類。mammal = 哺乳類 / reptile = 爬虫類 / amphibian = 両生類、と整理する。\n【用例】\nsnakes and other reptiles → ヘビやその他の爬虫類\nreptile species → 爬虫類の種\nreptile habitat → 爬虫類の生息地",
       usedIn: ["s1364"],
       tags: ["noun"]
     },
@@ -1187,7 +1187,7 @@ window.SECTIONS["sec14"] = {
       word: "fate",
       ipa: "[feit]",
       meaning: "運命、（最終的な）結果",
-      extraInfo: "【名】\n運命、（最終的な）結果 [= destiny]",
+      extraInfo: "【名】\n運命、（最終的な）結果 [= destiny]\n【関連語＆似た言葉】\nfate /feɪt/ 【名詞】運命、宿命；結末、成り行き\nfatal /ˈfeɪtəl/ 【形容詞】致命的な、命にかかわる\nfateful /ˈfeɪtfəl/ 【形容詞】運命を決する、重大な\ndestiny /ˈdestəni/ 【名詞】運命、宿命\n【覚え方・使い分け】\n自分では完全にはコントロールできない成り行き。fate は悪い結末にもよく使い、destiny は将来そうなることが定められているニュアンス。\n【用例】\naccept one's fate → 運命を受け入れる\nthe fate of ～ → ～の運命・行く末\nmeet the same fate → 同じ運命をたどる\nleave something to fate → ～を運命に任せる",
       usedIn: ["s1365"],
       tags: ["noun"]
     },
@@ -1196,7 +1196,7 @@ window.SECTIONS["sec14"] = {
       word: "inclination",
       ipa: "[ìnklinéiʃən]",
       meaning: "意向、願望、好み",
-      extraInfo: "【名】\n意向（to do ～したいという）、願望 [= tendency, desire]、好み（to, toward, for ～への）\nincline 【動】",
+      extraInfo: "【名】\n意向（to do ～したいという）、願望 [= tendency, desire]、好み（to, toward, for ～への）\nincline 【動】\n【関連語＆似た言葉】\ninclination /ˌɪnklɪˈneɪʃən/ 【名詞】傾向、好み、～したい気持ち；傾斜\nincline /ɪnˈklaɪn/ 【動詞】～する気にさせる、傾ける\ntendency /ˈtendənsi/ 【名詞】傾向、性向\npreference /ˈprefərəns/ 【名詞】好み、選好\n【覚え方】\nある方向へ傾いている。物理的な傾き → 気持ちの傾き → 好み・傾向・～したい気持ち。incline → inclination とつなげる。\n【用例】\nhave an inclination to do ～ → ～したい気持ちがある\na natural inclination toward ～ → ～への生まれつきの傾向\nhave no inclination to do ～ → ～する気がない",
       usedIn: ["s1366"],
       tags: ["noun"]
     },
@@ -1205,7 +1205,7 @@ window.SECTIONS["sec14"] = {
       word: "scorn",
       ipa: "[skɔːrn]",
       meaning: "軽蔑",
-      extraInfo: "【名】\n軽蔑（for ～に対する）、侮蔑 [= contempt] [⇔ respect]\n【動】を軽蔑する",
+      extraInfo: "【名】\n軽蔑（for ～に対する）、侮蔑 [= contempt] [⇔ respect]\n【動】を軽蔑する\n【関連語＆似た言葉】\nscorn /skɔːrn/ 【名詞・動詞】軽蔑、さげすみ／軽蔑する、見下す\nscornful /ˈskɔːrnfəl/ 【形容詞】軽蔑した、さげすむような\ndespise /dɪˈspaɪz/ 【動詞】軽蔑する、ひどく嫌う\ncontempt /kənˈtempt/ 【名詞】軽蔑、侮蔑\n【ポイント】\n相手を価値が低いものとして見下す。despise は動詞、scorn は名詞・動詞。お菓子の scone /skoʊn/ とは別語。\n【用例】\ntreat someone with scorn → 人を軽蔑して扱う\npour scorn on ～ → ～をあざ笑う、ひどく軽蔑する\nscorn an offer → 提案を軽蔑して拒絶する",
       usedIn: ["s1367"],
       tags: ["noun"]
     },
@@ -1214,7 +1214,7 @@ window.SECTIONS["sec14"] = {
       word: "contempt",
       ipa: "[kəntém(p)t]",
       meaning: "軽蔑",
-      extraInfo: "【名】\n軽蔑（for ～に対する）、侮蔑 [= scorn] [⇔ respect]\ncontemptuous 【形】",
+      extraInfo: "【名】\n軽蔑（for ～に対する）、侮蔑 [= scorn] [⇔ respect]\ncontemptuous 【形】\n【関連語＆似た言葉】\ncontempt /kənˈtempt/ 【名詞】軽蔑、侮蔑、さげすみ\ncontemptuous /kənˈtemptʃuəs/ 【形容詞】軽蔑した、侮蔑的な\nscorn /skɔːrn/ 【名詞・動詞】軽蔑／軽蔑する\ndespise /dɪˈspaɪz/ 【動詞】軽蔑する、見下す\n【使い分け・発音】\ndespise = 軽蔑する【動詞】/ scorn = 軽蔑【名詞】・軽蔑する【動詞】/ contempt = 軽蔑【名詞】。\n最後の /p/ は聞き取りにくいことがある。\n【用例】\nfeel contempt for ～ → ～を軽蔑する\ntreat someone with contempt → 人を軽蔑して扱う\nhold someone in contempt → 人を軽蔑する",
       usedIn: ["s1368"],
       tags: ["noun"]
     },
@@ -1250,7 +1250,7 @@ window.SECTIONS["sec14"] = {
       word: "awkward",
       ipa: "[ɔ́ːkwərd]",
       meaning: "ばつの悪い、気まずい",
-      extraInfo: "【形】\nばつの悪い、気まずい [= uncomfortable]、ぎこちない [⇔ clumsy]\nawkwardly 【副】",
+      extraInfo: "【形】\nばつの悪い、気まずい [= uncomfortable]、ぎこちない [⇔ clumsy]\nawkwardly 【副】\n【関連語＆似た言葉】\nawkward /ˈɔːkwərd/ 【形容詞】ぎこちない、不器用な；気まずい；扱いにくい\nawkwardly /ˈɔːkwərdli/ 【副詞】ぎこちなく、気まずそうに\nawkwardness /ˈɔːkwərdnəs/ 【名詞】ぎこちなさ、気まずさ\nclumsy /ˈklʌmzi/ 【形容詞】不器用な、ぎこちない\n【意味・使い分け】\n① 動作がぎこちない ② 状況が気まずい ③ 扱いにくい・厄介。\nclumsy は人・動作が不器用、awkward は気まずい・扱いにくいまで広く使う。\n【用例】\nan awkward movement → ぎこちない動き\nan awkward silence → 気まずい沈黙\nan awkward situation → 気まずい状況\nan awkward question → 答えにくい質問",
       usedIn: ["s1372"],
       tags: ["adjective"]
     },
@@ -1259,7 +1259,7 @@ window.SECTIONS["sec14"] = {
       word: "fierce",
       ipa: "[fíərs]",
       meaning: "どう猛な、激しい",
-      extraInfo: "【形】\nどう猛な [= ferocious] [⇔ gentle]、激しい [= intense]\nfiercely 【副】",
+      extraInfo: "【形】\nどう猛な [= ferocious] [⇔ gentle]、激しい [= intense]\nfiercely 【副】\n【関連語＆似た言葉】\nfierce /fɪrs/ 【形容詞】激しい、猛烈な；どう猛な、荒々しい\nfiercely /ˈfɪrsli/ 【副詞】激しく、猛烈に\nfierceness /ˈfɪrsnəs/ 【名詞】激しさ、どう猛さ\nintense /ɪnˈtens/ 【形容詞】激しい、強烈な\n【ポイント・用例】\n非常に強く激しい。人・動物だけでなく競争・議論などにも使う。\nfierce competition → 激しい競争\na fierce battle → 激戦\na fierce animal → どう猛な動物\nfierce opposition → 激しい反対",
       usedIn: ["s1373"],
       tags: ["adjective"]
     },
@@ -1268,7 +1268,7 @@ window.SECTIONS["sec14"] = {
       word: "peculiar",
       ipa: "[pikjúːljər]",
       meaning: "変な、特有の",
-      extraInfo: "【形】\n変な [= strange, odd] [⇔ ordinary]、特有の（to ～に） [= distinctive] [⇔ common]",
+      extraInfo: "【形】\n変な [= strange, odd] [⇔ ordinary]、特有の（to ～に） [= distinctive] [⇔ common]\n【関連語＆似た言葉】\npeculiar /pɪˈkjuːliər/ 【形容詞】奇妙な、変わった；～特有の、独特の\npeculiarity /pɪˌkjuːliˈærəti/ 【名詞】特異性、特徴、奇妙さ\npeculiarly /pɪˈkjuːliərli/ 【副詞】奇妙に、独特に\nstrange /streɪndʒ/ 【形容詞】奇妙な、変な\n【意味・用例】\n① 奇妙な・変わった\na peculiar smell → 奇妙なにおい\npeculiar behavior → 変わった行動\n② ～特有の・独特の\nbe peculiar to ～ → ～に特有である\na custom peculiar to the region → その地域特有の習慣\npeculiar to の意味を取り違えないようにする。",
       usedIn: ["s1374"],
       tags: ["adjective"]
     },
@@ -1286,7 +1286,7 @@ window.SECTIONS["sec14"] = {
       word: "vigorous",
       ipa: "[vígərəs]",
       meaning: "精力的な、活力のある",
-      extraInfo: "【形】\n（運動などが）激しい、（行為・手段などが）精力的な、（人が）活力のある\nvigorously 【副】\nvigor 【名】",
+      extraInfo: "【形】\n（運動などが）激しい、（行為・手段などが）精力的な、（人が）活力のある\nvigorously 【副】\nvigor 【名】\n【関連語＆似た言葉】\nvigorous /ˈvɪɡərəs/ 【形容詞】精力的な、活発な；力強い、激しい\nvigor /ˈvɪɡər/ 【名詞】活力、元気、勢い\nvigorously /ˈvɪɡərəsli/ 【副詞】精力的に、力強く\nenergetic /ˌenərˈdʒetɪk/ 【形容詞】活力に満ちた、精力的な\n【覚え方】\nエネルギーがあふれて力強い。vigor（活力）→ vigorous（活力に満ちた）。人だけでなく運動・議論・成長・活動にも使う。\n【用例】\nvigorous exercise → 激しい運動\na vigorous debate → 活発な議論\nvigorous growth → 力強い成長\na vigorous campaign → 精力的な活動",
       usedIn: ["s1376"],
       tags: ["adjective"]
     },
@@ -1304,7 +1304,7 @@ window.SECTIONS["sec14"] = {
       word: "medieval",
       ipa: "[mìːdiíːvəl]",
       meaning: "中世の",
-      extraInfo: "【形】\n中世の\ncf. the Middle Ages 中世",
+      extraInfo: "【形】\n中世の\ncf. the Middle Ages 中世\n【関連語＆似た言葉】\nmedieval /ˌmediˈiːvəl/ 【形容詞】中世の、中世風の\nMiddle Ages /ˌmɪdəl ˈeɪdʒɪz/ 【名詞】中世\nancient /ˈeɪnʃənt/ 【形容詞】古代の\nmodern /ˈmɑːdərn/ 【形容詞】現代の、近代の\n【覚え方】\n中世（Middle Ages）に関係する。ancient → medieval → modern = 古代 → 中世 → 近代・現代。発音は「メディイーヴァル」に近い。\n【用例】\nmedieval Europe → 中世ヨーロッパ\na medieval castle → 中世の城\nmedieval society → 中世社会\nmedieval history → 中世史",
       usedIn: ["s1378"],
       tags: ["adjective"]
     },
@@ -1322,7 +1322,7 @@ window.SECTIONS["sec14"] = {
       word: "rigid",
       ipa: "[rídʒid]",
       meaning: "厳格な、曲がらない",
-      extraInfo: "【形】\n厳格な [= strict, rigorous]、曲がらない [= firm, hard] [⇔ flexible]\nrigidity 【名】",
+      extraInfo: "【形】\n厳格な [= strict, rigorous]、曲がらない [= firm, hard] [⇔ flexible]\nrigidity 【名】\n【関連語＆似た言葉】\nrigid /ˈrɪdʒɪd/ 【形容詞】硬い、曲がらない；厳格な、融通の利かない\nrigidity /rɪˈdʒɪdəti/ 【名詞】硬直性、厳格さ\nrigidly /ˈrɪdʒɪdli/ 【副詞】厳格に、融通なく\nflexible /ˈfleksəbəl/ 【形容詞】柔軟な、融通の利く\n【覚え方】\n硬くて曲がらない → 考え方・制度に柔軟性がない、厳格な。flexible と反対語で覚える。\n【用例】\na rigid structure → 硬い構造\nrigid rules → 厳格な規則\na rigid system → 融通の利かない制度\nrigid thinking → 柔軟性のない考え方",
       usedIn: ["s1380"],
       tags: ["adjective"]
     },
@@ -1331,7 +1331,7 @@ window.SECTIONS["sec14"] = {
       word: "coarse",
       ipa: "[kɔːrs]",
       meaning: "粗い、粗野な",
-      extraInfo: "【形】\n粗い [= rough, harsh] [⇔ delicate]、粗野な [= rude, impolite] [⇔ sophisticated]",
+      extraInfo: "【形】\n粗い [= rough, harsh] [⇔ delicate]、粗野な [= rude, impolite] [⇔ sophisticated]\n【関連語＆似た言葉】\ncoarse /kɔːrs/ 【形容詞】粗い、ざらざらした；粗野な、下品な\ncoarsely /ˈkɔːrsli/ 【副詞】粗く、粗雑に\nrough /rʌf/ 【形容詞】粗い、ざらざらした\nfine /faɪn/ 【形容詞】細かい、きめ細かい\n【覚え方・混同注意】\nきめが細かくなく粗い → 言葉・態度が粗野、下品。coarse（粗い）と course（コース、進路、講座）は同音なので意味で区別する。\n【用例】\ncoarse sand → 粗い砂\ncoarse hair → ごわごわした髪\ncoarse language → 下品な言葉\ncoarse fabric → 粗い生地",
       usedIn: ["s1381"],
       tags: ["adjective"]
     },
@@ -1340,7 +1340,7 @@ window.SECTIONS["sec14"] = {
       word: "humble",
       ipa: "[hʌ́mbl]",
       meaning: "謙虚な、地位[身分]などが低い",
-      extraInfo: "【形】\n謙虚な [= modest] [⇔ arrogant, proud]、地位[身分]などが低い [= lowly, inferior]",
+      extraInfo: "【形】\n謙虚な [= modest] [⇔ arrogant, proud]、地位[身分]などが低い [= lowly, inferior]\n【関連語＆似た言葉】\nhumble /ˈhʌmbəl/ 【形容詞・動詞】謙虚な、控えめな；質素な／謙虚にさせる\nhumility /hjuːˈmɪləti/ 【名詞】謙虚さ、謙遜\nmodest /ˈmɑːdəst/ 【形容詞】謙虚な、控えめな\narrogant /ˈærəɡənt/ 【形容詞】傲慢な、横柄な\n【覚え方】\n自分を高く見せず低い位置に置く。謙虚なだけでなく質素な・地位の低い意味もある。\n【用例】\na humble person → 謙虚な人\na humble background → 質素な生い立ち\na humble home → 質素な家\nbe humbled by ～ → ～によって謙虚な気持ちになる\nhumble beginnings → つつましい出発・境遇",
       usedIn: ["s1382"],
       tags: ["adjective"]
     },
@@ -1349,7 +1349,7 @@ window.SECTIONS["sec14"] = {
       word: "slack",
       ipa: "[slæk]",
       meaning: "たるんだ、不活発な",
-      extraInfo: "【形】\nたるんだ [= loose] [⇔ tight]、（商売などが）不活発な [= inactive, sluggish] [⇔ busy]",
+      extraInfo: "【形】\nたるんだ [= loose] [⇔ tight]、（商売などが）不活発な [= inactive, sluggish] [⇔ busy]\n【関連語＆似た言葉】\nslack /slæk/ 【形容詞・名詞・動詞】緩んだ、たるんだ；不活発な／たるみ、余裕／怠ける\nslacken /ˈslækən/ 【動詞】緩める、弱まる\nloose /luːs/ 【形容詞】緩い、固定されていない\ntight /taɪt/ 【形容詞】きつい、ぴんと張った\n【覚え方】\nぴんと張っておらず緩んでいる → 活動が低調・不活発。slack ↔ tight = 緩んだ ↔ 張った。\n【用例】\na slack rope → たるんだロープ\nslack demand → 低調な需要\na slack period → 暇な・低調な時期\ncut someone some slack → 人を少し大目に見る、余裕を与える",
       usedIn: ["s1383"],
       tags: ["adjective"]
     },
@@ -1367,7 +1367,7 @@ window.SECTIONS["sec14"] = {
       word: "mutual",
       ipa: "[mjúːtʃuəl]",
       meaning: "相互の",
-      extraInfo: "【形】\n相互の [= reciprocal]\nmutually 【副】",
+      extraInfo: "【形】\n相互の [= reciprocal]\nmutually 【副】\n【関連語＆似た言葉】\nmutual /ˈmjuːtʃuəl/ 【形容詞】相互の、お互いの；共通の\nmutually /ˈmjuːtʃuəli/ 【副詞】相互に、お互いに\nreciprocal /rɪˈsɪprəkəl/ 【形容詞】相互の、互恵的な\ncommon /ˈkɑːmən/ 【形容詞】共通の\n【覚え方・用例】\nAからBへ、BからAへ、お互いに。one-sided（一方的な）と対比する。\nmutual understanding → 相互理解\nmutual respect → お互いの尊敬\nmutual benefit → 相互の利益\na mutual friend → お互いにとって共通の友人",
       usedIn: ["s1385"],
       tags: ["adjective"]
     },
@@ -1376,7 +1376,7 @@ window.SECTIONS["sec14"] = {
       word: "redundant",
       ipa: "[ridʌ́ndənt]",
       meaning: "不要な、余分な",
-      extraInfo: "【形】\n不要な、余分な [= extra, unnecessary]、（表現などが）冗長な [⇔ concise]\nredundancy 【名】",
+      extraInfo: "【形】\n不要な、余分な [= extra, unnecessary]、（表現などが）冗長な [⇔ concise]\nredundancy 【名】\n【関連語＆似た言葉】\nredundant /rɪˈdʌndənt/ 【形容詞】余分な、不必要な；重複した；余剰人員となった\nredundancy /rɪˈdʌndənsi/ 【名詞】冗長性、余分なもの；余剰人員\nunnecessary /ʌnˈnesəseri/ 【形容詞】不必要な\nduplicate /ˈduːplɪkət/ 【形容詞】重複した、複製の\n【覚え方】\n同じ役割のものが余分にある。ITの redundancy（冗長性）は障害に備えて意図的に予備を重複させること。\n【用例】\nredundant information → 重複した・不要な情報\na redundant system → 冗長化されたシステム\nmake someone redundant → 人を余剰人員として解雇する（主に英）",
       usedIn: ["s1386"],
       tags: ["adjective"]
     },
@@ -1385,7 +1385,7 @@ window.SECTIONS["sec14"] = {
       word: "premature",
       ipa: "[prìːmətʃúər]",
       meaning: "早過ぎる",
-      extraInfo: "【形】\n早過ぎる [= untimely]、（判断などが）早まった [= hasty, rash]",
+      extraInfo: "【形】\n早過ぎる [= untimely]、（判断などが）早まった [= hasty, rash]\n【関連語＆似た言葉】\npremature /ˌpriːməˈtʃʊr/ 【形容詞】早すぎる、時期尚早の；早産の\nprematurely /ˌpriːməˈtʃʊrli/ 【副詞】時期尚早に、早すぎて\nmature /məˈtʃʊr/ 【形容詞・動詞】成熟した／成熟する\nuntimely /ʌnˈtaɪmli/ 【形容詞】時期尚早の、時機の悪い\n【覚え方】\npre-（前に）＋ mature（成熟した）→ 成熟する前 → 早すぎる。単に early ではなく本来の適切な時期より早すぎる。\n【用例】\na premature decision → 時期尚早な決定\na premature conclusion → 早すぎる結論\npremature death → 早すぎる死\na premature baby → 早産児",
       usedIn: ["s1387"],
       tags: ["adjective"]
     },
@@ -1394,7 +1394,7 @@ window.SECTIONS["sec14"] = {
       word: "attentive",
       ipa: "[əténtiv]",
       meaning: "注意深い",
-      extraInfo: "【形】\n注意深い（to ～に） [= alert, watchful]\n[⇔ inattentive]\nattention 【名】",
+      extraInfo: "【形】\n注意深い（to ～に） [= alert, watchful]\n[⇔ inattentive]\nattention 【名】\n【関連語＆似た言葉】\nattentive /əˈtentɪv/ 【形容詞】注意深い、よく気を配る；思いやりのある\nattention /əˈtenʃən/ 【名詞】注意、注目\nattentively /əˈtentɪvli/ 【副詞】注意深く、熱心に\ninattentive /ˌɪnəˈtentɪv/ 【形容詞】不注意な、注意を払わない\n【覚え方】\n相手・物事にしっかり注意を向けている。attention（注意）→ attentive（注意を向けている）。\n【用例】\nan attentive listener → 注意深く話を聞く人\nbe attentive to ～ → ～によく注意を払う\nattentive service → 行き届いたサービス\nlisten attentively → 注意深く聞く",
       usedIn: ["s1388"],
       tags: ["adjective"]
     },
@@ -1403,7 +1403,7 @@ window.SECTIONS["sec14"] = {
       word: "integral",
       ipa: "[íntiɡrəl]",
       meaning: "不可欠な",
-      extraInfo: "【形】\n不可欠な（to ～にとって）、必要な [= essential]\nintegrate 【動】を（全体に）まとめる、を統合する",
+      extraInfo: "【形】\n不可欠な（to ～にとって）、必要な [= essential]\nintegrate 【動】を（全体に）まとめる、を統合する\n【関連語＆似た言葉】\nintegral /ˈɪntɪɡrəl/ 【形容詞・名詞】不可欠な、欠くことのできない；完全な／積分\nintegrate /ˈɪntɪɡreɪt/ 【動詞】統合する、一体化する\nintegration /ˌɪntɪˈɡreɪʃən/ 【名詞】統合、一体化\nessential /ɪˈsenʃəl/ 【形容詞】必要不可欠な\n【覚え方・重要表現】\n全体を作る一部分として欠かせない。\nan integral part of ～ → ～の不可欠な一部\nTechnology is an integral part of modern life. → 技術は現代生活に欠かせない一部である。\n数学では integral = 積分。integrate（統合する）と、バラバラなものを一つの全体にするイメージで結びつける。",
       usedIn: ["s1389"],
       tags: ["adjective"]
     },
@@ -1412,7 +1412,7 @@ window.SECTIONS["sec14"] = {
       word: "memorable",
       ipa: "[mémərəbəl]",
       meaning: "忘れられない、記憶すべき",
-      extraInfo: "【形】\n忘れられない、記憶すべき [= unforgettable]\nmemory 【名】\nmemorize 【動】\nmemorial 【名】記念（物）　慰霊堂",
+      extraInfo: "【形】\n忘れられない、記憶すべき [= unforgettable]\nmemory 【名】\nmemorize 【動】\nmemorial 【名】記念（物）　慰霊堂\n【関連語＆似た言葉】\nmemorable /ˈmemərəbəl/ 【形容詞】記憶に残る、忘れられない、印象的な\nmemory /ˈmeməri/ 【名詞】記憶、思い出\nmemorize /ˈmeməraɪz/ 【動詞】暗記する、記憶する\nunforgettable /ˌʌnfərˈɡetəbəl/ 【形容詞】忘れられない\n【覚え方】\nmemory（記憶）に残る。特別・印象的なので記憶に残るニュアンス。memory / memorable / memorize を語族で覚える。\n【用例】\na memorable experience → 忘れられない経験\na memorable trip → 思い出に残る旅行\na memorable moment → 印象に残る瞬間\nmake the occasion memorable → その機会を思い出深いものにする",
       usedIn: ["s1390"],
       tags: ["adjective"]
     },
@@ -1421,7 +1421,7 @@ window.SECTIONS["sec14"] = {
       word: "persuasive",
       ipa: "[pərswéivsiv]",
       meaning: "説得力のある",
-      extraInfo: "【形】\n説得力のある [= convincing]\npersuade 【動】\npersuasion 【名】",
+      extraInfo: "【形】\n説得力のある [= convincing]\npersuade 【動】\npersuasion 【名】\n【関連語＆似た言葉】\npersuasive /pərˈsweɪsɪv/ 【形容詞】説得力のある、人を納得させる\npersuade /pərˈsweɪd/ 【動詞】説得する、納得させる\npersuasion /pərˈsweɪʒən/ 【名詞】説得、説得力\nconvincing /kənˈvɪnsɪŋ/ 【形容詞】説得力のある、納得のいく\n【覚え方】\n相手の考えを動かすだけの説得力がある。persuade（説得する）→ persuasion（説得）→ persuasive（説得力のある）。\n【用例】\na persuasive argument → 説得力のある主張\na persuasive speaker → 説得力のある話し手\npersuasive evidence → 説得力のある証拠",
       usedIn: ["s1391"],
       tags: ["adjective"]
     },
@@ -1430,7 +1430,7 @@ window.SECTIONS["sec14"] = {
       word: "prevalent",
       ipa: "[prévələnt]",
       meaning: "蔓延している、広く行き渡っている",
-      extraInfo: "【形】\n蔓延している（in, among ～に）、広く行き渡っている [= widespread]\nprevail 【動】\nprevalence 【名】普及",
+      extraInfo: "【形】\n蔓延している（in, among ～に）、広く行き渡っている [= widespread]\nprevail 【動】\nprevalence 【名】普及\n【関連語＆似た言葉】\nprevalent /ˈprevələnt/ 【形容詞】広く普及している、一般的な、広く見られる\nprevail /prɪˈveɪl/ 【動詞】広く行われる；打ち勝つ\nprevalence /ˈprevələns/ 【名詞】普及、広く存在すること\nwidespread /ˈwaɪdspred/ 【形容詞】広範囲にわたる、広く普及した\n【覚え方】\n社会・地域などに広く存在している。prevail（1311番、動詞）→ prevalent（形容詞）→ prevalence（名詞）。\n【用例】\na prevalent belief → 広く行き渡っている考え\nbe prevalent among ～ → ～の間で広く見られる\na disease prevalent in the region → その地域で広く見られる病気",
       usedIn: ["s1392"],
       tags: ["adjective"]
     },
@@ -1439,7 +1439,7 @@ window.SECTIONS["sec14"] = {
       word: "unaware",
       ipa: "[ʌ̀nəwέər]",
       meaning: "気づかないで、知らないで",
-      extraInfo: "【形】\n気づかないで（of ～に、that ... ということに）、知らないで [= ignorant, unconscious] [⇔ aware]",
+      extraInfo: "【形】\n気づかないで（of ～に、that ... ということに）、知らないで [= ignorant, unconscious] [⇔ aware]\n【関連語＆似た言葉】\nunaware /ˌʌnəˈwer/ 【形容詞】気づいていない、知らない\naware /əˈwer/ 【形容詞】気づいている、認識している\nawareness /əˈwernəs/ 【名詞】認識、意識\nunconscious /ʌnˈkɑːnʃəs/ 【形容詞】意識のない；無意識の\n【覚え方・用例】\nun-（～でない）＋ aware（気づいている）。aware of ～ ↔ unaware of ～ で覚える。\nbe unaware of ～ → ～に気づいていない、～を知らない\nremain unaware of the problem → 問題に気づかないままでいる\nHe was unaware of the danger. → 彼は危険に気づいていなかった。",
       usedIn: ["s1393"],
       tags: ["adjective"]
     },
@@ -1466,7 +1466,7 @@ window.SECTIONS["sec14"] = {
       word: "eligible",
       ipa: "[élidʒəbəl]",
       meaning: "資格のある",
-      extraInfo: "【形】\n資格のある（for ～に、to do ～する） [= entitled, qualified]\neligibility 【名】資格、適任",
+      extraInfo: "【形】\n資格のある（for ～に、to do ～する） [= entitled, qualified]\neligibility 【名】資格、適任\n【関連語＆似た言葉】\neligible /ˈelɪdʒəbəl/ 【形容詞】資格がある、適格な、条件を満たしている\neligibility /ˌelɪdʒəˈbɪləti/ 【名詞】資格、適格性\nineligible /ɪnˈelɪdʒəbəl/ 【形容詞】資格がない、不適格な\nqualified /ˈkwɑːlɪfaɪd/ 【形容詞】資格のある、適任の\n【重要表現・用例】\n決められた条件を満たしていて参加・受給などができる。\nbe eligible for ～ → ～を受ける資格がある\nbe eligible to do ～ → ～する資格がある\neligible applicants → 応募資格を満たす人\nStudents are eligible for financial aid. → 学生は経済的援助を受ける資格がある。",
       usedIn: ["s1396"],
       tags: ["adjective"]
     },
@@ -1475,7 +1475,7 @@ window.SECTIONS["sec14"] = {
       word: "vicious",
       ipa: "[víʃəs]",
       meaning: "悪意［敵意］のある、乱暴な",
-      extraInfo: "【形】\n悪意［敵意］のある [= malicious]、乱暴な [= brutal, violent]\nvice 【名】悪、悪習 [⇔ virtue]",
+      extraInfo: "【形】\n悪意［敵意］のある [= malicious]、乱暴な [= brutal, violent]\nvice 【名】悪、悪習 [⇔ virtue]\n【関連語＆似た言葉】\nvicious /ˈvɪʃəs/ 【形容詞】凶暴な、残忍な；悪意のある；激しい\nviciously /ˈvɪʃəsli/ 【副詞】凶暴に、残忍に\nviciousness /ˈvɪʃəsnəs/ 【名詞】凶暴さ、残忍さ\nfierce /fɪrs/ 【形容詞】激しい、どう猛な\n【使い分け】\nfierce = 激しい・猛烈な / vicious = 悪意・残忍さ・危険性を伴うほど攻撃的。\n【用例】\na vicious dog → 凶暴な犬\na vicious attack → 残忍な攻撃\na vicious rumor → 悪意のあるうわさ\na vicious cycle → 悪循環（悪いことが次の悪いことを生み、元の問題も悪化させる）",
       usedIn: ["s1397"],
       tags: ["adjective"]
     },
