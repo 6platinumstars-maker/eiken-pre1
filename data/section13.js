@@ -1502,7 +1502,7 @@ window.SECTIONS["sec13"] = {
       word: "vague",
       ipa: "[veig]",
       meaning: "あいまいな、不明確な",
-      extraInfo: "【形】\nあいまいな、不明確な [= imprecise, ambiguous] [⇔ clear]",
+      extraInfo: "【形】\nあいまいな、不明確な [= imprecise, ambiguous] [⇔ clear]\n【関連語＆似た言葉】\nvague /veɪɡ/ 【形容詞】曖昧な、漠然とした、はっきりしない\nvaguely /ˈveɪɡli/ 【副詞】漠然と、なんとなく\nvagueness /ˈveɪɡnəs/ 【名詞】曖昧さ、不明瞭さ\nambiguous /æmˈbɪɡjuəs/ 【形容詞】曖昧な、複数の解釈が可能な\n【覚え方・発音】\n内容や記憶などがぼんやりしていて、はっきりしない。vague /veɪɡ/ は1音節。\n【用例】\na vague answer → 曖昧な返答\na vague idea → 漠然とした考え\na vague memory → ぼんやりした記憶",
       usedIn: ["s1300"],
       tags: ["adjective"]
     }

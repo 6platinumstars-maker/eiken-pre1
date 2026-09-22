@@ -611,7 +611,7 @@ window.SECTIONS["sec14"] = {
       word: "retreat",
       ipa: "[ritríːt]",
       meaning: "引っ込む、退く",
-      extraInfo: "【動】\n引っ込む（to, into ～へ）、退く [= withdraw]\n【名】後退",
+      extraInfo: "【動】\n引っ込む（to, into ～へ）、退く [= withdraw]\n【名】後退\n【関連語＆似た言葉】\nretreat /rɪˈtriːt/ 【動詞・名詞】退却する、後退する／退却、避難場所\nwithdraw /wɪðˈdrɔː/ 【動詞】撤退する、引き下がる、引き出す\nrecede /rɪˈsiːd/ 【動詞】後退する、遠ざかる\nretreating /rɪˈtriːtɪŋ/ 【形容詞】後退する、退却する\n【覚え方】\n今いる場所から後ろへ引く。仕事などから離れて静かに過ごす静養・研修合宿の意味もある。\n【用例】\nretreat from the battlefield → 戦場から退却する\nforce the enemy to retreat → 敵を退却させる\na mountain retreat → 山中の静養・避難場所",
       usedIn: ["s1301"],
       tags: ["verb"]
     },
@@ -629,7 +629,7 @@ window.SECTIONS["sec14"] = {
       word: "deflect",
       ipa: "[díflekt]",
       meaning: "をそらす、の方向を変えさせる",
-      extraInfo: "【動】\n（人の注意・非難など）をそらす（from ～から） [= divert, distract]、の方向を変えさせる\ndeflection 【名】（光線の）屈折",
+      extraInfo: "【動】\n（人の注意・非難など）をそらす（from ～から） [= divert, distract]、の方向を変えさせる\ndeflection 【名】（光線の）屈折\n【関連語＆似た言葉】\ndeflect /dɪˈflekt/ 【動詞】そらす、方向を変える；注意・批判などをそらす\ndeflection /dɪˈflekʃən/ 【名詞】方向をそらすこと、偏向\ndistract /dɪˈstrækt/ 【動詞】注意をそらす、気を散らす\ndivert /daɪˈvɜːrt/ 【動詞】方向を変える、そらす\n【使い分け】\ndeflect = 向かってきたものを別方向へそらす（物理的にも抽象的にも）。distract = 人の注意を散らす / divert = 流れ・方向を別の方へ向ける。\n【用例】\ndeflect a bullet → 弾丸をそらす\ndeflect attention → 注意をそらす\ndeflect criticism → 批判をかわす・そらす",
       usedIn: ["s1303"],
       tags: ["verb"]
     },
@@ -638,7 +638,7 @@ window.SECTIONS["sec14"] = {
       word: "demote",
       ipa: "[dimóut]",
       meaning: "を降格する",
-      extraInfo: "【動】\nを降格する [= downgrade, relegate] [⇔ promote]\ndemotion 【名】",
+      extraInfo: "【動】\nを降格する [= downgrade, relegate] [⇔ promote]\ndemotion 【名】\n【関連語＆似た言葉】\ndemote /dɪˈmoʊt/ 【動詞】降格させる、格下げする\ndemotion /dɪˈmoʊʃən/ 【名詞】降格、格下げ\npromote /prəˈmoʊt/ 【動詞】昇進させる；促進する\ndowngrade /ˌdaʊnˈɡreɪd/ 【動詞】格下げする、評価を下げる\n【覚え方・用例】\npromote ↔ demote を反対語で覚える。\nbe demoted to ～ → ～に降格される\ndemote an employee → 従業員を降格させる\ndemote someone from manager to staff → 管理職から一般職へ降格させる",
       usedIn: ["s1304"],
       tags: ["verb"]
     },
@@ -647,7 +647,7 @@ window.SECTIONS["sec14"] = {
       word: "despise",
       ipa: "[dispáiz]",
       meaning: "を軽蔑する、をひどく嫌う",
-      extraInfo: "【動】\nを軽蔑する（for ～のことで） [= look down on]、をひどく嫌う [= hate]",
+      extraInfo: "【動】\nを軽蔑する（for ～のことで） [= look down on]、をひどく嫌う [= hate]\n【関連語＆似た言葉】\ndespise /dɪˈspaɪz/ 【動詞】軽蔑する、ひどく嫌う、見下す\ndespair /dɪˈsper/ 【名詞・動詞】絶望／絶望する\ndislike /dɪsˈlaɪk/ 【動詞・名詞】嫌う／嫌悪\ncontempt /kənˈtempt/ 【名詞】軽蔑、侮蔑\n【ポイント・混同注意】\ndislike より強く、相手を価値のないものとして見下し嫌う。despise /dɪˈspaɪz/（軽蔑する）と despair /dɪˈsper/（絶望する）を区別する。\n【用例】\ndespise violence → 暴力をひどく嫌う\ndespise someone for ～ → ～のことで人を軽蔑する\ndespise oneself → 自分自身を軽蔑する",
       usedIn: ["s1305"],
       tags: ["verb"]
     },
@@ -656,7 +656,7 @@ window.SECTIONS["sec14"] = {
       word: "grasp",
       ipa: "[græsp]",
       meaning: "を理解する、をしっかりと握る",
-      extraInfo: "【動】\nを理解する [= understand, comprehend]、をしっかりと握る [= hold, seize, grip, clasp, clutch]\n【名】しっかり握ること、理解（力）",
+      extraInfo: "【動】\nを理解する [= understand, comprehend]、をしっかりと握る [= hold, seize, grip, clasp, clutch]\n【名】しっかり握ること、理解（力）\n【関連語＆似た言葉】\ngrasp /ɡræsp/ 【動詞・名詞】しっかりつかむ；理解する／理解、把握\ngrab /ɡræb/ 【動詞】さっとつかむ、つかみ取る\ngrip /ɡrɪp/ 【動詞・名詞】しっかり握る／握ること\ncomprehend /ˌkɑːmprɪˈhend/ 【動詞】理解する、把握する\n【覚え方】\nしっかりつかむ → 考え・意味を頭でつかむ → 理解する。物理的な意味と抽象的な意味をつなげる。\n【用例】\ngrasp the meaning → 意味を理解する\ngrasp the situation → 状況を把握する\ngrasp an opportunity → 機会をつかむ\nhave a good grasp of English → 英語をよく理解している",
       usedIn: ["s1306"],
       tags: ["verb"]
     },
@@ -674,7 +674,7 @@ window.SECTIONS["sec14"] = {
       word: "expel",
       ipa: "[ikspél]",
       meaning: "を追放する",
-      extraInfo: "【動】\nを追放する（from ～から） [= kick out]\nexpulsion 【名】\n語源 ex（外へ）+ pel（追い出す）",
+      extraInfo: "【動】\nを追放する（from ～から） [= kick out]\nexpulsion 【名】\n語源 ex（外へ）+ pel（追い出す）\n【関連語＆似た言葉】\nexpel /ɪkˈspel/ 【動詞】追放する、退学させる；排出する\nexpulsion /ɪkˈspʌlʃən/ 【名詞】追放、退学、排出\nexclude /ɪkˈskluːd/ 【動詞】除外する、締め出す\nexile /ˈeksaɪl/ 【名詞・動詞】追放／追放する\n【覚え方】\n中にあるものを外へ追い出す。ex-（外へ）＋ pel（押す）→ 外へ押し出す。\n【用例】\nexpel a student from school → 生徒を退学させる\nexpel someone from a country → 人を国外追放する\nexpel air from the lungs → 肺から空気を吐き出す",
       usedIn: ["s1308"],
       tags: ["verb"]
     },
@@ -683,7 +683,7 @@ window.SECTIONS["sec14"] = {
       word: "redeem",
       ipa: "[ridíːm]",
       meaning: "を埋め合わせる、を償う",
-      extraInfo: "【動】\n（失敗・欠点など）を補う、を埋め合わせる\nredemption 【名】救済、履行、償偵\n語源 re（再び）+ deem（買う）",
+      extraInfo: "【動】\n（失敗・欠点など）を補う、を埋め合わせる\nredemption 【名】救済、履行、償偵\n語源 re（再び）+ deem（買う）\n【関連語＆似た言葉】\nredeem /rɪˈdiːm/ 【動詞】取り戻す、償う；商品券・ポイントなどを換金・交換する\nredemption /rɪˈdempʃən/ 【名詞】償い、救済、買い戻し\ncompensate /ˈkɑːmpənseɪt/ 【動詞】埋め合わせる、補償する\nrecover /rɪˈkʌvər/ 【動詞】取り戻す、回復する\n【覚え方】\n失ったもの・価値を取り戻す。特に redeem oneself は失敗したあとに挽回するイメージ。\n【用例】\nredeem oneself → 汚名を返上する、名誉を挽回する\nredeem a coupon → クーポンを利用・換金する\nredeem points → ポイントを商品などに交換する\nredeem one's reputation → 評判・名誉を回復する",
       usedIn: ["s1309"],
       tags: ["verb"]
     },
@@ -692,7 +692,7 @@ window.SECTIONS["sec14"] = {
       word: "comprise",
       ipa: "[kəmpráiz]",
       meaning: "で構成される、を含む",
-      extraInfo: "【動】\nで構成される [= consist of]、を含む [= include, contain]、を構成する [= make up, constitute]",
+      extraInfo: "【動】\nで構成される [= consist of]、を含む [= include, contain]、を構成する [= make up, constitute]\n【関連語＆似た言葉】\ncomprise /kəmˈpraɪz/ 【動詞】～から成る、～で構成される；～を構成する\nconsist of /kənˈsɪst əv/ 【動詞句】～から成る\nconstitute /ˈkɑːnstətuːt/ 【動詞】～を構成する\ncompose /kəmˈpoʊz/ 【動詞】～を構成する；作曲する\n【重要な形】\n基本は「全体 + comprise + 部分」。\n全体 consists of 部分 / 全体 is composed of 部分、と整理する。\n【用例】\nThe committee comprises ten members. → 委員会は10人のメンバーから成る。\nThe book comprises five chapters. → その本は5つの章から構成されている。",
       usedIn: ["s1310"],
       tags: ["verb"]
     },
@@ -701,7 +701,7 @@ window.SECTIONS["sec14"] = {
       word: "prevail",
       ipa: "[privéil]",
       meaning: "流布している、打ち勝つ",
-      extraInfo: "【動】\n流布している、打ち勝つ [= win, triumph]\nprevalence 【名】普及\nprevalent 【形】普及している\nprevailing 【形】支配的な",
+      extraInfo: "【動】\n流布している、打ち勝つ [= win, triumph]\nprevalence 【名】普及\nprevalent 【形】普及している\nprevailing 【形】支配的な\n【関連語＆似た言葉】\nprevail /prɪˈveɪl/ 【動詞】勝つ、打ち勝つ；普及する、広く行われる\nprevailing /prɪˈveɪlɪŋ/ 【形容詞】広く行われている、支配的な\nprevalent /ˈprevələnt/ 【形容詞】普及している、広く見られる\ntriumph /ˈtraɪəmf/ 【動詞・名詞】勝利する／勝利\n【意味・用例】\n① 勝つ・打ち勝つ\nJustice will prevail. → 正義が勝つ。\nprevail over ～ → ～に打ち勝つ\n② 広く行き渡る・普及する\nSuch customs still prevail. → そのような慣習は今でも広く行われている。\nprevail → prevalent（広く普及している）と結びつける。",
       usedIn: ["s1311"],
       tags: ["verb"]
     },
@@ -719,7 +719,7 @@ window.SECTIONS["sec14"] = {
       word: "falsify",
       ipa: "[fɔ́ːlsəfài]",
       meaning: "を偽造する",
-      extraInfo: "【動】\nを偽造する [= forge, fake, counterfeit]\nfalse 【形】\nfalsification 【名】",
+      extraInfo: "【動】\nを偽造する [= forge, fake, counterfeit]\nfalse 【形】\nfalsification 【名】\n【関連語＆似た言葉】\nfalsify /ˈfɔːlsɪfaɪ/ 【動詞】偽造する、改ざんする；誤りであることを証明する\nfalsification /ˌfɔːlsɪfɪˈkeɪʃən/ 【名詞】偽造、改ざん；反証\nforge /fɔːrdʒ/ 【動詞】文書・署名などを偽造する\nfabricate /ˈfæbrɪkeɪt/ 【動詞】でっち上げる、捏造する\n【覚え方・用例】\nfalse（偽の）＋ -ify（～にする）→ 偽のものにする。科学系文章では「反証する」も重要。\nfalsify documents → 書類を偽造する\nfalsify data → データを改ざんする\nfalsify records → 記録を改ざんする\nfalsify a theory → 理論が誤りであることを証明する・反証する",
       usedIn: ["s1313"],
       tags: ["verb"]
     },
@@ -728,7 +728,7 @@ window.SECTIONS["sec14"] = {
       word: "obstruct",
       ipa: "[əbstrʌ́kt]",
       meaning: "を妨害する、をふさぐ",
-      extraInfo: "【動】\nをふさぐ [= block]、を妨害する [= impede, hinder, hamper, prevent]\nobstruction 【名】\nobstructive 【形】",
+      extraInfo: "【動】\nをふさぐ [= block]、を妨害する [= impede, hinder, hamper, prevent]\nobstruction 【名】\nobstructive 【形】\n【関連語＆似た言葉】\nobstruct /əbˈstrʌkt/ 【動詞】妨害する、邪魔する；ふさぐ、遮る\nobstruction /əbˈstrʌkʃən/ 【名詞】妨害、障害物、閉塞\nobstacle /ˈɑːbstəkəl/ 【名詞】障害、障害物\nhinder /ˈhɪndər/ 【動詞】妨げる、邪魔する\n【使い分け】\n前に立ちはだかって進むのを邪魔する。hinder = 進行を難しくする / obstruct = 前をふさいで邪魔する。\n【用例】\nobstruct traffic → 交通を妨げる\nobstruct the view → 視界を遮る\nobstruct an investigation → 捜査を妨害する\nobstruct the passage → 通路をふさぐ",
       usedIn: ["s1314"],
       tags: ["verb"]
     },
@@ -737,7 +737,7 @@ window.SECTIONS["sec14"] = {
       word: "depict",
       ipa: "[dipíkt]",
       meaning: "を描く、を描写する",
-      extraInfo: "【動】\nを描く、を描写する [= portray, describe, represent]\ndepiction 【名】",
+      extraInfo: "【動】\nを描く、を描写する [= portray, describe, represent]\ndepiction 【名】\n【関連語＆似た言葉】\ndepict /dɪˈpɪkt/ 【動詞】描く、描写する、表現する\ndepiction /dɪˈpɪkʃən/ 【名詞】描写、表現\nportray /pɔːrˈtreɪ/ 【動詞】描写する、表現する\ndescribe /dɪˈskraɪb/ 【動詞】言葉で説明・描写する\n【ポイント】\n絵・写真・文章などによって姿を表す。depict = 絵・文章などで描く・表現する / portray = 人物・状況などを～として描く、と整理する。\n【用例】\ndepict a scene → 場面を描写する\ndepict life in ancient times → 古代の生活を描く\nThe painting depicts a young woman. → その絵には若い女性が描かれている。",
       usedIn: ["s1315"],
       tags: ["verb"]
     },
@@ -746,7 +746,7 @@ window.SECTIONS["sec14"] = {
       word: "tremble",
       ipa: "[trémbəl]",
       meaning: "震える",
-      extraInfo: "【動】\n震える（at, with, from ～で） [= shake, shudder]\n【名】（通例複数形で）揺れ、震え",
+      extraInfo: "【動】\n震える（at, with, from ～で） [= shake, shudder]\n【名】（通例複数形で）揺れ、震え\n【関連語＆似た言葉】\ntremble /ˈtrembəl/ 【動詞・名詞】震える、身震いする／震え\ntrembling /ˈtremblɪŋ/ 【形容詞・名詞】震えている／震え\nshiver /ˈʃɪvər/ 【動詞】寒さ・恐怖などで震える\nshake /ʃeɪk/ 【動詞】揺れる、震える\n【使い分け】\n恐怖・緊張・興奮などで体が細かく震える。shiver は特に寒さ・恐怖でブルブル震える、tremble は緊張・感情などによる震えにも広く使う。\n【用例】\ntremble with fear → 恐怖で震える\nHis hands were trembling. → 彼の手は震えていた。\ntremble at the thought of ～ → ～を考えただけで震える",
       usedIn: ["s1316"],
       tags: ["verb"]
     },
@@ -755,7 +755,7 @@ window.SECTIONS["sec14"] = {
       word: "confess",
       ipa: "[kənfés]",
       meaning: "を白状する、を自供する",
-      extraInfo: "【動】\n白状［告白］する（to ～を）、を白状する [= own up, admit]\nconfession 【名】",
+      extraInfo: "【動】\n白状［告白］する（to ～を）、を白状する [= own up, admit]\nconfession 【名】\n【関連語＆似た言葉】\nconfess /kənˈfes/ 【動詞】告白する、白状する、認める\nconfession /kənˈfeʃən/ 【名詞】告白、自白\nadmit /ədˈmɪt/ 【動詞】認める\nreveal /rɪˈviːl/ 【動詞】明らかにする、暴露する\n【使い分け】\n隠していたことを自分から認める。admit = 事実・間違いなどを認める / confess = 隠していた悪事・秘密・気持ちなどを告白する。\n【用例】\nconfess to a crime → 犯罪を自白する\nconfess that ～ → ～だと白状する・認める\nconfess one's feelings → 自分の気持ちを告白する",
       usedIn: ["s1317"],
       tags: ["verb"]
     },
@@ -764,7 +764,7 @@ window.SECTIONS["sec14"] = {
       word: "stare",
       ipa: "[stɛər]",
       meaning: "じっと見つめる",
-      extraInfo: "【動】\nじっと見つめる（at, into ～を） [= gaze, look]",
+      extraInfo: "【動】\nじっと見つめる（at, into ～を） [= gaze, look]\n【関連語＆似た言葉】\nstare /ster/ 【動詞・名詞】じっと見る、凝視する／凝視\nstare at ～ — 【熟語】～をじっと見つめる\nglare /ɡler/ 【動詞・名詞】にらみつける／にらむこと\ngaze /ɡeɪz/ 【動詞・名詞】じっと見つめる\n【使い分け】\nstare = 目をそらさずじっと見る・凝視する / glare = 怒ってにらむ / gaze = 感心・愛情などをもって見つめる。\n【用例】\nstare at the screen → 画面をじっと見る\nstare at someone → 人をじろじろ見る\nstare in disbelief → 信じられないという様子で見つめる",
       usedIn: ["s1318"],
       tags: ["verb"]
     },
@@ -791,7 +791,7 @@ window.SECTIONS["sec14"] = {
       word: "assert",
       ipa: "[əsə́ːrt]",
       meaning: "と主張する、を断言する",
-      extraInfo: "【動】\n（assert that ... で）…と主張する、を断言する [= declare, affirm]\nassertion 【名】\nassertive 【形】",
+      extraInfo: "【動】\n（assert that ... で）…と主張する、を断言する [= declare, affirm]\nassertion 【名】\nassertive 【形】\n【関連語＆似た言葉】\nassert /əˈsɜːrt/ 【動詞】断言する、主張する；権利などを行使する\nassertion /əˈsɜːrʃən/ 【名詞】断言、主張\nassertive /əˈsɜːrtɪv/ 【形容詞】自信を持って意見を述べる、自己主張の強い\nclaim /kleɪm/ 【動詞・名詞】主張する／主張\n【覚え方】\n「これはこうだ」と強くはっきり言う。プログラミングの assert も「この条件は真であるはずだ」と断言してチェックするイメージ。\n【用例】\nassert that ～ → ～だと断言する\nassert one's rights → 自分の権利を主張・行使する\nassert one's authority → 権威を示す・行使する",
       usedIn: ["s1321"],
       tags: ["verb"]
     },
@@ -800,7 +800,7 @@ window.SECTIONS["sec14"] = {
       word: "impose",
       ipa: "[impóuz]",
       meaning: "を課す、を押しつける",
-      extraInfo: "【動】\n（規制・税・罰金などを）課 [科] す（on ～に）、を押しつける\nimposition 【名】課すこと、押しつけ、負担、重荷",
+      extraInfo: "【動】\n（規制・税・罰金などを）課 [科] す（on ～に）、を押しつける\nimposition 【名】課すこと、押しつけ、負担、重荷\n【関連語＆似た言葉】\nimpose /ɪmˈpoʊz/ 【動詞】課す、押しつける、強いる\nimposition /ˌɪmpəˈzɪʃən/ 【名詞】課すこと、押しつけ、負担\nenforce /ɪnˈfɔːrs/ 【動詞】法律・規則などを施行する、守らせる\ninflict /ɪnˈflɪkt/ 【動詞】苦痛・損害などを与える\n【覚え方・重要表現】\n相手の上に何かを置く → 義務・負担などを課す。\nimpose A on B → BにAを課す\n【用例】\nimpose a tax on ～ → ～に税金を課す\nimpose restrictions on ～ → ～に制限を課す\nimpose a fine → 罰金を科す\nimpose one's views on others → 自分の考えを他人に押しつける",
       usedIn: ["s1322"],
       tags: ["verb"]
     },
@@ -809,7 +809,7 @@ window.SECTIONS["sec14"] = {
       word: "interpret",
       ipa: "[intə́ːrprət]",
       meaning: "を解釈する、を通訳する",
-      extraInfo: "【動】\nを解釈する、を通訳する [= translate]\ninterpretation 【名】\ninterpreter 【名】通訳",
+      extraInfo: "【動】\nを解釈する、を通訳する [= translate]\ninterpretation 【名】\ninterpreter 【名】通訳\n【関連語＆似た言葉】\ninterpret /ɪnˈtɜːrprət/ 【動詞】解釈する、意味を理解する；通訳する\ninterpretation /ɪnˌtɜːrprəˈteɪʃən/ 【名詞】解釈、説明\ninterpreter /ɪnˈtɜːrprətər/ 【名詞】通訳者；インタープリター\ntranslate /trænzˈleɪt/ 【動詞】翻訳する\n【覚え方・使い分け】\n意味を読み取って分かる形にする。言語を訳す場合、interpret は主に話し言葉の通訳、translate は主に書き言葉の翻訳。\n【重要表現・用例】\ninterpret A as B → AをBだと解釈する\ninterpret the results → 結果を解釈する\ninterpret the data → データを解釈する\ninterpret his silence as disagreement → 彼の沈黙を反対の意思だと解釈する",
       usedIn: ["s1323"],
       tags: ["verb"]
     },
@@ -818,7 +818,7 @@ window.SECTIONS["sec14"] = {
       word: "devote",
       ipa: "[divóut]",
       meaning: "を捧げる",
-      extraInfo: "【動】\n（努力・時間などを）を捧げる（to ～に） [= dedicate]\n（devote oneself to で）に専念する\ndevotion 【名】\ndevoted 【形】献身的な",
+      extraInfo: "【動】\n（努力・時間などを）を捧げる（to ～に） [= dedicate]\n（devote oneself to で）に専念する\ndevotion 【名】\ndevoted 【形】献身的な\n【関連語＆似た言葉】\ndevote /dɪˈvoʊt/ 【動詞】ささげる、充てる、専念させる\ndevoted /dɪˈvoʊtɪd/ 【形容詞】献身的な、熱心な\ndevotion /dɪˈvoʊʃən/ 【名詞】献身、専念、愛情\ndedicate /ˈdedɪkeɪt/ 【動詞】ささげる、専念する\n【重要な形】\n時間・努力・人生などを何かにささげる。devote A to B → AをBに充てる・ささげる。to の後ろが動詞なら -ing。\n【用例】\ndevote time to studying → 勉強に時間を充てる\ndevote oneself to ～ → ～に専念する\ndevote one's life to ～ → ～に人生をささげる\ndevote time to learning English → 英語学習に時間を充てる",
       usedIn: ["s1324"],
       tags: ["verb"]
     },
@@ -827,7 +827,7 @@ window.SECTIONS["sec14"] = {
       word: "deteriorate",
       ipa: "[ditíəriərèit]",
       meaning: "悪化する",
-      extraInfo: "【動】\n（状況・質などが）悪化する [= worsen] [⇔ improve]\ndeterioration 【名】",
+      extraInfo: "【動】\n（状況・質などが）悪化する [= worsen] [⇔ improve]\ndeterioration 【名】\n【関連語＆似た言葉】\ndeteriorate /dɪˈtɪriəreɪt/ 【動詞】悪化する、劣化する；悪化させる\ndeterioration /dɪˌtɪriəˈreɪʃən/ 【名詞】悪化、劣化\nworsen /ˈwɜːrsən/ 【動詞】悪化する、悪化させる\ndecline /dɪˈklaɪn/ 【動詞・名詞】衰える、低下する／衰退\n【ポイント】\n状態・品質などがだんだん悪くなる。worsen より少し硬めで、状況・関係・健康状態・品質・建物などに使う。\n【用例】\nThe situation deteriorated. → 状況が悪化した。\nHis condition deteriorated rapidly. → 彼の状態は急速に悪化した。\ndeteriorating infrastructure → 老朽化・劣化しているインフラ",
       usedIn: ["s1325"],
       tags: ["verb"]
     },
@@ -836,7 +836,7 @@ window.SECTIONS["sec14"] = {
       word: "contemplate",
       ipa: "[kά(:)ntəmplèit]",
       meaning: "しようと考える、を熟考する",
-      extraInfo: "【動】\n（contemplate doing で）～しようと考える [= plan]、を熟考する [= consider]\ncontemplation 【名】",
+      extraInfo: "【動】\n（contemplate doing で）～しようと考える [= plan]、を熟考する [= consider]\ncontemplation 【名】\n【関連語＆似た言葉】\ncontemplate /ˈkɑːntəmpleɪt/ 【動詞】熟考する、じっくり考える；～しようと考える\ncontemplation /ˌkɑːntəmˈpleɪʃən/ 【名詞】熟考、熟慮\nconsider /kənˈsɪdər/ 【動詞】検討する、よく考える\nponder /ˈpɑːndər/ 【動詞】じっくり考える、熟考する\n【覚え方・用例】\nすぐに結論を出さずじっくり考える。\ncontemplate the future → 将来についてじっくり考える\ncontemplate a career change → 転職を検討する\ncontemplate doing ～ → ～することを検討する\ncontemplate + -ing の形を覚える。",
       usedIn: ["s1326"],
       tags: ["verb"]
     },
@@ -845,7 +845,7 @@ window.SECTIONS["sec14"] = {
       word: "delegate",
       ipa: "[déləgèit]",
       meaning: "を委譲する、派遣する",
-      extraInfo: "【動】\n（権限・責任など）を委譲［委任］する（to ～に）、（人）を代表として派遣する\n【名】delegation 団（集会的に）代表団",
+      extraInfo: "【動】\n（権限・責任など）を委譲［委任］する（to ～に）、（人）を代表として派遣する\n【名】delegation 団（集会的に）代表団\n【関連語＆似た言葉】\ndelegate /ˈdelɪɡeɪt/ 【動詞】権限・仕事などを委任する、任せる\ndelegate /ˈdelɪɡət/ 【名詞】代表者、代議員\ndelegation /ˌdelɪˈɡeɪʃən/ 【名詞】委任；代表団\nassign /əˈsaɪn/ 【動詞】割り当てる、任命する\n【発音・覚え方】\n動詞は語尾 /ɡeɪt/、名詞は /ɡət/。自分が持っている仕事・権限を別の人や処理に任せる。\n【用例】\ndelegate a task to someone → 仕事を人に任せる\ndelegate authority to someone → 人に権限を委任する\na government delegate → 政府代表",
       usedIn: ["s1327"],
       tags: ["verb"]
     },
@@ -854,7 +854,7 @@ window.SECTIONS["sec14"] = {
       word: "propel",
       ipa: "[prəpél]",
       meaning: "を進ませる、（人）を駆り立てる",
-      extraInfo: "【動】\nを進ませる、（人）を駆り立てる\n語源 pro（前へ）+ pel（駆り立てる）",
+      extraInfo: "【動】\nを進ませる、（人）を駆り立てる\n語源 pro（前へ）+ pel（駆り立てる）\n【関連語＆似た言葉】\npropel /prəˈpel/ 【動詞】前進させる、推進する；駆り立てる\npropulsion /prəˈpʌlʃən/ 【名詞】推進、推進力\npropeller /prəˈpelər/ 【名詞】プロペラ、推進器\ndrive /draɪv/ 【動詞】動かす、駆り立てる\n【覚え方】\n力を加えて前へ押し進める。propel（前へ進ませる）→ propeller（前へ進ませる装置＝プロペラ）。\n【用例】\npropel a boat forward → 船を前進させる\nbe propelled by an engine → エンジンによって推進される\npropel someone to success → 人を成功へと押し上げる",
       usedIn: ["s1328"],
       tags: ["verb"]
     },
@@ -863,7 +863,7 @@ window.SECTIONS["sec14"] = {
       word: "recede",
       ipa: "[risíːd]",
       meaning: "後退する、退く",
-      extraInfo: "【動】\n後退する、退く [= retreat, withdraw]\nrecession 【名】（一時的な）景気後退",
+      extraInfo: "【動】\n後退する、退く [= retreat, withdraw]\nrecession 【名】（一時的な）景気後退\n【関連語＆似た言葉】\nrecede /rɪˈsiːd/ 【動詞】後退する、遠ざかる；弱まる\nrecession /rɪˈseʃən/ 【名詞】景気後退、不況\nretreat /rɪˈtriːt/ 【動詞・名詞】退却する／退却\nwithdraw /wɪðˈdrɔː/ 【動詞】引き下がる、撤退する\n【使い分け】\n後ろへ下がってだんだん遠ざかる。retreat は意図的な退却、recede は水・髪の生え際・音などが自然に後退する場合にも使う。\n【用例】\nThe floodwaters receded. → 洪水の水が引いた。\nHis hairline is receding. → 彼の生え際が後退している。\nThe sound receded into the distance. → 音が遠ざかっていった。",
       usedIn: ["s1329"],
       tags: ["verb"]
     },
@@ -890,7 +890,7 @@ window.SECTIONS["sec14"] = {
       word: "scold",
       ipa: "[skould]",
       meaning: "をしかる",
-      extraInfo: "【動】\n（特に子供）をしかる（for ～のことで） [= tell off] [⇔ praise]",
+      extraInfo: "【動】\n（特に子供）をしかる（for ～のことで） [= tell off] [⇔ praise]\n【関連語＆似た言葉】\nscold /skoʊld/ 【動詞】叱る、説教する、小言を言う\nscolding /ˈskoʊldɪŋ/ 【名詞・形容詞】叱責、小言／叱るような\nreprimand /ˈreprɪmænd/ 【動詞・名詞】叱責する／叱責\nrebuke /rɪˈbjuːk/ 【動詞・名詞】厳しく非難する、叱責する／叱責\n【重要表現・用例】\n相手の悪い行動について言葉で強く叱る。\nscold A for B → BのことでAを叱る\nscold a child → 子どもを叱る\nscold someone for ～ → ～したことで人を叱る\nShe scolded him for being late. → 彼女は遅刻したことで彼を叱った。",
       usedIn: ["s1332"],
       tags: ["verb"]
     },
@@ -917,7 +917,7 @@ window.SECTIONS["sec14"] = {
       word: "herd",
       ipa: "[həːrd]",
       meaning: "群れ",
-      extraInfo: "【名】\n（牛・羊などの）群れ [= flock, pack]\nherder 【名】放牧業者",
+      extraInfo: "【名】\n（牛・羊などの）群れ [= flock, pack]\nherder 【名】放牧業者\n【関連語＆似た言葉】\nherd /hɜːrd/ 【名詞・動詞】動物の群れ／群れを集める、追いやる\nflock /flɑːk/ 【名詞】鳥・羊などの群れ\ncattle /ˈkætəl/ 【名詞】牛、畜牛\ncrowd /kraʊd/ 【名詞】人の群れ、群衆\n【ポイント・混同注意】\n特に牛・象・鹿など比較的大型の動物の群れ。herd = 群れ / hard = 難しい、硬い。\n【用例】\na herd of cattle → 牛の群れ\na herd of elephants → 象の群れ\nherd cattle → 牛を追い集める",
       usedIn: ["s1335"],
       tags: ["noun"]
     },
@@ -926,7 +926,7 @@ window.SECTIONS["sec14"] = {
       word: "bait",
       ipa: "[beit]",
       meaning: "誘惑物、釣り針の餌",
-      extraInfo: "【名】\n誘惑物 [= enticement, lure]、（釣り針・わなにつける）餌\n【動】に餌をつける、をおびき寄せる",
+      extraInfo: "【名】\n誘惑物 [= enticement, lure]、（釣り針・わなにつける）餌\n【動】に餌をつける、をおびき寄せる\n【関連語＆似た言葉】\nbait /beɪt/ 【名詞・動詞】餌、おとり／餌で誘う、おびき寄せる\nlure /lʊr/ 【名詞・動詞】誘惑物／誘惑する、おびき寄せる\ntrap /træp/ 【名詞・動詞】わな／わなにかける\ndecoy /ˈdiːkɔɪ/ 【名詞】おとり\n【覚え方・用例】\n相手を引き寄せるために置くもの。ネットの「釣り」も同じ発想。\nfish bait → 魚の餌\nuse food as bait → 食べ物を餌として使う\nbait a trap → わなに餌を仕掛ける\nclickbait → クリックを誘う「釣り」タイトル・内容",
       usedIn: ["s1336"],
       tags: ["noun"]
     },
@@ -935,7 +935,7 @@ window.SECTIONS["sec14"] = {
       word: "petition",
       ipa: "[pətíʃən]",
       meaning: "請願、嘆願（書）",
-      extraInfo: "【名】\n請願（書）、嘆願（書） [= request, appeal, plea]\n【動】を[正式に]請願［嘆願］する",
+      extraInfo: "【名】\n請願（書）、嘆願（書） [= request, appeal, plea]\n【動】を[正式に]請願［嘆願］する\n【関連語＆似た言葉】\npetition /pəˈtɪʃən/ 【名詞・動詞】請願、嘆願、署名運動／請願する、嘆願する\npetitioner /pəˈtɪʃənər/ 【名詞】請願者、申立人\nappeal /əˈpiːl/ 【名詞・動詞】訴え、要請／訴える\nrequest /rɪˈkwest/ 【名詞・動詞】要求、依頼／要求する\n【ポイント】\n公的な相手に正式にお願いを申し立てる。request より政府・裁判所・組織などへの正式な申し立てのニュアンスが強い。\n【用例】\nsign a petition → 請願書に署名する\na petition against ～ → ～に反対する請願\npetition the government for ～ → 政府に～を請願する\ncollect signatures for a petition → 請願のために署名を集める",
       usedIn: ["s1337"],
       tags: ["noun"]
     },
@@ -962,7 +962,7 @@ window.SECTIONS["sec14"] = {
       word: "insight",
       ipa: "[ínsait]",
       meaning: "見識、洞察力",
-      extraInfo: "【名】\n見識（into ～への）、洞察力 [= intuition, discernment]\ninsightful 【形】",
+      extraInfo: "【名】\n見識（into ～への）、洞察力 [= intuition, discernment]\ninsightful 【形】\n【関連語＆似た言葉】\ninsight /ˈɪnsaɪt/ 【名詞】洞察、見識；物事の本質を見抜く力\ninsightful /ˈɪnsaɪtfəl/ 【形容詞】洞察力のある、鋭い\nunderstanding /ˌʌndərˈstændɪŋ/ 【名詞】理解、理解力\nperception /pərˈsepʃən/ 【名詞】認識、知覚、見方\n【覚え方・重要表現】\nin + sight → 中を見る → 中身・本質を見抜く。\ninsight into ～ → ～についての洞察・深い理解\n【用例】\ngain insight into ～ → ～について深い理解を得る\nprovide insight into ～ → ～について洞察を与える\na valuable insight → 貴重な洞察・見識",
       usedIn: ["s1340"],
       tags: ["noun"]
     },
@@ -971,7 +971,7 @@ window.SECTIONS["sec14"] = {
       word: "conquest",
       ipa: "[kά(:)ŋkwest]",
       meaning: "征服、克服",
-      extraInfo: "【名】\n征服 [⇔ surrender]、（欠点・課題などの）克服\nconquer 【動】",
+      extraInfo: "【名】\n征服 [⇔ surrender]、（欠点・課題などの）克服\nconquer 【動】\n【関連語＆似た言葉】\nconquest /ˈkɑːŋkwest/ 【名詞】征服、制圧；征服して得たもの\nconquer /ˈkɑːŋkər/ 【動詞】征服する、克服する\nconqueror /ˈkɑːŋkərər/ 【名詞】征服者\ninvasion /ɪnˈveɪʒən/ 【名詞】侵略、侵入\n【覚え方・用例】\n戦って相手を打ち負かし自分の支配下に置く。conquer（征服する・克服する）→ conquest（征服）。\nthe conquest of a country → 国の征服\nmilitary conquest → 軍事的征服\nthe Norman Conquest → ノルマン征服\nconquer a fear → 恐怖を克服する（抽象的なものにも使う）",
       usedIn: ["s1341"],
       tags: ["noun"]
     },
@@ -980,7 +980,7 @@ window.SECTIONS["sec14"] = {
       word: "sincerity",
       ipa: "[sinsérəti]",
       meaning: "誠実",
-      extraInfo: "【名】\n誠実 [= honesty]\nsincere 【形】\nsincerely 【副】",
+      extraInfo: "【名】\n誠実 [= honesty]\nsincere 【形】\nsincerely 【副】\n【関連語＆似た言葉】\nsincerity /sɪnˈserəti/ 【名詞】誠実さ、真心、偽りのなさ\nsincere /sɪnˈsɪr/ 【形容詞】誠実な、心からの\nsincerely /sɪnˈsɪrli/ 【副詞】心から、誠実に\nhonesty /ˈɑːnəsti/ 【名詞】正直さ、誠実さ\n【覚え方・用例】\n偽りがなく本心からそう思っていること。sincere → sincerity とセットで覚える。\nshow sincerity → 誠意を示す\ndoubt someone's sincerity → 人の誠意を疑う\nwith sincerity → 心から、誠実に\nthe sincerity of his apology → 彼の謝罪の誠実さ",
       usedIn: ["s1342"],
       tags: ["noun"]
     },
@@ -998,7 +998,7 @@ window.SECTIONS["sec14"] = {
       word: "sanction",
       ipa: "[sǽŋkʃən]",
       meaning: "制裁、認可",
-      extraInfo: "【名】\n（通例～s）制裁（措置） [= penalty, punishment]、認可 [= approval, permission]\n【動】を認可する、に対し武装措置を取る",
+      extraInfo: "【名】\n（通例～s）制裁（措置） [= penalty, punishment]、認可 [= approval, permission]\n【動】を認可する、に対し武装措置を取る\n【関連語＆似た言葉】\nsanction /ˈsæŋkʃən/ 【名詞・動詞】制裁；認可、許可／制裁を科す；認可する\nsanctions /ˈsæŋkʃənz/ 【名詞】制裁措置\nauthorize /ˈɔːθəraɪz/ 【動詞】正式に許可する\npenalty /ˈpenəlti/ 【名詞】罰、罰則\n【意味・用例】\n一見反対に見える「制裁」と「認可」の意味を文脈で判断する。\n① 制裁・処罰\nimpose sanctions on ～ → ～に制裁を科す\neconomic sanctions → 経済制裁\n② 正式な許可・認可\ngive one's sanction to ～ → ～を正式に認める\nsanction a plan → 計画を認可する",
       usedIn: ["s1344"],
       tags: ["noun"]
     },
@@ -1016,7 +1016,7 @@ window.SECTIONS["sec14"] = {
       word: "outcast",
       ipa: "[áutkæ̀st]",
       meaning: "見捨てられた人、浮浪者",
-      extraInfo: "【名】\n見捨てられた人、浮浪者\n【形】見捨てられた",
+      extraInfo: "【名】\n見捨てられた人、浮浪者\n【形】見捨てられた\n【関連語＆似た言葉】\noutcast /ˈaʊtkæst/ 【名詞・形容詞】のけ者、追放された人／社会から排斥された\nexclude /ɪkˈskluːd/ 【動詞】除外する、仲間外れにする\nreject /rɪˈdʒekt/ 【動詞】拒絶する\nexile /ˈeksaɪl/ 【名詞・動詞】追放、亡命者／追放する\n【覚え方・使い分け】\nout（外へ）＋ cast（投げる）→ 外へ放り出された人 → のけ者。\nexile は国・故郷などから追放された人、outcast は集団・社会から受け入れられない人。\n【用例】\na social outcast → 社会ののけ者\nbe treated as an outcast → のけ者として扱われる\nbecome an outcast → 仲間外れになる",
       usedIn: ["s1346"],
       tags: ["noun"]
     },
@@ -1025,7 +1025,7 @@ window.SECTIONS["sec14"] = {
       word: "affair",
       ipa: "[əfέər]",
       meaning: "事情、事柄、問題",
-      extraInfo: "【名】\n（～s）事情、事柄、問題 [= matter, problem, concern]",
+      extraInfo: "【名】\n（～s）事情、事柄、問題 [= matter, problem, concern]\n【関連語＆似た言葉】\naffair /əˈfer/ 【名詞】出来事、事柄、問題；情事\naffairs /əˈferz/ 【名詞】事情、業務、問題\nincident /ˈɪnsɪdənt/ 【名詞】出来事、事件\nmatter /ˈmætər/ 【名詞】事柄、問題\n【ポイント】\n関係している事柄・出来事。「不倫」だけでなく、問題・情勢の意味も重要。\n【用例】\ninternational affairs → 国際問題・国際情勢\ncurrent affairs → 時事問題\npersonal affairs → 個人的な事情\nhave an affair → 不倫・情事をする",
       usedIn: ["s1347"],
       tags: ["noun"]
     },
