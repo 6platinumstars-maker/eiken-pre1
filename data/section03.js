@@ -1007,7 +1007,7 @@ window.SECTIONS["sec03"] = {
       word: "acknowledge",
       ipa: "[əknάlɪdʒ]",
       meaning: "と認める、受け入れる",
-      extraInfo: "【動】\n(acknowledge that ... で) ～と認める [⇔ admit, accept] [⇔ deny]\nacknowledgment 【名】承認、感謝\n【似た言葉】\nknowledge 【名】知っていること、知識",
+      extraInfo: "【動】\n(acknowledge that ... で) ～と認める [= admit, accept] [⇔ deny]\nacknowledgment 【名】承認、感謝\n【似た言葉】\nknowledge 【名】知っていること、知識\n【関連語＆似た言葉】\nacknowledge /əkˈnɑːlɪdʒ/ 【動詞】認める、認識する；感謝・受領を表す\nacknowledgment /əkˈnɑːlɪdʒmənt/ 【名詞】認識、承認；謝辞\n【覚え方】そこにあるもの・事実を、無視せず「確かにそうだ」と認める。\n【用例】acknowledge a problem → 問題を認める\nacknowledge the importance of ～ → ～の重要性を認める\nacknowledge someone's contribution → 人の貢献を認める\nacknowledge receipt of ～ → ～を受け取ったことを確認する\n【使い分け】acknowledgeは事実・存在を認識して認める。admitは認めたくないことを認める場合によく使う。",
       usedIn: [
         "s216"
       ],
@@ -1059,7 +1059,7 @@ window.SECTIONS["sec03"] = {
       word: "evaluate",
       ipa: "[ivǽljuèit]",
       meaning: "を評価する",
-      extraInfo: "【動】\nを評価する [= assess, appraise, estimate]\nevaluation 【名】評価、査定\n【似た単語】\nvalue 【動】高く評価する、重んじる",
+      extraInfo: "【動】\nを評価する [= assess, appraise, estimate]\nevaluation 【名】評価、査定\n【似た単語】\nvalue 【動】高く評価する、重んじる\n【関連語＆似た言葉】\nevaluate /ɪˈvæljuˌeɪt/ 【動詞】評価する、査定する；評価して判断する\nevaluation /ɪˌvæljuˈeɪʃən/ 【名詞】評価、査定\nassess /əˈses/ 【動詞】評価する、査定する\n【覚え方】何かを調べて、その価値・効果・良し悪しを判断する。assessと近い意味。\n【用例】evaluate a student's performance → 生徒の成績・出来を評価する\nevaluate the effectiveness of a policy → 政策の有効性を評価する\nevaluate the results → 結果を評価する",
       usedIn: [
         "s220"
       ],
@@ -1085,7 +1085,7 @@ window.SECTIONS["sec03"] = {
       word: "argument",
       ipa: "[άːrgjumənt]",
       meaning: "議論、口論",
-      extraInfo: "【名】\n議論 [= discussion, debate]、口論 [= dispute, quarrel]、論拠\nargue 【動】を議論する\narguably 【副】ほぼ間違いなく\n【似ている言葉】\nagreement 【名】合意、協定、一致",
+      extraInfo: "【名】\n議論 [= discussion, debate]、口論 [= dispute, quarrel]、論拠\nargue 【動】を議論する\narguably 【副】ほぼ間違いなく\n【似ている言葉】\nagreement 【名】合意、協定、一致\n【関連語＆似た言葉】\nargument /ˈɑːrɡjəmənt/ 【名詞】議論、主張、論拠；口論\nargue /ˈɑːrɡjuː/ 【動詞】議論する、主張する\nclaim /kleɪm/ 【名詞・動詞】主張／主張する\n【覚え方】ある意見を支えるために示す理由・主張。Writingでは「主張・論拠」の意味が重要。\n【用例】a strong argument → 強い論拠／説得力のある主張\nmake an argument → 主張を述べる\nsupport an argument with evidence → 主張を証拠で裏付ける\nhave an argument with someone → 人と口論する",
       usedIn: [
         "s222"
       ],
@@ -1267,7 +1267,7 @@ window.SECTIONS["sec03"] = {
       word: "assignment",
       ipa: "[əsáinmənt]",
       meaning: "任務、割り当て",
-      extraInfo: "【名】\n任務 [⇔ task]、宿題 [⇔ homework]、割り当て [⇔ allocation]\nassign 【動】（仕事・責任などを）割り当てる",
+      extraInfo: "【名】\n任務 [= task]、宿題 [= homework]、割り当て [= allocation]\nassign 【動】（仕事・責任などを）割り当てる\n【関連語＆似た言葉】\nassignment /əˈsaɪnmənt/ 【名詞】課題、宿題；任務、仕事の割り当て；配属\nassign /əˈsaɪn/ 【動詞】割り当てる、任命する、配属する\ntask /tæsk/ 【名詞】仕事、課題、任務\n【覚え方】人に役割・仕事を割り当てること。assign（割り当てる）→ assignment（割り当てられた仕事・課題）。大学などでは「課題」によく使う。\n【用例】a homework assignment → 宿題\na writing assignment → 作文課題\ncomplete an assignment → 課題を終える\na work assignment → 仕事の割り当て\na new assignment → 新しい任務",
       usedIn: [
         "s236"
       ],
@@ -1410,7 +1410,7 @@ window.SECTIONS["sec03"] = {
       word: "diabetes",
       ipa: "[dàiəbíːtiːz]",
       meaning: "糖尿病",
-      extraInfo: "【名】\n糖尿病\n【発音注意】\n「ダイアビーティーズ」に近い\ndiabetic 【形】糖尿病（患者）の\n【名】糖尿病患者",
+      extraInfo: "【名】\n糖尿病\n【発音注意】\n「ダイアビーティーズ」に近い\ndiabetic 【形】糖尿病（患者）の\n【名】糖尿病患者\n【関連語＆似た言葉】\ndebate /dɪˈbeɪt/ 【名詞・動詞】討論、議論／討論する、議論する\ndiscussion /dɪˈskʌʃən/ 【名詞】議論、話し合い\nargue /ˈɑːrɡjuː/ 【動詞】議論する、主張する\n【別語の補足：debate】このカードの見出し語diabetes（糖尿病）とは別の単語。\n【覚え方】異なる意見を出し合って、問題について議論する。\n【用例】a debate about climate change → 気候変動についての討論\nhave a debate → 討論する\ndebate whether ～ → ～かどうかを議論する\nThe issue is widely debated. → その問題は広く議論されている。\n【使い分け】debateは異なる意見を公に議論する場面などで使う。argumentは主張・論拠、または口論。",
       usedIn: [
         "s247"
       ],
@@ -1579,7 +1579,7 @@ window.SECTIONS["sec03"] = {
       word: "preference",
       ipa: "[préfərəns]",
       meaning: "好み、より好きなこと",
-      extraInfo: "【名】\nほかより好きなこと、好み [= liking]\nprefer 【動】の方を好む\npreferable 【形】好ましい\n【似た言葉】\nreference 【名】参照、言及、参考資料",
+      extraInfo: "【名】\nほかより好きなこと、好み [= liking]\nprefer 【動】の方を好む\npreferable 【形】好ましい\n【似た言葉】\nreference 【名】参照、言及、参考資料\n【関連語＆似た言葉】\npreference /ˈprefərəns/ 【名詞】好み、選好；優先すること\nprefer /prɪˈfɜːr/ 【動詞】より好む、～を選ぶ\npreferable /ˈprefərəbəl/ 【形容詞】より好ましい\n【覚え方】いくつかの選択肢の中で、こちらを好んで選ぶ。prefer A to B（BよりAを好む）の名詞形がpreference。\n【用例】personal preference → 個人的な好み\nhave a preference for ～ → ～を好む\nconsumer preferences → 消費者の嗜好\ngive preference to ～ → ～を優先する",
       usedIn: [
         "s260"
       ],
@@ -1631,7 +1631,7 @@ window.SECTIONS["sec03"] = {
       word: "recipient",
       ipa: "[risípiənt]",
       meaning: "受取人、受賞者",
-      extraInfo: "【名】\n受取人 [= receiver, beneficiary]、（贈答品などを）提供者から受ける人\nreceive 【動】を受け取る\n【関連語】\nreception 【名】歓迎会、受付、受信\n【似ている言葉】\nrecipe 【名】レシピ",
+      extraInfo: "【名】\n受取人 [= receiver, beneficiary]、（贈答品などを）提供者から受ける人\nreceive 【動】を受け取る\n【関連語】\nreception 【名】歓迎会、受付、受信\n【似ている言葉】\nrecipe 【名】レシピ\n【関連語＆似た言葉】\nrecipient /rɪˈsɪpiənt/ 【名詞】受取人、受領者；賞・贈り物などの受け手\nreceive /rɪˈsiːv/ 【動詞】受け取る\nreceiver /rɪˈsiːvər/ 【名詞】受取人、受信機\n【覚え方】何かを受け取る側の人。receive（受け取る）→ recipient（受け取る人）。\n【用例】the recipient of an award → 賞の受賞者\nthe recipient of a gift → 贈り物を受け取った人\nthe recipient of an email → メールの受信者\nblood recipient → 輸血を受ける人",
       usedIn: [
         "s264"
       ],
@@ -1683,7 +1683,7 @@ window.SECTIONS["sec03"] = {
       word: "qualified",
       ipa: "[kwάləfàid]",
       meaning: "有能な、適任の、資格のある",
-      extraInfo: "【形】\n有能な（for ～に関して、to do ～することに）、適任の、資格のある [⇔ unqualified]\n【関連語】\nqualify 【動】資格を得る、条件を満たす、に資格を与える\nqualification 【名】資格、能力、資格条件\n【似ている言葉】\nquality 【名】質、品質、特質\nquantify 【動】数量化する、数値で表す",
+      extraInfo: "【形】\n有能な（for ～に関して、to do ～することに）、適任の、資格のある [⇔ unqualified]\n【関連語】\nqualify 【動】資格を得る、条件を満たす、に資格を与える\nqualification 【名】資格、能力、資格条件\n【似ている言葉】\nquality 【名】質、品質、特質\nquantify 【動】数量化する、数値で表す\n【関連語＆似た言葉】\nqualified /ˈkwɑːlɪfaɪd/ 【形容詞】資格のある、適任の；条件付きの\nqualify /ˈkwɑːlɪfaɪ/ 【動詞】資格を得る、適任である；～を条件付きにする\nqualification /ˌkwɑːlɪfɪˈkeɪʃən/ 【名詞】資格、能力；条件\n【覚え方】必要な条件を満たしている。「条件付きの」という意味にも注意。\n【用例】a qualified teacher → 資格のある教師\na qualified candidate → 資格・能力のある候補者\nbe qualified for the job → その仕事をする資格・能力がある\nqualified support → 条件付きの支持",
       usedIn: [
         "s268"
       ],
@@ -1722,7 +1722,7 @@ window.SECTIONS["sec03"] = {
       word: "harsh",
       ipa: "[hɑ́ːrʃ]",
       meaning: "厳しい、粗い",
-      extraInfo: "【形】\n厳しい [= severe, bitter]、粗い [= rough]\nharshly 【副】\nharshness 【名】\n【似ている言葉】\nharsh /hɑːrʃ/ 【形容詞】厳しい、過酷な；手厳しい、不快な\nhash /hæʃ/ 【名詞・動詞】ハッシュ；細かく刻む／（情報を）ハッシュ化する\nhush /hʌʃ/ 【動詞・名詞】静かにさせる；静けさ\nrush /rʌʃ/ 【動詞・名詞】急ぐ；殺到すること\nhard /hɑːrd/ 【形容詞・副詞】難しい、硬い；一生懸命に",
+      extraInfo: "【形】\n厳しい [= severe, bitter]、粗い [= rough]\nharshly 【副】\nharshness 【名】\n【似ている言葉】\nharsh /hɑːrʃ/ 【形容詞】厳しい、過酷な；手厳しい、不快な\nhash /hæʃ/ 【名詞・動詞】ハッシュ；細かく刻む／（情報を）ハッシュ化する\nhush /hʌʃ/ 【動詞・名詞】静かにさせる；静けさ\nrush /rʌʃ/ 【動詞・名詞】急ぐ；殺到すること\nhard /hɑːrd/ 【形容詞・副詞】難しい、硬い；一生懸命に\n【関連語＆似た言葉】\nharsh /hɑːrʃ/ 【形容詞】厳しい、過酷な；不快な、耳障りな\nharshly /ˈhɑːrʃli/ 【副詞】厳しく、手厳しく\nharshness /ˈhɑːrʃnəs/ 【名詞】厳しさ、過酷さ\n【覚え方】人や物にとって、耐えにくいほど強い。severeと近いが、厳しさ・不快さを強く感じさせる。\n【用例】harsh conditions → 過酷な状況\nharsh criticism → 厳しい批判\nharsh treatment → 厳しい扱い\nharsh voice → 耳障りな声",
       usedIn: [
         "s271"
       ],

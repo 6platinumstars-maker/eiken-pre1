@@ -852,7 +852,7 @@ window.SECTIONS["sec02"] = {
       word: "determine",
       ipa: "[ditə́ːrmin]",
       meaning: "を決定する、を確定する",
-      extraInfo: "【動】\nを決定する [= decide]、を確定する\ndetermination 【名】決心\ndetermined 【形】決心した",
+      extraInfo: "【動】\nを決定する [= decide]、を確定する\ndetermination 【名】決心\ndetermined 【形】決心した\n【関連語＆似た言葉】\ndetermine /dɪˈtɜːrmɪn/ 【動詞】決定する；明らかにする、突き止める；判断する\ndetermination /dɪˌtɜːrməˈneɪʃən/ 【名詞】決定；決意\ndecide /dɪˈsaɪd/ 【動詞】決める、決断する\n【覚え方】はっきり決める・確定させる。\n【用例】determine the cause → 原因を突き止める\ndetermine the outcome → 結果を決定する\ndetermine whether ～ → ～かどうかを判断する\n【使い分け】decideは人が決断することに重点。determineは調査で明らかにする、何かが結果を左右・決定する意味でも使う。",
       usedIn: [
         "s104"
       ],
@@ -891,14 +891,12 @@ window.SECTIONS["sec02"] = {
       word: "direct",
       ipa: "[dərékt]",
       meaning: "を案内する、を指揮する",
-      extraInfo: "【動】\nを案内する [= guide]、を指揮する\n【形】\n直接の、まっすぐな\n【副】\n直接に、直行で\ndirection 【名】方向\ndirector 【名】指導者",
+      extraInfo: "【動】\nを案内する [= guide]、を指揮する\n【形】\n直接の、まっすぐな\n【副】\n直接に、直行で\ndirection 【名】方向\ndirector 【名】指導者\n【関連語＆似た言葉】\ndirect /dəˈrekt/ 【動詞】向ける、指示する；指揮する、案内する\ndirect /dəˈrekt/ 【形容詞】直接の、直行の\ndirection /dəˈrekʃən/ 【名詞】方向、指示、指揮\n【覚え方】進む方向を決めて、そちらへ向ける。\n【用例】direct someone to ～ → 人を～へ案内する\ndirect attention to ～ → 注意を～に向ける\ndirect a project → プロジェクトを指揮する\ndirect traffic → 交通整理をする",
       usedIn: [
         "s107"
       ],
       tags: [
-        "verb",
-        "adjective",
-        "adverb"
+        "verb"
       ]
     },
     {
@@ -1036,7 +1034,7 @@ window.SECTIONS["sec02"] = {
       word: "preserve",
       ipa: "[prizə́ːrv]",
       meaning: "を保護する",
-      extraInfo: "【動】\nを保護する [= protect, guard, conserve]\npreservation 【名】\npreservative 【形】保存のある\n【名】保存料",
+      extraInfo: "【動】\nを保護する [= protect, guard, conserve]\npreservation 【名】\npreservative 【形】保存のある\n【名】保存料\n【関連語＆似た言葉】\npreserve /prɪˈzɜːrv/ 【動詞】保存する、保護する、維持する\npreservation /ˌprezərˈveɪʃən/ 【名詞】保存、保護、維持\nconserve /kənˈsɜːrv/ 【動詞】保存する、節約する、保全する\n【覚え方】今ある大切なものを、壊したり失ったりせず残す。\n【用例】preserve the environment → 環境を保全する\npreserve cultural traditions → 文化的伝統を守る\npreserve food → 食品を保存する\npreserve historical buildings → 歴史的建造物を保存する\n【使い分け】preserveは大切なものを守って残す。conserveは資源などを無駄にせず大切に使う。",
       usedIn: [
         "s118"
       ],
@@ -1114,7 +1112,7 @@ window.SECTIONS["sec02"] = {
       word: "intend",
       ipa: "[inténd]",
       meaning: "〜することを意図する",
-      extraInfo: "【動】\n(intend to do で) 〜することを意図する\nintended 【形】\nintention 【名】",
+      extraInfo: "【動】\n(intend to do で) 〜することを意図する\nintended 【形】\nintention 【名】\n【関連語＆似た言葉】\nintend /ɪnˈtend/ 【動詞】～するつもりである、意図する\nintention /ɪnˈtenʃən/ 【名詞】意図、意向\n【覚え方】頭の中で、これからすることを意図している。\n【重要表現】intend to do → ～するつもりである\nintend A for B → AをB向けに意図する\nI intend to study abroad. → 私は留学するつもりです。\nThis program is intended for beginners. → このプログラムは初心者向けに作られています。",
       usedIn: [
         "s124"
       ],
@@ -1127,7 +1125,7 @@ window.SECTIONS["sec02"] = {
       word: "predict",
       ipa: "[pridíkt]",
       meaning: "を予測する、を予言する",
-      extraInfo: "【動】\nを予測する、を予言する\nprediction 【名】\npredictable 【形】予言できる\n語源メモ: pre（前もって）+ dict（言う）",
+      extraInfo: "【動】\nを予測する、を予言する\nprediction 【名】\npredictable 【形】予言できる\n語源メモ: pre（前もって）+ dict（言う）\n【関連語＆似た言葉】\npredict /prɪˈdɪkt/ 【動詞】予測する、予言する\nprediction /prɪˈdɪkʃən/ 【名詞】予測、予言\npredictable /prɪˈdɪktəbəl/ 【形容詞】予測可能な\nforecast /ˈfɔːrkæst/ 【名詞・動詞】予報、予測／予測する\n【覚え方】今ある情報をもとに、これから起こることを前もって言う。\n【用例】predict the future → 将来を予測する\npredict an outcome → 結果を予測する\nScientists predict that ～ → 科学者たちは～と予測している\n【使い分け】forecastは特に天気・経済などの将来予測で使われる。",
       usedIn: [
         "s125"
       ],
@@ -1179,7 +1177,7 @@ window.SECTIONS["sec02"] = {
       word: "institution",
       ipa: "[ìnstitjúːʃən]",
       meaning: "機関、施設、慣習",
-      extraInfo: "【名】\n機関、施設、慣習\ninstitute 【動】（制度・ルールなど）を設ける\n【名】協会、研究機関",
+      extraInfo: "【名】\n機関、施設、慣習\ninstitute 【動】（制度・ルールなど）を設ける\n【名】協会、研究機関\n【関連語＆似た言葉】\ninstitution /ˌɪnstəˈtuːʃən/ 【名詞】制度、機関、組織；施設\ninstitutional /ˌɪnstəˈtuːʃənəl/ 【形容詞】制度上の、組織の\ninstitute /ˈɪnstɪtuːt/ 【名詞・動詞】研究所、機関／制定する、始める\n【覚え方】社会の中で、一定の役割を持って組織化された仕組み。「制度」と「機関」の両方を押さえる。\n【用例】educational institutions → 教育機関\nfinancial institutions → 金融機関\nsocial institutions → 社会制度\na public institution → 公的機関",
       usedIn: [
         "s129"
       ],
@@ -1270,7 +1268,7 @@ window.SECTIONS["sec02"] = {
       word: "property",
       ipa: "[prάpərti]",
       meaning: "不動産、財産",
-      extraInfo: "【名】\n不動産、（集合的に）財産 [= possession]、（通例 -ties）特性",
+      extraInfo: "【名】\n不動産、（集合的に）財産 [= possession]、（通例 -ties）特性\n【関連語＆似た言葉】\nproperty /ˈprɑːpərti/ 【名詞】財産、所有物；不動産；特性、性質\nproprietor /prəˈpraɪətər/ 【名詞】所有者、経営者\nproprietary /prəˈpraɪəteri/ 【形容詞】所有権のある、独占的な\n【覚え方】人や物に属しているもの。「財産」に加えて「性質・特性」も重要。\n【用例】private property → 私有財産\nreal property → 不動産\npersonal property → 動産、個人所有物\nthe properties of water → 水の性質",
       usedIn: [
         "s130",
         "s136"
@@ -1323,7 +1321,7 @@ window.SECTIONS["sec02"] = {
       word: "eruption",
       ipa: "[irʌ́pʃən]",
       meaning: "勃発、噴火",
-      extraInfo: "【名】\n勃発 [= outbreak]、噴火\nerupt 【動】",
+      extraInfo: "【名】\n勃発 [= outbreak]、噴火\nerupt 【動】\n【関連語＆似た言葉】\neruption /ɪˈrʌpʃən/ 【名詞】噴火；突然の爆発・発生；発疹\nerupt /ɪˈrʌpt/ 【動詞】噴火する、突然起こる\n【覚え方】内部にたまっていたものが、一気に外へ噴き出す。erupt（噴き出す）→ eruption（噴出）。\n【用例】a volcanic eruption → 火山の噴火\na sudden eruption of violence → 突然の暴力行為の発生\nan eruption of laughter → 突然の笑いの爆発",
       usedIn: [
         "s140"
       ],
@@ -1427,7 +1425,7 @@ window.SECTIONS["sec02"] = {
       word: "executive",
       ipa: "[igzékjutiv]",
       meaning: "重役、幹部、経営者",
-      extraInfo: "【名】\n重役、幹部 [⇔ director]、経営者\n【形】\n経営上の、行政上の、執行権を持つ\nexecute 【動】を実行する、（演俳役角形を）執行される\nexecution 【名】実行、死刑執行",
+      extraInfo: "【名】\n重役、幹部 [= director]、経営者\n【形】\n経営上の、行政上の、執行権を持つ\nexecute 【動】を実行する、（刑を）執行する\nexecution 【名】実行、死刑執行\n【関連語＆似た言葉】\nexecutive /ɪɡˈzekjətɪv/ 【名詞・形容詞】幹部、役員／行政の、経営上の\nexecute /ˈeksɪkjuːt/ 【動詞】実行する、遂行する\nexecution /ˌeksɪˈkjuːʃən/ 【名詞】実行、遂行；処刑\n【覚え方】決定を実際に動かす側。\n【用例】a company executive → 会社の幹部・役員\nsenior executive → 上級幹部\nexecutive position → 管理職・幹部職\nthe executive branch → 行政府、行政部門\n【発音・混同注意】executeはEX-ecute、executiveはex-EC-utive。execution（実行・処刑）と区別する。",
       usedIn: [
         "s148"
       ],
@@ -1467,7 +1465,7 @@ window.SECTIONS["sec02"] = {
       word: "district",
       ipa: "[dístrikt]",
       meaning: "地域、地方",
-      extraInfo: "【名】\n（ある特色を持った）地域、地方 [= area]\nschool district 学区\nbusiness district 商業地区\n【似た音の単語】\ndistinct 【形】はっきりした、明確に異なる\ndistract 【動】注意をそらす、気を散らす\nrestrict 【動】制限する、規制する",
+      extraInfo: "【名】\n（ある特色を持った）地域、地方 [= area]\nschool district 学区\nbusiness district 商業地区\n【似た音の単語】\ndistinct 【形】はっきりした、明確に異なる\ndistract 【動】注意をそらす、気を散らす\nrestrict 【動】制限する、規制する\n【関連語＆似た言葉】\ndistrict /ˈdɪstrɪkt/ 【名詞】地区、地域；行政区、選挙区\ndistrict /ˈdɪstrɪkt/ 【動詞】区域に分ける、区分する\narea /ˈeriə/ 【名詞】地域、区域、範囲\n【覚え方】ある目的のために区切られた地域。行政・学校・選挙などの目的で区切られた区域というニュアンス。\n【用例】a business district → 商業地区\na residential district → 住宅地区\nan electoral district → 選挙区\na school district → 学区",
       usedIn: [
         "s151"
       ],
@@ -1545,7 +1543,7 @@ window.SECTIONS["sec02"] = {
       word: "organism",
       ipa: "[ɔ́ːrgənìzm]",
       meaning: "有機体、生物",
-      extraInfo: "【名】\n有機体、生物 [= living thing, creature]\norganic 【形】有機の\n【似た言葉】\norganization 【名】組織、団体、組織化\norgan 【名】臓器、器官",
+      extraInfo: "【名】\n有機体、生物 [= living thing, creature]\norganic 【形】有機の\n【似た言葉】\norganization 【名】組織、団体、組織化\norgan 【名】臓器、器官\n【関連語＆似た言葉】\norganism /ˈɔːrɡənɪzəm/ 【名詞】生物、生物体；（組織などの）有機体\norganic /ɔːrˈɡænɪk/ 【形容詞】有機の、有機的な\norganization /ˌɔːrɡənəˈzeɪʃən/ 【名詞】組織、団体；組織化\n【覚え方】生命を持ち、内部の各部分が働きながら全体を成り立たせているもの。社会・組織を一つの生命体のようなまとまりとして表す場合もある。\n【用例】a living organism → 生物\na single-celled organism → 単細胞生物\nmarine organisms → 海洋生物\na complex organism → 複雑な生物",
       usedIn: [
         "s157"
       ],
@@ -1557,13 +1555,14 @@ window.SECTIONS["sec02"] = {
       vid: "v0158",
       word: "representative",
       ipa: "[rèprizéntətiv]",
-      meaning: "代表者、代理人",
-      extraInfo: "【名】\n代表者、代理人 [= delegate]\n【形】代表する、典型的な\nrepresent 【動】を代表する、を象徴する、に相当する\n【似た言葉】\nrepresentation 【名】表現、描写、代表、代理\nreputation 【名】評判、名声",
+      meaning: "代表者、代理人；代表する、典型的な",
+      extraInfo: "【名】\n代表者、代理人 [= delegate]\n【形】代表する、典型的な\nrepresent 【動】を代表する、を象徴する、に相当する\n【似た言葉】\nrepresentation 【名】表現、描写、代表、代理\nreputation 【名】評判、名声\n【関連語＆似た言葉】\nrepresentative /ˌreprɪˈzentətɪv/ 【名詞・形容詞】代表者、代理人／代表する、典型的な\nrepresent /ˌreprɪˈzent/ 【動詞】代表する、表す\nrepresentation /ˌreprɪzenˈteɪʃən/ 【名詞】代表、表現、描写\n【覚え方】全体を代表して、その代わりをするもの・人。名詞は「代表者」、形容詞は「代表する・典型的な」。\n【用例】a representative of the company → 会社の代表者\na government representative → 政府代表\nrepresentative sample → 全体を代表する標本\na representative example → 典型的な例",
       usedIn: [
         "s158"
       ],
       tags: [
-        "noun"
+        "noun",
+        "adjective"
       ]
     },
     {
@@ -1582,14 +1581,14 @@ window.SECTIONS["sec02"] = {
     {
       vid: "v0160",
       word: "refund",
-      ipa: "[ríːfʌnd]",
-      meaning: "返金、払い戻し",
-      extraInfo: "【名】\n返金、払い戻し（金）[= repayment, reimbursement, rebate]\n【動】[ríːfʌnd] を払い戻す\n【似た言葉】\nrefound 【動】を再建する、再設立する\nrefine 【動】を洗練する、精製する、改善する",
+      ipa: "[rɪˈfʌnd]",
+      meaning: "払い戻す、返金する",
+      extraInfo: "【動】/rɪˈfʌnd/ 払い戻す、返金する\n【名】\n返金、払い戻し（金）[= repayment, reimbursement, rebate]\n【似た言葉】\nrefound 【動】を再建する、再設立する\nrefine 【動】を洗練する、精製する、改善する\n【関連語＆似た言葉】\nrefund /rɪˈfʌnd/ 【動詞】払い戻す、返金する\nrefund /ˈriːfʌnd/ 【名詞】払い戻し、返金\nreimburse /ˌriːɪmˈbɜːrs/ 【動詞】費用を払い戻す、弁償する\n【覚え方】受け取ったお金を、元の人に返す。\n【用例】refund the money → お金を払い戻す\nrefund a customer → 客に返金する\nThe store refunded me. → 店は私に返金した。\n【発音】動詞は /rɪˈfʌnd/、名詞は /ˈriːfʌnd/。アクセントの位置が変わる。",
       usedIn: [
         "s160"
       ],
       tags: [
-        "noun"
+        "verb"
       ]
     },
     {
@@ -1818,7 +1817,7 @@ window.SECTIONS["sec02"] = {
       word: "appearance",
       ipa: "[əpíərəns]",
       meaning: "外観、出現",
-      extraInfo: "【名】\n外観、出現 [⇔ disappearance]\nappear 【動】のように見える、現れる\n【似ている言葉】\nappliance 【名】電気器具、家庭用機器",
+      extraInfo: "【名】\n外観、出現 [⇔ disappearance]\nappear 【動】のように見える、現れる\n【似ている言葉】\nappliance 【名】電気器具、家庭用機器\n【関連語＆似た言葉】\nappearance /əˈpɪrəns/ 【名詞】外見、見た目；出現、登場、出演\nappear /əˈpɪr/ 【動詞】現れる、～のように見える\n【覚え方】外から見て現れているもの・状態。「外見」に加えて「登場・出現」も押さえる。\n【用例】physical appearance → 外見\nimprove one's appearance → 外見を改善する\nfirst appearance → 初登場\nmake an appearance → 姿を見せる、登場する",
       usedIn: [
         "s178"
       ],

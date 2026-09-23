@@ -866,7 +866,7 @@ window.SECTIONS["sec01"] = {
       word: "issue",
       ipa: "[íʃuː]",
       meaning: "（声明など）を出す、（手形など）を発行する",
-      extraInfo: "【動】\n（声明など）を出す [= release]\n（手形・切手など）を発行する\n【名】\n問題、論点、号、発行",
+      extraInfo: "【動】\n（声明など）を出す [= release]\n（手形・切手など）を発行する\n【名】\n問題、論点、号、発行\n【関連語＆似た言葉】\nissue /ˈɪʃuː/ 【動詞】発行する、発給する；公表する、出す\nissue /ˈɪʃuː/ 【名詞】問題、論点、課題；発行物\nproblem /ˈprɑːbləm/ 【名詞】問題、困難\nmatter /ˈmætər/ 【名詞】問題、事柄\n【覚え方】今回は動詞。「正式に外へ出す」が中心。\n【用例】issue a passport → パスポートを発給する\nissue a warning → 警告を出す\nissue a statement → 声明を発表する\nissue a ticket → チケット・切符を発行する\n【補足】名詞では解決・議論すべき論点や問題。\nenvironmental issues → 環境問題\naddress an issue → 問題に取り組む\nraise an issue → 問題を提起する",
       usedIn: [
         "s005"
       ],
@@ -918,7 +918,7 @@ window.SECTIONS["sec01"] = {
       word: "consume",
       ipa: "[kənsjúːm]",
       meaning: "を消費する、を使い果たす",
-      extraInfo: "【動】\nを消費する、を使い果たす\n【派生】\nconsumption 【名】\nconsumer 【名】 消費者\ncf. time-consuming 時間のかかる",
+      extraInfo: "【動】\nを消費する、を使い果たす\n【派生】\nconsumption 【名】\nconsumer 【名】 消費者\ncf. time-consuming 時間のかかる\n【関連語＆似た言葉】\nconsume /kənˈsuːm/ 【動詞】消費する、使い果たす；飲食する、摂取する\nconsumption /kənˈsʌmpʃən/ 【名詞】消費、消費量；摂取\nconsumer /kənˈsuːmər/ 【名詞】消費者\n【覚え方】何かを使ってなくしていく。\n【用例】consume energy → エネルギーを消費する\nconsume large amounts of fuel → 大量の燃料を消費する\nconsume food → 食物を摂取する",
       usedIn: [
         "s009"
       ],
@@ -957,7 +957,7 @@ window.SECTIONS["sec01"] = {
       word: "regard",
       ipa: "[rigɑ́ːrd]",
       meaning: "を見なす",
-      extraInfo: "【動】\nを見なす (as ～と)\n【名】\n配慮、思いやり\ncf. disregard 軽視、軽蔑",
+      extraInfo: "【動】\nを見なす (as ～と)\n【名】\n配慮、思いやり\ncf. disregard 軽視、軽蔑\n【関連語＆似た言葉】\nregard /rɪˈɡɑːrd/ 【動詞】～とみなす、考える；～を評価する、尊重する\nconsider /kənˈsɪdər/ 【動詞】～と考える、みなす\n【重要表現】regard A as B → AをBとみなす\nHe is regarded as an expert. → 彼は専門家だとみなされている。",
       usedIn: [
         "s012"
       ],
@@ -970,13 +970,12 @@ window.SECTIONS["sec01"] = {
       word: "fine",
       ipa: "[fáin]",
       meaning: "に罰金を科す",
-      extraInfo: "【動】\nに罰金を科す (for ～のかどで)\n【名】\n罰金\n【形】\n良い、素晴らしい、細かい",
+      extraInfo: "【動】\nに罰金を科す (for ～のかどで)\n【名】\n罰金\n【形】\n良い、素晴らしい、細かい\n【関連語＆似た言葉】\nfine /faɪn/ 【動詞】～に罰金を科す\nfine /faɪn/ 【名詞】罰金\nfind /faɪnd/ 【動詞】見つける、分かる\n【重要表現】fine A for B → Bを理由にAに罰金を科す\nThe driver was fined for speeding. → その運転手はスピード違反で罰金を科された。\n【使い分け】形容詞の「良い」と同じ綴り・発音だが、今回は動詞の「罰金を科す」。",
       usedIn: [
         "s013"
       ],
       tags: [
-        "verb",
-        "adjective"
+        "verb"
       ]
     },
     {
@@ -1062,7 +1061,7 @@ window.SECTIONS["sec01"] = {
       word: "address",
       ipa: "[ədrés]",
       meaning: "（問題などを）扱う、取り組む",
-      extraInfo: "【動】\n（問題などを）扱う [= deal with]\nに話しかける [= speak to]\n【名】\n住所、演説",
+      extraInfo: "【動】\n（問題などを）扱う [= deal with]\nに話しかける [= speak to]\n【名】\n住所、演説\n【関連語＆似た言葉】\naddress /əˈdres/ 【動詞】問題などに取り組む、対処する；話しかける\naddress /ˈædres/ 【名詞】住所；演説\ntackle /ˈtækəl/ 【動詞】問題などに取り組む\n【重要表現】address a problem / issue → 問題に取り組む、対処する\nThe government needs to address this issue. → 政府はこの問題に対処する必要がある。",
       usedIn: [
         "s020"
       ],
@@ -1114,7 +1113,7 @@ window.SECTIONS["sec01"] = {
       word: "obtain",
       ipa: "[əbtéin]",
       meaning: "を手に入れる、を獲得する",
-      extraInfo: "【動】\nを手に入れる、を獲得する [= get, gain]\n語源メモ: ob（強意）+ tain（手に持つ）\ncf. contain, maintain, retain, sustain",
+      extraInfo: "【動】\nを手に入れる、を獲得する [= get, gain]\n語源メモ: ob（強意）+ tain（手に持つ）\ncf. contain, maintain, retain, sustain\n【関連語＆似た言葉】\nobtain /əbˈteɪn/ 【動詞】得る、手に入れる、取得する\nacquire /əˈkwaɪər/ 【動詞】獲得する、身につける\nattain /əˈteɪn/ 【動詞】達成する、到達する\n【覚え方】努力や手続きを経て、必要なものを手に入れる。\n【用例】obtain permission → 許可を得る\nobtain information → 情報を得る\nobtain a license → 免許・資格を取得する\n【使い分け】obtainは物・情報・許可などを得る。attainは目標・水準などに到達する。",
       usedIn: [
         "s024"
       ],
@@ -1153,13 +1152,12 @@ window.SECTIONS["sec01"] = {
       word: "associate",
       ipa: "[əsóuʃièit]",
       meaning: "を結びつけて考える、交際する",
-      extraInfo: "【動】\nを結びつけて考える (with ～と) [= link, connect]\n交際する [= socialize]\n【名】\n仲間、同僚\n【形】\n準～の、副～の、共同の\nassociation 協会、連想、交際",
+      extraInfo: "【動】\nを結びつけて考える (with ～と) [= link, connect]\n交際する [= socialize]\n【名】\n仲間、同僚\n【形】\n準～の、副～の、共同の\nassociation 協会、連想、交際\n【関連語＆似た言葉】\nassociate /əˈsoʊʃieɪt/ 【動詞】関連づける、結びつけて考える；付き合う\nassociate /əˈsoʊʃiət/ 【名詞】仲間、同僚\nassociate /əˈsoʊʃiət/ 【形容詞】準～の、副～の\n【重要表現】associate A with B → AをBと関連づける\nPeople often associate Japan with sushi. → 人々はしばしば日本と寿司を結びつけて考える。\n【発音】動詞の語尾は /-eɪt/、名詞・形容詞の語尾は /-ət/。",
       usedIn: [
         "s027"
       ],
       tags: [
-        "verb",
-        "adjective"
+        "verb"
       ]
     },
     {
@@ -1400,13 +1398,13 @@ window.SECTIONS["sec01"] = {
       vid: "v0046",
       word: "attempt",
       ipa: "[ətémpt]",
-      meaning: "試み、努力",
-      extraInfo: "【名】\n試み (to do ～しようとする)、企て [= trial]、努力\n【動】\nを試みる、企てる",
+      meaning: "～を試みる、～しようとする",
+      extraInfo: "【動】\nを試みる、企てる\n【名】\n試み (to do ～しようとする)、企て [= trial]、努力\n【関連語＆似た言葉】\nattempt /əˈtempt/ 【動詞】～を試みる、～しようとする\nattempt /əˈtempt/ 【名詞】試み、挑戦\ntry /traɪ/ 【動詞】～しようとする、試す\n【覚え方】成功するかは分からないが、やってみる。tryよりやや硬く、困難なことを試みる場面で使う。\n【用例】attempt to do → ～しようと試みる\nattempt to escape → 逃げようとする\nattempt to solve the problem → 問題を解決しようと試みる",
       usedIn: [
         "s046"
       ],
       tags: [
-        "noun"
+        "verb"
       ]
     },
     {
@@ -1634,14 +1632,14 @@ window.SECTIONS["sec01"] = {
     {
       vid: "v0064",
       word: "subject",
-      ipa: "[sʌ́bdʒikt]",
-      meaning: "被験者、主題、学科",
-      extraInfo: "【名】\n被験者、主題、学科\n【形】 受けやすい、支配下にある\n【動】（しばしば）受けさせる",
+      ipa: "[səbˈdʒekt]",
+      meaning: "～を受けさせる、さらす",
+      extraInfo: "【動】\n～を受けさせる、さらす\n【名】\n被験者、主題、学科\n【形】受けやすい、支配下にある\n【関連語＆似た言葉】\nsubject /səbˈdʒekt/ 【動詞】～を受けさせる、さらす\nsubject /ˈsʌbdʒɪkt/ 【名詞】主題、科目、対象\nexpose /ɪkˈspoʊz/ 【動詞】～をさらす、触れさせる\n【重要表現】subject A to B → AをBにさらす／AにBを受けさせる\nsubject people to danger → 人々を危険にさらす\nbe subjected to criticism → 批判にさらされる\nbe subjected to testing → 検査を受けさせられる\n【発音】名詞はSUB-ject、動詞はsub-JECT。アクセントの位置が変わる。",
       usedIn: [
         "s064"
       ],
       tags: [
-        "noun"
+        "verb"
       ]
     },
     {
@@ -1923,7 +1921,7 @@ window.SECTIONS["sec01"] = {
       word: "significant",
       ipa: "[signífikənt]",
       meaning: "重要な、意味のある",
-      extraInfo: "【形】\n重要な [⇔ insignificant]、意味のある\nsignify 【動】を意味する\nsignificance 【名】重要性、意義\nsignificantly 【副】",
+      extraInfo: "【形】\n重要な [⇔ insignificant]、意味のある\nsignify 【動】を意味する\nsignificance 【名】重要性、意義\nsignificantly 【副】\n【関連語＆似た言葉】\nsignificant /sɪɡˈnɪfɪkənt/ 【形容詞】重要な、重大な；かなりの、著しい\nsignificance /sɪɡˈnɪfɪkəns/ 【名詞】重要性、意義\nconsiderable /kənˈsɪdərəbəl/ 【形容詞】かなりの、相当な\n【覚え方】無視できないほど重要・大きい。\n【用例】a significant problem → 重大な問題\na significant increase → 著しい増加\na significant difference → 大きな違い／（統計で）有意な違い",
       usedIn: [
         "s086"
       ],
@@ -1963,7 +1961,7 @@ window.SECTIONS["sec01"] = {
       word: "due",
       ipa: "[djúː]",
       meaning: "支払期日になって、支払われるべき",
-      extraInfo: "【形】\n支払期日になって、（当然）支払われる（べき）\none's due 当然受けるべきもの",
+      extraInfo: "【形】\n支払期日になって、（当然）支払われる（べき）\none's due 当然受けるべきもの\n【関連語＆似た言葉】\ndue /duː/ 【形容詞】期限の、支払われるべき；予定されている\ndues /duːz/ 【名詞】会費、料金（通常は複数形）\ndo /duː/ 【動詞】～する\n【覚え方】ある時点で当然そうなるべき。dueとdoは米音では同音。\n【用例】The payment is due tomorrow. → 支払い期限は明日です。\nThe train is due at 10. → 電車は10時到着予定です。\nThe baby is due in May. → 赤ちゃんは5月に生まれる予定です。\ndue to ～ → ～が原因で、～のために",
       usedIn: [
         "s089"
       ],
@@ -2002,7 +2000,7 @@ window.SECTIONS["sec01"] = {
       word: "immune",
       ipa: "[imjúːn]",
       meaning: "免疫の、免疫を持つ",
-      extraInfo: "【形】\n免疫の、免疫を持つ [= resistant]、免除された、影響されない\nimmunity 【名】\nimmunize 【動】",
+      extraInfo: "【形】\n免疫の、免疫を持つ [= resistant]、免除された、影響されない\nimmunity 【名】\nimmunize 【動】\n【関連語＆似た言葉】\nimmune /ɪˈmjuːn/ 【形容詞】免疫のある；影響を受けない、免れている\nimmunity /ɪˈmjuːnəti/ 【名詞】免疫、免除\nmute /mjuːt/ 【形容詞・動詞】無言の／音を消す\n【重要表現】be immune to ～ → ～に対して免疫がある／～の影響を受けない\nSome people are immune to the disease. → その病気に免疫のある人もいる。\nNo one is immune to criticism. → 誰も批判を免れない。\n【発音】immuneの語尾は /n/。muteの /t/ と区別する。",
       usedIn: [
         "s092"
       ],
@@ -2067,7 +2065,7 @@ window.SECTIONS["sec01"] = {
       word: "overall",
       ipa: "[òuvərɔ́ːl]",
       meaning: "全体[全般]的な、総合的な",
-      extraInfo: "【形】\n全体[全般]的な、総合的な [= total, gross, entire]\n【副】\n全体として、概して",
+      extraInfo: "【形】\n全体[全般]的な、総合的な [= total, gross, entire]\n【副】\n全体として、概して\n【関連語＆似た言葉】\noverall /ˌoʊvərˈɔːl/ 【形容詞】全体的な、総合的な\noverall /ˌoʊvərˈɔːl/ 【副詞】全体として、総じて\ngeneral /ˈdʒenərəl/ 【形容詞】全般的な、一般的な\n【覚え方】細かい部分ではなく、全部をまとめて見る。\n【用例】overall performance → 総合的な成績・実績\noverall cost → 総費用\noverall effect → 全体的な影響\nOverall, the results were good. → 全体として、結果は良かった。",
       usedIn: [
         "s097"
       ],
