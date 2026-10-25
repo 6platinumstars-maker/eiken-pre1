@@ -192,7 +192,9 @@
   }
 
   function getChipExtraInfo(v) {
-    return v?.extraInfo || "追加情報は未登録です。";
+    const info = v?.extraInfo || "追加情報は未登録です。";
+    const topics = String(v?.topics || "").trim();
+    return topics ? `${info}\n\n【追加トピックス】\n\n${topics}` : info;
   }
 
   const POS_LABELS = {
@@ -339,7 +341,7 @@
       .join("");
   }
 
-  function renderSentenceVocabChip(v, isExpanded = false) {
+  function renderSentenceVocabChip(v, isExpanded = false, { showExample = true } = {}) {
     if (!v) {
       return `<div class="chip"><div class="chip-word">(not found)</div></div>`;
     }
@@ -349,6 +351,15 @@
     const ipa = v.ipa ? `<div class="chip-ipa">${escapeHtml(v.ipa)}</div>` : "";
     const meaning = v.meaning ? `<div class="chip-meaning">${escapeHtml(v.meaning)}</div>` : "";
     const meta = renderChipMeta(v);
+    const sentenceRef = Array.isArray(v.usedIn) ? v.usedIn[0] : null;
+    const sentence = sentenceRef ? findSentenceBySid(sentenceRef)?.sentence : null;
+    const example = showExample
+      ? `<div class="sentence-chip-example">
+          <div class="chip-extra-heading">例文</div>
+          <div class="english">${escapeHtml(sentence?.english || `この${getStudyNoun()}の例文は未登録です。`)}</div>
+          ${sentence?.japanese ? `<div class="vocab-translation">${escapeHtml(sentence.japanese)}</div>` : ""}
+        </div>`
+      : "";
 
     if (!isExpanded) {
       return `<button type="button" class="chip sentence-chip${checkedClass}" data-vid="${escapeHtml(v.vid)}"><div class="chip-heading"><div class="chip-word">${escapeHtml(v.word)}</div><span class="chip-number">${getVocabIdNumber(v.vid)}番</span></div>${ipa}${meaning}</button>`;
@@ -363,6 +374,7 @@
           ${meta}
         </div>
         <div class="chip-extra">${renderChipExtraInfo(getChipExtraInfo(v))}</div>
+        ${example}
       </button>
     `;
   }
@@ -1331,7 +1343,7 @@
       chips.innerHTML = vocabItems.length
         ? vocabItems
             .map((v) => (currentView === "enAudio"
-              ? renderSentenceVocabChip(v, true)
+              ? renderSentenceVocabChip(v, true, { showExample: false })
               : renderVocabChip(v)))
             .join("")
         : `<div class="chip"><div class="chip-word">(未登録)</div><div class="chip-meaning">この文の重要語リストは未登録です。</div></div>`;

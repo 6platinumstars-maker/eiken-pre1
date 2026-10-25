@@ -428,6 +428,7 @@ body {
   margin-top: 10px;
 }
 
+.sentence-chip-example,
 .vocab-review-example {
   grid-column: 1 / -1;
   border-top: 1px dashed var(--line);
@@ -435,6 +436,7 @@ body {
   padding-top: 10px;
 }
 
+.sentence-chip-example .english,
 .vocab-review-example .english {
   margin-top: 4px;
 }
